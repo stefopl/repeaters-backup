@@ -62,7 +62,7 @@ file_paths = [
     {
         "file_path": 'backup-repo/przemienniki-eu/CSV_Export/przemienniki-eu.csv',
         "key_field": 'Callsign',
-        "source_name": 'przemienniki.eu',
+        "source_name": 'przemienniki_eu',
         "delimiter": ',',
         "encoding": 'utf-8'
     },
