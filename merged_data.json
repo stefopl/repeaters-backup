@@ -31,7 +31,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045884"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR0CK",
             "Modes": "fm, fmpoland",
             "TX Frequency": "439.0625",
@@ -108,7 +108,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045732"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR0DN",
             "Modes": "fm",
             "TX Frequency": "439.5125",
@@ -157,7 +157,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045729"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR0DZ",
             "Modes": "fm, fmpoland",
             "TX Frequency": "439.5375",
@@ -306,7 +306,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045164"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR0WW",
             "Modes": "fm",
             "TX Frequency": "438.8250",
@@ -365,7 +365,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045680"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1ASR",
             "Modes": "dmr",
             "TX Frequency": "438.6250",
@@ -423,7 +423,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9002884"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1CH",
             "Modes": "fm",
             "TX Frequency": "145.7875",
@@ -469,7 +469,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045654"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1CZ",
             "Modes": "fm",
             "TX Frequency": "438.7125",
@@ -517,7 +517,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1927624"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1D",
             "Modes": "fm",
             "TX Frequency": "145.6125",
@@ -576,7 +576,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045812"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1DMR",
             "Modes": "dmr",
             "TX Frequency": "145.7500",
@@ -637,7 +637,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7082401"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1G",
             "Modes": "fm, echolink",
             "TX Frequency": "145.6250",
@@ -711,7 +711,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8933018"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1K",
             "Modes": "fm",
             "TX Frequency": "145.7000",
@@ -757,7 +757,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6346372"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1KG",
             "Modes": "dmr, c4fm",
             "TX Frequency": "439.2250",
@@ -830,7 +830,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2910531"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1KN",
             "Modes": "fm",
             "TX Frequency": "438.6750",
@@ -904,7 +904,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996994"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1LS",
             "Modes": "fm",
             "TX Frequency": "1298.3000",
@@ -977,7 +977,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8373490"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1N",
             "Modes": "fm",
             "TX Frequency": "145.6750",
@@ -1048,7 +1048,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/3997826"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1P",
             "Modes": "fm, echolink",
             "TX Frequency": "145.7250",
@@ -1124,7 +1124,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044895"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1RE",
             "Modes": "fm",
             "TX Frequency": "439.1500",
@@ -1200,7 +1200,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1513958"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1RG",
             "Modes": "fm",
             "TX Frequency": "438.8750",
@@ -1275,7 +1275,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7041968"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1S",
             "Modes": "fm",
             "TX Frequency": "145.7750",
@@ -1323,7 +1323,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/3474684"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1SZ",
             "Modes": "fm",
             "TX Frequency": "439.0750",
@@ -1398,7 +1398,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996807"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1TS",
             "Modes": "fm",
             "TX Frequency": "29.6700",
@@ -1445,7 +1445,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8999049"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1UVH",
             "Modes": "dstar",
             "TX Frequency": "439.0250",
@@ -1504,7 +1504,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8722597"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1UVS",
             "Modes": "dstar",
             "TX Frequency": "439.4125",
@@ -1576,7 +1576,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9023475"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1UVX",
             "Modes": "dmr",
             "TX Frequency": "439.3875",
@@ -1626,7 +1626,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2225390"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1W",
             "Modes": "fm, c4fm",
             "TX Frequency": "145.6125",
@@ -1687,7 +1687,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006145"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1WA",
             "Modes": "fm",
             "TX Frequency": "439.4000",
@@ -1746,7 +1746,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045720"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1WAD",
             "Modes": "dmr, c4fm",
             "TX Frequency": "438.6500",
@@ -1806,7 +1806,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044954"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1WOY",
             "Modes": "c4fm",
             "TX Frequency": "438.6250",
@@ -1856,7 +1856,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006144"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1WU",
             "Modes": "fm",
             "TX Frequency": "438.7250",
@@ -1916,7 +1916,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2568049"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1WX",
             "Modes": "fm",
             "TX Frequency": "439.2000",
@@ -1963,7 +1963,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044929"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1YWX",
             "Modes": "c4fm",
             "TX Frequency": "439.2625",
@@ -2024,7 +2024,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6930565"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1Z",
             "Modes": "fm",
             "TX Frequency": "145.6375",
@@ -2096,7 +2096,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045708"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1ZDR",
             "Modes": "dmr",
             "TX Frequency": "438.3125",
@@ -2143,7 +2143,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996800"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1ZK-B",
             "Modes": "dstar",
             "TX Frequency": "439.3000",
@@ -2189,7 +2189,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4545002"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR1ZW",
             "Modes": "dmr, c4fm",
             "TX Frequency": "438.8375",
@@ -2249,7 +2249,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045865"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR23BN",
             "Modes": "fm, dstar",
             "TX Frequency": "1298.1750",
@@ -2321,7 +2321,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045829"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR23CM",
             "Modes": "fm",
             "TX Frequency": "1298.1000",
@@ -2395,7 +2395,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044962"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2BC",
             "Modes": "dmr, c4fm",
             "TX Frequency": "439.2875",
@@ -2470,7 +2470,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045713"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2BD",
             "Modes": "c4fm",
             "TX Frequency": "439.0000",
@@ -2532,7 +2532,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043566"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2BG",
             "Modes": "fm",
             "TX Frequency": "145.7250",
@@ -2593,7 +2593,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4047903"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2BT",
             "Modes": "fm",
             "TX Frequency": "439.1000",
@@ -2652,7 +2652,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1591391"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2BW",
             "Modes": "fm",
             "TX Frequency": "438.7000",
@@ -2727,7 +2727,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1678166"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2BY",
             "Modes": "fm",
             "TX Frequency": "438.7250",
@@ -2803,7 +2803,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6055150"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2C",
             "Modes": "fm",
             "TX Frequency": "145.6000",
@@ -2873,7 +2873,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045162"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2D",
             "Modes": "dmr",
             "TX Frequency": "145.7500",
@@ -2933,7 +2933,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045145"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2DCH",
             "Modes": "dmr",
             "TX Frequency": "438.3875",
@@ -2993,7 +2993,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9021217"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2DMR",
             "Modes": "dmr",
             "TX Frequency": "439.3125",
@@ -3052,7 +3052,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044961"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2DMR-C",
             "Modes": "c4fm",
             "TX Frequency": "439.5625",
@@ -3103,7 +3103,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045814"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2EL",
             "Modes": "fm, echolink, minilink",
             "TX Frequency": "439.5500",
@@ -3165,7 +3165,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9005870"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2FM",
             "Modes": "fm, fmlink",
             "TX Frequency": "439.5375",
@@ -3224,7 +3224,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4642758"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2G",
             "Modes": "c4fm",
             "TX Frequency": "145.7000",
@@ -3300,7 +3300,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6252065"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2GA",
             "Modes": "fm, minilink",
             "TX Frequency": "438.9750",
@@ -3373,7 +3373,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044942"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2GD",
             "Modes": "c4fm",
             "TX Frequency": "439.0625",
@@ -3450,7 +3450,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044941"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2GD-C",
             "Modes": "fm, echolink, minilink",
             "TX Frequency": "439.0875",
@@ -3501,7 +3501,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045809"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2GDA",
             "Modes": "fm, echolink, minilink",
             "TX Frequency": "439.3500",
@@ -3558,7 +3558,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044943"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2GDD",
             "Modes": "dmr",
             "TX Frequency": "438.2875",
@@ -3618,7 +3618,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996812"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2GN",
             "Modes": "fm",
             "TX Frequency": "439.3250",
@@ -3693,7 +3693,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2120714"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2GR",
             "Modes": "fm, echolink, fmpoland",
             "TX Frequency": "439.2000",
@@ -3825,7 +3825,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996894"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2GS",
             "Modes": "fm",
             "TX Frequency": "438.5500",
@@ -3900,7 +3900,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996895"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2GT",
             "Modes": "fm, fmlink",
             "TX Frequency": "439.0250",
@@ -3973,7 +3973,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045150"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2IN",
             "Modes": "dmr, c4fm",
             "TX Frequency": "438.2375",
@@ -4022,7 +4022,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8663938"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2J",
             "Modes": "fm",
             "TX Frequency": "145.5875",
@@ -4084,7 +4084,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996897"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2JJ",
             "Modes": "fm",
             "TX Frequency": "439.1625",
@@ -4143,7 +4143,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1667305"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2K",
             "Modes": "fm",
             "TX Frequency": "145.7125",
@@ -4192,7 +4192,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996826"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2KU",
             "Modes": "fm, echolink",
             "TX Frequency": "439.4250",
@@ -4267,7 +4267,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1998968"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2KY",
             "Modes": "fm",
             "TX Frequency": "439.2500",
@@ -4340,7 +4340,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045838"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2MAL",
             "Modes": "c4fm",
             "TX Frequency": "439.0625",
@@ -4415,7 +4415,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1554603"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2OK",
             "Modes": "c4fm",
             "TX Frequency": "438.8750",
@@ -4489,7 +4489,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043741"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2OX",
             "Modes": "tetra",
             "TX Frequency": "439.4750",
@@ -4540,7 +4540,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045783"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2PA",
             "Modes": "fm, echolink, minilink",
             "TX Frequency": "439.3000",
@@ -4603,7 +4603,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045107"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2PB",
             "Modes": "fm, echolink, fmpoland",
             "TX Frequency": "145.7375",
@@ -4676,7 +4676,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044925"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2R",
             "Modes": "fm",
             "TX Frequency": "145.6500",
@@ -4726,7 +4726,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044926"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2RR",
             "Modes": "fm",
             "TX Frequency": "438.6625",
@@ -4775,7 +4775,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006121"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2SL",
             "Modes": "fm, echolink",
             "TX Frequency": "438.7500",
@@ -4852,7 +4852,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2442355"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2SWR",
             "Modes": "fm, fmpoland",
             "TX Frequency": "438.7750",
@@ -4908,7 +4908,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1421290"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2T",
             "Modes": "fm",
             "TX Frequency": "145.7750",
@@ -4982,7 +4982,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997029"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2UVF",
             "Modes": "dstar, dmr, c4fm",
             "TX Frequency": "438.9375",
@@ -5058,7 +5058,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006122"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2UVG",
             "Modes": "dmr",
             "TX Frequency": "438.8375",
@@ -5132,7 +5132,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996893"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2UVG-B",
             "Modes": "dstar",
             "TX Frequency": "438.6875",
@@ -5179,7 +5179,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9002912"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2UVO",
             "Modes": "dstar, dmr, c4fm",
             "TX Frequency": "438.9625",
@@ -5234,7 +5234,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997019"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2UVT-C",
             "Modes": "dstar",
             "TX Frequency": "145.6625",
@@ -5281,7 +5281,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997036"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2UVV-B",
             "Modes": "dstar",
             "TX Frequency": "439.3625",
@@ -5330,7 +5330,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9005879"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2VV",
             "Modes": "fm, extremelink",
             "TX Frequency": "439.1375",
@@ -5392,7 +5392,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045142"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2VV-B",
             "Modes": "dstar",
             "TX Frequency": "145.7500",
@@ -5439,7 +5439,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9001912"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2VVV",
             "Modes": "dstar, dmr",
             "TX Frequency": "439.3375",
@@ -5498,7 +5498,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9005880"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2VVV-B",
             "Modes": "dstar",
             "TX Frequency": "438.8125",
@@ -5546,7 +5546,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6542255"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2W",
             "Modes": "fm",
             "TX Frequency": "145.7375",
@@ -5606,7 +5606,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045655"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2WE",
             "Modes": "c4fm",
             "TX Frequency": "439.2250",
@@ -5666,7 +5666,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4410042"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2WL",
             "Modes": "fm",
             "TX Frequency": "439.0250",
@@ -5716,7 +5716,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1501745"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR2Z",
             "Modes": "fm",
             "TX Frequency": "145.6500",
@@ -5824,7 +5824,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044993"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3DGW",
             "Modes": "dmr",
             "TX Frequency": "438.5500",
@@ -5884,7 +5884,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045692"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3DJ",
             "Modes": "dmr",
             "TX Frequency": "438.1250",
@@ -5957,7 +5957,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9002890"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3DMR",
             "Modes": "dmr",
             "TX Frequency": "145.6125",
@@ -6017,7 +6017,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045202"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3DOS",
             "Modes": "dstar, dmr, c4fm",
             "TX Frequency": "438.2875",
@@ -6090,7 +6090,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045706"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3DRW",
             "Modes": "dmr",
             "TX Frequency": "438.3375",
@@ -6164,7 +6164,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044947"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3DSE",
             "Modes": "dmr",
             "TX Frequency": "438.7375",
@@ -6223,7 +6223,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045091"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3DZG",
             "Modes": "dmr",
             "TX Frequency": "438.9625",
@@ -6299,7 +6299,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8615598"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3G",
             "Modes": "fm",
             "TX Frequency": "145.7500",
@@ -6374,7 +6374,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1826197"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3GO",
             "Modes": "fm",
             "TX Frequency": "439.1750",
@@ -6448,7 +6448,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6072749"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3GW",
             "Modes": "fm",
             "TX Frequency": "438.9500",
@@ -6510,7 +6510,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045690"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3J",
             "Modes": "fm, fmlink",
             "TX Frequency": "439.5000",
@@ -6588,7 +6588,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2723037"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3JA",
             "Modes": "fm, echolink",
             "TX Frequency": "438.9750",
@@ -6706,7 +6706,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7932717"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3K",
             "Modes": "fm",
             "TX Frequency": "145.7500",
@@ -6766,7 +6766,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997049"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3KA",
             "Modes": "dmr",
             "TX Frequency": "439.3750",
@@ -6826,7 +6826,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045098"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3KEP",
             "Modes": "fm, dmr, c4fm",
             "TX Frequency": "438.4375",
@@ -6872,7 +6872,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6818880"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3KH",
             "Modes": "fm",
             "TX Frequency": "438.8000",
@@ -6942,7 +6942,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045134"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3KHA",
             "Modes": "c4fm",
             "TX Frequency": "438.3125",
@@ -6990,7 +6990,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045127"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3KRZ",
             "Modes": "dmr",
             "TX Frequency": "438.6875",
@@ -7038,7 +7038,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8424178"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3L",
             "Modes": "fm",
             "TX Frequency": "145.7750",
@@ -7113,7 +7113,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6870613"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3LS",
             "Modes": "fm",
             "TX Frequency": "439.2750",
@@ -7189,7 +7189,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997044"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3LW",
             "Modes": "fm",
             "TX Frequency": "439.1250",
@@ -7249,7 +7249,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045149"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3MDV",
             "Modes": "dmr",
             "TX Frequency": "439.5750",
@@ -7311,7 +7311,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044934"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3MDW",
             "Modes": "fm, echolink",
             "TX Frequency": "439.2250",
@@ -7361,7 +7361,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8835588"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3N",
             "Modes": "fm",
             "TX Frequency": "145.6875",
@@ -7437,7 +7437,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2854525"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3O",
             "Modes": "fm",
             "TX Frequency": "145.7250",
@@ -7512,7 +7512,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9005871"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3OS",
             "Modes": "fm",
             "TX Frequency": "439.3000",
@@ -7589,7 +7589,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6659802"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3P",
             "Modes": "fm",
             "TX Frequency": "145.6500",
@@ -7664,7 +7664,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045203"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3PB",
             "Modes": "fm",
             "TX Frequency": "438.8750",
@@ -7720,7 +7720,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045822"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3PI",
             "Modes": "fm",
             "TX Frequency": "439.0500",
@@ -7796,7 +7796,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/3171206"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3PO",
             "Modes": "fm",
             "TX Frequency": "439.2000",
@@ -7858,7 +7858,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5269570"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3PX",
             "Modes": "fm",
             "TX Frequency": "438.9000",
@@ -7917,7 +7917,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997005"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3RR",
             "Modes": "fm",
             "TX Frequency": "438.8250",
@@ -7968,7 +7968,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045859"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3SN",
             "Modes": "fm, echolink",
             "TX Frequency": "439.1000",
@@ -8029,7 +8029,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5691596"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3T",
             "Modes": "fm",
             "TX Frequency": "145.6375",
@@ -8072,7 +8072,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996799"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3TU",
             "Modes": "fm",
             "TX Frequency": "439.1500",
@@ -8120,7 +8120,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045691"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3UVJ",
             "Modes": "dstar",
             "TX Frequency": "438.4125",
@@ -8193,7 +8193,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044891"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3UVL",
             "Modes": "dstar",
             "TX Frequency": "439.2375",
@@ -8252,7 +8252,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997045"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3UVP",
             "Modes": "dmr",
             "TX Frequency": "439.4375",
@@ -8298,7 +8298,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045129"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3WT",
             "Modes": "fm",
             "TX Frequency": "439.3250",
@@ -8347,7 +8347,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6515588"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3X",
             "Modes": "fm",
             "TX Frequency": "145.7625",
@@ -8407,7 +8407,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2366770"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3XX",
             "Modes": "fm, c4fm",
             "TX Frequency": "439.0250",
@@ -8457,7 +8457,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043531"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3XXX",
             "Modes": "fm, fmlink",
             "TX Frequency": "438.7000",
@@ -8532,7 +8532,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4174081"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3Z",
             "Modes": "fm",
             "TX Frequency": "145.7125",
@@ -8606,7 +8606,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045807"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3ZBZ",
             "Modes": "dmr, c4fm",
             "TX Frequency": "438.3625",
@@ -8680,7 +8680,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045861"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3ZF",
             "Modes": "fm",
             "TX Frequency": "1298.5000",
@@ -8740,7 +8740,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996904"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3ZG",
             "Modes": "fm",
             "TX Frequency": "439.0750",
@@ -8817,7 +8817,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4872524"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3ZJ",
             "Modes": "fm",
             "TX Frequency": "438.7500",
@@ -8891,7 +8891,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1521365"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3ZX",
             "Modes": "dstar, c4fm",
             "TX Frequency": "439.3500",
@@ -8965,7 +8965,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045862"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4AUU",
             "Modes": "fm",
             "TX Frequency": "439.3375",
@@ -9012,7 +9012,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045870"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4AUV",
             "Modes": "fm",
             "TX Frequency": "145.6875",
@@ -9075,7 +9075,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045804"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4BA",
             "Modes": "fm, echolink, extremelink",
             "TX Frequency": "438.5375",
@@ -9134,7 +9134,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045105"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4BAU",
             "Modes": "dmr",
             "TX Frequency": "438.3625",
@@ -9194,7 +9194,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044985"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4BI",
             "Modes": "fm, dmr, c4fm",
             "TX Frequency": "438.4625",
@@ -9254,7 +9254,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045111"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4BIA",
             "Modes": "dmr",
             "TX Frequency": "439.2500",
@@ -9301,7 +9301,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2083924"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4BK",
             "Modes": "fm",
             "TX Frequency": "438.9250",
@@ -9362,7 +9362,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045885"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4BL",
             "Modes": "fm",
             "TX Frequency": "438.6000",
@@ -9424,7 +9424,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996900"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4BS",
             "Modes": "fm, c4fm",
             "TX Frequency": "439.0250",
@@ -9467,7 +9467,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044994"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4BSK",
             "Modes": "dmr",
             "TX Frequency": "438.4875",
@@ -9511,7 +9511,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045844"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4C4FM",
             "Modes": "c4fm",
             "TX Frequency": "432.5750",
@@ -9573,7 +9573,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9011790"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4D",
             "Modes": "fm, echolink",
             "TX Frequency": "145.7875",
@@ -9648,7 +9648,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4131981"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4DG",
             "Modes": "c4fm",
             "TX Frequency": "438.8625",
@@ -9722,7 +9722,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9010777"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4DGD",
             "Modes": "dmr",
             "TX Frequency": "438.2500",
@@ -9799,7 +9799,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9010778"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4DGT",
             "Modes": "fm, fmlink",
             "TX Frequency": "438.5750",
@@ -9875,7 +9875,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045790"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4DM",
             "Modes": "fm, echolink",
             "TX Frequency": "438.3000",
@@ -9933,7 +9933,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043550"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4DMR",
             "Modes": "fm",
             "TX Frequency": "438.6125",
@@ -9980,7 +9980,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045802"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4DX",
             "Modes": "dmr",
             "TX Frequency": "439.5000",
@@ -10042,7 +10042,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045198"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4EL",
             "Modes": "fm, fmpoland",
             "TX Frequency": "439.0500",
@@ -10100,7 +10100,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045857"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4FSK",
             "Modes": "dmr, c4fm",
             "TX Frequency": "439.5250",
@@ -10157,7 +10157,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044885"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4H",
             "Modes": "fm, c4fm",
             "TX Frequency": "439.2375",
@@ -10238,7 +10238,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4592664"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4J",
             "Modes": "fm, echolink",
             "TX Frequency": "145.6250",
@@ -10312,7 +10312,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997506"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4KT",
             "Modes": "dmr",
             "TX Frequency": "439.2750",
@@ -10385,7 +10385,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044958"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4L",
             "Modes": "dstar, dmr, c4fm",
             "TX Frequency": "438.1000",
@@ -10447,7 +10447,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997023"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4LDG",
             "Modes": "fm",
             "TX Frequency": "1298.2000",
@@ -10523,7 +10523,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045863"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4LG",
             "Modes": "fm, fmpoland",
             "TX Frequency": "438.7250",
@@ -10580,7 +10580,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9011789"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4LM",
             "Modes": "fm",
             "TX Frequency": "1298.6000",
@@ -10657,7 +10657,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8180365"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4LO",
             "Modes": "fm",
             "TX Frequency": "439.1000",
@@ -10733,7 +10733,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045841"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4LU",
             "Modes": "fm, echolink, extremelink",
             "TX Frequency": "439.3750",
@@ -10795,7 +10795,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4243905"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4M",
             "Modes": "fm, echolink",
             "TX Frequency": "145.6000",
@@ -10871,7 +10871,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5627721"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4MI",
             "Modes": "fm, fmlink",
             "TX Frequency": "438.7500",
@@ -10945,7 +10945,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9011788"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4MID",
             "Modes": "dmr",
             "TX Frequency": "438.2250",
@@ -11019,7 +11019,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9011787"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4MIT",
             "Modes": "c4fm",
             "TX Frequency": "438.5250",
@@ -11096,7 +11096,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045811"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4MO",
             "Modes": "fm, echolink, minilink",
             "TX Frequency": "438.4500",
@@ -11154,7 +11154,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8253800"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4MR",
             "Modes": "fm",
             "TX Frequency": "439.1500",
@@ -11203,7 +11203,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045062"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4MWO",
             "Modes": "fm, dstar, dmr, c4fm",
             "TX Frequency": "438.1500",
@@ -11264,7 +11264,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/3168988"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4O",
             "Modes": "fm",
             "TX Frequency": "145.7250",
@@ -11312,7 +11312,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4658875"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4OE",
             "Modes": "dmr, c4fm",
             "TX Frequency": "439.4000",
@@ -11372,7 +11372,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045855"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4OEX",
             "Modes": "fm",
             "TX Frequency": "145.6875",
@@ -11464,7 +11464,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7212082"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4ON",
             "Modes": "fm, echolink",
             "TX Frequency": "438.6750",
@@ -11538,7 +11538,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9011785"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4OND",
             "Modes": "dmr",
             "TX Frequency": "438.5000",
@@ -11610,7 +11610,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9011786"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4ONT",
             "Modes": "dmr",
             "TX Frequency": "438.2750",
@@ -11683,7 +11683,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9011784"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4ONX",
             "Modes": "fm, dstar, c4fm",
             "TX Frequency": "438.9500",
@@ -11761,7 +11761,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045795"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4OS",
             "Modes": "fm, echolink, minilink",
             "TX Frequency": "438.4000",
@@ -11822,7 +11822,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045866"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4PA",
             "Modes": "fm, extremelink",
             "TX Frequency": "145.7750",
@@ -11885,7 +11885,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045906"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4PL",
             "Modes": "fm, echolink",
             "TX Frequency": "439.5750",
@@ -11945,7 +11945,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045168"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4RS",
             "Modes": "fm",
             "TX Frequency": "145.7000",
@@ -12022,7 +12022,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044995"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4S",
             "Modes": "fm",
             "TX Frequency": "145.5750",
@@ -12084,7 +12084,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045769"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4SA",
             "Modes": "fm",
             "TX Frequency": "439.3750",
@@ -12173,7 +12173,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996881"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4SN",
             "Modes": "fm, dstar, dmr, c4fm",
             "TX Frequency": "438.8750",
@@ -12233,7 +12233,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5435195"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4SU",
             "Modes": "fm, fmlink",
             "TX Frequency": "438.8000",
@@ -12291,7 +12291,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045137"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4SUU",
             "Modes": "fm",
             "TX Frequency": "438.9000",
@@ -12341,7 +12341,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045900"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4SUW",
             "Modes": "fm, fmpoland",
             "TX Frequency": "434.7000",
@@ -12401,7 +12401,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006128"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4SW",
             "Modes": "fm, atv",
             "TX Frequency": "439.3250",
@@ -12448,7 +12448,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9036840"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4SWE",
             "Modes": "dstar",
             "TX Frequency": "439.4500",
@@ -12494,7 +12494,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4912827"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4U",
             "Modes": "fm",
             "TX Frequency": "145.7250",
@@ -12554,7 +12554,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043483"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4UBI",
             "Modes": "dstar, dmr",
             "TX Frequency": "439.4250",
@@ -12625,7 +12625,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9002917"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4UG",
             "Modes": "dstar, dmr, c4fm",
             "TX Frequency": "438.7750",
@@ -12685,7 +12685,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9011783"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4UVD",
             "Modes": "dstar",
             "TX Frequency": "439.5125",
@@ -12761,7 +12761,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045801"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4UVE",
             "Modes": "fm, c4fm",
             "TX Frequency": "438.6000",
@@ -12820,7 +12820,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9011782"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4UVM",
             "Modes": "dstar",
             "TX Frequency": "439.4875",
@@ -12894,7 +12894,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8244694"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4UVN",
             "Modes": "dstar, c4fm",
             "TX Frequency": "439.4625",
@@ -12971,7 +12971,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045903"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4WA",
             "Modes": "fm, echolink, minilink",
             "TX Frequency": "438.1250",
@@ -13021,7 +13021,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045165"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4X",
             "Modes": "fm, echolink",
             "TX Frequency": "145.6000",
@@ -13081,7 +13081,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045875"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5AWK",
             "Modes": "tetra, fmpoland",
             "TX Frequency": "431.6125",
@@ -13142,7 +13142,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045154"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5CI",
             "Modes": "fm",
             "TX Frequency": "438.4375",
@@ -13217,7 +13217,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044832"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5DMR",
             "Modes": "dmr",
             "TX Frequency": "438.2125",
@@ -13277,7 +13277,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044963"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5DMRC",
             "Modes": "dmr",
             "TX Frequency": "145.6375",
@@ -13338,7 +13338,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044981"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5DV",
             "Modes": "fm, dmr, apco25, c4fm",
             "TX Frequency": "145.5875",
@@ -13386,7 +13386,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044968"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5DVR",
             "Modes": "dmr",
             "TX Frequency": "439.3625",
@@ -13447,7 +13447,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045886"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5E",
             "Modes": "fm",
             "TX Frequency": "439.3750",
@@ -13507,7 +13507,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044983"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5FUS",
             "Modes": "c4fm",
             "TX Frequency": "438.1500",
@@ -13569,7 +13569,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045102"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5FWG",
             "Modes": "fm, c4fm",
             "TX Frequency": "438.2500",
@@ -13623,7 +13623,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044957"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5GM",
             "Modes": "fm",
             "TX Frequency": "439.2250",
@@ -13685,7 +13685,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043605"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5GR",
             "Modes": "fm",
             "TX Frequency": "438.8000",
@@ -13735,7 +13735,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045881"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5ID",
             "Modes": "fm, dmr",
             "TX Frequency": "439.0375",
@@ -13794,7 +13794,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043606"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5KAB",
             "Modes": "dmr",
             "TX Frequency": "439.4000",
@@ -13871,7 +13871,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996839"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5KO",
             "Modes": "fm, echolink",
             "TX Frequency": "439.2000",
@@ -13921,7 +13921,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9005881"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5KP",
             "Modes": "fm",
             "TX Frequency": "29.6800",
@@ -13972,7 +13972,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9002916"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5KPN",
             "Modes": "fm, echolink",
             "TX Frequency": "438.2000",
@@ -14019,7 +14019,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045785"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5LOM",
             "Modes": "fm",
             "TX Frequency": "1298.4000",
@@ -14079,7 +14079,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9021218"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5LW",
             "Modes": "fm",
             "TX Frequency": "1298.1000",
@@ -14139,7 +14139,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045718"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5MDV",
             "Modes": "dmr",
             "TX Frequency": "438.8875",
@@ -14202,7 +14202,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7770765"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5MM",
             "Modes": "fm, echolink, fmpoland",
             "TX Frequency": "438.9500",
@@ -14262,7 +14262,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045133"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5MS",
             "Modes": "m17",
             "TX Frequency": "438.8125",
@@ -14323,7 +14323,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996816"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5ND",
             "Modes": "fm",
             "TX Frequency": "439.4250",
@@ -14383,7 +14383,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006116"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5NRD",
             "Modes": "fm",
             "TX Frequency": "438.9750",
@@ -14433,7 +14433,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4768848"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5O",
             "Modes": "fm, c4fm",
             "TX Frequency": "145.6750",
@@ -14509,7 +14509,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045140"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5OK",
             "Modes": "fm, dmr, echolink, c4fm, dstar",
             "TX Frequency": "439.2625",
@@ -14565,7 +14565,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045153"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5OMZ",
             "Modes": "dmr",
             "TX Frequency": "145.7375",
@@ -14628,7 +14628,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5792137"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5OS",
             "Modes": "fm, echolink, fmpoland",
             "TX Frequency": "439.0500",
@@ -14703,7 +14703,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2057800"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5P",
             "Modes": "fm",
             "TX Frequency": "145.7250",
@@ -14779,7 +14779,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1388380"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5PL",
             "Modes": "fm",
             "TX Frequency": "439.1250",
@@ -14854,7 +14854,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044975"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5PLZ",
             "Modes": "dmr",
             "TX Frequency": "439.3875",
@@ -14929,7 +14929,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9023806"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5PN",
             "Modes": "fm",
             "TX Frequency": "145.6625",
@@ -14979,7 +14979,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045876"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5POT",
             "Modes": "fm",
             "TX Frequency": "439.1500",
@@ -15053,7 +15053,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7209866"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5PR",
             "Modes": "fm, echolink",
             "TX Frequency": "439.1750",
@@ -15111,7 +15111,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045877"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5QDMR",
             "Modes": "dmr",
             "TX Frequency": "438.5250",
@@ -15170,7 +15170,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8204503"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5R",
             "Modes": "fm",
             "TX Frequency": "145.6000",
@@ -15231,7 +15231,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7888528"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5RA",
             "Modes": "fm",
             "TX Frequency": "438.9250",
@@ -15293,7 +15293,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9004563"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5RAD",
             "Modes": "fm, fmpoland",
             "TX Frequency": "145.7875",
@@ -15369,7 +15369,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8232959"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5RK",
             "Modes": "fm, dstar",
             "TX Frequency": "438.7500",
@@ -15432,7 +15432,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996892"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5RR",
             "Modes": "fm, echolink, fmpoland",
             "TX Frequency": "439.2750",
@@ -15495,7 +15495,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2207913"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5S",
             "Modes": "fm, echolink, fmpoland",
             "TX Frequency": "145.6125",
@@ -15556,7 +15556,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045161"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5SE",
             "Modes": "fm, c4fm",
             "TX Frequency": "438.7500",
@@ -15614,7 +15614,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9002896"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5SQ",
             "Modes": "c4fm",
             "TX Frequency": "438.9875",
@@ -15672,7 +15672,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1363419"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5U",
             "Modes": "fm",
             "TX Frequency": "145.7750",
@@ -15747,7 +15747,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044822"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5UOS",
             "Modes": "dstar, dmr",
             "TX Frequency": "438.9125",
@@ -15820,7 +15820,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7391990"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5UR",
             "Modes": "fm",
             "TX Frequency": "439.3000",
@@ -15893,7 +15893,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045112"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5UVA",
             "Modes": "c4fm",
             "TX Frequency": "439.4375",
@@ -15967,7 +15967,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996979"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5UVR",
             "Modes": "dstar",
             "TX Frequency": "438.5250",
@@ -16029,7 +16029,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/3516449"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5VW",
             "Modes": "fm",
             "TX Frequency": "438.8250",
@@ -16106,7 +16106,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6487658"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5W",
             "Modes": "fm, dmr",
             "TX Frequency": "145.7500",
@@ -16183,7 +16183,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2268726"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5WA",
             "Modes": "fm",
             "TX Frequency": "439.3500",
@@ -16260,7 +16260,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044979"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5WAD",
             "Modes": "fm, dmr",
             "TX Frequency": "438.3375",
@@ -16335,7 +16335,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006133"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5WB",
             "Modes": "dmr",
             "TX Frequency": "438.5500",
@@ -16393,7 +16393,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006131"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5WC",
             "Modes": "dstar",
             "TX Frequency": "438.6000",
@@ -16453,7 +16453,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043604"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5WD",
             "Modes": "dmr, c4fm",
             "TX Frequency": "438.4000",
@@ -16512,7 +16512,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045882"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5WF",
             "Modes": "dstar",
             "TX Frequency": "439.2000",
@@ -16571,7 +16571,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045197"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5WI",
             "Modes": "c4fm",
             "TX Frequency": "438.9000",
@@ -16631,7 +16631,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006129"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5WP",
             "Modes": "fm, fmlink",
             "TX Frequency": "438.6250",
@@ -16689,7 +16689,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7480115"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5WU",
             "Modes": "dmr",
             "TX Frequency": "438.7750",
@@ -16749,7 +16749,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8817865"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5WW",
             "Modes": "dmr",
             "TX Frequency": "438.5000",
@@ -16798,7 +16798,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045076"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5WWL",
             "Modes": "fm",
             "TX Frequency": "438.4625",
@@ -16873,7 +16873,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006134"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5WZ",
             "Modes": "fm",
             "TX Frequency": "439.0000",
@@ -16934,7 +16934,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006140"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5YAM",
             "Modes": "dstar, echolink, c4fm",
             "TX Frequency": "430.5375",
@@ -16994,7 +16994,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044930"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5YM",
             "Modes": "dstar, c4fm",
             "TX Frequency": "438.3000",
@@ -17044,7 +17044,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045744"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5ZIP",
             "Modes": "fm",
             "TX Frequency": "439.2500",
@@ -17118,7 +17118,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9002858"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5ZQ",
             "Modes": "dstar",
             "TX Frequency": "438.8625",
@@ -17179,7 +17179,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996840"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5ZU",
             "Modes": "fm",
             "TX Frequency": "438.7000",
@@ -17272,7 +17272,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045104"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6A",
             "Modes": "dstar",
             "TX Frequency": "145.5750",
@@ -17321,7 +17321,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044882"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6AA",
             "Modes": "fm, fmpoland",
             "TX Frequency": "439.4000",
@@ -17383,7 +17383,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044973"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6ACZ",
             "Modes": "fm",
             "TX Frequency": "438.9500",
@@ -17444,7 +17444,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2113583"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6B",
             "Modes": "fm",
             "TX Frequency": "145.7625",
@@ -17519,7 +17519,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045136"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6C",
             "Modes": "fm, fmpoland",
             "TX Frequency": "439.2500",
@@ -17592,7 +17592,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045710"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6DA",
             "Modes": "fm",
             "TX Frequency": "439.1375",
@@ -17651,7 +17651,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045909"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6DJG",
             "Modes": "dmr",
             "TX Frequency": "439.1625",
@@ -17724,7 +17724,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045712"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6DKB",
             "Modes": "dstar",
             "TX Frequency": "438.2625",
@@ -17797,7 +17797,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045709"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6DL",
             "Modes": "fm",
             "TX Frequency": "144.9750",
@@ -17853,7 +17853,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006112"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6DMO",
             "Modes": "fm, dmr",
             "TX Frequency": "438.6250",
@@ -17909,7 +17909,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9003122"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6DMR",
             "Modes": "dmr",
             "TX Frequency": "438.4875",
@@ -17958,7 +17958,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9018989"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6DST",
             "Modes": "fm, echolink",
             "TX Frequency": "145.6875",
@@ -18005,7 +18005,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7170929"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6DWS",
             "Modes": "dstar",
             "TX Frequency": "438.4625",
@@ -18079,7 +18079,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044955"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6DZM",
             "Modes": "dmr",
             "TX Frequency": "438.6375",
@@ -18156,7 +18156,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8293526"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6F",
             "Modes": "fm",
             "TX Frequency": "145.7500",
@@ -18231,7 +18231,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045883"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6FG",
             "Modes": "fm",
             "TX Frequency": "439.1875",
@@ -18307,7 +18307,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/3742982"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6G",
             "Modes": "fm",
             "TX Frequency": "145.6250",
@@ -18380,7 +18380,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6704242"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6GL",
             "Modes": "fm",
             "TX Frequency": "438.7500",
@@ -18450,7 +18450,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045660"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6HBL",
             "Modes": "dmr",
             "TX Frequency": "438.5500",
@@ -18512,7 +18512,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2832035"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6J",
             "Modes": "fm",
             "TX Frequency": "145.6750",
@@ -18589,7 +18589,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1782915"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6JG",
             "Modes": "fm",
             "TX Frequency": "438.6750",
@@ -18662,7 +18662,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1917420"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6K",
             "Modes": "fm",
             "TX Frequency": "145.7375",
@@ -18711,7 +18711,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045901"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6L",
             "Modes": "fm, fmpoland",
             "TX Frequency": "439.2000",
@@ -18773,7 +18773,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043578"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6LWS",
             "Modes": "fm, fmlink",
             "TX Frequency": "439.2875",
@@ -18850,7 +18850,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044956"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6LZM",
             "Modes": "fm, fmlink",
             "TX Frequency": "438.6000",
@@ -18922,7 +18922,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/3347262"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6MA",
             "Modes": "fm",
             "TX Frequency": "438.7250",
@@ -18998,7 +18998,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045874"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6MI",
             "Modes": "fm, fmpoland",
             "TX Frequency": "439.3375",
@@ -19057,7 +19057,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045722"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6MRU",
             "Modes": "fm, c4fm",
             "TX Frequency": "439.3000",
@@ -19118,7 +19118,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043619"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6NR",
             "Modes": "fm, echolink",
             "TX Frequency": "439.4250",
@@ -19178,7 +19178,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996817"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6OA",
             "Modes": "fm",
             "TX Frequency": "438.8750",
@@ -19238,7 +19238,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1488719"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6OO",
             "Modes": "fm, dstar, echolink",
             "TX Frequency": "439.2500",
@@ -19315,7 +19315,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4393397"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6OP",
             "Modes": "fm, dmr",
             "TX Frequency": "439.3250",
@@ -19393,7 +19393,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9001119"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6PS",
             "Modes": "fm, echolink",
             "TX Frequency": "438.8000",
@@ -19442,7 +19442,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8475897"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6R",
             "Modes": "fm",
             "TX Frequency": "145.6000",
@@ -19517,7 +19517,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045904"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6RC",
             "Modes": "fm, fmpoland",
             "TX Frequency": "438.1000",
@@ -19577,7 +19577,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043709"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6RWS",
             "Modes": "dmr",
             "TX Frequency": "438.2000",
@@ -19652,7 +19652,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9020258"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6S",
             "Modes": "fm",
             "TX Frequency": "145.7875",
@@ -19786,7 +19786,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044988"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6TT",
             "Modes": "fm, echolink, fmpoland",
             "TX Frequency": "439.2250",
@@ -19845,7 +19845,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9010202"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6TW",
             "Modes": "dstar, dmr, c4fm",
             "TX Frequency": "438.7500",
@@ -19895,7 +19895,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9000390"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6UKB",
             "Modes": "fm, dstar",
             "TX Frequency": "439.2625",
@@ -19968,7 +19968,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045092"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6UKR",
             "Modes": "dmr",
             "TX Frequency": "438.4250",
@@ -20041,7 +20041,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9008058"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6UPK",
             "Modes": "fm, dstar",
             "TX Frequency": "438.5375",
@@ -20118,7 +20118,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997035"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6UVO",
             "Modes": "fm, dstar",
             "TX Frequency": "439.3875",
@@ -20192,7 +20192,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997014"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6UVW",
             "Modes": "dstar",
             "TX Frequency": "439.0125",
@@ -20240,7 +20240,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997032"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6UVX",
             "Modes": "fm, dstar",
             "TX Frequency": "439.4125",
@@ -20283,7 +20283,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9001118"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6UVY",
             "Modes": "fm, dstar",
             "TX Frequency": "439.2125",
@@ -20345,7 +20345,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8516461"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6W",
             "Modes": "fm, echolink, fmpoland",
             "TX Frequency": "145.6625",
@@ -20390,7 +20390,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045707"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6WB",
             "Modes": "fm",
             "TX Frequency": "439.3625",
@@ -20446,7 +20446,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045734"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6WF",
             "Modes": "c4fm",
             "TX Frequency": "438.4000",
@@ -20507,7 +20507,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6840057"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6WR",
             "Modes": "fm",
             "TX Frequency": "438.8500",
@@ -20579,7 +20579,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9026541"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6WRC",
             "Modes": "fm",
             "TX Frequency": "70.2600",
@@ -20640,7 +20640,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6045806"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6WS",
             "Modes": "fm",
             "TX Frequency": "438.9250",
@@ -20716,7 +20716,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8935732"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6WY",
             "Modes": "fm",
             "TX Frequency": "439.0750",
@@ -20764,7 +20764,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044939"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6XWS",
             "Modes": "c4fm",
             "TX Frequency": "439.5625",
@@ -20813,7 +20813,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2876605"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR6Z",
             "Modes": "fm",
             "TX Frequency": "145.6375",
@@ -20871,7 +20871,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045864"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7ABZ",
             "Modes": "fm, fmpoland",
             "TX Frequency": "145.2750",
@@ -20934,7 +20934,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006139"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7BU",
             "Modes": "fm, echolink",
             "TX Frequency": "145.2375",
@@ -20981,7 +20981,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045141"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7CKD",
             "Modes": "dmr",
             "TX Frequency": "145.5750",
@@ -21036,7 +21036,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045128"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7DBZ",
             "Modes": "fm, dmr",
             "TX Frequency": "438.5625",
@@ -21083,7 +21083,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044966"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7DMK",
             "Modes": "dmr",
             "TX Frequency": "439.4125",
@@ -21158,7 +21158,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006111"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7DMR",
             "Modes": "dmr",
             "TX Frequency": "438.2750",
@@ -21232,7 +21232,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045095"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7DSC",
             "Modes": "dmr",
             "TX Frequency": "439.2875",
@@ -21307,7 +21307,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044974"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7DVK",
             "Modes": "dmr",
             "TX Frequency": "438.3250",
@@ -21368,7 +21368,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7781470"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7E",
             "Modes": "fm",
             "TX Frequency": "145.7625",
@@ -21416,7 +21416,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043560"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7FUS",
             "Modes": "c4fm",
             "TX Frequency": "438.6125",
@@ -21490,7 +21490,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045779"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7G",
             "Modes": "c4fm",
             "TX Frequency": "439.0625",
@@ -21546,7 +21546,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045873"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7HYT",
             "Modes": "dmr",
             "TX Frequency": "145.6250",
@@ -21609,7 +21609,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045135"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7KGO",
             "Modes": "fm, echolink, fmpoland",
             "TX Frequency": "145.2750",
@@ -21671,7 +21671,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4610391"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7KI",
             "Modes": "fm, fmlink",
             "TX Frequency": "438.7250",
@@ -21746,7 +21746,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6631891"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7KP",
             "Modes": "fm",
             "TX Frequency": "439.4250",
@@ -21822,7 +21822,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9028954"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7KU",
             "Modes": "fm",
             "TX Frequency": "438.9250",
@@ -21883,7 +21883,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2705276"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7L",
             "Modes": "fm",
             "TX Frequency": "145.6750",
@@ -21957,7 +21957,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9035187"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7LA",
             "Modes": "fm",
             "TX Frequency": "439.3750",
@@ -22006,7 +22006,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4184356"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7LD",
             "Modes": "fm",
             "TX Frequency": "439.0750",
@@ -22081,7 +22081,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045679"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7LDA",
             "Modes": "dmr",
             "TX Frequency": "438.4500",
@@ -22141,7 +22141,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043597"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7LDD",
             "Modes": "dmr",
             "TX Frequency": "438.2250",
@@ -22201,7 +22201,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045721"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7LDQ",
             "Modes": "dmr",
             "TX Frequency": "438.8500",
@@ -22261,7 +22261,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045728"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7LDY",
             "Modes": "c4fm",
             "TX Frequency": "145.7375",
@@ -22323,7 +22323,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043598"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7LDZ",
             "Modes": "fm, fmlink",
             "TX Frequency": "438.3500",
@@ -22382,7 +22382,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045678"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7LL",
             "Modes": "dmr",
             "TX Frequency": "145.7125",
@@ -22438,7 +22438,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9035186"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7LLX",
             "Modes": "fm",
             "TX Frequency": "438.8750",
@@ -22485,7 +22485,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7063920"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7LM",
             "Modes": "fm, dmr",
             "TX Frequency": "439.2000",
@@ -22545,7 +22545,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045670"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7LO",
             "Modes": "fm",
             "TX Frequency": "1298.7000",
@@ -22604,7 +22604,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044897"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7MK",
             "Modes": "c4fm",
             "TX Frequency": "438.4750",
@@ -22677,7 +22677,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7155890"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7O",
             "Modes": "fm",
             "TX Frequency": "145.6625",
@@ -22727,7 +22727,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9026197"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7OS",
             "Modes": "fm",
             "TX Frequency": "439.4750",
@@ -22786,7 +22786,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5143586"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7PA",
             "Modes": "fm, echolink",
             "TX Frequency": "439.4000",
@@ -22836,7 +22836,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006137"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7PB",
             "Modes": "fm, echolink, c4fm",
             "TX Frequency": "438.6500",
@@ -22896,7 +22896,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045806"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7SAN",
             "Modes": "dmr",
             "TX Frequency": "439.0625",
@@ -22958,7 +22958,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8766255"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7SC",
             "Modes": "fm, echolink",
             "TX Frequency": "439.3250",
@@ -23020,7 +23020,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2375484"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7SI",
             "Modes": "fm, echolink",
             "TX Frequency": "438.8250",
@@ -23097,7 +23097,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5850476"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7ST",
             "Modes": "fm, fmlink",
             "TX Frequency": "439.1500",
@@ -23156,7 +23156,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044949"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7T",
             "Modes": "dmr",
             "TX Frequency": "438.8750",
@@ -23216,7 +23216,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044989"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7TCW",
             "Modes": "fm",
             "TX Frequency": "438.1250",
@@ -23278,7 +23278,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996806"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7TM",
             "Modes": "fm, c4fm",
             "TX Frequency": "438.6750",
@@ -23338,7 +23338,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8958955"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7UAL",
             "Modes": "dstar",
             "TX Frequency": "438.6500",
@@ -23385,7 +23385,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9002887"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7ULD",
             "Modes": "dstar",
             "TX Frequency": "439.5500",
@@ -23433,7 +23433,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006132"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7ULM",
             "Modes": "c4fm",
             "TX Frequency": "439.5000",
@@ -23493,7 +23493,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9005708"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7UTM",
             "Modes": "dstar",
             "TX Frequency": "439.1000",
@@ -23551,7 +23551,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7205643"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7UVK-B",
             "Modes": "dstar",
             "TX Frequency": "439.1250",
@@ -23598,7 +23598,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7213081"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7UVL-B",
             "Modes": "dstar",
             "TX Frequency": "439.4500",
@@ -23646,7 +23646,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996884"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7UVV",
             "Modes": "dstar",
             "TX Frequency": "439.4875",
@@ -23721,7 +23721,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006118"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7UWI",
             "Modes": "dstar, dmr",
             "TX Frequency": "438.5250",
@@ -23798,7 +23798,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5992231"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7V",
             "Modes": "fm",
             "TX Frequency": "145.6250",
@@ -23875,7 +23875,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006120"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7VV",
             "Modes": "fm, fmlink",
             "TX Frequency": "439.1125",
@@ -23947,7 +23947,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5726728"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7W",
             "Modes": "fm",
             "TX Frequency": "145.7000",
@@ -24021,7 +24021,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/3426973"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7WI",
             "Modes": "fm",
             "TX Frequency": "439.0000",
@@ -24097,7 +24097,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045671"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7Z",
             "Modes": "fm",
             "TX Frequency": "145.6000",
@@ -24173,7 +24173,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043571"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7ZD",
             "Modes": "fm, echolink",
             "TX Frequency": "438.9000",
@@ -24250,7 +24250,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043532"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7ZG",
             "Modes": "fm",
             "TX Frequency": "438.9500",
@@ -24310,7 +24310,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045033"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8AGA",
             "Modes": "fm, dmr",
             "TX Frequency": "439.3500",
@@ -24372,7 +24372,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044873"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8AR",
             "Modes": "fm",
             "TX Frequency": "29.5900",
@@ -24430,7 +24430,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045151"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8AVB",
             "Modes": "dstar, dmr, c4fm",
             "TX Frequency": "439.0125",
@@ -24489,7 +24489,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044857"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8B",
             "Modes": "fm",
             "TX Frequency": "145.7875",
@@ -24565,7 +24565,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045139"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8BB",
             "Modes": "fm",
             "TX Frequency": "438.8750",
@@ -24615,7 +24615,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997043"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8BD",
             "Modes": "fm",
             "TX Frequency": "438.8750",
@@ -24674,7 +24674,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8767703"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8BI",
             "Modes": "fm",
             "TX Frequency": "438.9000",
@@ -24750,7 +24750,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/3580868"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8BP",
             "Modes": "fm",
             "TX Frequency": "438.6500",
@@ -24828,7 +24828,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/3341611"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8CH",
             "Modes": "fm, echolink",
             "TX Frequency": "438.6750",
@@ -24878,7 +24878,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4326846"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8D",
             "Modes": "fm",
             "TX Frequency": "145.6500",
@@ -24952,7 +24952,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2752286"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8DE",
             "Modes": "fm",
             "TX Frequency": "439.3000",
@@ -25000,7 +25000,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044948"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8DEF",
             "Modes": "fm, c4fm",
             "TX Frequency": "438.4250",
@@ -25047,7 +25047,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045157"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8DMB",
             "Modes": "dmr",
             "TX Frequency": "439.5750",
@@ -25107,7 +25107,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044977"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8DMK",
             "Modes": "dmr",
             "TX Frequency": "439.3750",
@@ -25154,7 +25154,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045090"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8DMR",
             "Modes": "dmr",
             "TX Frequency": "438.8375",
@@ -25229,7 +25229,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044887"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8DRL",
             "Modes": "dmr",
             "TX Frequency": "438.2750",
@@ -25305,7 +25305,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/3671308"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8DU",
             "Modes": "fm, c4fm",
             "TX Frequency": "439.0000",
@@ -25379,7 +25379,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045683"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8DV",
             "Modes": "c4fm",
             "TX Frequency": "439.4000",
@@ -25426,7 +25426,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044834"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8DVP",
             "Modes": "dmr",
             "TX Frequency": "438.4500",
@@ -25503,7 +25503,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997034"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8ET",
             "Modes": "fm",
             "TX Frequency": "439.2000",
@@ -25563,7 +25563,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043596"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8FWD",
             "Modes": "c4fm",
             "TX Frequency": "438.7125",
@@ -25633,7 +25633,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5596391"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8J",
             "Modes": "fm",
             "TX Frequency": "145.7000",
@@ -25708,7 +25708,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4942781"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8JR",
             "Modes": "fm",
             "TX Frequency": "439.2500",
@@ -25783,7 +25783,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4509752"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8JS",
             "Modes": "fm",
             "TX Frequency": "438.8000",
@@ -25859,7 +25859,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2954002"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8K",
             "Modes": "fm, c4fm",
             "TX Frequency": "145.6000",
@@ -25936,7 +25936,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044980"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8KP",
             "Modes": "fm",
             "TX Frequency": "439.5750",
@@ -25986,7 +25986,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045677"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8KR",
             "Modes": "fm, fmlink",
             "TX Frequency": "438.6250",
@@ -26048,7 +26048,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9002848"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8KSR",
             "Modes": "fm, c4fm",
             "TX Frequency": "438.9250",
@@ -26110,7 +26110,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/3640971"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8L",
             "Modes": "fm",
             "TX Frequency": "145.6750",
@@ -26247,7 +26247,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045711"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8LBD",
             "Modes": "fm",
             "TX Frequency": "438.5750",
@@ -26322,7 +26322,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045167"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8LBL",
             "Modes": "fm",
             "TX Frequency": "29.6700",
@@ -26372,7 +26372,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045106"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8LKR",
             "Modes": "fm",
             "TX Frequency": "438.5500",
@@ -26431,7 +26431,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044888"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8LL",
             "Modes": "fm",
             "TX Frequency": "1298.7000",
@@ -26509,7 +26509,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006143"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8LLB",
             "Modes": "fm, echolink, fmpoland",
             "TX Frequency": "439.2500",
@@ -26570,7 +26570,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045911"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8LN",
             "Modes": "fm",
             "TX Frequency": "438.6750",
@@ -26647,7 +26647,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045716"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8LSW",
             "Modes": "fm, apco25, fmpoland",
             "TX Frequency": "439.0250",
@@ -26709,7 +26709,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6804430"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8LU",
             "Modes": "fm",
             "TX Frequency": "439.0500",
@@ -26784,7 +26784,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044936"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8LUF",
             "Modes": "c4fm",
             "TX Frequency": "439.5250",
@@ -26862,7 +26862,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043476"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8LW",
             "Modes": "fm, echolink, fmpoland",
             "TX Frequency": "438.7000",
@@ -26919,7 +26919,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045714"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8LWB",
             "Modes": "fm",
             "TX Frequency": "439.1375",
@@ -26969,7 +26969,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045839"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8MBR",
             "Modes": "fm, echolink",
             "TX Frequency": "50.5400",
@@ -27030,7 +27030,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997020"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8NP",
             "Modes": "fm, echolink",
             "TX Frequency": "145.7625",
@@ -27079,7 +27079,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044833"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8PL",
             "Modes": "fm, fmlink",
             "TX Frequency": "439.0875",
@@ -27157,7 +27157,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045160"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8PPN",
             "Modes": "fm, echolink, fmpoland",
             "TX Frequency": "438.9000",
@@ -27217,7 +27217,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997010"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8PU",
             "Modes": "fm",
             "TX Frequency": "438.8500",
@@ -27291,7 +27291,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2604638"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8R",
             "Modes": "fm",
             "TX Frequency": "145.6750",
@@ -27364,7 +27364,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045075"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8RD",
             "Modes": "dmr",
             "TX Frequency": "438.9625",
@@ -27413,7 +27413,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045867"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8RJS",
             "Modes": "fm, dmr",
             "TX Frequency": "438.5000",
@@ -27476,7 +27476,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045730"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8RSC",
             "Modes": "fm, echolink",
             "TX Frequency": "145.2875",
@@ -27535,7 +27535,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044932"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8RZ",
             "Modes": "fm, c4fm",
             "TX Frequency": "439.2500",
@@ -27609,7 +27609,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6556468"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8S",
             "Modes": "fm",
             "TX Frequency": "145.7125",
@@ -27683,7 +27683,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996998"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8SD",
             "Modes": "fm",
             "TX Frequency": "439.3250",
@@ -27758,7 +27758,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5565325"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8SM",
             "Modes": "fm",
             "TX Frequency": "438.6500",
@@ -27809,7 +27809,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/3007496"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8T",
             "Modes": "fm, echolink",
             "TX Frequency": "145.7250",
@@ -27886,7 +27886,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045684"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8TA",
             "Modes": "fm, echolink",
             "TX Frequency": "438.9500",
@@ -27936,7 +27936,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045887"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8TPM",
             "Modes": "fm",
             "TX Frequency": "145.3375",
@@ -27988,7 +27988,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996809"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8TR",
             "Modes": "fm",
             "TX Frequency": "29.6900",
@@ -28034,7 +28034,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4089796"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8U",
             "Modes": "fm",
             "TX Frequency": "145.6875",
@@ -28108,7 +28108,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045682"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8UKS",
             "Modes": "dstar",
             "TX Frequency": "439.1125",
@@ -28155,7 +28155,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/3972950"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8UVB",
             "Modes": "dstar",
             "TX Frequency": "439.4125",
@@ -28229,7 +28229,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043542"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8UVC",
             "Modes": "dstar, dmr, c4fm",
             "TX Frequency": "439.5500",
@@ -28289,7 +28289,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9036829"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8UVL",
             "Modes": "dstar",
             "TX Frequency": "438.8250",
@@ -28362,7 +28362,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997011"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8UVP",
             "Modes": "dstar",
             "TX Frequency": "439.4625",
@@ -28434,7 +28434,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045775"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8UVS",
             "Modes": "dstar",
             "TX Frequency": "438.3250",
@@ -28509,7 +28509,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9002888"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8UWD",
             "Modes": "dstar, dmr, c4fm",
             "TX Frequency": "438.5125",
@@ -28584,7 +28584,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7672447"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8V",
             "Modes": "fm",
             "TX Frequency": "145.6125",
@@ -28644,7 +28644,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9001875"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8WD",
             "Modes": "fm",
             "TX Frequency": "438.9750",
@@ -28721,7 +28721,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043599"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8X",
             "Modes": "fm",
             "TX Frequency": "145.7000",
@@ -28781,7 +28781,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6612250"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8Z",
             "Modes": "fm",
             "TX Frequency": "145.7500",
@@ -28829,7 +28829,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4978892"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8ZA",
             "Modes": "fm",
             "TX Frequency": "439.2750",
@@ -28876,7 +28876,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4809603"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9A",
             "Modes": "fm",
             "TX Frequency": "145.7750",
@@ -28951,7 +28951,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045792"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9ABC",
             "Modes": "fm",
             "TX Frequency": "51.9900",
@@ -29008,7 +29008,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6078047"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9AD",
             "Modes": "c4fm",
             "TX Frequency": "439.0000",
@@ -29058,7 +29058,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5868216"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9AE",
             "Modes": "fm",
             "TX Frequency": "438.8250",
@@ -29120,7 +29120,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045667"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9AMS",
             "Modes": "fm, echolink, c4fm",
             "TX Frequency": "145.2375",
@@ -29182,7 +29182,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043573"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9ASR",
             "Modes": "fm, dmr",
             "TX Frequency": "438.3000",
@@ -29258,7 +29258,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5394986"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9B",
             "Modes": "fm, c4fm",
             "TX Frequency": "145.7125",
@@ -29332,7 +29332,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9036397"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9BN",
             "Modes": "dmr",
             "TX Frequency": "439.2250",
@@ -29392,7 +29392,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9031090"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9BSR",
             "Modes": "fm, dmr",
             "TX Frequency": "438.2500",
@@ -29465,7 +29465,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7236087"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9C",
             "Modes": "fm",
             "TX Frequency": "145.6000",
@@ -29511,7 +29511,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043614"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9CSR",
             "Modes": "dmr",
             "TX Frequency": "439.5125",
@@ -29570,7 +29570,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2349101"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9CZ",
             "Modes": "dstar",
             "TX Frequency": "439.1750",
@@ -29645,7 +29645,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045831"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9CZC",
             "Modes": "echolink",
             "TX Frequency": "145.3375",
@@ -29706,7 +29706,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044952"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9CZE",
             "Modes": "fm",
             "TX Frequency": "439.5625",
@@ -29768,7 +29768,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5495623"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9D",
             "Modes": "c4fm",
             "TX Frequency": "145.6750",
@@ -29839,7 +29839,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044938"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9DBN",
             "Modes": "dmr",
             "TX Frequency": "438.4750",
@@ -29895,7 +29895,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045704"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9DBY",
             "Modes": "dmr",
             "TX Frequency": "439.1500",
@@ -29953,7 +29953,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045097"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9DDP",
             "Modes": "dmr",
             "TX Frequency": "438.5500",
@@ -30028,7 +30028,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045002"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9DJK",
             "Modes": "dmr",
             "TX Frequency": "438.3750",
@@ -30075,7 +30075,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9002854"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9DKA",
             "Modes": "dmr",
             "TX Frequency": "438.5000",
@@ -30133,7 +30133,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045003"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9DLI",
             "Modes": "dmr",
             "TX Frequency": "438.9750",
@@ -30178,7 +30178,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9005872"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9DMR",
             "Modes": "dmr",
             "TX Frequency": "438.4500",
@@ -30237,7 +30237,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045126"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9DSK",
             "Modes": "dmr",
             "TX Frequency": "438.5250",
@@ -30297,7 +30297,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043477"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9DSR",
             "Modes": "dmr",
             "TX Frequency": "145.5875",
@@ -30373,7 +30373,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044984"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9DV",
             "Modes": "fm, dstar, dmr, c4fm",
             "TX Frequency": "438.3250",
@@ -30431,7 +30431,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043534"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9DX",
             "Modes": "fm, c4fm",
             "TX Frequency": "145.5750",
@@ -30486,7 +30486,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045100"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9DXK",
             "Modes": "dmr",
             "TX Frequency": "438.6125",
@@ -30537,7 +30537,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6257603"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9E",
             "Modes": "fm, echolink",
             "TX Frequency": "145.7250",
@@ -30611,7 +30611,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7659469"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9EE",
             "Modes": "fm",
             "TX Frequency": "438.8750",
@@ -30689,7 +30689,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044999"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9EHO",
             "Modes": "fm, echolink",
             "TX Frequency": "29.6100",
@@ -30739,7 +30739,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045131"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9FUN",
             "Modes": "fm",
             "TX Frequency": "29.6600",
@@ -30785,7 +30785,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997041"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9GC",
             "Modes": "fm",
             "TX Frequency": "438.9250",
@@ -30863,7 +30863,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045158"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9GP",
             "Modes": "fm, echolink",
             "TX Frequency": "438.6500",
@@ -30913,7 +30913,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045824"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9GR",
             "Modes": "fm, dstar, dmr, c4fm",
             "TX Frequency": "438.5375",
@@ -30990,7 +30990,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045201"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9IVG",
             "Modes": "fm, echolink",
             "TX Frequency": "70.2600",
@@ -31051,7 +31051,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7835498"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9J",
             "Modes": "fm",
             "TX Frequency": "145.7875",
@@ -31124,7 +31124,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045858"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9JG",
             "Modes": "fm",
             "TX Frequency": "439.4625",
@@ -31185,7 +31185,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2547487"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9JK",
             "Modes": "fm, echolink",
             "TX Frequency": "438.8000",
@@ -31229,7 +31229,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045138"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9JSR",
             "Modes": "dmr",
             "TX Frequency": "439.3125",
@@ -31274,7 +31274,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6742385"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9K",
             "Modes": "fm",
             "TX Frequency": "145.7500",
@@ -31333,7 +31333,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045702"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9KAO",
             "Modes": "fm, dstar, dmr, apco25, c4fm",
             "TX Frequency": "439.2125",
@@ -31393,7 +31393,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2332668"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9KD",
             "Modes": "fm, c4fm",
             "TX Frequency": "438.9500",
@@ -31465,7 +31465,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006115"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9KM",
             "Modes": "fm",
             "TX Frequency": "438.9750",
@@ -31523,7 +31523,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7195074"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9KR",
             "Modes": "dstar",
             "TX Frequency": "439.2750",
@@ -31571,7 +31571,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2274066"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9KS",
             "Modes": "fm",
             "TX Frequency": "438.9000",
@@ -31629,7 +31629,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8743501"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9KW",
             "Modes": "fm",
             "TX Frequency": "439.0250",
@@ -31706,7 +31706,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043656"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9L",
             "Modes": "fm",
             "TX Frequency": "145.6875",
@@ -31768,7 +31768,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997003"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9LC",
             "Modes": "fm, c4fm",
             "TX Frequency": "145.0000",
@@ -31829,7 +31829,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043595"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9LI",
             "Modes": "fm, echolink",
             "TX Frequency": "438.6750",
@@ -31901,7 +31901,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7420599"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9LK",
             "Modes": "fm",
             "TX Frequency": "1298.5000",
@@ -31963,7 +31963,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6610564"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9NJ",
             "Modes": "fm, echolink",
             "TX Frequency": "438.7000",
@@ -32025,7 +32025,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045701"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9NP",
             "Modes": "fm, fmlink",
             "TX Frequency": "438.9375",
@@ -32102,7 +32102,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044978"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9NS",
             "Modes": "fm, c4fm",
             "TX Frequency": "439.2250",
@@ -32179,7 +32179,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045132"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9NSC",
             "Modes": "echolink",
             "TX Frequency": "145.3375",
@@ -32239,7 +32239,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006141"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9NSK",
             "Modes": "fm",
             "TX Frequency": "434.6750",
@@ -32299,7 +32299,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044892"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9OA",
             "Modes": "fm",
             "TX Frequency": "438.7500",
@@ -32376,7 +32376,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1237838"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9P",
             "Modes": "fm, echolink",
             "TX Frequency": "145.6625",
@@ -32437,7 +32437,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6013805"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9PC",
             "Modes": "fm",
             "TX Frequency": "438.8500",
@@ -32490,7 +32490,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045784"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9PJD",
             "Modes": "fm, dmr, c4fm",
             "TX Frequency": "431.8000",
@@ -32552,7 +32552,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045668"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9POL",
             "Modes": "echolink",
             "TX Frequency": "50.5300",
@@ -32614,7 +32614,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043543"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9PS",
             "Modes": "fm, echolink",
             "TX Frequency": "439.2500",
@@ -32676,7 +32676,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045878"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9RAC",
             "Modes": "fm",
             "TX Frequency": "439.5750",
@@ -32749,7 +32749,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044898"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9RC",
             "Modes": "c4fm",
             "TX Frequency": "438.6750",
@@ -32820,7 +32820,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045880"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9RR",
             "Modes": "fm, dmr",
             "TX Frequency": "439.1000",
@@ -32877,7 +32877,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045077"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9RSR",
             "Modes": "dmr",
             "TX Frequency": "438.3375",
@@ -32939,7 +32939,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045793"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9RT",
             "Modes": "fm",
             "TX Frequency": "145.6375",
@@ -33000,7 +33000,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044893"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9S",
             "Modes": "fm, c4fm",
             "TX Frequency": "439.4125",
@@ -33077,7 +33077,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045101"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9SA",
             "Modes": "fm, echolink",
             "TX Frequency": "439.4500",
@@ -33126,7 +33126,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043615"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9SC",
             "Modes": "fm, dmr",
             "TX Frequency": "438.9625",
@@ -33186,7 +33186,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996837"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9SE",
             "Modes": "fm, c4fm",
             "TX Frequency": "439.2000",
@@ -33237,7 +33237,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043508"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9SIM",
             "Modes": "dstar",
             "TX Frequency": "439.0375",
@@ -33299,7 +33299,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2232783"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9SK",
             "Modes": "fm, c4fm",
             "TX Frequency": "439.3750",
@@ -33376,7 +33376,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043517"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9SS",
             "Modes": "fm, fmlink",
             "TX Frequency": "439.1000",
@@ -33450,7 +33450,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9002911"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9SZ",
             "Modes": "c4fm",
             "TX Frequency": "439.1500",
@@ -33499,7 +33499,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7027754"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9TB",
             "Modes": "fm",
             "TX Frequency": "438.7750",
@@ -33572,7 +33572,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044991"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9TG",
             "Modes": "fm, echolink",
             "TX Frequency": "145.6125",
@@ -33622,7 +33622,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045196"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9TM",
             "Modes": "fm, dstar",
             "TX Frequency": "438.5125",
@@ -33682,7 +33682,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997505"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9TR",
             "Modes": "dmr",
             "TX Frequency": "439.1750",
@@ -33730,7 +33730,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044937"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9TRZ",
             "Modes": "dmr",
             "TX Frequency": "438.5750",
@@ -33804,7 +33804,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006146"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UCZ",
             "Modes": "dmr",
             "TX Frequency": "439.0875",
@@ -33863,7 +33863,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044969"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UPZ",
             "Modes": "dmr",
             "TX Frequency": "438.5875",
@@ -33935,7 +33935,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045762"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9US",
             "Modes": "dmr",
             "TX Frequency": "438.1250",
@@ -33994,7 +33994,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9001121"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UV",
             "Modes": "dstar",
             "TX Frequency": "439.3375",
@@ -34039,7 +34039,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996824"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UVC",
             "Modes": "c4fm",
             "TX Frequency": "438.6250",
@@ -34093,7 +34093,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045871"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UVJ",
             "Modes": "dstar, c4fm",
             "TX Frequency": "439.5000",
@@ -34152,7 +34152,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996811"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UVJ-B",
             "Modes": "dstar",
             "TX Frequency": "439.5000",
@@ -34199,7 +34199,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996810"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UVJ-C",
             "Modes": "dstar",
             "TX Frequency": "145.7875",
@@ -34246,7 +34246,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043658"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UVL",
             "Modes": "dmr",
             "TX Frequency": "438.3625",
@@ -34293,7 +34293,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996903"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UVM",
             "Modes": "dmr",
             "TX Frequency": "439.4000",
@@ -34367,7 +34367,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043659"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UVO",
             "Modes": "dmr",
             "TX Frequency": "439.3250",
@@ -34414,7 +34414,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9022332"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UVP",
             "Modes": "dstar",
             "TX Frequency": "439.3625",
@@ -34490,7 +34490,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006113"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UVR",
             "Modes": "fm, fmpoland",
             "TX Frequency": "439.3000",
@@ -34550,7 +34550,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9022333"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UVT",
             "Modes": "dmr",
             "TX Frequency": "439.2375",
@@ -34624,7 +34624,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997504"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UVU",
             "Modes": "dstar",
             "TX Frequency": "439.1625",
@@ -34669,7 +34669,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997012"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UVZ",
             "Modes": "c4fm, dstar",
             "TX Frequency": "439.2000",
@@ -34739,7 +34739,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/7229426"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9UW",
             "Modes": "dmr",
             "TX Frequency": "439.0500",
@@ -34786,7 +34786,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9002806"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9VDM",
             "Modes": "dmr",
             "TX Frequency": "438.2000",
@@ -34834,7 +34834,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044945"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9VJK",
             "Modes": "dmr",
             "TX Frequency": "438.3125",
@@ -34888,7 +34888,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045872"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9VJP",
             "Modes": "dstar, dmr, c4fm",
             "TX Frequency": "438.5875",
@@ -34951,7 +34951,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996993"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9VO",
             "Modes": "fm, echolink",
             "TX Frequency": "439.0750",
@@ -35011,7 +35011,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044889"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9VRJ",
             "Modes": "dmr",
             "TX Frequency": "438.7125",
@@ -35058,7 +35058,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9000389"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9VVO",
             "Modes": "dstar",
             "TX Frequency": "439.4375",
@@ -35114,7 +35114,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4813832"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9X",
             "Modes": "fm",
             "TX Frequency": "145.7000",
@@ -35164,7 +35164,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043538"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9Z",
             "Modes": "fm",
             "TX Frequency": "145.7375",
@@ -35239,7 +35239,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045791"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9ZAC",
             "Modes": "echolink",
             "TX Frequency": "145.2875",
@@ -35301,7 +35301,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9043541"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9ZAR",
             "Modes": "fm",
             "TX Frequency": "439.5375",
@@ -35373,7 +35373,7 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045782"
         },
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR9ZHP",
             "Modes": "fm",
             "TX Frequency": "145.2875",
@@ -49077,7 +49077,7 @@
         }
     },
     "SR3DAB": {
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3DAB",
             "Modes": "fm, fmpoland",
             "TX Frequency": "439.5750",
@@ -49106,7 +49106,7 @@
         }
     },
     "SR3OW": {
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR3OW",
             "Modes": "c4fm",
             "TX Frequency": "439.0500",
@@ -49135,7 +49135,7 @@
         }
     },
     "SR4ALL": {
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4ALL",
             "Modes": "echolink",
             "TX Frequency": "430.9750",
@@ -49152,7 +49152,7 @@
         }
     },
     "SR4ST": {
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR4ST",
             "Modes": "fm, echolink, minilink",
             "TX Frequency": "439.2000",
@@ -49169,7 +49169,7 @@
         }
     },
     "SR5ECHO": {
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR5ECHO",
             "Modes": "fm",
             "TX Frequency": "439.1500",
@@ -49198,7 +49198,7 @@
         }
     },
     "SR7USI": {
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR7USI",
             "Modes": "dstar",
             "TX Frequency": "439.5250",
@@ -49242,7 +49242,7 @@
         }
     },
     "SR8LBT": {
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8LBT",
             "Modes": "tetra",
             "TX Frequency": "430.1000",
@@ -49271,7 +49271,7 @@
         }
     },
     "SR8LUB": {
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8LUB",
             "Modes": "fm",
             "TX Frequency": "439.4000",
@@ -49300,7 +49300,7 @@
         }
     },
     "SR8Y": {
-        "przemienniki.eu": {
+        "przemienniki_eu": {
             "Callsign": "SR8Y",
             "Modes": "fm",
             "TX Frequency": "145.7250",
