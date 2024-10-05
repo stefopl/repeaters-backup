@@ -3,8 +3,8 @@
 <rxf version="1.0">
 	<link rel="self" href="http://przemienniki.net/export/rxf.xml" type="appliction/xml"/>
 	<link>http://przemienniki.net</link>
-	<updated>2024-09-29 10:15:13</updated>
-	<generated>2024-09-29 14:13:25</generated>
+	<updated>2024-10-04 21:59:56</updated>
+	<generated>2024-10-05 02:38:40</generated>
 	<generator>przemienniki.net v.2.12.0 (2019/02/04)</generator>
 	<dictionary>
 		<item>
@@ -4859,9 +4859,9 @@ zbudował i zestroił Andrzej SP8XXN]]></remarks>
 		<repeater>
 			<qra>SR3PO</qra>
 			<id>3171206</id>
-			<hash>9808d771329ccd818f489b96ca2740de</hash>
+			<hash>6f06d90389c5e5e70ee5ea289187005b</hash>
 			<created>2010-11-13 02:11:50</created>
-			<updated>2024-03-26 21:52:36</updated>
+			<updated>2024-10-04 21:59:56</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<modeInt>4</modeInt>
@@ -4889,7 +4889,7 @@ zbudował i zestroił Andrzej SP8XXN]]></remarks>
 			<operator>SP3XBS</operator>
 			<remarks><![CDATA[RX: Motorola GM1200 
 TX: Motorola GM1280
-sterownik RPTC, antena 8dBi, duplekser SGQ-450d, filtr pasmowy odbiorczy LBQ-450D, LNA, czułość RX 0.13uV
+sterownik RPTC, antena Radmor 10dBi, duplekser SGQ-450d, filtr pasmowy odbiorczy LBQ-450D, LNA, czułość RX 0.13uV
 105m npm + 91m npt  = 196m npm
 znamiennik przemiennika - głosu użyczył legendarny polski lektor śp. dr inż. Tomasz Knapik]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR3PO</link>

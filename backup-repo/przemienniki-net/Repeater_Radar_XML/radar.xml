@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<repeaters update="2024-09-29 10:15:13" version="0.1">
+<repeaters update="2024-10-04 21:59:56" version="0.1">
 
 
 	<repeater
@@ -3208,7 +3208,7 @@ zbudował i zestroił Andrzej SP8XXN"
 		alt_npg="91"
 		description="RX: Motorola GM1200 
 TX: Motorola GM1280
-sterownik RPTC, antena 8dBi, duplekser SGQ-450d, filtr pasmowy odbiorczy LBQ-450D, LNA, czułość RX 0.13uV
+sterownik RPTC, antena Radmor 10dBi, duplekser SGQ-450d, filtr pasmowy odbiorczy LBQ-450D, LNA, czułość RX 0.13uV
 105m npm + 91m npt  = 196m npm
 znamiennik przemiennika - głosu użyczył legendarny polski lektor śp. dr inż. Tomasz Knapik"
 		/>
