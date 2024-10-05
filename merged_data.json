@@ -7767,9 +7767,9 @@
         "przemienniki_net": {
             "qra": "SR3PO",
             "id": "3171206",
-            "hash": "9808d771329ccd818f489b96ca2740de",
+            "hash": "6f06d90389c5e5e70ee5ea289187005b",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-03-26 21:52:36",
+            "updated": "2024-10-04 21:59:56",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "4",
@@ -7791,7 +7791,7 @@
             "ctcss_tx": "110.9",
             "trxPower": "15.00",
             "operator": "SP3XBS",
-            "remarks": "RX: Motorola GM1200 \nTX: Motorola GM1280\nsterownik RPTC, antena 8dBi, duplekser SGQ-450d, filtr pasmowy odbiorczy LBQ-450D, LNA, czułość RX 0.13uV\n105m npm + 91m npt  = 196m npm\nznamiennik przemiennika - głosu użyczył legendarny polski lektor śp. dr inż. Tomasz Knapik",
+            "remarks": "RX: Motorola GM1200 \nTX: Motorola GM1280\nsterownik RPTC, antena Radmor 10dBi, duplekser SGQ-450d, filtr pasmowy odbiorczy LBQ-450D, LNA, czułość RX 0.13uV\n105m npm + 91m npt  = 196m npm\nznamiennik przemiennika - głosu użyczył legendarny polski lektor śp. dr inż. Tomasz Knapik",
             "link": "http://sp3yor.net",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/3171206"
