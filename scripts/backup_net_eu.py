@@ -3,7 +3,7 @@ import requests
 from datetime import datetime
 
 timestamp_url_1 = 'https://przemienniki.net/export/timestamp.xml'
-timestamp_file_path = './backup-repo/przemienniki-net/timestamp.xml'
+timestamp_file_path = './repeaters-backup/przemienniki-net/timestamp.xml'
 
 # Defining filenames along with the export links
 export_links_1 = {
@@ -22,8 +22,8 @@ export_links_2 = {
     "CHIRP CSV Format": {"url": "https://przemienniki.eu/eksport-danych/chirp/?band=70cm,2m&status=working,testing", "file_name": "przemienniki-eu-chirp.csv"}
 }
 
-backup_dir_1 = './backup-repo/przemienniki-net/'
-backup_dir_2 = './backup-repo/przemienniki-eu/'
+backup_dir_1 = './repeaters-backup/przemienniki-net/'
+backup_dir_2 = './repeaters-backup/przemienniki-eu/'
 
 session = requests.Session()
 headers = {

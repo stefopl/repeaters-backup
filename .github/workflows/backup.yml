@@ -21,11 +21,11 @@ jobs:
     - name: Install requests library
       run: pip install requests
 
-    - name: Run backup script
-      run: python backup.py
+    - name: Run backup NET EU script
+      run: python scripts/backup_net_eu.py
 
     - name: Run backup UKE script
-      run: python backup_UKE.py
+      run: python scripts/backup_uke.py
 
     - name: Commit and push changes after backup script
       run: |

@@ -47,34 +47,39 @@ def load_csv_data_from_file(file_path, key_field, source_name, delimiter=',', en
     return data
 
 def save_to_json(data, output_file):
+
+    os.makedirs('data', exist_ok=True)
+
+    output_path = os.path.join('data', output_file)
+
     with open(output_file, 'w', encoding='utf-8') as jsonfile:
         json.dump(data, jsonfile, ensure_ascii=False, indent=4)
     print(f"Data has been saved to {output_file}.")
 
 file_paths = [
     {
-        "file_path": 'backup-repo/przemienniki-net/Native_XML_Format/rxf.xml',
+        "file_path": 'repeaters-backup/przemienniki-net/Native_XML_Format/rxf.xml',
         "key_field": 'qra',
         "source_name": 'przemienniki_net',
         "delimiter": None,
         "encoding": 'utf-8'
     },
     {
-        "file_path": 'backup-repo/przemienniki-eu/CSV_Export/przemienniki-eu.csv',
+        "file_path": 'repeaters-backup/przemienniki-eu/CSV_Export/przemienniki-eu.csv',
         "key_field": 'Callsign',
         "source_name": 'przemienniki_eu',
         "delimiter": ',',
         "encoding": 'utf-8'
     },
     {
-        "file_path": 'backup-repo/UKE/club_devices.csv',
+        "file_path": 'repeaters-backup/UKE/club_devices.csv',
         "key_field": 'call_sign',
         "source_name": 'UKE_club_devices',
         "delimiter": ';',
         "encoding": 'ISO-8859-1'
     },
     {
-        "file_path": 'backup-repo/UKE/individual_devices.csv',
+        "file_path": 'repeaters-backup/UKE/individual_devices.csv',
         "key_field": 'call_sign',
         "source_name": 'UKE_individual_devices',
         "delimiter": ';',

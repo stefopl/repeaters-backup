@@ -9,7 +9,7 @@ from datetime import datetime
 csv_url = "https://api.dane.gov.pl/1.4/datasets/1051/resources/metadata.csv?lang=pl"
 
 # Directory to store the extracted files
-backup_dir = "./backup-repo/UKE"
+backup_dir = "./repeaters-backup/UKE"
 
 # Create the backup directory if it doesn't exist
 os.makedirs(backup_dir, exist_ok=True)
