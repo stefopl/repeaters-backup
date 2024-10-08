@@ -58,28 +58,28 @@ def save_to_json(data, output_file):
 
 file_paths = [
     {
-        "file_path": 'repeaters-backup/przemienniki-net/Native_XML_Format/rxf.xml',
+        "file_path": 'backup/przemienniki-net/Native_XML_Format/rxf.xml',
         "key_field": 'qra',
         "source_name": 'przemienniki_net',
         "delimiter": None,
         "encoding": 'utf-8'
     },
     {
-        "file_path": 'repeaters-backup/przemienniki-eu/CSV_Export/przemienniki-eu.csv',
+        "file_path": 'backup/przemienniki-eu/CSV_Export/przemienniki-eu.csv',
         "key_field": 'Callsign',
         "source_name": 'przemienniki_eu',
         "delimiter": ',',
         "encoding": 'utf-8'
     },
     {
-        "file_path": 'repeaters-backup/UKE/club_devices.csv',
+        "file_path": 'backup/UKE/club_devices.csv',
         "key_field": 'call_sign',
         "source_name": 'UKE_club_devices',
         "delimiter": ';',
         "encoding": 'ISO-8859-1'
     },
     {
-        "file_path": 'repeaters-backup/UKE/individual_devices.csv',
+        "file_path": 'backup/UKE/individual_devices.csv',
         "key_field": 'call_sign',
         "source_name": 'UKE_individual_devices',
         "delimiter": ';',
