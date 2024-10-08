@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: '0 0,12 * * *' 
   workflow_dispatch:  # Allow manual trigger
+  push:
+    branches:
+      - main
 
 jobs:
   backup:
@@ -21,31 +24,30 @@ jobs:
     - name: Install requests library
       run: pip install requests
 
-    - name: Run backup NET EU script
+    - name: Create backup of przemienniki.net and przemienniki.eu
       run: python scripts/backup_net_eu.py
 
-    - name: Run backup UKE script
+    - name: Create backup of UKE
       run: python scripts/backup_uke.py
 
-    - name: Commit and push changes after backup script
-      run: |
-        git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        git add .
-        git commit -m "Automatic backup after running backup.py on $(date)" || echo "No changes to commit"
-        git push
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
     - name: Merge sources
-      run: python merge_sources.py
+      run: python scripts/merge_sources.py
 
-    - name: Commit and push changes after merging
+    - name: Generate JSON from przemienniki.net
+      run: python scripts/net_to_json.py
+
+    - name: Generate JSON from przemienniki.eu
+      run: python scripts/eu_to_json.py
+
+    - name: Generate JSON from UKE
+      run: python scripts/uke_to_json.py
+
+    - name: Commit and push changes
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add .
-        git commit -m "Automatic backup after merging sources on $(date)" || echo "No changes to commit"
+        git commit -m "Automatic backup $(date)" || echo "No changes to commit"
         git push
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

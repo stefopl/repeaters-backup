@@ -1,5 +1,6 @@
 import os
 import requests
+import difflib
 from datetime import datetime
 
 timestamp_url_1 = 'https://przemienniki.net/export/timestamp.xml'
@@ -47,7 +48,6 @@ def download_export(link_name, link_info, backup_dir, update_readme=True):
         with open(os.path.join(export_path, file_name), 'wb') as file:
             file.write(response.content)
 
-        # Create or update README.md only if specified
         if update_readme:
             with open(os.path.join(export_path, 'README.md'), 'w') as readme:
                 readme.write(f"# Backup of: {link_name}\n\n")
@@ -58,6 +58,24 @@ def download_export(link_name, link_info, backup_dir, update_readme=True):
         print(f"Downloaded: {link_name} to {export_path}")
     else:
         print(f"Failed to download {link_name}: {response.status_code} - {response.text}")
+
+def compare_files(new_content, existing_file_path):
+    with open(existing_file_path, 'rb') as existing_file:
+        existing_content = existing_file.read()
+
+    new_content_str = new_content.decode('utf-8')
+    existing_content_str = existing_content.decode('utf-8')
+
+    diff = difflib.unified_diff(
+        existing_content_str.splitlines(),
+        new_content_str.splitlines(),
+        fromfile='existing_file',
+        tofile='new_file',
+        lineterm=''
+    )
+
+    for line in diff:
+        print(line)
 
 def main():
     print("Checking timestamp...")

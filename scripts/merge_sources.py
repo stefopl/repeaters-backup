@@ -48,10 +48,6 @@ def load_csv_data_from_file(file_path, key_field, source_name, delimiter=',', en
 
 def save_to_json(data, output_file):
 
-    os.makedirs('data', exist_ok=True)
-
-    output_path = os.path.join('data', output_file)
-
     with open(output_file, 'w', encoding='utf-8') as jsonfile:
         json.dump(data, jsonfile, ensure_ascii=False, indent=4)
     print(f"Data has been saved to {output_file}.")
@@ -122,4 +118,4 @@ if __name__ == "__main__":
 
         print(f"For {entry['source_name']}: Added {added_count}, Updated {updated_count}")
 
-    save_to_json(merged_data, 'merged_data.json')
+    save_to_json(merged_data, 'data/merged_data.json')
