@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<repeaters update="2024-10-04 21:59:56" version="0.1">
+<repeaters update="2024-10-10 18:09:41" version="0.1">
 
 
 	<repeater
@@ -5846,7 +5846,7 @@ przemiennik pracuje w sieci WIRES-X oraz w analogu."
 		location=""
 		locator="KO02MF"
 		type="DMR"
-		status="OPERATIONAL"
+		status="OFF"
 		latitude="52.219587"
 		longitude="21.017187"
 		opening="CARRIER"
@@ -6293,12 +6293,12 @@ Narrow FM"
 		latitude="52.544455"
 		longitude="19.719648"
 		opening="CTCSS"
-		echolink=""
+		echolink="735269"
 		URL="70cm/SR5PL"
 		antenna=""
 		alt_npm="102"
 		alt_npg="40"
-		description="Antena X-300, SR5PL podłączny do sieci FM-Poland, Echolink"
+		description="Antena X-300, SR5PL podłączny do sieci FM-Poland id 260501,  Echolink"
 		/>
 
 
@@ -8146,13 +8146,13 @@ Diamond X-200n, duplekser Procom 6-komorowy"
 		region="6"
 		frequency="438100000"
 		band="70cm"
-		ctcss="67"
+		ctcss="103.5"
 		tx_power=""
 		city="Wrocław"
 		location=""
 		locator="JO81LC"
 		type="FM"
-		status="TESTING"
+		status="OPERATIONAL"
 		latitude="51.114720"
 		longitude="16.955030"
 		opening="CTCSS"
@@ -11091,6 +11091,34 @@ Analog Narrow FM"
 		alt_npm="207"
 		alt_npg="43"
 		description="Antena: Radmor 3284/3,  8dBd (10,15dBi)"
+		/>
+
+
+	<repeater
+		callsign="SR8LUB"
+		country="PL"
+		region="8"
+		frequency="439400000"
+		band="70cm"
+		ctcss="77"
+		tx_power="15.00"
+		city="Lublin"
+		location=""
+		locator="KO11GF"
+		type="FM"
+		status="TESTING"
+		latitude="51.234756"
+		longitude="22.523127"
+		opening="CTCSS"
+		echolink=""
+		URL="70cm/SR8LUB"
+		antenna=""
+		alt_npm="209"
+		alt_npg="35"
+		description="-2 x Motorola GM350
+-sterownik konstrukcji własnej, opartej o oprogramowanie SVXLINK, z możliwością przyszłego podłączenia do sieci FMPOLAND.
+-duplekser fabryczny 6 wnękowy SGQ450D
+-antena Diamond X50"
 		/>
 
 

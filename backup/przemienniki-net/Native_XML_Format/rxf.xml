@@ -3,8 +3,8 @@
 <rxf version="1.0">
 	<link rel="self" href="http://przemienniki.net/export/rxf.xml" type="appliction/xml"/>
 	<link>http://przemienniki.net</link>
-	<updated>2024-10-04 21:59:56</updated>
-	<generated>2024-10-05 02:38:40</generated>
+	<updated>2024-10-10 18:09:41</updated>
+	<generated>2024-10-11 02:39:17</generated>
 	<generator>przemienniki.net v.2.12.0 (2019/02/04)</generator>
 	<dictionary>
 		<item>
@@ -8829,9 +8829,9 @@ Planowane uruchomienie na przełomie kwietnia/mają br.]]></remarks>
 			<id>9043606</id>
 			<hash></hash>
 			<created>2016-11-09 22:58:25</created>
-			<updated>2023-09-27 22:50:33</updated>
-			<statusInt>1</statusInt>
-			<status>WORKING</status>
+			<updated>2024-10-10 18:08:53</updated>
+			<statusInt>2</statusInt>
+			<status>DISABLED</status>
 			<licenseExpiryDate>2028-06-19</licenseExpiryDate>
 			<modeInt>2048</modeInt>
 			<mode>MOTOTRBO</mode>
@@ -9493,11 +9493,12 @@ Narrow FM]]></remarks>
 			<id>1388380</id>
 			<hash>8b2ae01a945a992ac6f1bc7afcf6cc2f</hash>
 			<created>2010-11-13 02:11:50</created>
-			<updated>2024-09-12 17:59:43</updated>
+			<updated>2024-10-10 18:08:43</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
-			<modeInt>4</modeInt>
+			<modeInt>1028</modeInt>
 			<mode>FM</mode>
+			<mode>ECHOLINK</mode>
 			<bandInt>16384</bandInt>
 			<band>70CM</band>
 			<qrg type="rx">431.525000</qrg>
@@ -9520,7 +9521,8 @@ Narrow FM]]></remarks>
 			<operator>SQ5NWH</operator>
 			<operator>SP5DP</operator>
 			<operator>SQ5EBC</operator>
-			<remarks><![CDATA[Antena X-300, SR5PL podłączny do sieci FM-Poland, Echolink]]></remarks>
+			<echolink>735269</echolink>
+			<remarks><![CDATA[Antena X-300, SR5PL podłączny do sieci FM-Poland id 260501,  Echolink]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR5PL</link>
 			<link>http://www.sp5zba.net/</link>
 			<source>przemienniki.net</source>
@@ -12267,9 +12269,9 @@ Diamond X-200n, duplekser Procom 6-komorowy]]></remarks>
 			<id>9045904</id>
 			<hash>873189298c9c927b7728351b69721f06</hash>
 			<created>2024-08-05 13:34:32</created>
-			<updated>2024-08-05 13:34:32</updated>
-			<statusInt>8</statusInt>
-			<status>TESTING</status>
+			<updated>2024-10-10 18:09:25</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
 			<licenseExpiryDate>2028-10-27</licenseExpiryDate>
 			<modeInt>4</modeInt>
 			<mode>FM</mode>
@@ -12289,8 +12291,8 @@ Diamond X-200n, duplekser Procom 6-komorowy]]></remarks>
 			<activationInt>256</activationInt>
 
 			<activation>CTCSS</activation>
-			<ctcss type="rx">67.0</ctcss>
-			<ctcss type="tx">67.0</ctcss>
+			<ctcss type="rx">103.5</ctcss>
+			<ctcss type="tx">103.5</ctcss>
 			<operator>SP6QNH</operator>
 			<link>http://przemienniki.net/przemienniki/70cm/SR6RC</link>
 			<source>przemienniki.net</source>
@@ -16546,6 +16548,45 @@ Analog Narrow FM]]></remarks>
 			<link>http://krotkofalowcy-lublin.pl/sr8lu/</link>
 			<source>przemienniki.net</source>
 			<feedback>http://przemienniki.net/zglos/6804430</feedback>
+		</repeater>
+		<repeater>
+			<qra>SR8LUB</qra>
+			<id>9045918</id>
+			<hash>2df93103891bfd7e5fc6cd980876d77c</hash>
+			<created>2024-10-10 18:06:10</created>
+			<updated>2024-10-10 18:09:41</updated>
+			<statusInt>8</statusInt>
+			<status>TESTING</status>
+			<licenseExpiryDate>2029-06-12</licenseExpiryDate>
+			<modeInt>4</modeInt>
+			<mode>FM</mode>
+			<bandInt>16384</bandInt>
+			<band>70CM</band>
+			<qrg type="rx">431.800000</qrg>
+			<qrg type="tx">439.400000</qrg>
+			<country>pl</country>
+			<qth><![CDATA[Lublin]]></qth>
+			<location>
+				<locator>KO11GF</locator>
+				<latitude>51.234756</latitude>
+				<longitude>22.523127</longitude>
+				<altitudeOverSea>209</altitudeOverSea>
+				<altitudeOverGround>35</altitudeOverGround>
+			</location>
+			<activationInt>256</activationInt>
+
+			<activation>CTCSS</activation>
+			<ctcss type="rx">77.0</ctcss>
+			<ctcss type="tx">77.0</ctcss>
+			<trxPower>15.00</trxPower>
+			<operator>SQ8MXP</operator>
+			<remarks><![CDATA[-2 x Motorola GM350
+-sterownik konstrukcji własnej, opartej o oprogramowanie SVXLINK, z możliwością przyszłego podłączenia do sieci FMPOLAND.
+-duplekser fabryczny 6 wnękowy SGQ450D
+-antena Diamond X50]]></remarks>
+			<link>http://przemienniki.net/przemienniki/70cm/SR8LUB</link>
+			<source>przemienniki.net</source>
+			<feedback>http://przemienniki.net/zglos/9045918</feedback>
 		</repeater>
 		<repeater>
 			<qra>SR8LUF</qra>

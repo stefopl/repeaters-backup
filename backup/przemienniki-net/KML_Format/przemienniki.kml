@@ -2051,21 +2051,6 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
-						<name>SR5KAB</name>
-						<Point>
-							<coordinates>21.017187,52.219587</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DMR pasma 70cm<br />
-							QTH: Warszawa<br />
-							QRG: TX: 439,4000 MHz, RX: 431,8000 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR5KAB">przemienniki.net/przemienniki/70cm/SR5KAB</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
 						<name>SR5MDV</name>
 						<Point>
 							<coordinates>21.552627,52.177192</coordinates>
@@ -2162,7 +2147,7 @@
 						</Point>
 						<styleUrl>#BAND_70CM</styleUrl>
 						<description><![CDATA[
-							Przemiennik FM pasma 70cm<br />
+							Przemiennik Echolink+FM pasma 70cm<br />
 							QTH: Płock<br />
 							QRG: TX: 439,1250 MHz, RX: 431,5250 MHz
 							<br />
@@ -2783,6 +2768,21 @@
 							<br />
 							Aktywowanie: CTCSS (94.8 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR6PS">przemienniki.net/przemienniki/70cm/SR6PS</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>SR6RC</name>
+						<Point>
+							<coordinates>16.955030,51.114720</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik FM pasma 70cm<br />
+							QTH: Wrocław<br />
+							QRG: TX: 438,1000 MHz, RX: 430,5000 MHz
+							<br />
+							Aktywowanie: CTCSS (103.5 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR6RC">przemienniki.net/przemienniki/70cm/SR6RC</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
@@ -5417,6 +5417,21 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
+						<name>SR5KAB</name>
+						<Point>
+							<coordinates>21.017187,52.219587</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DMR pasma 70cm<br />
+							QTH: Warszawa<br />
+							QRG: TX: 439,4000 MHz, RX: 431,8000 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR5KAB">przemienniki.net/przemienniki/70cm/SR5KAB</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
 						<name>SR5KO</name>
 						<Point>
 							<coordinates>21.566980,51.561205</coordinates>
@@ -5990,18 +6005,18 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
-						<name>SR6RC</name>
+						<name>SR8LUB</name>
 						<Point>
-							<coordinates>16.955030,51.114720</coordinates>
+							<coordinates>22.523127,51.234756</coordinates>
 						</Point>
 						<styleUrl>#BAND_70CM</styleUrl>
 						<description><![CDATA[
 							Przemiennik FM pasma 70cm<br />
-							QTH: Wrocław<br />
-							QRG: TX: 438,1000 MHz, RX: 430,5000 MHz
+							QTH: Lublin<br />
+							QRG: TX: 439,4000 MHz, RX: 431,8000 MHz
 							<br />
-							Aktywowanie: CTCSS (67.0 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR6RC">przemienniki.net/przemienniki/70cm/SR6RC</a><br />
+							Aktywowanie: CTCSS (77.0 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR8LUB">przemienniki.net/przemienniki/70cm/SR8LUB</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>

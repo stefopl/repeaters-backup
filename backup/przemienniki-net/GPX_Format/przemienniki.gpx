@@ -5599,7 +5599,7 @@ Więcej informacji: http://przemienniki.net/przemienniki/2m/SR5P
 <wpt lat="52.544455" lon="19.719648">
 	<name>SR5PL</name>
 	<cmt>
-Przemiennik FM pasma 70cm
+Przemiennik Echolink+FM pasma 70cm
 
 
 QTH: Płock
@@ -5609,7 +5609,7 @@ Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR5PL
 
 	</cmt>
 	<desc>
-Przemiennik FM pasma 70cm
+Przemiennik Echolink+FM pasma 70cm
 
 
 QTH: Płock
@@ -7283,7 +7283,7 @@ Przemiennik FM pasma 70cm
 
 QTH: Wrocław
 Częstotliwość: TX: 438,1000 MHz, RX: 430,5000 MHz 
-Aktywowanie: CTCSS (67.0 Hz)
+Aktywowanie: CTCSS (103.5 Hz)
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR6RC
 
 	</cmt>
@@ -7293,7 +7293,7 @@ Przemiennik FM pasma 70cm
 
 QTH: Wrocław
 Częstotliwość: TX: 438,1000 MHz, RX: 430,5000 MHz 
-Aktywowanie: CTCSS (67.0 Hz)
+Aktywowanie: CTCSS (103.5 Hz)
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR6RC
 
 	</desc>
@@ -9940,6 +9940,29 @@ QTH: Lublin
 Częstotliwość: TX: 439,0500 MHz, RX: 431,4500 MHz 
 Aktywowanie: CTCSS (67.0 Hz)
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR8LU
+
+	</desc>
+</wpt>
+<wpt lat="51.234756" lon="22.523127">
+	<name>SR8LUB</name>
+	<cmt>
+Przemiennik FM pasma 70cm
+
+
+QTH: Lublin
+Częstotliwość: TX: 439,4000 MHz, RX: 431,8000 MHz 
+Aktywowanie: CTCSS (77.0 Hz)
+Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR8LUB
+
+	</cmt>
+	<desc>
+Przemiennik FM pasma 70cm
+
+
+QTH: Lublin
+Częstotliwość: TX: 439,4000 MHz, RX: 431,8000 MHz 
+Aktywowanie: CTCSS (77.0 Hz)
+Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR8LUB
 
 	</desc>
 </wpt>

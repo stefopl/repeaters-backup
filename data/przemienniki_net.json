@@ -5,8 +5,8 @@
         },
         "http://przemienniki.net"
     ],
-    "updated": "2024-10-04 21:59:56",
-    "generated": "2024-10-05 02:38:40",
+    "updated": "2024-10-10 18:09:41",
+    "generated": "2024-10-11 02:39:17",
     "generator": "przemienniki.net v.2.12.0 (2019/02/04)",
     "dictionary": {
         "item": [
@@ -9327,9 +9327,9 @@
             "id": "9043606",
             "hash": null,
             "created": "2016-11-09 22:58:25",
-            "updated": "2023-09-27 22:50:33",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2024-10-10 18:08:53",
+            "statusInt": "2",
+            "status": "DISABLED",
             "licenseExpiryDate": "2028-06-19",
             "modeInt": "2048",
             "mode": "MOTOTRBO",
@@ -10003,11 +10003,14 @@
             "id": "1388380",
             "hash": "8b2ae01a945a992ac6f1bc7afcf6cc2f",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-09-12 17:59:43",
+            "updated": "2024-10-10 18:08:43",
             "statusInt": "1",
             "status": "WORKING",
-            "modeInt": "4",
-            "mode": "FM",
+            "modeInt": "1028",
+            "mode": [
+                "FM",
+                "ECHOLINK"
+            ],
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -10035,7 +10038,8 @@
                 "SP5DP",
                 "SQ5EBC"
             ],
-            "remarks": "Antena X-300, SR5PL podłączny do sieci FM-Poland, Echolink",
+            "echolink": "735269",
+            "remarks": "Antena X-300, SR5PL podłączny do sieci FM-Poland id 260501,  Echolink",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR5PL",
                 "http://www.sp5zba.net/"
@@ -12954,9 +12958,9 @@
             "id": "9045904",
             "hash": "873189298c9c927b7728351b69721f06",
             "created": "2024-08-05 13:34:32",
-            "updated": "2024-08-05 13:34:32",
-            "statusInt": "8",
-            "status": "TESTING",
+            "updated": "2024-10-10 18:09:25",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2028-10-27",
             "modeInt": "4",
             "mode": "FM",
@@ -12978,8 +12982,8 @@
             "activationInt": "256",
             "activation": "CTCSS",
             "ctcss": {
-                "rx": "67.0",
-                "tx": "67.0"
+                "rx": "103.5",
+                "tx": "103.5"
             },
             "operator": "SP6QNH",
             "link": "http://przemienniki.net/przemienniki/70cm/SR6RC",
@@ -17577,6 +17581,45 @@
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6804430"
+        },
+        "SR8LUB": {
+            "qra": "SR8LUB",
+            "id": "9045918",
+            "hash": "2df93103891bfd7e5fc6cd980876d77c",
+            "created": "2024-10-10 18:06:10",
+            "updated": "2024-10-10 18:09:41",
+            "statusInt": "8",
+            "status": "TESTING",
+            "licenseExpiryDate": "2029-06-12",
+            "modeInt": "4",
+            "mode": "FM",
+            "bandInt": "16384",
+            "band": "70CM",
+            "qrg": {
+                "rx": "431.800000",
+                "tx": "439.400000"
+            },
+            "country": "pl",
+            "qth": "Lublin",
+            "location": {
+                "locator": "KO11GF",
+                "latitude": "51.234756",
+                "longitude": "22.523127",
+                "altitudeOverSea": "209",
+                "altitudeOverGround": "35"
+            },
+            "activationInt": "256",
+            "activation": "CTCSS",
+            "ctcss": {
+                "rx": "77.0",
+                "tx": "77.0"
+            },
+            "trxPower": "15.00",
+            "operator": "SQ8MXP",
+            "remarks": "-2 x Motorola GM350\n-sterownik konstrukcji własnej, opartej o oprogramowanie SVXLINK, z możliwością przyszłego podłączenia do sieci FMPOLAND.\n-duplekser fabryczny 6 wnękowy SGQ450D\n-antena Diamond X50",
+            "link": "http://przemienniki.net/przemienniki/70cm/SR8LUB",
+            "source": "przemienniki.net",
+            "feedback": "http://przemienniki.net/zglos/9045918"
         },
         "SR8LUF": {
             "qra": "SR8LUF",
