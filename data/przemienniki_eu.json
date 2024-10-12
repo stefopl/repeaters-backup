@@ -9214,5 +9214,21 @@
         "Longitude": "0",
         "QTH": "Bedzin",
         "edit_date": "2023-01-01"
+    },
+    "SR1WR": {
+        "Callsign": "SR1WR",
+        "Modes": "dmr",
+        "TX Frequency": "439.0500",
+        "TX CTCSS": "",
+        "RX Frequency": "431.4500",
+        "RX CTCSS": "",
+        "RX 1750": "false",
+        "Duplex": "-",
+        "Offset": "7.6",
+        "Status": "testing",
+        "Latitude": "53.947183",
+        "Longitude": "15.53354",
+        "QTH": "Ryman",
+        "edit_date": "2023-01-01"
     }
 }

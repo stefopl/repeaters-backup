@@ -49139,6 +49139,35 @@
             "feedback": "http://przemienniki.net/zglos/9022983"
         }
     },
+    "SR1WR": {
+        "przemienniki_eu": {
+            "Callsign": "SR1WR",
+            "Modes": "dmr",
+            "TX Frequency": "439.0500",
+            "TX CTCSS": "",
+            "RX Frequency": "431.4500",
+            "RX CTCSS": "",
+            "RX 1750": "false",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "testing",
+            "Latitude": "53.947183",
+            "Longitude": "15.53354",
+            "QTH": "Ryman"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.2473.2024.2",
+            "valid_to": "2029-04-29",
+            "call_sign": "SR1WR",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "431.45",
+            "output_frequency": "439.05",
+            "station_location": "Rymañ"
+        }
+    },
     "SR3DAB": {
         "przemienniki_eu": {
             "Callsign": "SR3DAB",
@@ -54837,20 +54866,6 @@
             "input_frequency": "1296.984",
             "output_frequency": "1296.984",
             "station_location": "Rakowiska"
-        }
-    },
-    "SR1WR": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.2473.2024.2",
-            "valid_to": "2029-04-29",
-            "call_sign": "SR1WR",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "PrzemiennikFMDV",
-            "emission": "",
-            "input_frequency": "431.45",
-            "output_frequency": "439.05",
-            "station_location": "Rymañ"
         }
     },
     "SR0FUN": {
