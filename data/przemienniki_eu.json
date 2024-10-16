@@ -7362,9 +7362,9 @@
     "SR8Y": {
         "Callsign": "SR8Y",
         "Modes": "fm",
-        "TX Frequency": "145.7250",
+        "TX Frequency": "145.6500",
         "TX CTCSS": "123",
-        "RX Frequency": "145.1250",
+        "RX Frequency": "145.0500",
         "RX CTCSS": "123",
         "RX 1750": "false",
         "Duplex": "-",
@@ -7373,7 +7373,7 @@
         "Latitude": "49.96557",
         "Longitude": "21.99461",
         "QTH": "Rzeszow",
-        "edit_date": "2023-01-01"
+        "edit_date": "2024-10-16"
     },
     "SR8Z": {
         "Callsign": "SR8Z",

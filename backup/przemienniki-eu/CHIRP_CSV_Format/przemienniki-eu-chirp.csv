@@ -339,7 +339,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 337,SR8UWD,438.512500,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,,,,,
 338,SR8V,145.612500,-,0.600000,,88.5,103.5,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
 339,SR8WD,438.975000,-,7.600000,Tone,103.5,103.5,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,
-340,SR8Y,145.725000,-,0.600000,Tone,123.0,123.0,023,NN,023,Tone->Tone,FM,5.00,,50W,Rzeszow,,,,
+340,SR8Y,145.650000,-,0.600000,Tone,123.0,123.0,023,NN,023,Tone->Tone,FM,5.00,,50W,Rzeszow,,,,
 341,SR8Z,145.750000,-,0.600000,Tone,77.0,77.0,023,NN,023,Tone->Tone,FM,5.00,,50W,"Feliksowka k/Zamoscia",,,,
 342,SR8ZA,439.275000,-,7.600000,Tone,77.0,77.0,023,NN,023,Tone->Tone,FM,5.00,,50W,"Feliksowka k/Zamoscia",,,,
 343,SR9A,145.775000,-,0.600000,,88.5,88.5,023,NN,023,Tone->Tone,FM,5.00,,50W,,,,,

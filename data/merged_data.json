@@ -49366,9 +49366,9 @@
         "przemienniki_eu": {
             "Callsign": "SR8Y",
             "Modes": "fm",
-            "TX Frequency": "145.7250",
+            "TX Frequency": "145.6500",
             "TX CTCSS": "123",
-            "RX Frequency": "145.1250",
+            "RX Frequency": "145.0500",
             "RX CTCSS": "123",
             "RX 1750": "false",
             "Duplex": "-",
