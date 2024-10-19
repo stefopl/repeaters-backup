@@ -7373,7 +7373,7 @@
         "Latitude": "49.96557",
         "Longitude": "21.99461",
         "QTH": "Rzeszow",
-        "edit_date": "2024-10-18"
+        "edit_date": "2024-10-19"
     },
     "SR8Z": {
         "Callsign": "SR8Z",
@@ -9229,6 +9229,22 @@
         "Latitude": "53.947183",
         "Longitude": "15.53354",
         "QTH": "Ryman",
+        "edit_date": "2023-01-01"
+    },
+    "SR5ECHO_2": {
+        "Callsign": "SR5ECHO_2",
+        "Modes": "fm",
+        "TX Frequency": "145.7000",
+        "TX CTCSS": "",
+        "RX Frequency": "145.7000",
+        "RX CTCSS": "",
+        "RX 1750": "false",
+        "Duplex": "",
+        "Offset": "0",
+        "Status": "testing",
+        "Latitude": "52.188",
+        "Longitude": "20.875",
+        "QTH": "WARSZAWA",
         "edit_date": "2023-01-01"
     }
 }

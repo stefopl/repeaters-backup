@@ -49264,9 +49264,9 @@
         "przemienniki_eu": {
             "Callsign": "SR5ECHO",
             "Modes": "fm",
-            "TX Frequency": "439.1500",
+            "TX Frequency": "145.7000",
             "TX CTCSS": "",
-            "RX Frequency": "439.1500",
+            "RX Frequency": "145.7000",
             "RX CTCSS": "",
             "RX 1750": "false",
             "Duplex": "",
@@ -49274,7 +49274,7 @@
             "Status": "testing",
             "Latitude": "52.188",
             "Longitude": "20.875",
-            "QTH": "Warszawa"
+            "QTH": "WARSZAWA"
         },
         "UKE_individual_devices": {
             "number": "DC.WML.5101.5254.2024.2",
