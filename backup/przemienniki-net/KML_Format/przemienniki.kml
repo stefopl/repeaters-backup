@@ -19700,6 +19700,21 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
+						<name>OM0ODT</name>
+						<Point>
+							<coordinates>22.291667,48.770833</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik FM pasma 70cm<br />
+							QTH: Koňuš<br />
+							QRG: TX: 439,1750 MHz, RX: 431,5750 MHz
+							<br />
+							Aktywowanie: CTCSS (88.5 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/OM0ODT">przemienniki.net/przemienniki/70cm/OM0ODT</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
 						<name>OM0OET</name>
 						<Point>
 							<coordinates>18.152508,47.988282</coordinates>
