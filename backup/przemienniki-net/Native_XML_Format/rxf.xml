@@ -3,8 +3,8 @@
 <rxf version="1.0">
 	<link rel="self" href="http://przemienniki.net/export/rxf.xml" type="appliction/xml"/>
 	<link>http://przemienniki.net</link>
-	<updated>2024-10-25 04:35:10</updated>
-	<generated>2024-10-25 14:15:00</generated>
+	<updated>2024-10-26 14:50:34</updated>
+	<generated>2024-10-27 02:43:30</generated>
 	<generator>przemienniki.net v.2.12.0 (2019/02/04)</generator>
 	<dictionary>
 		<item>
@@ -8390,9 +8390,9 @@ Jest podłączony do sieci FM-POLAND.]]></remarks>
 			<id>9045875</id>
 			<hash>abb9448f6626ae215f88c96191c5944e</hash>
 			<created>2024-01-25 17:34:27</created>
-			<updated>2024-01-27 07:54:19</updated>
-			<statusInt>1</statusInt>
-			<status>WORKING</status>
+			<updated>2024-10-26 14:47:20</updated>
+			<statusInt>2</statusInt>
+			<status>DISABLED</status>
 			<licenseExpiryDate>2028-12-12</licenseExpiryDate>
 			<modeInt>32768</modeInt>
 			<mode>TETRA</mode>
@@ -11265,9 +11265,10 @@ SR6B REAKTYWACJA]]></remarks>
 			<id>9045909</id>
 			<hash>e86c9be52c462017aa055a527be495f7</hash>
 			<created>2024-08-21 16:16:45</created>
-			<updated>2024-09-18 22:45:49</updated>
+			<updated>2024-10-26 14:47:44</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
+			<licenseExpiryDate>2029-06-17</licenseExpiryDate>
 			<modeInt>2048</modeInt>
 			<mode>MOTOTRBO</mode>
 			<bandInt>16384</bandInt>
@@ -11291,7 +11292,10 @@ SR6B REAKTYWACJA]]></remarks>
 			<operator>SP6DBX</operator>
 			<operator>SP6TKP</operator>
 			<remarks><![CDATA[CC.1 
-Motorola MTR2000 + duplexer Procom
+RX/TX: MOTOROLA MTR2000
+Duplexer: PROCOM DPF70/6-150
+Fider: 7m, H-1000 BELDEN
+Antena: KATHREIN K 7516211, 7dBi
 Raspberry Pi 3b+
 MMDVM repeater kit
 Wraz z przemiennikiem zainstalowany został przekaznik APRS - SR6AJG]]></remarks>
@@ -14888,9 +14892,9 @@ Obiekt: Telewizyjna Stacja Retransmisyjna na Górze Kamieńsk EmiTel-a – zwana
 			<id>5726728</id>
 			<hash>27bb61665df5c231e0085ae6a3f32945</hash>
 			<created>2010-11-13 02:11:50</created>
-			<updated>2023-06-09 18:03:58</updated>
-			<statusInt>4</statusInt>
-			<status>UNKNOWN</status>
+			<updated>2024-10-26 14:48:19</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
 			<modeInt>4</modeInt>
 			<mode>FM</mode>
 			<bandInt>4096</bandInt>
@@ -14910,9 +14914,11 @@ Obiekt: Telewizyjna Stacja Retransmisyjna na Górze Kamieńsk EmiTel-a – zwana
 			<activation>CARRIER</activation>
 			<ctcss type="tx">77.0</ctcss>
 			<trxPower>10.00</trxPower>
+			<operator>SP7KED</operator>
 			<link>http://przemienniki.net/przemienniki/2m/SR7W</link>
 			<link>http://mnenz5pjlr7m.az.pl/sp7ked/07/07-1.html</link>
 			<link>http://mnenz5pjlr7m.az.pl/sp7ked/00/mapka.html</link>
+			<link>https://sp7ked.pl/przemienniki/</link>
 			<source>przemienniki.net</source>
 			<feedback>http://przemienniki.net/zglos/5726728</feedback>
 		</repeater>
@@ -16975,9 +16981,9 @@ http://emi.emitel.pl/EMITEL/ObjectImages/DODR_E2E.jpg]]></remarks>
 			<id>2604638</id>
 			<hash>61ad1fd2427ead60150692f028845058</hash>
 			<created>2010-11-13 02:11:50</created>
-			<updated>2022-07-29 18:59:58</updated>
-			<statusInt>1</statusInt>
-			<status>WORKING</status>
+			<updated>2024-10-26 14:47:56</updated>
+			<statusInt>2</statusInt>
+			<status>DISABLED</status>
 			<modeInt>4</modeInt>
 			<mode>FM</mode>
 			<bandInt>4096</bandInt>
@@ -18745,9 +18751,9 @@ Przemiennik pracuje w sieci BM DMR.]]></remarks>
 			<id>9044984</id>
 			<hash>0b2c19a981340f617e4fd13d3608682a</hash>
 			<created>2018-08-27 12:25:58</created>
-			<updated>2024-01-05 17:17:50</updated>
-			<statusInt>4</statusInt>
-			<status>UNKNOWN</status>
+			<updated>2024-10-26 14:50:34</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
 			<licenseExpiryDate>2021-07-12</licenseExpiryDate>
 			<modeInt>10276</modeInt>
 			<mode>FM</mode>
@@ -18773,7 +18779,6 @@ Przemiennik pracuje w sieci BM DMR.]]></remarks>
 			<ctcss type="rx">67.0</ctcss>
 			<trxPower>10.00</trxPower>
 			<operator>SQ9GOL</operator>
-			<operator>SQ9JDO</operator>
 			<operator>SQ9WDZ</operator>
 			<operator>SQ9MYX</operator>
 			<remarks><![CDATA[Antena Diamond X510 

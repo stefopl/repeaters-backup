@@ -1931,21 +1931,6 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
-						<name>SR5AWK</name>
-						<Point>
-							<coordinates>21.055902,52.131170</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik Tetra pasma 70cm<br />
-							QTH: Warszawa<br />
-							QRG: TX: 431,6125 MHz, RX: 431,6125 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR5AWK">przemienniki.net/przemienniki/70cm/SR5AWK</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
 						<name>SR5CI</name>
 						<Point>
 							<coordinates>20.602777,52.884450</coordinates>
@@ -4241,6 +4226,21 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
+						<name>SR9DV</name>
+						<Point>
+							<coordinates>19.969213,50.116012</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik C4FM/Fusion+DMR+DSTAR/DV+FM pasma 70cm<br />
+							QTH: Węgrzce<br />
+							QRG: TX: 438,3250 MHz, RX: 430,7250 MHz
+							<br />
+							Aktywowanie: CTCSS (67.0 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR9DV">przemienniki.net/przemienniki/70cm/SR9DV</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
 						<name>SR9GR</name>
 						<Point>
 							<coordinates>21.152389,49.664762</coordinates>
@@ -5402,6 +5402,21 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
+						<name>SR5AWK</name>
+						<Point>
+							<coordinates>21.055902,52.131170</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik Tetra pasma 70cm<br />
+							QTH: Warszawa<br />
+							QRG: TX: 431,6125 MHz, RX: 431,6125 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR5AWK">przemienniki.net/przemienniki/70cm/SR5AWK</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
 						<name>SR5GR</name>
 						<Point>
 							<coordinates>20.869367,51.865339</coordinates>
@@ -6445,21 +6460,6 @@
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR4DMR">przemienniki.net/przemienniki/70cm/SR4DMR</a><br />
 						]]></description>
 					</Placemark>
-					<Placemark>
-						<name>SR9DV</name>
-						<Point>
-							<coordinates>19.969213,50.116012</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik C4FM/Fusion+DMR+DSTAR/DV+FM pasma 70cm<br />
-							QTH: Węgrzce<br />
-							QRG: TX: 438,3250 MHz, RX: 430,7250 MHz
-							<br />
-							Aktywowanie: CTCSS (67.0 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR9DV">przemienniki.net/przemienniki/70cm/SR9DV</a><br />
-						]]></description>
-					</Placemark>
 				</Folder>
 			</Folder>
 			<Folder>
@@ -6902,6 +6902,21 @@
 							<br />
 							Aktywowanie: CTCSS (71.9 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR8K">przemienniki.net/przemienniki/2m/SR8K</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>SR8R</name>
+						<Point>
+							<coordinates>21.978431,50.048852</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik FM pasma 2m<br />
+							QTH: Rzeszów<br />
+							QRG: TX: 145,6750 MHz, RX: 145,0750 MHz
+							<br />
+							Aktywowanie: CTCSS (71.9 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR8R">przemienniki.net/przemienniki/2m/SR8R</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
@@ -7898,6 +7913,21 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
+						<name>SR7W</name>
+						<Point>
+							<coordinates>18.579957,51.209193</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik FM pasma 2m<br />
+							QTH: Wieluń<br />
+							QRG: TX: 145,7000 MHz, RX: 145,1000 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR7W">przemienniki.net/przemienniki/2m/SR7W</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
 						<name>SR7Z</name>
 						<Point>
 							<coordinates>19.455361,51.753490</coordinates>
@@ -7985,21 +8015,6 @@
 							<br />
 							Aktywowanie: nośną<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR8NP">przemienniki.net/przemienniki/2m/SR8NP</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>SR8R</name>
-						<Point>
-							<coordinates>21.978431,50.048852</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik FM pasma 2m<br />
-							QTH: Rzeszów<br />
-							QRG: TX: 145,6750 MHz, RX: 145,0750 MHz
-							<br />
-							Aktywowanie: CTCSS (71.9 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR8R">przemienniki.net/przemienniki/2m/SR8R</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
@@ -8369,21 +8384,6 @@
 							<br />
 							Aktywowanie: nośną<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR2UVT-C">przemienniki.net/przemienniki/2m/SR2UVT-C</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>SR7W</name>
-						<Point>
-							<coordinates>18.579957,51.209193</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik FM pasma 2m<br />
-							QTH: Wieluń<br />
-							QRG: TX: 145,7000 MHz, RX: 145,1000 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR7W">przemienniki.net/przemienniki/2m/SR7W</a><br />
 						]]></description>
 					</Placemark>
 				</Folder>

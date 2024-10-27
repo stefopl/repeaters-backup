@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<repeaters update="2024-10-25 04:35:10" version="0.1">
+<repeaters update="2024-10-26 14:50:34" version="0.1">
 
 
 	<repeater
@@ -5565,7 +5565,7 @@ Jest podłączony do sieci FM-POLAND."
 		location=""
 		locator="KO02MD"
 		type="Tetra"
-		status="OPERATIONAL"
+		status="OFF"
 		latitude="52.131170"
 		longitude="21.055902"
 		opening="CARRIER"
@@ -7486,7 +7486,10 @@ SR6B REAKTYWACJA"
 		alt_npm="553"
 		alt_npg="6"
 		description="CC.1 
-Motorola MTR2000 + duplexer Procom
+RX/TX: MOTOROLA MTR2000
+Duplexer: PROCOM DPF70/6-150
+Fider: 7m, H-1000 BELDEN
+Antena: KATHREIN K 7516211, 7dBi
 Raspberry Pi 3b+
 MMDVM repeater kit
 Wraz z przemiennikiem zainstalowany został przekaznik APRS - SR6AJG"
@@ -9973,6 +9976,31 @@ Obiekt: Telewizyjna Stacja Retransmisyjna na Górze Kamieńsk EmiTel-a – zwana
 
 
 	<repeater
+		callsign="SR7W"
+		country="PL"
+		region="7"
+		frequency="145700000"
+		band="2m"
+		ctcss="0"
+		tx_power="10.00"
+		city="Wieluń"
+		location=""
+		locator="JO91GF"
+		type="FM"
+		status="OPERATIONAL"
+		latitude="51.209193"
+		longitude="18.579957"
+		opening="CARRIER"
+		echolink=""
+		URL="2m/SR7W"
+		antenna=""
+		alt_npm="265"
+		alt_npg=""
+		description=""
+		/>
+
+
+	<repeater
 		callsign="SR7WI"
 		country="PL"
 		region="7"
@@ -11391,7 +11419,7 @@ http://emi.emitel.pl/EMITEL/ObjectImages/DODR_E2E.jpg"
 		location=""
 		locator="KO00XB"
 		type="FM"
-		status="OPERATIONAL"
+		status="OFF"
 		latitude="50.048852"
 		longitude="21.978431"
 		opening="CTCSS"
@@ -12610,6 +12638,33 @@ www.radioklub.pl"
 		alt_npg="6"
 		description="Przemiennik cyfrowy Hytera RD625 pracujący w trybie cyfrowym DMR. Ustawienie CC 1.
 Przemiennik pracuje w sieci BM DMR."
+		/>
+
+
+	<repeater
+		callsign="SR9DV"
+		country="PL"
+		region="9"
+		frequency="438325000"
+		band="70cm"
+		ctcss="67"
+		tx_power="10.00"
+		city="Węgrzce"
+		location=""
+		locator="JO90XC"
+		type="DSTAR"
+		status="OPERATIONAL"
+		latitude="50.116012"
+		longitude="19.969213"
+		opening="CTCSS"
+		echolink=""
+		URL="70cm/SR9DV"
+		antenna=""
+		alt_npm="281"
+		alt_npg="10"
+		description="Antena Diamond X510 
+Duplexer Kathrein
+MMDVM oraz analog."
 		/>
 
 

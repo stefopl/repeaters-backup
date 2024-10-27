@@ -5,8 +5,8 @@
         },
         "http://przemienniki.net"
     ],
-    "updated": "2024-10-25 04:35:10",
-    "generated": "2024-10-25 14:15:00",
+    "updated": "2024-10-26 14:50:34",
+    "generated": "2024-10-27 02:43:30",
     "generator": "przemienniki.net v.2.12.0 (2019/02/04)",
     "dictionary": {
         "item": [
@@ -8843,9 +8843,9 @@
             "id": "9045875",
             "hash": "abb9448f6626ae215f88c96191c5944e",
             "created": "2024-01-25 17:34:27",
-            "updated": "2024-01-27 07:54:19",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2024-10-26 14:47:20",
+            "statusInt": "2",
+            "status": "DISABLED",
             "licenseExpiryDate": "2028-12-12",
             "modeInt": "32768",
             "mode": "TETRA",
@@ -11858,9 +11858,10 @@
             "id": "9045909",
             "hash": "e86c9be52c462017aa055a527be495f7",
             "created": "2024-08-21 16:16:45",
-            "updated": "2024-09-18 22:45:49",
+            "updated": "2024-10-26 14:47:44",
             "statusInt": "1",
             "status": "WORKING",
+            "licenseExpiryDate": "2029-06-17",
             "modeInt": "2048",
             "mode": "MOTOTRBO",
             "bandInt": "16384",
@@ -11886,7 +11887,7 @@
                 "SP6DBX",
                 "SP6TKP"
             ],
-            "remarks": "CC.1 \nMotorola MTR2000 + duplexer Procom\nRaspberry Pi 3b+\nMMDVM repeater kit\nWraz z przemiennikiem zainstalowany został przekaznik APRS - SR6AJG",
+            "remarks": "CC.1 \nRX/TX: MOTOROLA MTR2000\nDuplexer: PROCOM DPF70/6-150\nFider: 7m, H-1000 BELDEN\nAntena: KATHREIN K 7516211, 7dBi\nRaspberry Pi 3b+\nMMDVM repeater kit\nWraz z przemiennikiem zainstalowany został przekaznik APRS - SR6AJG",
             "link": "http://przemienniki.net/przemienniki/70cm/SR6DJG",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045909"
@@ -15779,9 +15780,9 @@
             "id": "5726728",
             "hash": "27bb61665df5c231e0085ae6a3f32945",
             "created": "2010-11-13 02:11:50",
-            "updated": "2023-06-09 18:03:58",
-            "statusInt": "4",
-            "status": "UNKNOWN",
+            "updated": "2024-10-26 14:48:19",
+            "statusInt": "1",
+            "status": "WORKING",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "4096",
@@ -15804,10 +15805,12 @@
                 "tx": "77.0"
             },
             "trxPower": "10.00",
+            "operator": "SP7KED",
             "link": [
                 "http://przemienniki.net/przemienniki/2m/SR7W",
                 "http://mnenz5pjlr7m.az.pl/sp7ked/07/07-1.html",
-                "http://mnenz5pjlr7m.az.pl/sp7ked/00/mapka.html"
+                "http://mnenz5pjlr7m.az.pl/sp7ked/00/mapka.html",
+                "https://sp7ked.pl/przemienniki/"
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5726728"
@@ -17976,9 +17979,9 @@
             "id": "2604638",
             "hash": "61ad1fd2427ead60150692f028845058",
             "created": "2010-11-13 02:11:50",
-            "updated": "2022-07-29 18:59:58",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2024-10-26 14:47:56",
+            "statusInt": "2",
+            "status": "DISABLED",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "4096",
@@ -19924,9 +19927,9 @@
             "id": "9044984",
             "hash": "0b2c19a981340f617e4fd13d3608682a",
             "created": "2018-08-27 12:25:58",
-            "updated": "2024-01-05 17:17:50",
-            "statusInt": "4",
-            "status": "UNKNOWN",
+            "updated": "2024-10-26 14:50:34",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2021-07-12",
             "modeInt": "10276",
             "mode": [
@@ -19958,7 +19961,6 @@
             "trxPower": "10.00",
             "operator": [
                 "SQ9GOL",
-                "SQ9JDO",
                 "SQ9WDZ",
                 "SQ9MYX"
             ],
