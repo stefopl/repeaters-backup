@@ -3,8 +3,8 @@
 <rxf version="1.0">
 	<link rel="self" href="http://przemienniki.net/export/rxf.xml" type="appliction/xml"/>
 	<link>http://przemienniki.net</link>
-	<updated>2024-10-26 14:50:34</updated>
-	<generated>2024-10-27 02:43:30</generated>
+	<updated>2024-10-27 19:32:32</updated>
+	<generated>2024-10-28 01:42:11</generated>
 	<generator>przemienniki.net v.2.12.0 (2019/02/04)</generator>
 	<dictionary>
 		<item>
@@ -13569,9 +13569,9 @@ Obiekt: Lokalizacja wieży na terenie Świętokrzyskiego Parku Narodowego. Otwar
 			<id>6631891</id>
 			<hash>a052392654074e108a5a9b2e67a9afbb</hash>
 			<created>2010-11-13 02:11:50</created>
-			<updated>2024-06-01 12:08:59</updated>
-			<statusInt>2</statusInt>
-			<status>DISABLED</status>
+			<updated>2024-10-27 19:32:32</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
 			<modeInt>4</modeInt>
 			<mode>FM</mode>
 			<bandInt>16384</bandInt>
@@ -13593,7 +13593,7 @@ Obiekt: Lokalizacja wieży na terenie Świętokrzyskiego Parku Narodowego. Otwar
 			<ctcss type="rx">88.5</ctcss>
 			<ctcss type="tx">88.5</ctcss>
 			<operator>SP7UDB</operator>
-			<remarks><![CDATA[Od kilku tygodni nie działa.]]></remarks>
+			<remarks><![CDATA[Ponownie działa.]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR7KP</link>
 			<link>http://sp7pki.iq24.pl/default.asp?grupa=96478&amp;temat=43583</link>
 			<source>przemienniki.net</source>

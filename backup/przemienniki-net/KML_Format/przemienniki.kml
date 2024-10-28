@@ -3131,6 +3131,21 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
+						<name>SR7KP</name>
+						<Point>
+							<coordinates>20.665477,50.895799</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik FM pasma 70cm<br />
+							QTH: Kielce<br />
+							QRG: TX: 439,4250 MHz, RX: 431,8250 MHz
+							<br />
+							Aktywowanie: CTCSS (88.5 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR7KP">przemienniki.net/przemienniki/70cm/SR7KP</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
 						<name>SR7KU</name>
 						<Point>
 							<coordinates>19.375715,52.230773</coordinates>
@@ -5564,21 +5579,6 @@
 							<br />
 							Aktywowanie: nośną<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR5YM">przemienniki.net/przemienniki/70cm/SR5YM</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>SR7KP</name>
-						<Point>
-							<coordinates>20.665477,50.895799</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik FM pasma 70cm<br />
-							QTH: Kielce<br />
-							QRG: TX: 439,4250 MHz, RX: 431,8250 MHz
-							<br />
-							Aktywowanie: CTCSS (88.5 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR7KP">przemienniki.net/przemienniki/70cm/SR7KP</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>

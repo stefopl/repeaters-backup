@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<repeaters update="2024-10-26 14:50:34" version="0.1">
+<repeaters update="2024-10-27 19:32:32" version="0.1">
 
 
 	<repeater
@@ -9069,7 +9069,7 @@ Obiekt: Lokalizacja wieży na terenie Świętokrzyskiego Parku Narodowego. Otwar
 		location=""
 		locator="KO00HV"
 		type="FM"
-		status="OFF"
+		status="OPERATIONAL"
 		latitude="50.895799"
 		longitude="20.665477"
 		opening="CTCSS"
@@ -9078,7 +9078,7 @@ Obiekt: Lokalizacja wieży na terenie Świętokrzyskiego Parku Narodowego. Otwar
 		antenna=""
 		alt_npm="320"
 		alt_npg="35"
-		description="Od kilku tygodni nie działa."
+		description="Ponownie działa."
 		/>
 
 
