@@ -31206,7 +31206,7 @@
         },
         "przemienniki_eu": {
             "Callsign": "SR9JG",
-            "Modes": "fm",
+            "Modes": "fm, fmpoland",
             "TX Frequency": "439.4625",
             "TX CTCSS": "71.9",
             "RX Frequency": "431.8625",
@@ -31214,10 +31214,10 @@
             "RX 1750": "false",
             "Duplex": "-",
             "Offset": "7.6",
-            "Status": "inprogress",
-            "Latitude": "0",
-            "Longitude": "0",
-            "QTH": "Czestochowa"
+            "Status": "working",
+            "Latitude": "50.70491",
+            "Longitude": "19.28541",
+            "QTH": "Biskupice"
         },
         "UKE_individual_devices": {
             "number": "DC.WML.5101.4492.2023.4",

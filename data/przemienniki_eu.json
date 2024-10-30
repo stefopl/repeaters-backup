@@ -7373,7 +7373,7 @@
         "Latitude": "49.96557",
         "Longitude": "21.99461",
         "QTH": "Rzeszow",
-        "edit_date": "2024-10-29"
+        "edit_date": "2024-10-30"
     },
     "SR8Z": {
         "Callsign": "SR8Z",
@@ -8001,7 +8001,7 @@
     },
     "SR9JG": {
         "Callsign": "SR9JG",
-        "Modes": "fm",
+        "Modes": "fm, fmpoland",
         "TX Frequency": "439.4625",
         "TX CTCSS": "71.9",
         "RX Frequency": "431.8625",
@@ -8009,11 +8009,11 @@
         "RX 1750": "false",
         "Duplex": "-",
         "Offset": "7.6",
-        "Status": "inprogress",
-        "Latitude": "0",
-        "Longitude": "0",
-        "QTH": "Czestochowa",
-        "edit_date": "2023-01-01"
+        "Status": "working",
+        "Latitude": "50.70491",
+        "Longitude": "19.28541",
+        "QTH": "Biskupice",
+        "edit_date": "2024-10-30"
     },
     "SR9JK": {
         "Callsign": "SR9JK",
