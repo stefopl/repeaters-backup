@@ -3581,21 +3581,6 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
-						<name>SR8CH</name>
-						<Point>
-							<coordinates>23.472208,51.131860</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik Echolink+FM pasma 70cm<br />
-							QTH: Chełm<br />
-							QRG: TX: 438,6750 MHz, RX: 431,0750 MHz
-							<br />
-							Aktywowanie: CTCSS (77.0 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR8CH">przemienniki.net/przemienniki/70cm/SR8CH</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
 						<name>SR8DE</name>
 						<Point>
 							<coordinates>21.446086,49.964483</coordinates>
@@ -5654,6 +5639,21 @@
 							<br />
 							Aktywowanie: b.d.<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR8BI">przemienniki.net/przemienniki/70cm/SR8BI</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>SR8CH</name>
+						<Point>
+							<coordinates>23.472208,51.131860</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik Echolink+FM pasma 70cm<br />
+							QTH: Chełm<br />
+							QRG: TX: 438,6750 MHz, RX: 431,0750 MHz
+							<br />
+							Aktywowanie: CTCSS (77.0 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR8CH">przemienniki.net/przemienniki/70cm/SR8CH</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
@@ -19969,7 +19969,7 @@
 					<Placemark>
 						<name>DB0TT</name>
 						<Point>
-							<coordinates>7.541667,51.479167</coordinates>
+							<coordinates>7.543422,51.462067</coordinates>
 						</Point>
 						<styleUrl>#BAND_70CM</styleUrl>
 						<description><![CDATA[
@@ -20458,7 +20458,7 @@
 					<Placemark>
 						<name>DB0DO</name>
 						<Point>
-							<coordinates>7.541667,51.479167</coordinates>
+							<coordinates>7.143472,51.453936</coordinates>
 						</Point>
 						<styleUrl>#BAND_2M</styleUrl>
 						<description><![CDATA[

@@ -5,8 +5,8 @@
         },
         "http://przemienniki.net"
     ],
-    "updated": "2024-11-07 04:11:45",
-    "generated": "2024-11-07 13:14:53",
+    "updated": "2024-11-07 21:30:38",
+    "generated": "2024-11-08 01:39:05",
     "generator": "przemienniki.net v.2.12.0 (2019/02/04)",
     "dictionary": {
         "item": [
@@ -16351,9 +16351,9 @@
             "id": "3341611",
             "hash": "e8c80542553e153848fc4d25e04838b0",
             "created": "2010-12-26 16:48:24",
-            "updated": "2020-01-16 14:28:09",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2024-11-07 15:08:55",
+            "statusInt": "2",
+            "status": "DISABLED",
             "licenseExpiryDate": "2023-08-16",
             "modeInt": "1028",
             "mode": [
@@ -24052,7 +24052,7 @@
             "id": "9006124",
             "hash": null,
             "created": "2015-03-03 11:45:40",
-            "updated": "2015-03-03 11:45:55",
+            "updated": "2024-11-07 21:30:38",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "4",
@@ -24066,7 +24066,11 @@
             "country": "de",
             "qth": "Dortmund",
             "location": {
-                "locator": "JO31SL"
+                "locator": "JO31NK",
+                "latitude": "51.453936",
+                "longitude": "7.143472",
+                "altitudeOverSea": "106",
+                "altitudeOverGround": "130"
             },
             "activationInt": "256",
             "activation": "CTCSS",
@@ -24076,7 +24080,12 @@
             },
             "trxPower": "9.00",
             "operator": "DF1VB",
-            "link": "http://przemienniki.net/przemienniki/2m/DB0DO",
+            "remarks": "TV Tower",
+            "link": [
+                "http://przemienniki.net/przemienniki/2m/DB0DO",
+                "http://www.db0tt.de/",
+                "https://www.relaisgruppe-ruhr.de/index.php/db0do-fm-relais/"
+            ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006124"
         },
@@ -26335,7 +26344,7 @@
             "id": "9006123",
             "hash": null,
             "created": "2015-03-03 11:44:59",
-            "updated": "2015-03-03 11:45:15",
+            "updated": "2024-11-07 21:24:37",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "4",
@@ -26350,7 +26359,9 @@
             "qth": "Dortmund",
             "location": {
                 "locator": "JO31SL",
-                "altitudeOverSea": "340",
+                "latitude": "51.462067",
+                "longitude": "7.543422",
+                "altitudeOverSea": "210",
                 "altitudeOverGround": "130"
             },
             "activationInt": "256",
@@ -26364,7 +26375,8 @@
             "remarks": "TV Tower",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/DB0TT",
-                "http://www.db0tt.de"
+                "http://www.db0tt.de",
+                "https://www.relaisgruppe-ruhr.de/index.php/db0tt-fm-relais/"
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006123"

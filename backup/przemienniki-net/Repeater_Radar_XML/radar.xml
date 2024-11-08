@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<repeaters update="2024-11-07 04:11:45" version="0.1">
+<repeaters update="2024-11-07 21:30:38" version="0.1">
 
 
 	<repeater
@@ -10345,7 +10345,7 @@ Anteny GP 1/4"
 		location=""
 		locator="KO11RD"
 		type="FM"
-		status="OPERATIONAL"
+		status="OFF"
 		latitude="51.131860"
 		longitude="23.472208"
 		opening="CTCSS"
