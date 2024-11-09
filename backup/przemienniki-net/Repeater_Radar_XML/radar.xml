@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<repeaters update="2024-11-08 04:08:54" version="0.1">
+<repeaters update="2024-11-08 22:57:31" version="0.1">
 
 
 	<repeater
@@ -5239,16 +5239,15 @@ Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz."
 		antenna=""
 		alt_npm="176"
 		alt_npg="12"
-		description="Hotspot publiczny FM Poland.
-Monitorowane grupy: 112,260,2600,260077,260497
-Dostępne komendy DTMF:
-1# - lokalne echo (po testach należy rozlinkować komendą #)
-91xxx# - linkowanie grupy gdzie XXX to numer grupy np. 91260# - Ogólnopolska
-60# - pogoda dla Suwałk
-61# - ostrzeżenia pogodowe dla Suwałk o okolic
+		description="1# - lokalne echo (po testach należy rozlinkować komendą #)
+60# - pogoda dla Suwałk i okolic
+61# - ostrzeżenia pogodowe dla Suwałk i okolic
 62# - warunki propagacji
-63# - stopień zagrożenia pożarowego lasów
-64# - stan rzeki Czarna Hańcza (stacja Bród Stary)"
+63# - stopień zagrożenia pożarowego lasów (rejon 1_C Suwałki)
+64# - stan rzeki Czarna Hańcza (stacja Bród Stary)
+*# - identyfikacja przemiennika
+91xxx# - linkowanie grupy xxx
+910# - rozłączenie grupy (grupa 0)"
 		/>
 
 

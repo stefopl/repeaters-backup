@@ -3,8 +3,8 @@
 <rxf version="1.0">
 	<link rel="self" href="http://przemienniki.net/export/rxf.xml" type="appliction/xml"/>
 	<link>http://przemienniki.net</link>
-	<updated>2024-11-08 04:08:54</updated>
-	<generated>2024-11-08 13:15:03</generated>
+	<updated>2024-11-08 22:57:31</updated>
+	<generated>2024-11-09 01:38:13</generated>
 	<generator>przemienniki.net v.2.12.0 (2019/02/04)</generator>
 	<dictionary>
 		<item>
@@ -7929,7 +7929,7 @@ Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.]]></remarks>
 			<id>9045900</id>
 			<hash>c528b8b0a741980c1a80186b4cb65959</hash>
 			<created>2024-08-05 10:38:19</created>
-			<updated>2024-08-05 10:38:19</updated>
+			<updated>2024-11-08 22:57:31</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<licenseExpiryDate>2029-06-14</licenseExpiryDate>
@@ -7955,17 +7955,17 @@ Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.]]></remarks>
 			<ctcss type="tx">67.0</ctcss>
 			<trxPower>5.00</trxPower>
 			<operator>SP4MN</operator>
-			<remarks><![CDATA[Hotspot publiczny FM Poland.
-Monitorowane grupy: 112,260,2600,260077,260497
-Dostępne komendy DTMF:
-1# - lokalne echo (po testach należy rozlinkować komendą #)
-91xxx# - linkowanie grupy gdzie XXX to numer grupy np. 91260# - Ogólnopolska
-60# - pogoda dla Suwałk
-61# - ostrzeżenia pogodowe dla Suwałk o okolic
+			<remarks><![CDATA[1# - lokalne echo (po testach należy rozlinkować komendą #)
+60# - pogoda dla Suwałk i okolic
+61# - ostrzeżenia pogodowe dla Suwałk i okolic
 62# - warunki propagacji
-63# - stopień zagrożenia pożarowego lasów
-64# - stan rzeki Czarna Hańcza (stacja Bród Stary)]]></remarks>
+63# - stopień zagrożenia pożarowego lasów (rejon 1_C Suwałki)
+64# - stan rzeki Czarna Hańcza (stacja Bród Stary)
+*# - identyfikacja przemiennika
+91xxx# - linkowanie grupy xxx
+910# - rozłączenie grupy (grupa 0)]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR4SUW</link>
+			<link>http://sr4suw.cba.pl</link>
 			<source>przemienniki.net</source>
 			<feedback>http://przemienniki.net/zglos/9045900</feedback>
 		</repeater>
@@ -22448,7 +22448,7 @@ DO6NC-L svxLink to DB0CBS]]></remarks>
 			<id>9006124</id>
 			<hash></hash>
 			<created>2015-03-03 11:45:40</created>
-			<updated>2024-11-07 21:30:38</updated>
+			<updated>2024-11-08 22:56:53</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<modeInt>4</modeInt>
@@ -22460,10 +22460,10 @@ DO6NC-L svxLink to DB0CBS]]></remarks>
 			<country>de</country>
 			<qth><![CDATA[Dortmund]]></qth>
 			<location>
-				<locator>JO31NK</locator>
-				<latitude>51.453936</latitude>
-				<longitude>7.143472</longitude>
-				<altitudeOverSea>106</altitudeOverSea>
+				<locator>JO31SL</locator>
+				<latitude>51.462067</latitude>
+				<longitude>7.543422</longitude>
+				<altitudeOverSea>210</altitudeOverSea>
 				<altitudeOverGround>130</altitudeOverGround>
 			</location>
 			<activationInt>256</activationInt>
@@ -22475,8 +22475,9 @@ DO6NC-L svxLink to DB0CBS]]></remarks>
 			<operator>DF1VB</operator>
 			<remarks><![CDATA[TV Tower]]></remarks>
 			<link>http://przemienniki.net/przemienniki/2m/DB0DO</link>
-			<link>http://www.db0tt.de/</link>
 			<link>https://www.relaisgruppe-ruhr.de/index.php/db0do-fm-relais/</link>
+			<link>https://db0tt.radioreference.de/index.html</link>
+			<link>https://de.wikipedia.org/wiki/Fernmeldeturm_Schwerte</link>
 			<source>przemienniki.net</source>
 			<feedback>http://przemienniki.net/zglos/9006124</feedback>
 		</repeater>
