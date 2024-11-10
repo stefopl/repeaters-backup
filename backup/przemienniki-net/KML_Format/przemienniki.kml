@@ -9113,21 +9113,6 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
-						<name>GB3SA</name>
-						<Point>
-							<coordinates>-3.970000,51.630000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8750 MHz, RX: 438,4750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/DSTAR/DV/GB3SA">przemienniki.net/przemienniki/70cm/DSTAR/DV/GB3SA</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
 						<name>GB3SO</name>
 						<Point>
 							<coordinates>0.030000,53.740000</coordinates>
@@ -11843,6 +11828,21 @@
 							<br />
 							Aktywowanie: CTCSS (118.8 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/FM/GB3SA">przemienniki.net/przemienniki/70cm/FM/GB3SA</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3SA</name>
+						<Point>
+							<coordinates>-3.970000,51.630000</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,8750 MHz, RX: 438,4750 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/DSTAR/DV/GB3SA">przemienniki.net/przemienniki/70cm/DSTAR/DV/GB3SA</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
@@ -18362,21 +18362,6 @@
 							<br />
 							Aktywowanie: b.d.<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3CO">przemienniki.net/przemienniki/2m/GB3CO</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3GO</name>
-						<Point>
-							<coordinates>-3.850000,53.330000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7875 MHz, RX: 145,1875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3GO">przemienniki.net/przemienniki/2m/GB3GO</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
