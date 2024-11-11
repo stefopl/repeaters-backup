@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<repeaters update="2024-11-10 18:46:42" version="0.1">
+<repeaters update="2024-11-11 08:23:51" version="0.1">
 
 
 	<repeater
@@ -8220,13 +8220,13 @@ slot 2: brak subskrypcji"
 		band="70cm"
 		ctcss="0"
 		tx_power=""
-		city="Strzelce Opolskie"
+		city="STRZELCE OPOLSKIE"
 		location=""
-		locator="JO90PM"
+		locator="JO90DM"
 		type="DMR"
 		status="OPERATIONAL"
-		latitude="50.512678"
-		longitude="19.292895"
+		latitude="50.512600"
+		longitude="18.293043"
 		opening="CARRIER"
 		echolink=""
 		URL="70cm/SR6SO"

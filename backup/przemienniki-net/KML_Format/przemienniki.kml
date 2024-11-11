@@ -2758,12 +2758,12 @@
 					<Placemark>
 						<name>SR6SO</name>
 						<Point>
-							<coordinates>19.292895,50.512678</coordinates>
+							<coordinates>18.293043,50.512600</coordinates>
 						</Point>
 						<styleUrl>#BAND_70CM</styleUrl>
 						<description><![CDATA[
 							Przemiennik DMR pasma 70cm<br />
-							QTH: Strzelce Opolskie<br />
+							QTH: STRZELCE OPOLSKIE<br />
 							QRG: TX: 439,4125 MHz, RX: 431,8125 MHz
 							<br />
 							Aktywowanie: nośną<br /><br />
@@ -9335,6 +9335,21 @@
 							<br />
 							Aktywowanie: b.d.<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/DSTAR/DV/GB7HI/9045500">przemienniki.net/przemienniki/70cm/DSTAR/DV/GB7HI/9045500</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7IA</name>
+						<Point>
+							<coordinates>-4.660000,53.310000</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,9000 MHz, RX: 438,5000 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7IA">przemienniki.net/przemienniki/70cm/GB7IA</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
