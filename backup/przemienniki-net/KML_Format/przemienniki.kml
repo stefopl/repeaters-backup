@@ -401,21 +401,6 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
-						<name>SR2BY</name>
-						<Point>
-							<coordinates>17.990141,53.109270</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik FM pasma 70cm<br />
-							QTH: Bydgoszcz<br />
-							QRG: TX: 438,7250 MHz, RX: 431,1250 MHz
-							<br />
-							Aktywowanie: ton 1750Hz, CTCSS (67.0 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR2BY">przemienniki.net/przemienniki/70cm/SR2BY</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
 						<name>SR2DCH</name>
 						<Point>
 							<coordinates>17.379398,53.660436</coordinates>
@@ -2528,21 +2513,6 @@
 							<br />
 							Aktywowanie: nośną<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR6DKB">przemienniki.net/przemienniki/70cm/SR6DKB</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>SR6DMR</name>
-						<Point>
-							<coordinates>17.067787,51.114774</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DMR pasma 70cm<br />
-							QTH: Wrocław<br />
-							QRG: TX: 438,4875 MHz, RX: 430,8875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR6DMR">przemienniki.net/przemienniki/70cm/SR6DMR</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
@@ -5177,6 +5147,21 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
+						<name>SR2BY</name>
+						<Point>
+							<coordinates>17.990141,53.109270</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik FM pasma 70cm<br />
+							QTH: Bydgoszcz<br />
+							QRG: TX: 438,7250 MHz, RX: 431,1250 MHz
+							<br />
+							Aktywowanie: ton 1750Hz, CTCSS (67.0 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR2BY">przemienniki.net/przemienniki/70cm/SR2BY</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
 						<name>SR2GD</name>
 						<Point>
 							<coordinates>18.665793,54.347040</coordinates>
@@ -5564,6 +5549,21 @@
 							<br />
 							Aktywowanie: nośną<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR5YM">przemienniki.net/przemienniki/70cm/SR5YM</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>SR6DMR</name>
+						<Point>
+							<coordinates>17.067787,51.114774</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DMR pasma 70cm<br />
+							QTH: Wrocław<br />
+							QRG: TX: 438,4875 MHz, RX: 430,8875 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR6DMR">przemienniki.net/przemienniki/70cm/SR6DMR</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
@@ -6737,6 +6737,21 @@
 							<br />
 							Aktywowanie: CTCSS (82.5 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR1S">przemienniki.net/przemienniki/2m/SR1S</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>SR2R</name>
+						<Point>
+							<coordinates>18.291667,52.812500</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik FM pasma 2m<br />
+							QTH: Inowrocław<br />
+							QRG: TX: 145,6500 MHz, RX: 145,0500 MHz
+							<br />
+							Aktywowanie: CTCSS (67.0 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR2R">przemienniki.net/przemienniki/2m/SR2R</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
@@ -8322,22 +8337,25 @@
 					</Placemark>
 				</Folder>
 				<Folder>
-					<name>planowany</name>
+					<name>nieznany</name>
 					<Placemark>
-						<name>SR2R</name>
+						<name>SR2UVT-C</name>
 						<Point>
-							<coordinates>18.291667,52.812500</coordinates>
+							<coordinates>17.875000,53.604167</coordinates>
 						</Point>
 						<styleUrl>#BAND_2M</styleUrl>
 						<description><![CDATA[
-							Przemiennik FM pasma 2m<br />
-							QTH: Inowrocław<br />
-							QRG: TX: 145,6500 MHz, RX: 145,0500 MHz
+							Przemiennik DSTAR/DV pasma 2m<br />
+							QTH: Tuchola<br />
+							QRG: TX: 145,6625 MHz, RX: 145,0625 MHz
 							<br />
-							Aktywowanie: CTCSS (67.0 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR2R">przemienniki.net/przemienniki/2m/SR2R</a><br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR2UVT-C">przemienniki.net/przemienniki/2m/SR2UVT-C</a><br />
 						]]></description>
 					</Placemark>
+				</Folder>
+				<Folder>
+					<name>planowany</name>
 					<Placemark>
 						<name>SR3A</name>
 						<Point>
@@ -8366,24 +8384,6 @@
 							<br />
 							Aktywowanie: nośną, CTCSS (127.3 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR5DV">przemienniki.net/przemienniki/2m/SR5DV</a><br />
-						]]></description>
-					</Placemark>
-				</Folder>
-				<Folder>
-					<name>nieznany</name>
-					<Placemark>
-						<name>SR2UVT-C</name>
-						<Point>
-							<coordinates>17.875000,53.604167</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: Tuchola<br />
-							QRG: TX: 145,6625 MHz, RX: 145,0625 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR2UVT-C">przemienniki.net/przemienniki/2m/SR2UVT-C</a><br />
 						]]></description>
 					</Placemark>
 				</Folder>

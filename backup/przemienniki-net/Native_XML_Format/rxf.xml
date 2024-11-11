@@ -3,8 +3,8 @@
 <rxf version="1.0">
 	<link rel="self" href="http://przemienniki.net/export/rxf.xml" type="appliction/xml"/>
 	<link>http://przemienniki.net</link>
-	<updated>2024-11-10 04:08:35</updated>
-	<generated>2024-11-10 13:13:15</generated>
+	<updated>2024-11-10 18:46:42</updated>
+	<generated>2024-11-11 01:40:50</generated>
 	<generator>przemienniki.net v.2.12.0 (2019/02/04)</generator>
 	<dictionary>
 		<item>
@@ -1841,9 +1841,9 @@ Antena: X300]]></remarks>
 			<id>1678166</id>
 			<hash>f4c47c60c8198b8d430a54c07030ef78</hash>
 			<created>2010-11-13 02:11:50</created>
-			<updated>2024-07-27 17:30:41</updated>
-			<statusInt>1</statusInt>
-			<status>WORKING</status>
+			<updated>2024-11-10 18:31:08</updated>
+			<statusInt>2</statusInt>
+			<status>DISABLED</status>
 			<modeInt>4</modeInt>
 			<mode>FM</mode>
 			<bandInt>16384</bandInt>
@@ -2660,7 +2660,7 @@ Emitel RTCN Chwaszczyno]]></remarks>
 			<id>8996897</id>
 			<hash>91de84a3a12f5e10804be8acf65eef24</hash>
 			<created>2012-01-17 21:15:29</created>
-			<updated>2024-03-22 12:38:56</updated>
+			<updated>2024-11-10 18:30:55</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<licenseExpiryDate>2028-03-14</licenseExpiryDate>
@@ -2686,11 +2686,7 @@ Emitel RTCN Chwaszczyno]]></remarks>
 			<ctcss type="tx">74.4</ctcss>
 			<trxPower>15.00</trxPower>
 			<operator>SP2GG</operator>
-			<remarks><![CDATA[Północna sieć przemienników analogowych FM ""MiniLINK"
-Służyć ma ona łatwemu nawiązywaniu łączności pomiędzy stacjami w północnej Polsce.
-Sieć składa się z grupy przemienników połączonych ze sobą w trwały sposób.
-Dzięki temu zawsze każdy korespondent jest słyszany jednocześnie na wszystkich przemiennikach naszej sieci.
-Aktualnie sieć składa się z 12 przemienników: SR2PA, SR2GDA, SR2GD, SR2VV, SR2JJ , SR2EL, SR4OS, SR4MO, SR4DM, SR4LU, SR4PA , SR4BA]]></remarks>
+			<remarks><![CDATA[Kujawsko-Pomorska Sieć Radiowa]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR2JJ</link>
 			<link>https://www.facebook.com/profile.php?id=100064510003135</link>
 			<source>przemienniki.net</source>
@@ -3003,9 +2999,9 @@ RX Yeasu FTL-2011 - X300]]></remarks>
 			<id>9044925</id>
 			<hash></hash>
 			<created>2017-06-12 07:44:15</created>
-			<updated>2017-06-12 07:44:16</updated>
-			<statusInt>32</statusInt>
-			<status>PLANNED</status>
+			<updated>2024-11-10 18:31:28</updated>
+			<statusInt>2</statusInt>
+			<status>DISABLED</status>
 			<licenseExpiryDate>2022-05-26</licenseExpiryDate>
 			<modeInt>4</modeInt>
 			<mode>FM</mode>
@@ -3391,7 +3387,7 @@ RPT2: SR2UVT_G]]></remarks>
 			<id>9005879</id>
 			<hash></hash>
 			<created>2014-12-09 13:56:45</created>
-			<updated>2024-06-19 22:19:50</updated>
+			<updated>2024-11-10 18:46:42</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<licenseExpiryDate>2025-01-31</licenseExpiryDate>
@@ -3417,7 +3413,7 @@ RPT2: SR2UVT_G]]></remarks>
 			<ctcss type="tx">74.4</ctcss>
 			<trxPower>15.00</trxPower>
 			<operator>SP2GG</operator>
-			<operator>SP2MMX</operator>
+			<remarks><![CDATA[Kujawsko-Pomorska Sieć Radiowa]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR2VV</link>
 			<source>przemienniki.net</source>
 			<feedback>http://przemienniki.net/zglos/9005879</feedback>
@@ -3427,7 +3423,7 @@ RPT2: SR2UVT_G]]></remarks>
 			<id>9045142</id>
 			<hash></hash>
 			<created>2020-02-04 18:42:13</created>
-			<updated>2024-02-11 22:20:54</updated>
+			<updated>2024-11-10 18:26:55</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<licenseExpiryDate>2025-01-31</licenseExpiryDate>
@@ -3456,12 +3452,8 @@ RPT2: SR2UVT_G]]></remarks>
 			<trxPower>10.00</trxPower>
 			<operator>SP2GG</operator>
 			<echolink>147214</echolink>
-			<remarks><![CDATA[Północna sieć przemienników analogowych FM ""MiniLINK"
-Służyć ma ona łatwemu nawiązywaniu łączności pomiędzy stacjami w północnej Polsce.
-Sieć składa się z grupy przemienników połączonych ze sobą w trwały sposób.
-Dzięki temu zawsze każdy korespondent jest słyszany jednocześnie na wszystkich przemiennikach naszej sieci.
-Aktualnie sieć składa się z 12 przemienników: SR2PA, SR2GDA, SR2GD, SR2VV, SR2JJ , SR2EL, SR4OS, SR4MO, SR4DM, SR4LU, SR4PA , SR4BA
--może chwilowo też pracować w D-star i  DMR]]></remarks>
+			<remarks><![CDATA[Kujawsko-Pomorska Sieć Radiowa
+Przemiennik D-Star+DMR+FM]]></remarks>
 			<link>http://przemienniki.net/przemienniki/2m/SR2VV-B</link>
 			<source>przemienniki.net</source>
 			<feedback>http://przemienniki.net/zglos/9045142</feedback>
@@ -11404,9 +11396,9 @@ Wraz z przemiennikiem zainstalowany został przekaznik APRS - SR6AJG]]></remarks
 			<id>9003122</id>
 			<hash>bc03a4a0503d73828da8f27390ad7fb8</hash>
 			<created>2014-09-24 23:19:26</created>
-			<updated>2021-06-14 20:07:54</updated>
-			<statusInt>1</statusInt>
-			<status>WORKING</status>
+			<updated>2024-11-10 18:26:43</updated>
+			<statusInt>2</statusInt>
+			<status>DISABLED</status>
 			<modeInt>2048</modeInt>
 			<mode>MOTOTRBO</mode>
 			<bandInt>16384</bandInt>

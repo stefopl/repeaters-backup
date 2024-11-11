@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<repeaters update="2024-11-10 04:08:35" version="0.1">
+<repeaters update="2024-11-10 18:46:42" version="0.1">
 
 
 	<repeater
@@ -1157,7 +1157,7 @@ Antena: X300"
 		location=""
 		locator="JO83XC"
 		type="FM"
-		status="OPERATIONAL"
+		status="OFF"
 		latitude="53.109270"
 		longitude="17.990141"
 		opening="1750HZ+CTSS"
@@ -1705,11 +1705,7 @@ Emitel RTCN Chwaszczyno"
 		antenna=""
 		alt_npm="202"
 		alt_npg="40"
-		description="Północna sieć przemienników analogowych FM &quot;&quot;MiniLINK&quot;
-Służyć ma ona łatwemu nawiązywaniu łączności pomiędzy stacjami w północnej Polsce.
-Sieć składa się z grupy przemienników połączonych ze sobą w trwały sposób.
-Dzięki temu zawsze każdy korespondent jest słyszany jednocześnie na wszystkich przemiennikach naszej sieci.
-Aktualnie sieć składa się z 12 przemienników: SR2PA, SR2GDA, SR2GD, SR2VV, SR2JJ , SR2EL, SR4OS, SR4MO, SR4DM, SR4LU, SR4PA , SR4BA"
+		description="Kujawsko-Pomorska Sieć Radiowa"
 		/>
 
 
@@ -1939,7 +1935,7 @@ RX Yeasu FTL-2011 - X300"
 		location=""
 		locator="JO92DT"
 		type="FM"
-		status="PLANED"
+		status="OFF"
 		latitude=""
 		longitude=""
 		opening="CTCSS"
@@ -2179,7 +2175,7 @@ DMR Color Code 1"
 		antenna=""
 		alt_npm="120"
 		alt_npg="20"
-		description=""
+		description="Kujawsko-Pomorska Sieć Radiowa"
 		/>
 
 
@@ -2204,12 +2200,8 @@ DMR Color Code 1"
 		antenna=""
 		alt_npm="120"
 		alt_npg="20"
-		description="Północna sieć przemienników analogowych FM &quot;&quot;MiniLINK&quot;
-Służyć ma ona łatwemu nawiązywaniu łączności pomiędzy stacjami w północnej Polsce.
-Sieć składa się z grupy przemienników połączonych ze sobą w trwały sposób.
-Dzięki temu zawsze każdy korespondent jest słyszany jednocześnie na wszystkich przemiennikach naszej sieci.
-Aktualnie sieć składa się z 12 przemienników: SR2PA, SR2GDA, SR2GD, SR2VV, SR2JJ , SR2EL, SR4OS, SR4MO, SR4DM, SR4LU, SR4PA , SR4BA
--może chwilowo też pracować w D-star i  DMR"
+		description="Kujawsko-Pomorska Sieć Radiowa
+Przemiennik D-Star+DMR+FM"
 		/>
 
 
@@ -7557,7 +7549,7 @@ Wraz z przemiennikiem zainstalowany został przekaznik APRS - SR6AJG"
 		location=""
 		locator="JO81MC"
 		type="DMR"
-		status="OPERATIONAL"
+		status="OFF"
 		latitude="51.114774"
 		longitude="17.067787"
 		opening="OTHER"
