@@ -49314,6 +49314,35 @@
             "station_location": "Warszawa"
         }
     },
+    "SR7SZ": {
+        "przemienniki_eu": {
+            "Callsign": "SR7SZ",
+            "Modes": "fm",
+            "TX Frequency": "439.1875",
+            "TX CTCSS": "110.9",
+            "RX Frequency": "431.5875",
+            "RX CTCSS": "110.9",
+            "RX 1750": "false",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "working",
+            "Latitude": "50.55339",
+            "Longitude": "21.07638",
+            "QTH": "Staszow - wieza Polkomtel Sp. z o.o."
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.1702.2024.4",
+            "valid_to": "2029-03-21",
+            "call_sign": "SR7SZ",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "145.0625, 431.5875",
+            "output_frequency": "145.6625, 439.1875",
+            "station_location": "Krzywo³êcz"
+        }
+    },
     "SR7USI": {
         "przemienniki_eu": {
             "Callsign": "SR7USI",
@@ -54722,20 +54751,6 @@
             "input_frequency": "144.8",
             "output_frequency": "144.8",
             "station_location": "Garwolin"
-        }
-    },
-    "SR7SZ": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.1702.2024.4",
-            "valid_to": "2029-03-21",
-            "call_sign": "SR7SZ",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "PrzemiennikFMDV",
-            "emission": "",
-            "input_frequency": "145.0625, 431.5875",
-            "output_frequency": "145.6625, 439.1875",
-            "station_location": "Krzywo³êcz"
         }
     },
     "SR23E": {
