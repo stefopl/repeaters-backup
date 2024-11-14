@@ -5,8 +5,8 @@
         },
         "http://przemienniki.net"
     ],
-    "updated": "2024-11-11 08:23:51",
-    "generated": "2024-11-11 13:15:30",
+    "updated": "2024-11-14 06:16:18",
+    "generated": "2024-11-14 13:22:51",
     "generator": "przemienniki.net v.2.12.0 (2019/02/04)",
     "dictionary": {
         "item": [
@@ -28560,7 +28560,7 @@
             },
             "trxPower": "8.50",
             "operator": "GM8IOA",
-            "link": "http://przemienniki.net/przemienniki/70cm/FM/GB3SA",
+            "link": "http://przemienniki.net/przemienniki/70cm/GB3SA",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045166"
         },
