@@ -8837,2892 +8837,6 @@
 			</Folder>
 		</Folder>
 		<Folder>
-			<name>Wlk. Brytania</name>
-			<Folder>
-				<name>Pasmo 70cm</name>
-				<Folder>
-					<name>nieznany</name>
-					<Placemark>
-						<name>2E0BJL</name>
-						<Point>
-							<coordinates>-0.270000,51.340000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,2625 MHz, RX: 439,2625 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/2E0BJL">przemienniki.net/przemienniki/70cm/2E0BJL</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>2M0SBP</name>
-						<Point>
-							<coordinates>-5.840000,56.910000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,7000 MHz, RX: 430,7000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/2M0SBP">przemienniki.net/przemienniki/70cm/2M0SBP</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>G3PWJ</name>
-						<Point>
-							<coordinates>-2.130000,52.450000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,2625 MHz, RX: 438,2625 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/G3PWJ">przemienniki.net/przemienniki/70cm/G3PWJ</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3BA</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,3250 MHz, RX: 434,9250 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3BA">przemienniki.net/przemienniki/70cm/GB3BA</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3CC</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9625 MHz, RX: 438,5625 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3CC">przemienniki.net/przemienniki/70cm/GB3CC</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3JM</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8750 MHz, RX: 438,4750 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3JM">przemienniki.net/przemienniki/70cm/GB3JM</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3NH</name>
-						<Point>
-							<coordinates>-0.890000,52.240000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9500 MHz, RX: 438,5500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3NH">przemienniki.net/przemienniki/70cm/GB3NH</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3OD</name>
-						<Point>
-							<coordinates>-3.840000,53.330000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,2875 MHz, RX: 439,2875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3OD">przemienniki.net/przemienniki/70cm/GB3OD</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PM</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9000 MHz, RX: 438,5000 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3PM">przemienniki.net/przemienniki/70cm/GB3PM</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3RC</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8625 MHz, RX: 438,4625 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3RC">przemienniki.net/przemienniki/70cm/GB3RC</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7AH</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5125 MHz, RX: 430,5125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7AH">przemienniki.net/przemienniki/70cm/GB7AH</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7FW</name>
-						<Point>
-							<coordinates>-1.070000,50.850000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6750 MHz, RX: 430,6750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7FW">przemienniki.net/przemienniki/70cm/GB7FW</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7HI</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,7375 MHz, RX: 430,7375 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/DSTAR/DV/GB7HI/9045500">przemienniki.net/przemienniki/70cm/DSTAR/DV/GB7HI/9045500</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7IA</name>
-						<Point>
-							<coordinates>-4.660000,53.310000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9000 MHz, RX: 438,5000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7IA">przemienniki.net/przemienniki/70cm/GB7IA</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7KR</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,2875 MHz, RX: 439,2875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7KR">przemienniki.net/przemienniki/70cm/GB7KR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7KS</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,2500 MHz, RX: 439,2500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7KS">przemienniki.net/przemienniki/70cm/GB7KS</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7LA</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4750 MHz, RX: 430,4750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7LA">przemienniki.net/przemienniki/70cm/GB7LA</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7LL</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5000 MHz, RX: 430,5000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7LL">przemienniki.net/przemienniki/70cm/GB7LL</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7MW</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4875 MHz, RX: 430,4875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7MW">przemienniki.net/przemienniki/70cm/GB7MW</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7RC</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,2625 MHz, RX: 439,2625 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7RC">przemienniki.net/przemienniki/70cm/GB7RC</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7RV</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6250 MHz, RX: 430,6250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7RV">przemienniki.net/przemienniki/70cm/GB7RV</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7ST</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4500 MHz, RX: 430,4500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7ST">przemienniki.net/przemienniki/70cm/GB7ST</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7YS</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,7125 MHz, RX: 430,7125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7YS">przemienniki.net/przemienniki/70cm/GB7YS</a><br />
-						]]></description>
-					</Placemark>
-				</Folder>
-				<Folder>
-					<name>działający</name>
-					<Placemark>
-						<name>2E0LNX</name>
-						<Point>
-							<coordinates>-1.130000,50.790000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4375 MHz, RX: 430,4375 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/2E0LNX">przemienniki.net/przemienniki/70cm/2E0LNX</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>2M0FPI</name>
-						<Point>
-							<coordinates>-2.100000,57.120000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,1500 MHz, RX: 430,1500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/2M0FPI">przemienniki.net/przemienniki/70cm/2M0FPI</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>EI7BHR</name>
-						<Point>
-							<coordinates>-6.125000,53.395833</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik FM pasma 70cm<br />
-							QTH: Dublin<br />
-							QRG: TX: 438,6000 MHz, RX: 431,0000 MHz
-							<br />
-							Aktywowanie: CTCSS (88.5 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/EI7BHR">przemienniki.net/przemienniki/70cm/EI7BHR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>EI7TRR</name>
-						<Point>
-							<coordinates>-6.208333,53.229167</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik FM pasma 70cm<br />
-							QTH: Dublin<br />
-							QRG: TX: 433,2250 MHz, RX: 434,8250 MHz
-							<br />
-							Aktywowanie: ton 1750Hz, CTCSS (88.5 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/EI7TRR">przemienniki.net/przemienniki/70cm/EI7TRR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>G4IPE</name>
-						<Point>
-							<coordinates>-0.690000,53.660000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9125 MHz, RX: 438,5125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/G4IPE">przemienniki.net/przemienniki/70cm/G4IPE</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>G5BSD</name>
-						<Point>
-							<coordinates>-0.150000,51.220000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9750 MHz, RX: 438,5750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/G5BSD">przemienniki.net/przemienniki/70cm/G5BSD</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3AB</name>
-						<Point>
-							<coordinates>-1.540000,53.420000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,3750 MHz, RX: 434,9750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3AB">przemienniki.net/przemienniki/70cm/GB3AB</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3AC</name>
-						<Point>
-							<coordinates>-2.510000,51.480000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9750 MHz, RX: 438,5750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3AC">przemienniki.net/przemienniki/70cm/GB3AC</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3AH</name>
-						<Point>
-							<coordinates>0.840000,52.660000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,2750 MHz, RX: 434,8750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3AH">przemienniki.net/przemienniki/70cm/GB3AH</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3AN</name>
-						<Point>
-							<coordinates>-4.300000,53.390000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,2000 MHz, RX: 434,8000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3AN">przemienniki.net/przemienniki/70cm/GB3AN</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3AU</name>
-						<Point>
-							<coordinates>-0.620000,51.650000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,1750 MHz, RX: 434,7750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3AU">przemienniki.net/przemienniki/70cm/GB3AU</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3AV</name>
-						<Point>
-							<coordinates>-0.810000,51.810000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,0500 MHz, RX: 434,6500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3AV">przemienniki.net/przemienniki/70cm/GB3AV</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3AW</name>
-						<Point>
-							<coordinates>-1.440000,51.320000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,2500 MHz, RX: 434,8500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3AW">przemienniki.net/przemienniki/70cm/GB3AW</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3BD</name>
-						<Point>
-							<coordinates>-1.190000,52.040000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8125 MHz, RX: 438,4125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3BD">przemienniki.net/przemienniki/70cm/GB3BD</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3EE</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,3000 MHz, RX: 434,9000 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3EE">przemienniki.net/przemienniki/70cm/GB3EE</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3HN</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,0250 MHz, RX: 434,6250 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3HN">przemienniki.net/przemienniki/70cm/GB3HN</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3IC</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,1250 MHz, RX: 434,7250 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3IC">przemienniki.net/przemienniki/70cm/GB3IC</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3KA</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8875 MHz, RX: 438,4875 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3KA">przemienniki.net/przemienniki/70cm/GB3KA</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3LL</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,0000 MHz, RX: 434,6000 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3LL">przemienniki.net/przemienniki/70cm/GB3LL</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3NK</name>
-						<Point>
-							<coordinates>0.160000,51.470000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+Echolink pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,1000 MHz, RX: 434,7000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3NK">przemienniki.net/przemienniki/70cm/GB3NK</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3NN</name>
-						<Point>
-							<coordinates>0.830000,52.910000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,0500 MHz, RX: 434,6500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3NN">przemienniki.net/przemienniki/70cm/GB3NN</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3NP</name>
-						<Point>
-							<coordinates>-1.030000,52.170000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8875 MHz, RX: 438,4875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3NP">przemienniki.net/przemienniki/70cm/GB3NP</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3NR</name>
-						<Point>
-							<coordinates>1.280000,52.630000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,0000 MHz, RX: 434,6000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3NR">przemienniki.net/przemienniki/70cm/GB3NR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3NT</name>
-						<Point>
-							<coordinates>-1.580000,54.940000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,0000 MHz, RX: 434,6000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3NT">przemienniki.net/przemienniki/70cm/GB3NT</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3NY</name>
-						<Point>
-							<coordinates>-0.560000,53.800000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8375 MHz, RX: 438,4375 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3NY">przemienniki.net/przemienniki/70cm/GB3NY</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3OH</name>
-						<Point>
-							<coordinates>-3.625000,55.979167</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9500 MHz, RX: 438,5500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3OH">przemienniki.net/przemienniki/70cm/GB3OH</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3OM</name>
-						<Point>
-							<coordinates>-7.210000,54.670000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9500 MHz, RX: 438,5500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3OM">przemienniki.net/przemienniki/70cm/GB3OM</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3OR</name>
-						<Point>
-							<coordinates>-3.850000,53.330000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8375 MHz, RX: 438,4375 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3OR">przemienniki.net/przemienniki/70cm/GB3OR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3OV</name>
-						<Point>
-							<coordinates>-0.180000,52.270000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,3750 MHz, RX: 430,3750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3OV">przemienniki.net/przemienniki/70cm/GB3OV</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3OY</name>
-						<Point>
-							<coordinates>0.030000,51.620000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9500 MHz, RX: 438,5500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3OY">przemienniki.net/przemienniki/70cm/GB3OY</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PD</name>
-						<Point>
-							<coordinates>-2.430000,50.560000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8500 MHz, RX: 438,4500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3PD">przemienniki.net/przemienniki/70cm/GB3PD</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PF</name>
-						<Point>
-							<coordinates>-2.370000,53.750000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9250 MHz, RX: 438,5250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3PF">przemienniki.net/przemienniki/70cm/GB3PF</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PN</name>
-						<Point>
-							<coordinates>-2.970000,53.740000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9500 MHz, RX: 438,5500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3PN">przemienniki.net/przemienniki/70cm/GB3PN</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PP</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,3750 MHz, RX: 434,9750 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3PP">przemienniki.net/przemienniki/70cm/GB3PP</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PT</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8625 MHz, RX: 438,4625 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3PT">przemienniki.net/przemienniki/70cm/GB3PT</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PU</name>
-						<Point>
-							<coordinates>-3.460000,56.370000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,0000 MHz, RX: 434,6000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3PU">przemienniki.net/przemienniki/70cm/GB3PU</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PY</name>
-						<Point>
-							<coordinates>0.040000,52.220000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+Echolink pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9000 MHz, RX: 438,5000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3PY">przemienniki.net/przemienniki/70cm/GB3PY</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PZ</name>
-						<Point>
-							<coordinates>-2.070000,53.470000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+Echolink pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9000 MHz, RX: 438,5000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3PZ">przemienniki.net/przemienniki/70cm/GB3PZ</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3RR</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8500 MHz, RX: 438,4500 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3RR">przemienniki.net/przemienniki/70cm/GB3RR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3SA</name>
-						<Point>
-							<coordinates>-0.541667,52.645833</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik FM pasma 70cm<br />
-							QTH: Stamford<br />
-							QRG: TX: 430,9625 MHz, RX: 438,5625 MHz
-							<br />
-							Aktywowanie: CTCSS (118.8 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3SA">przemienniki.net/przemienniki/70cm/GB3SA</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3SG</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9125 MHz, RX: 438,5125 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3SG">przemienniki.net/przemienniki/70cm/GB3SG</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3SY</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,1500 MHz, RX: 434,7500 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3SY">przemienniki.net/przemienniki/70cm/GB3SY</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3TH</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,3750 MHz, RX: 434,9750 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3TH">przemienniki.net/przemienniki/70cm/GB3TH</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3WI</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 433,3750 MHz, RX: 434,9750 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3WI">przemienniki.net/przemienniki/70cm/GB3WI</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3ZI</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9750 MHz, RX: 438,5750 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3ZI">przemienniki.net/przemienniki/70cm/GB3ZI</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7AR</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5250 MHz, RX: 430,5250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7AR">przemienniki.net/przemienniki/70cm/GB7AR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7BC</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6500 MHz, RX: 430,6500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7BC">przemienniki.net/przemienniki/70cm/GB7BC</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7BJ</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,7375 MHz, RX: 430,7375 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7BJ">przemienniki.net/przemienniki/70cm/GB7BJ</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7BX</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4375 MHz, RX: 430,4375 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7BX">przemienniki.net/przemienniki/70cm/GB7BX</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7CC</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,2750 MHz, RX: 439,2750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7CC">przemienniki.net/przemienniki/70cm/GB7CC</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7CQ</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6125 MHz, RX: 430,6125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7CQ">przemienniki.net/przemienniki/70cm/GB7CQ</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7DC</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8750 MHz, RX: 438,4750 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7DC">przemienniki.net/przemienniki/70cm/GB7DC</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7DD</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6625 MHz, RX: 430,6625 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7DD">przemienniki.net/przemienniki/70cm/GB7DD</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7DH</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5875 MHz, RX: 430,5875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7DH">przemienniki.net/przemienniki/70cm/GB7DH</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7DY</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5750 MHz, RX: 430,5750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7DY">przemienniki.net/przemienniki/70cm/GB7DY</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7EC</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,7250 MHz, RX: 430,7250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7EC">przemienniki.net/przemienniki/70cm/GB7EC</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7EL</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,7125 MHz, RX: 430,7125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7EL">przemienniki.net/przemienniki/70cm/GB7EL</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7EW</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5250 MHz, RX: 430,5250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7EW">przemienniki.net/przemienniki/70cm/GB7EW</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7EY</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5125 MHz, RX: 430,5125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7EY">przemienniki.net/przemienniki/70cm/GB7EY</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7FG</name>
-						<Point>
-							<coordinates>-4.160000,51.920000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9500 MHz, RX: 438,5500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7FG">przemienniki.net/przemienniki/70cm/GB7FG</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7FI</name>
-						<Point>
-							<coordinates>-2.800000,51.300000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8875 MHz, RX: 438,4875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7FI">przemienniki.net/przemienniki/70cm/GB7FI</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7FK-B</name>
-						<Point>
-							<coordinates>1.210000,51.100000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6750 MHz, RX: 430,6750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7FK-B">przemienniki.net/przemienniki/70cm/GB7FK-B</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7FO</name>
-						<Point>
-							<coordinates>-3.030000,53.810000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,2750 MHz, RX: 439,2750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7FO">przemienniki.net/przemienniki/70cm/GB7FO</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7FR</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5000 MHz, RX: 430,5000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7FR">przemienniki.net/przemienniki/70cm/GB7FR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7FS</name>
-						<Point>
-							<coordinates>-2.080000,52.550000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4250 MHz, RX: 430,4250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7FS">przemienniki.net/przemienniki/70cm/GB7FS</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7FU</name>
-						<Point>
-							<coordinates>-1.180000,53.030000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8875 MHz, RX: 438,4875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/DSTAR/DV/GB7FU">przemienniki.net/przemienniki/70cm/DSTAR/DV/GB7FU</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7FU</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8875 MHz, RX: 438,4875 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/DSTAR/DV+FM/GB7FU">przemienniki.net/przemienniki/70cm/DSTAR/DV+FM/GB7FU</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7GB</name>
-						<Point>
-							<coordinates>-1.910000,52.570000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,7625 MHz, RX: 430,7625 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7GB">przemienniki.net/przemienniki/70cm/GB7GB</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7GF</name>
-						<Point>
-							<coordinates>-0.580000,51.230000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6875 MHz, RX: 430,6875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7GF">przemienniki.net/przemienniki/70cm/GB7GF</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7GG</name>
-						<Point>
-							<coordinates>-3.990000,55.890000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6250 MHz, RX: 430,6250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7GG">przemienniki.net/przemienniki/70cm/GB7GG</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7GJ</name>
-						<Point>
-							<coordinates>-2.110000,49.200000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,9000 MHz, RX: 438,5000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7GJ">przemienniki.net/przemienniki/70cm/GB7GJ</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7GK</name>
-						<Point>
-							<coordinates>-2.790000,57.580000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4875 MHz, RX: 430,4875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7GK">przemienniki.net/przemienniki/70cm/GB7GK</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7GP</name>
-						<Point>
-							<coordinates>-0.710000,51.640000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6500 MHz, RX: 430,6500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7GP">przemienniki.net/przemienniki/70cm/GB7GP</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7GR</name>
-						<Point>
-							<coordinates>-0.660000,52.930000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4500 MHz, RX: 430,4500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7GR">przemienniki.net/przemienniki/70cm/GB7GR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7GS</name>
-						<Point>
-							<coordinates>0.370000,52.600000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4500 MHz, RX: 430,4500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7GS">przemienniki.net/przemienniki/70cm/GB7GS</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7GT</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4125 MHz, RX: 430,4125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7GT">przemienniki.net/przemienniki/70cm/GB7GT</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7GW</name>
-						<Point>
-							<coordinates>-1.510000,54.920000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8125 MHz, RX: 438,4125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/DSTAR/DV/GB7GW/9046362">przemienniki.net/przemienniki/70cm/DSTAR/DV/GB7GW/9046362</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7GW</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6375 MHz, RX: 430,6375 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/DSTAR/DV/GB7GW/9045698">przemienniki.net/przemienniki/70cm/DSTAR/DV/GB7GW/9045698</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7GX</name>
-						<Point>
-							<coordinates>-2.958333,55.937500</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,3625 MHz, RX: 430,3625 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7GX">przemienniki.net/przemienniki/70cm/GB7GX</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7GY</name>
-						<Point>
-							<coordinates>-2.540000,49.460000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6875 MHz, RX: 430,6875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7GY">przemienniki.net/przemienniki/70cm/GB7GY</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7HA</name>
-						<Point>
-							<coordinates>-0.350000,51.850000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,2875 MHz, RX: 439,2875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7HA">przemienniki.net/przemienniki/70cm/GB7HA</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7HB</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6250 MHz, RX: 430,6250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7HB">przemienniki.net/przemienniki/70cm/GB7HB</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7HC</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5250 MHz, RX: 430,5250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7HC">przemienniki.net/przemienniki/70cm/GB7HC</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7HH</name>
-						<Point>
-							<coordinates>0.180000,51.570000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,7500 MHz, RX: 430,7500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7HH">przemienniki.net/przemienniki/70cm/GB7HH</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7HI</name>
-						<Point>
-							<coordinates>-6.080000,54.550000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5625 MHz, RX: 430,5625 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/DSTAR/DV/GB7HI/9046367">przemienniki.net/przemienniki/70cm/DSTAR/DV/GB7HI/9046367</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7HM</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6375 MHz, RX: 430,6375 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7HM">przemienniki.net/przemienniki/70cm/GB7HM</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7HN</name>
-						<Point>
-							<coordinates>-2.540000,53.480000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8750 MHz, RX: 438,4750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7HN">przemienniki.net/przemienniki/70cm/GB7HN</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7HR</name>
-						<Point>
-							<coordinates>-0.460000,51.470000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4500 MHz, RX: 430,4500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7HR">przemienniki.net/przemienniki/70cm/GB7HR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7HS</name>
-						<Point>
-							<coordinates>-2.020000,53.750000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4250 MHz, RX: 430,4250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7HS">przemienniki.net/przemienniki/70cm/GB7HS</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7HU</name>
-						<Point>
-							<coordinates>-0.550000,53.780000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4875 MHz, RX: 430,4875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7HU">przemienniki.net/przemienniki/70cm/GB7HU</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7HX</name>
-						<Point>
-							<coordinates>-1.870000,53.650000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5750 MHz, RX: 430,5750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7HX">przemienniki.net/przemienniki/70cm/GB7HX</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7HY</name>
-						<Point>
-							<coordinates>-2.590000,53.670000</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5750 MHz, RX: 430,5750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7HY">przemienniki.net/przemienniki/70cm/GB7HY</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7KN</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4375 MHz, RX: 430,4375 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7KN">przemienniki.net/przemienniki/70cm/GB7KN</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7KP</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5750 MHz, RX: 430,5750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7KP">przemienniki.net/przemienniki/70cm/GB7KP</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7KU</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5250 MHz, RX: 430,5250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7KU">przemienniki.net/przemienniki/70cm/GB7KU</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7KY</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6500 MHz, RX: 430,6500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7KY">przemienniki.net/przemienniki/70cm/GB7KY</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7LD</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4375 MHz, RX: 430,4375 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7LD">przemienniki.net/przemienniki/70cm/GB7LD</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7LO</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5125 MHz, RX: 430,5125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7LO">przemienniki.net/przemienniki/70cm/GB7LO</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7LS</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4000 MHz, RX: 430,4000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7LS">przemienniki.net/przemienniki/70cm/GB7LS</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7MB</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,7000 MHz, RX: 430,7000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7MB">przemienniki.net/przemienniki/70cm/GB7MB</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7MR</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,7375 MHz, RX: 430,7375 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7MR">przemienniki.net/przemienniki/70cm/GB7MR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7NN</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,7500 MHz, RX: 430,7500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7NN">przemienniki.net/przemienniki/70cm/GB7NN</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7NY</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6875 MHz, RX: 430,6875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7NY">przemienniki.net/przemienniki/70cm/GB7NY</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7RD</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6875 MHz, RX: 430,6875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7RD">przemienniki.net/przemienniki/70cm/GB7RD</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7RR</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6125 MHz, RX: 430,6125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7RR">przemienniki.net/przemienniki/70cm/GB7RR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7RT</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4125 MHz, RX: 430,4125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7RT">przemienniki.net/przemienniki/70cm/GB7RT</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7SB</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6625 MHz, RX: 430,6625 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7SB">przemienniki.net/przemienniki/70cm/GB7SB</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7SI</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5250 MHz, RX: 430,5250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7SI">przemienniki.net/przemienniki/70cm/GB7SI</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7SM</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5875 MHz, RX: 430,5875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7SM">przemienniki.net/przemienniki/70cm/GB7SM</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7SQ</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6750 MHz, RX: 430,6750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7SQ">przemienniki.net/przemienniki/70cm/GB7SQ</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7UL</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5250 MHz, RX: 430,5250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7UL">przemienniki.net/przemienniki/70cm/GB7UL</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7WD</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,7125 MHz, RX: 430,7125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7WD">przemienniki.net/przemienniki/70cm/GB7WD</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7WF</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,4875 MHz, RX: 430,4875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7WF">przemienniki.net/przemienniki/70cm/GB7WF</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7WH</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,6250 MHz, RX: 430,6250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7WH">przemienniki.net/przemienniki/70cm/GB7WH</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7WK</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,5125 MHz, RX: 430,5125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7WK">przemienniki.net/przemienniki/70cm/GB7WK</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7WW</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 439,7625 MHz, RX: 430,7625 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7WW">przemienniki.net/przemienniki/70cm/GB7WW</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7XG</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 70cm<br />
-							QTH: <br />
-							QRG: TX: 430,8750 MHz, RX: 438,4750 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7XG">przemienniki.net/przemienniki/70cm/GB7XG</a><br />
-						]]></description>
-					</Placemark>
-				</Folder>
-			</Folder>
-			<Folder>
-				<name>Pasmo 2m</name>
-				<Folder>
-					<name>działający</name>
-					<Placemark>
-						<name>EI2KPR</name>
-						<Point>
-							<coordinates>-6.291667,53.187500</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik FM pasma 2m<br />
-							QTH: Dublin<br />
-							QRG: TX: 145,7625 MHz, RX: 145,1625 MHz
-							<br />
-							Aktywowanie: ton 1750Hz, CTCSS (88.5 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/EI2KPR">przemienniki.net/przemienniki/2m/EI2KPR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>EI2TRR</name>
-						<Point>
-							<coordinates>-6.208333,53.229167</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik FM pasma 2m<br />
-							QTH: Dublin<br />
-							QRG: TX: 145,6000 MHz, RX: 145,0000 MHz
-							<br />
-							Aktywowanie: ton 1750Hz, CTCSS (88.5 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/EI2TRR">przemienniki.net/przemienniki/2m/EI2TRR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3AA</name>
-						<Point>
-							<coordinates>-2.540000,51.590000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6625 MHz, RX: 145,0625 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3AA">przemienniki.net/przemienniki/2m/GB3AA</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3AG</name>
-						<Point>
-							<coordinates>-2.830000,56.560000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+Echolink pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7250 MHz, RX: 145,1250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3AG">przemienniki.net/przemienniki/2m/GB3AG</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3AL</name>
-						<Point>
-							<coordinates>-0.620000,51.650000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7375 MHz, RX: 145,1375 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3AL">przemienniki.net/przemienniki/2m/GB3AL</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3AR</name>
-						<Point>
-							<coordinates>-4.200000,53.120000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+Echolink pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7000 MHz, RX: 145,1000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3AR">przemienniki.net/przemienniki/2m/GB3AR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3AS</name>
-						<Point>
-							<coordinates>-2.930000,55.110000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+Echolink pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6000 MHz, RX: 145,0000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3AS">przemienniki.net/przemienniki/2m/GB3AS</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3BC</name>
-						<Point>
-							<coordinates>-3.300000,51.610000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+Echolink pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7500 MHz, RX: 145,1500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3BC">przemienniki.net/przemienniki/2m/GB3BC</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3BF</name>
-						<Point>
-							<coordinates>-0.480000,52.150000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7875 MHz, RX: 145,1875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/DSTAR/DV/GB3BF">przemienniki.net/przemienniki/2m/DSTAR/DV/GB3BF</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3BF</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7875 MHz, RX: 145,1875 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/DSTAR/DV+FM/GB3BF">przemienniki.net/przemienniki/2m/DSTAR/DV+FM/GB3BF</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3BM</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7125 MHz, RX: 145,1125 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3BM">przemienniki.net/przemienniki/2m/GB3BM</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3BX</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6750 MHz, RX: 145,0750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3BX">przemienniki.net/przemienniki/2m/GB3BX</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3DU</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7625 MHz, RX: 145,1625 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3DU">przemienniki.net/przemienniki/2m/GB3DU</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3FG</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7125 MHz, RX: 145,1125 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3FG">przemienniki.net/przemienniki/2m/GB3FG</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3FU</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7500 MHz, RX: 145,1500 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3FU">przemienniki.net/przemienniki/2m/GB3FU</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3MI</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+Echolink+FM pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7125 MHz, RX: 145,1125 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3MI">przemienniki.net/przemienniki/2m/GB3MI</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3MP</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7500 MHz, RX: 145,1500 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3MP">przemienniki.net/przemienniki/2m/GB3MP</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3NF</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6250 MHz, RX: 145,0250 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3NF">przemienniki.net/przemienniki/2m/GB3NF</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3NG</name>
-						<Point>
-							<coordinates>-2.030000,57.600000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6250 MHz, RX: 145,0250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3NG">przemienniki.net/przemienniki/2m/GB3NG</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3NI</name>
-						<Point>
-							<coordinates>-5.820000,54.620000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7250 MHz, RX: 145,1250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3NI">przemienniki.net/przemienniki/2m/GB3NI</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3NL</name>
-						<Point>
-							<coordinates>-0.080000,51.650000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7750 MHz, RX: 145,1750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3NL">przemienniki.net/przemienniki/2m/GB3NL</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3OA</name>
-						<Point>
-							<coordinates>-3.041667,53.645833</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+Echolink pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6125 MHz, RX: 145,0125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3OA">przemienniki.net/przemienniki/2m/GB3OA</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3OC</name>
-						<Point>
-							<coordinates>-3.020000,58.990000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6500 MHz, RX: 145,0500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3OC">przemienniki.net/przemienniki/2m/GB3OC</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PA</name>
-						<Point>
-							<coordinates>-4.590000,55.910000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+Echolink pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6250 MHz, RX: 145,0250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3PA">przemienniki.net/przemienniki/2m/GB3PA</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PB</name>
-						<Point>
-							<coordinates>-1.920000,50.810000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6250 MHz, RX: 145,0250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3PB">przemienniki.net/przemienniki/2m/GB3PB</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PE</name>
-						<Point>
-							<coordinates>-0.350000,52.500000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6750 MHz, RX: 145,0750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3PE">przemienniki.net/przemienniki/2m/GB3PE</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PH</name>
-						<Point>
-							<coordinates>-4.450000,52.960000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6625 MHz, RX: 145,0625 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3PH">przemienniki.net/przemienniki/2m/GB3PH</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PI</name>
-						<Point>
-							<coordinates>-0.041667,52.020833</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7500 MHz, RX: 145,1500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3PI">przemienniki.net/przemienniki/2m/GB3PI</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PK</name>
-						<Point>
-							<coordinates>-6.240000,55.190000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6625 MHz, RX: 145,0625 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3PK">przemienniki.net/przemienniki/2m/GB3PK</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PL</name>
-						<Point>
-							<coordinates>-4.020000,50.390000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7625 MHz, RX: 145,1625 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3PL">przemienniki.net/przemienniki/2m/GB3PL</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PO</name>
-						<Point>
-							<coordinates>1.200000,52.060000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6500 MHz, RX: 145,0500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3PO">przemienniki.net/przemienniki/2m/GB3PO</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PR</name>
-						<Point>
-							<coordinates>-3.460000,56.370000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6750 MHz, RX: 145,0750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3PR">przemienniki.net/przemienniki/2m/GB3PR</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PW</name>
-						<Point>
-							<coordinates>-3.400000,52.480000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7750 MHz, RX: 145,1750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3PW">przemienniki.net/przemienniki/2m/GB3PW</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3RW</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6000 MHz, RX: 145,0000 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3RW">przemienniki.net/przemienniki/2m/GB3RW</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3VT</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7250 MHz, RX: 145,1250 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3VT">przemienniki.net/przemienniki/2m/GB3VT</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3WD</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7000 MHz, RX: 145,1000 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3WD">przemienniki.net/przemienniki/2m/GB3WD</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7GD</name>
-						<Point>
-							<coordinates>-2.100000,57.190000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6875 MHz, RX: 145,0875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB7GD">przemienniki.net/przemienniki/2m/GB7GD</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7OK</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7125 MHz, RX: 145,1125 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB7OK">przemienniki.net/przemienniki/2m/GB7OK</a><br />
-						]]></description>
-					</Placemark>
-				</Folder>
-				<Folder>
-					<name>nieznany</name>
-					<Placemark>
-						<name>GB3AY</name>
-						<Point>
-							<coordinates>-4.760000,55.730000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6500 MHz, RX: 145,0500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3AY">przemienniki.net/przemienniki/2m/GB3AY</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3BB</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7000 MHz, RX: 145,1000 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3BB">przemienniki.net/przemienniki/2m/GB3BB</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3OG</name>
-						<Point>
-							<coordinates>-3.850000,53.330000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7875 MHz, RX: 145,1875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3OG">przemienniki.net/przemienniki/2m/GB3OG</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3RA</name>
-						<Point>
-							<coordinates>-3.200000,52.330000</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,6500 MHz, RX: 145,0500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3RA">przemienniki.net/przemienniki/2m/GB3RA</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7NI</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: <br />
-							QRG: TX: 145,7500 MHz, RX: 145,1500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB7NI">przemienniki.net/przemienniki/2m/GB7NI</a><br />
-						]]></description>
-					</Placemark>
-				</Folder>
-			</Folder>
-			<Folder>
-				<name>Pasmo 23cm</name>
-				<Folder>
-					<name>działający</name>
-					<Placemark>
-						<name>GB3AK</name>
-						<Point>
-							<coordinates>-2.540000,51.590000</coordinates>
-						</Point>
-						<styleUrl>#BAND_23CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 23cm<br />
-							QTH: <br />
-							QRG: TX: 1297,3500 MHz, RX: 1277,3500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/23cm/GB3AK">przemienniki.net/przemienniki/23cm/GB3AK</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3NO</name>
-						<Point>
-							<coordinates>1.280000,52.630000</coordinates>
-						</Point>
-						<styleUrl>#BAND_23CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 23cm<br />
-							QTH: <br />
-							QRG: TX: 1297,0000 MHz, RX: 1291,0000 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/23cm/GB3NO">przemienniki.net/przemienniki/23cm/GB3NO</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PS</name>
-						<Point>
-							<coordinates>-0.041667,52.020833</coordinates>
-						</Point>
-						<styleUrl>#BAND_23CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 23cm<br />
-							QTH: <br />
-							QRG: TX: 1297,0750 MHz, RX: 1291,0750 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/23cm/GB3PS">przemienniki.net/przemienniki/23cm/GB3PS</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB7IC-A</name>
-						<Point>
-							<coordinates>1.150000,51.360000</coordinates>
-						</Point>
-						<styleUrl>#BAND_23CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 23cm<br />
-							QTH: <br />
-							QRG: TX: 1290,6500 MHz, RX: 1270,6500 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/23cm/GB7IC-A">przemienniki.net/przemienniki/23cm/GB7IC-A</a><br />
-						]]></description>
-					</Placemark>
-				</Folder>
-				<Folder>
-					<name>nieznany</name>
-					<Placemark>
-						<name>GB3EJ</name>
-						<Point>
-							<coordinates>,</coordinates>
-						</Point>
-						<styleUrl>#BAND_23CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+FM pasma 23cm<br />
-							QTH: <br />
-							QRG: TX: 1297,1000 MHz, RX: 1291,1000 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/23cm/GB3EJ">przemienniki.net/przemienniki/23cm/GB3EJ</a><br />
-						]]></description>
-					</Placemark>
-				</Folder>
-			</Folder>
-			<Folder>
-				<name>Pasmo 6m</name>
-				<Folder>
-					<name>działający</name>
-					<Placemark>
-						<name>GB3AM</name>
-						<Point>
-							<coordinates>-0.620000,51.650000</coordinates>
-						</Point>
-						<styleUrl>#BAND_6M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV+Echolink pasma 6m<br />
-							QTH: <br />
-							QRG: TX: 50,840 MHz, RX: 51,340 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/6m/GB3AM">przemienniki.net/przemienniki/6m/GB3AM</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>GB3PX</name>
-						<Point>
-							<coordinates>-0.041667,52.020833</coordinates>
-						</Point>
-						<styleUrl>#BAND_6M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 6m<br />
-							QTH: <br />
-							QRG: TX: 50,780 MHz, RX: 51,780 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/6m/GB3PX">przemienniki.net/przemienniki/6m/GB3PX</a><br />
-						]]></description>
-					</Placemark>
-				</Folder>
-			</Folder>
-		</Folder>
-		<Folder>
 			<name>Niemcy</name>
 			<Folder>
 				<name>Pasmo 70cm</name>
@@ -13619,6 +10733,1473 @@
 							<br />
 							Aktywowanie: nośną<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/ED8ZAB">przemienniki.net/przemienniki/70cm/ED8ZAB</a><br />
+						]]></description>
+					</Placemark>
+				</Folder>
+			</Folder>
+		</Folder>
+		<Folder>
+			<name>Wlk. Brytania</name>
+			<Folder>
+				<name>Pasmo 2m</name>
+				<Folder>
+					<name>działający</name>
+					<Placemark>
+						<name>EI2KPR</name>
+						<Point>
+							<coordinates>-6.291667,53.187500</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik FM pasma 2m<br />
+							QTH: Dublin<br />
+							QRG: TX: 145,7625 MHz, RX: 145,1625 MHz
+							<br />
+							Aktywowanie: ton 1750Hz, CTCSS (88.5 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/EI2KPR">przemienniki.net/przemienniki/2m/EI2KPR</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>EI2TRR</name>
+						<Point>
+							<coordinates>-6.208333,53.229167</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik FM pasma 2m<br />
+							QTH: Dublin<br />
+							QRG: TX: 145,6000 MHz, RX: 145,0000 MHz
+							<br />
+							Aktywowanie: ton 1750Hz, CTCSS (88.5 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/EI2TRR">przemienniki.net/przemienniki/2m/EI2TRR</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3BF</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 2m<br />
+							QTH: <br />
+							QRG: TX: 145,7875 MHz, RX: 145,1875 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3BF">przemienniki.net/przemienniki/2m/GB3BF</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3BM</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 2m<br />
+							QTH: <br />
+							QRG: TX: 145,7125 MHz, RX: 145,1125 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3BM">przemienniki.net/przemienniki/2m/GB3BM</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3BX</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 2m<br />
+							QTH: <br />
+							QRG: TX: 145,6750 MHz, RX: 145,0750 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3BX">przemienniki.net/przemienniki/2m/GB3BX</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3DU</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 2m<br />
+							QTH: <br />
+							QRG: TX: 145,7625 MHz, RX: 145,1625 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3DU">przemienniki.net/przemienniki/2m/GB3DU</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3FG</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 2m<br />
+							QTH: <br />
+							QRG: TX: 145,7125 MHz, RX: 145,1125 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3FG">przemienniki.net/przemienniki/2m/GB3FG</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3FU</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 2m<br />
+							QTH: <br />
+							QRG: TX: 145,7500 MHz, RX: 145,1500 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3FU">przemienniki.net/przemienniki/2m/GB3FU</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3MI</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+Echolink+FM pasma 2m<br />
+							QTH: <br />
+							QRG: TX: 145,7125 MHz, RX: 145,1125 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3MI">przemienniki.net/przemienniki/2m/GB3MI</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3MP</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 2m<br />
+							QTH: <br />
+							QRG: TX: 145,7500 MHz, RX: 145,1500 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3MP">przemienniki.net/przemienniki/2m/GB3MP</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3NF</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 2m<br />
+							QTH: <br />
+							QRG: TX: 145,6250 MHz, RX: 145,0250 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3NF">przemienniki.net/przemienniki/2m/GB3NF</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3RW</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 2m<br />
+							QTH: <br />
+							QRG: TX: 145,6000 MHz, RX: 145,0000 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3RW">przemienniki.net/przemienniki/2m/GB3RW</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3VT</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 2m<br />
+							QTH: <br />
+							QRG: TX: 145,7250 MHz, RX: 145,1250 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3VT">przemienniki.net/przemienniki/2m/GB3VT</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3WD</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 2m<br />
+							QTH: <br />
+							QRG: TX: 145,7000 MHz, RX: 145,1000 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3WD">przemienniki.net/przemienniki/2m/GB3WD</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7OK</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 2m<br />
+							QTH: <br />
+							QRG: TX: 145,7125 MHz, RX: 145,1125 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB7OK">przemienniki.net/przemienniki/2m/GB7OK</a><br />
+						]]></description>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>nieznany</name>
+					<Placemark>
+						<name>GB3BB</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 2m<br />
+							QTH: <br />
+							QRG: TX: 145,7000 MHz, RX: 145,1000 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB3BB">przemienniki.net/przemienniki/2m/GB3BB</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7NI</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 2m<br />
+							QTH: <br />
+							QRG: TX: 145,7500 MHz, RX: 145,1500 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/GB7NI">przemienniki.net/przemienniki/2m/GB7NI</a><br />
+						]]></description>
+					</Placemark>
+				</Folder>
+			</Folder>
+			<Folder>
+				<name>Pasmo 70cm</name>
+				<Folder>
+					<name>działający</name>
+					<Placemark>
+						<name>EI7BHR</name>
+						<Point>
+							<coordinates>-6.125000,53.395833</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik FM pasma 70cm<br />
+							QTH: Dublin<br />
+							QRG: TX: 438,6000 MHz, RX: 431,0000 MHz
+							<br />
+							Aktywowanie: CTCSS (88.5 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/EI7BHR">przemienniki.net/przemienniki/70cm/EI7BHR</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>EI7TRR</name>
+						<Point>
+							<coordinates>-6.208333,53.229167</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik FM pasma 70cm<br />
+							QTH: Dublin<br />
+							QRG: TX: 433,2250 MHz, RX: 434,8250 MHz
+							<br />
+							Aktywowanie: ton 1750Hz, CTCSS (88.5 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/EI7TRR">przemienniki.net/przemienniki/70cm/EI7TRR</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3EE</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 433,3000 MHz, RX: 434,9000 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3EE">przemienniki.net/przemienniki/70cm/GB3EE</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3HN</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 433,0250 MHz, RX: 434,6250 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3HN">przemienniki.net/przemienniki/70cm/GB3HN</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3IC</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 433,1250 MHz, RX: 434,7250 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3IC">przemienniki.net/przemienniki/70cm/GB3IC</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3KA</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,8875 MHz, RX: 438,4875 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3KA">przemienniki.net/przemienniki/70cm/GB3KA</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3LL</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 433,0000 MHz, RX: 434,6000 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3LL">przemienniki.net/przemienniki/70cm/GB3LL</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3PP</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 433,3750 MHz, RX: 434,9750 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3PP">przemienniki.net/przemienniki/70cm/GB3PP</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3PT</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,8625 MHz, RX: 438,4625 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3PT">przemienniki.net/przemienniki/70cm/GB3PT</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3RR</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,8500 MHz, RX: 438,4500 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3RR">przemienniki.net/przemienniki/70cm/GB3RR</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3SA</name>
+						<Point>
+							<coordinates>-0.541667,52.645833</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik FM pasma 70cm<br />
+							QTH: Stamford<br />
+							QRG: TX: 430,9625 MHz, RX: 438,5625 MHz
+							<br />
+							Aktywowanie: CTCSS (118.8 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3SA">przemienniki.net/przemienniki/70cm/GB3SA</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3SG</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,9125 MHz, RX: 438,5125 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3SG">przemienniki.net/przemienniki/70cm/GB3SG</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3SY</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 433,1500 MHz, RX: 434,7500 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3SY">przemienniki.net/przemienniki/70cm/GB3SY</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3TH</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 433,3750 MHz, RX: 434,9750 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3TH">przemienniki.net/przemienniki/70cm/GB3TH</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3WI</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 433,3750 MHz, RX: 434,9750 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3WI">przemienniki.net/przemienniki/70cm/GB3WI</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3ZI</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,9750 MHz, RX: 438,5750 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3ZI">przemienniki.net/przemienniki/70cm/GB3ZI</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7AR</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5250 MHz, RX: 430,5250 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7AR">przemienniki.net/przemienniki/70cm/GB7AR</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7BC</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,6500 MHz, RX: 430,6500 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7BC">przemienniki.net/przemienniki/70cm/GB7BC</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7BJ</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,7375 MHz, RX: 430,7375 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7BJ">przemienniki.net/przemienniki/70cm/GB7BJ</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7BX</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,4375 MHz, RX: 430,4375 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7BX">przemienniki.net/przemienniki/70cm/GB7BX</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7CC</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,2750 MHz, RX: 439,2750 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7CC">przemienniki.net/przemienniki/70cm/GB7CC</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7CQ</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,6125 MHz, RX: 430,6125 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7CQ">przemienniki.net/przemienniki/70cm/GB7CQ</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7DC</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,8750 MHz, RX: 438,4750 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7DC">przemienniki.net/przemienniki/70cm/GB7DC</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7DD</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,6625 MHz, RX: 430,6625 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7DD">przemienniki.net/przemienniki/70cm/GB7DD</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7DH</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5875 MHz, RX: 430,5875 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7DH">przemienniki.net/przemienniki/70cm/GB7DH</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7DY</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5750 MHz, RX: 430,5750 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7DY">przemienniki.net/przemienniki/70cm/GB7DY</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7EC</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,7250 MHz, RX: 430,7250 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7EC">przemienniki.net/przemienniki/70cm/GB7EC</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7EL</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,7125 MHz, RX: 430,7125 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7EL">przemienniki.net/przemienniki/70cm/GB7EL</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7EW</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5250 MHz, RX: 430,5250 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7EW">przemienniki.net/przemienniki/70cm/GB7EW</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7EY</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5125 MHz, RX: 430,5125 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7EY">przemienniki.net/przemienniki/70cm/GB7EY</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7FR</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5000 MHz, RX: 430,5000 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7FR">przemienniki.net/przemienniki/70cm/GB7FR</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7FU</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,8875 MHz, RX: 438,4875 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7FU">przemienniki.net/przemienniki/70cm/GB7FU</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7GT</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,4125 MHz, RX: 430,4125 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7GT">przemienniki.net/przemienniki/70cm/GB7GT</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7GW</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,6375 MHz, RX: 430,6375 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7GW">przemienniki.net/przemienniki/70cm/GB7GW</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7HB</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,6250 MHz, RX: 430,6250 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7HB">przemienniki.net/przemienniki/70cm/GB7HB</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7HC</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5250 MHz, RX: 430,5250 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7HC">przemienniki.net/przemienniki/70cm/GB7HC</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7HM</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,6375 MHz, RX: 430,6375 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7HM">przemienniki.net/przemienniki/70cm/GB7HM</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7KN</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,4375 MHz, RX: 430,4375 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7KN">przemienniki.net/przemienniki/70cm/GB7KN</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7KP</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5750 MHz, RX: 430,5750 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7KP">przemienniki.net/przemienniki/70cm/GB7KP</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7KU</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5250 MHz, RX: 430,5250 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7KU">przemienniki.net/przemienniki/70cm/GB7KU</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7KY</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,6500 MHz, RX: 430,6500 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7KY">przemienniki.net/przemienniki/70cm/GB7KY</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7LD</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,4375 MHz, RX: 430,4375 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7LD">przemienniki.net/przemienniki/70cm/GB7LD</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7LO</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5125 MHz, RX: 430,5125 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7LO">przemienniki.net/przemienniki/70cm/GB7LO</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7LS</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,4000 MHz, RX: 430,4000 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7LS">przemienniki.net/przemienniki/70cm/GB7LS</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7MB</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,7000 MHz, RX: 430,7000 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7MB">przemienniki.net/przemienniki/70cm/GB7MB</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7MR</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,7375 MHz, RX: 430,7375 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7MR">przemienniki.net/przemienniki/70cm/GB7MR</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7NN</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,7500 MHz, RX: 430,7500 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7NN">przemienniki.net/przemienniki/70cm/GB7NN</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7NY</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,6875 MHz, RX: 430,6875 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7NY">przemienniki.net/przemienniki/70cm/GB7NY</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7RD</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,6875 MHz, RX: 430,6875 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7RD">przemienniki.net/przemienniki/70cm/GB7RD</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7RR</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,6125 MHz, RX: 430,6125 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7RR">przemienniki.net/przemienniki/70cm/GB7RR</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7RT</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,4125 MHz, RX: 430,4125 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7RT">przemienniki.net/przemienniki/70cm/GB7RT</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7SB</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,6625 MHz, RX: 430,6625 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7SB">przemienniki.net/przemienniki/70cm/GB7SB</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7SI</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5250 MHz, RX: 430,5250 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7SI">przemienniki.net/przemienniki/70cm/GB7SI</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7SM</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5875 MHz, RX: 430,5875 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7SM">przemienniki.net/przemienniki/70cm/GB7SM</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7SQ</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,6750 MHz, RX: 430,6750 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7SQ">przemienniki.net/przemienniki/70cm/GB7SQ</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7UL</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5250 MHz, RX: 430,5250 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7UL">przemienniki.net/przemienniki/70cm/GB7UL</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7WD</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,7125 MHz, RX: 430,7125 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7WD">przemienniki.net/przemienniki/70cm/GB7WD</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7WF</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,4875 MHz, RX: 430,4875 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7WF">przemienniki.net/przemienniki/70cm/GB7WF</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7WH</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,6250 MHz, RX: 430,6250 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7WH">przemienniki.net/przemienniki/70cm/GB7WH</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7WK</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5125 MHz, RX: 430,5125 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7WK">przemienniki.net/przemienniki/70cm/GB7WK</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7WW</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,7625 MHz, RX: 430,7625 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7WW">przemienniki.net/przemienniki/70cm/GB7WW</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7XG</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,8750 MHz, RX: 438,4750 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7XG">przemienniki.net/przemienniki/70cm/GB7XG</a><br />
+						]]></description>
+					</Placemark>
+				</Folder>
+				<Folder>
+					<name>nieznany</name>
+					<Placemark>
+						<name>GB3BA</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 433,3250 MHz, RX: 434,9250 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3BA">przemienniki.net/przemienniki/70cm/GB3BA</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3CC</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,9625 MHz, RX: 438,5625 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3CC">przemienniki.net/przemienniki/70cm/GB3CC</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3JM</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,8750 MHz, RX: 438,4750 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3JM">przemienniki.net/przemienniki/70cm/GB3JM</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3PM</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,9000 MHz, RX: 438,5000 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3PM">przemienniki.net/przemienniki/70cm/GB3PM</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB3RC</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,8625 MHz, RX: 438,4625 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB3RC">przemienniki.net/przemienniki/70cm/GB3RC</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7AH</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5125 MHz, RX: 430,5125 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7AH">przemienniki.net/przemienniki/70cm/GB7AH</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7HI</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,7375 MHz, RX: 430,7375 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7HI">przemienniki.net/przemienniki/70cm/GB7HI</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7KR</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,2875 MHz, RX: 439,2875 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7KR">przemienniki.net/przemienniki/70cm/GB7KR</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7KS</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,2500 MHz, RX: 439,2500 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7KS">przemienniki.net/przemienniki/70cm/GB7KS</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7LA</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,4750 MHz, RX: 430,4750 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7LA">przemienniki.net/przemienniki/70cm/GB7LA</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7LL</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,5000 MHz, RX: 430,5000 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7LL">przemienniki.net/przemienniki/70cm/GB7LL</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7MW</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,4875 MHz, RX: 430,4875 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7MW">przemienniki.net/przemienniki/70cm/GB7MW</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7RC</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 430,2625 MHz, RX: 439,2625 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7RC">przemienniki.net/przemienniki/70cm/GB7RC</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7RV</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,6250 MHz, RX: 430,6250 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7RV">przemienniki.net/przemienniki/70cm/GB7RV</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7ST</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,4500 MHz, RX: 430,4500 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7ST">przemienniki.net/przemienniki/70cm/GB7ST</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>GB7YS</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 70cm<br />
+							QTH: <br />
+							QRG: TX: 439,7125 MHz, RX: 430,7125 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/GB7YS">przemienniki.net/przemienniki/70cm/GB7YS</a><br />
+						]]></description>
+					</Placemark>
+				</Folder>
+			</Folder>
+			<Folder>
+				<name>Pasmo 23cm</name>
+				<Folder>
+					<name>nieznany</name>
+					<Placemark>
+						<name>GB3EJ</name>
+						<Point>
+							<coordinates>,</coordinates>
+						</Point>
+						<styleUrl>#BAND_23CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV+FM pasma 23cm<br />
+							QTH: <br />
+							QRG: TX: 1297,1000 MHz, RX: 1291,1000 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/23cm/GB3EJ">przemienniki.net/przemienniki/23cm/GB3EJ</a><br />
 						]]></description>
 					</Placemark>
 				</Folder>
