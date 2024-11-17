@@ -19569,7 +19569,7 @@
             "RX 1750": "false",
             "Duplex": "-",
             "Offset": "7.6",
-            "Status": "testing",
+            "Status": "working",
             "Latitude": "51.11472",
             "Longitude": "16.95503",
             "QTH": ""
@@ -49312,6 +49312,23 @@
             "input_frequency": "145.7, 439.15",
             "output_frequency": "145.7, 439.15",
             "station_location": "Warszawa"
+        }
+    },
+    "SR6LDV": {
+        "przemienniki_eu": {
+            "Callsign": "SR6LDV",
+            "Modes": "dmr",
+            "TX Frequency": "438.2500",
+            "TX CTCSS": "",
+            "RX Frequency": "430.6500",
+            "RX CTCSS": "",
+            "RX 1750": "false",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "working",
+            "Latitude": "51.20057",
+            "Longitude": "16.209077",
+            "QTH": "Legnica"
         }
     },
     "SR7SZ": {
