@@ -207,7 +207,6 @@ DZC.WML.5101.1666.2017.2;2027-08-09;SP8PUB;Kategoria1;500;Polski Zwi¹zek Krótkof
 DZC.WML.5101.1738.2017.2;2027-08-22;SP8PLE;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Le¿ajsk;Reymonta;37C;"";;
 DZC.WML.5101.1786.2017.2;2027-08-28;SP4YOT;Kategoria1;500;"Stowarzyszenie ""Skorpion R.K""";Bzowiec;"";32B;"";"";"";"";"";"";Bzowiec;"";32B;"";;
 DZC.WML.5101.1832.2017.2;2027-09-07;SP1KRF;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Barlinek;Podwale;9;"";;
-DC.WML.5101.3144.2022.4;2032-07-19;SP0TECH;Kategoria1;500;Fundacja Hackerspace Kraków;Kraków;ul. Zacisze;5;P1;"";"";"";"";"";Brzezowa;"";177;"";;
 DZC.WML.5101.1878.2017.2;2027-09-12;SP6PWT;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Wroc³aw;Wróblewskiego;27;"";;
 DZC.WML.5101.1919.2017.2;2027-09-20;SP2PHA;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Stegna;Gdañska;60;"";;
 DZC.WML.5101.1923.2017.2;2027-09-20;SP5PIP;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Warszawa;Wyganowska;14;"";;
@@ -448,10 +447,8 @@ DC.WML.5101.206.2021.2;2031-01-26;SN2FF;Kategoria1;500;Che³miñskie Stowarzyszeni
 DC.WML.5101.628.2021.2;2027-02-08;SP2KAC;Kategoria1;500;Liga Obrony Kraju;Warszawa;ul. Chocimska;14;"";Liga Obrony Kraju;Warszawa;ul. Chocimska;14;"";Gdañsk;ul. Wita Stwosza;73;"";;
 DC.WML.5101.656.2021.2;2031-03-05;SP0PYL;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Sêdziszów Ma³opolski;ul. Szkolna;19;"";;
 DC.WML.5101.707.2021.2;2031-03-10;SP2ZBE;Kategoria1;500;Chor¹giew Kujawsko-Pomorska Zwi¹zku Harcerstwa Polskiego;Bydgoszcz;ul. Dworcowa;56;"";"";"";"";"";"";Toruñ;ul.¯yzna;3;"";;
-DZC.WML.5101.638.2018.5;2028-03-01;SN0IMED;Kategoria1;500;Niepo³omicki Klub Krótkofalowców przy M³odzie¿owym Obserwatorium Astronomicznym;Niepo³omice;ul. Miko³aja Kopernika;2;"";"";"";"";"";"";Niepo³omice;Bocheñska;26;"";;
 DC.WML.5101.1197.2021.2;2031-04-19;SP9PYL;Kategoria1;500;Ma³opolskie Stowarzyszenie Krótkofalowców, Oddzia³ Terenowy Polskiego Zwi¹zku Krótkofalowców w Krakowie;Kraków;ul. Basztowa;15;17;"";"";"";"";"";Kraków;ul. Basztowa;15;17;;
 DC.WML.5101.1660.2021.2;2025-08-20;SP2TMT;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;Toruñ;ul. Sobieskiego ;28;"";;
-DC.WML.5101.3438.2022.2;2027-07-20;SP5PAU;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Pu³tusk;Na Skarpie;8;"";;
 DC.WML.5101.2378.2019.8;2027-02-27;SP9RNS;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;Maciejowa;"";109;"";;
 DC.WML.5101.1725.2021.2;2026-09-12;SP9PEE;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;Gorlicki Klub Krótkofalowców PZK;Gorlice;ul. Michalusa;4;"";Gorlice;ul. W³adys³awa £okietka;73;"";;
 DC.WML.5101.1837.2021.2;2031-06-08;SP3ZBU;Kategoria1;500;Zwi¹zek Harcerstwa Polskiego Chor¹giew Wielkopolska;Poznañ;ul. Wilków Morskich;23/25;"";"";"";"";"";"";Buk;ul. Dobie¿yñska;27;"";;
@@ -486,6 +483,8 @@ DC.WML.5101.2920.2022.3;2032-06-29;SP2PGD;Kategoria1;500;Polski Zwi¹zek Krótkofa
 DC.WML.5101.2971.2022.2;2032-07-01;SP0SIMP;Kategoria1;500;Zamek SIMP w Rydzynie im. Prof Henryka Mierzejewskiego;Rydzyna;Pl. Zamkowy;1;"";"";"";"";"";"";Rydzyna;Pl. Zamkowy;1;"";;
 DC.WML.5101.2753.2022.4;2032-07-07;HF4112P;Kategoria1;500;£¹cznoœæ Kryzysowa Podlasie;Bia³ystok;ul. Zagórna;21;U1;"";"";"";"";"";Bia³ystok;ul. Zagórna;21;U1;;
 DC.WML.5101.3072.2022.2;2032-07-11;SP1TPM;Kategoria1;500;Towarzystwo Przyjació³ Muzeum Orê¿a Polskiego w Ko³obrzegu;Ko³obrzeg;ul. Armii Krajowej;13;"";"";"";"";"";"";Ko³obrzeg;ul. Armii Krajowej;13;"";;
+DC.WML.5101.3144.2022.4;2032-07-19;SP0TECH;Kategoria1;500;Fundacja Hackerspace Kraków;Kraków;ul. Zacisze;5;P1;"";"";"";"";"";Brzezowa;"";177;"";;
+DC.WML.5101.3438.2022.2;2027-07-20;SP5PAU;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Pu³tusk;Na Skarpie;8;"";;
 DC.WML.5101.3560.2022.2;2032-08-19;HF0MTU;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Rzeszów;ul. Biecka;3;3;;
 DC.WML.5101.3796.2022.2;2032-09-06;SP6PDZ;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Strzelce Opolskie;ul. Opolska;32;"";;
 DC.WML.5101.3811.2022.2;2032-09-07;SP2KKB;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Bydgoszcz;ul. Wojska Polskiego;65A;218;;
@@ -517,13 +516,9 @@ DC.WML.5101.4159.2023.3;2028-07-22;SP8PZI;Kategoria1;500;Polski Zwi¹zek Krótkofa
 DC.WML.5101.4618.2023.2;2033-09-11;SP9KPL;Kategoria1;500;KP Labs Sp. z o.o.;Gliwice;ul. Bojkowska;37 J;"";"";"";"";"";"";Gliwice;ul. Bojkowska;37 J;"";;
 DC.WML.5101.4916.2023.2;2033-09-28;SN9H;Kategoria1;500;Fundacja Hackerspace Kraków;Kraków;ul. Zacisze;5;P1;"";"";"";"";"";Ocieka;"";525A;"";;
 DC.WML.5101.5123.2023.4;2033-10-13;SP2PNP;Kategoria1;500;Klub PNP;Solec Kujawski;ul. Kujawska;3C;33;"";"";"";"";"";Solec Kujawski;ul. Kujawska;3C;33;;
-DC.WML.5101.5373.2023.2;2024-10-31;SN160SPP;Dodatkowe;500;Liga Obrony Kraju;Warszawa;ul. Chocimska;14;"";"";"";"";"";"";Andrychów;ul. Starowiejska;22 B;417;;
 DC.WML.5101.5403.2023.2;2027-10-12;SP9PDF;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Gliwice;ul.£u¿ycka;30;"";;
-DC.WML.5101.5404.2023.2;2024-11-06;SN9A;Dodatkowe;1500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";D¹browa Górnicza;ul. Swobodna;59;"";;
 DC.WML.5101.5493.2023.3;2033-11-08;SP7TPS;Kategoria1;500;Zespó³ Szkó³ Ponadpodstawowych Nr 1 im. rtm. Witolda Pileckiego;Piotrków Trybunalski;ul. Roosevelta;1;"";"";"";"";"";"";Piotrków Trybunalski;ul. Franciszka ¯wirki;7;"";;
-DC.WML.5101.5566.2023.2;2024-11-10;SN0ULMA;Dodatkowe;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Koniecpol;ul. Klonowa;54;"";;
 DC.WML.5101.5656.2023.3;2033-11-17;SN6KGJ;Kategoria1;500;G³ogowskie Stowarzyszenie Krótkofalowców;G³ogów;ul. Poczdamska;1;314;"";"";"";"";"";G³ogów;ul. Poczdamska;1;314;;
-DC.WML.5101.5684.2023.2;2024-11-17;SN180RK;Dodatkowe;1500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";T³oki;"";60 A;"";;
 DC.WML.5101.5708.2023.2;2024-11-20;SN0YOTA;Dodatkowe;1500;Zwi¹zek Harcerstwa Polskiego Chor¹giew £ódzka;£ódŸ;Stefanowskiego;19;"";"";"";"";"";"";Sieradz;ul. Pi³sudskiego;7;"";;
 DC.WML.5101.5748.2023.2;2033-11-23;SP9PKD;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Zawiercie;ul. Okólna;10;"";;
 DC.WML.5101.5907.2023.2;2025-01-21;SN1I;Dodatkowe;1500;Œrodkowopomorski Oddzia³ Polskiego Zwi¹zku Krótkofalowców w Koszalinie;Koszalin;ul. Œniadeckich;1A;16;"";"";"";"";"";Koszalin;ul. Kwiatkowskiego;26 A;"";;
@@ -543,7 +538,6 @@ DC.WML.5101.835.2024.2;2025-02-13;SP0ANT;Dodatkowe;500;Polski Zwi¹zek Krótkofalo
 DC.WML.5101.854.2024.2;2025-02-13;SN1N;Dodatkowe;1500;Liga Obrony Kraju;Warszawa;ul. Chocimska;14;"";"";"";"";"";"";Bia³ogard;ul. Zwyciêstwa;10;"";;
 DC.WML.5101.855.2024.2;2025-01-11;SN0WOLF;Dodatkowe;1500;Liga Obrony Kraju;Warszawa;ul. Chocimska;14;"";"";"";"";"";"";Chojnice;ul. £u¿ycka;18;"";;
 DC.WML.5101.874.2024.2;2025-02-14;SP100ZHPTG;Dodatkowe;500;Zwi¹zek Harcerstwa Polskiego, Chor¹giew Œl¹ska;Chorzów;Al. Harcerska;3B;"";"";"";"";"";"";Tarnowskie Góry;ul. Korczaka;2;"";;
-DC.WML.5101.930.2024.2;2024-11-10;SN1956SPHA;Dodatkowe;100;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Poznañ;os. Armii Krajowej;100;"";;
 DC.WML.5101.935.2024.2;2025-03-05;SN0HQ;Dodatkowe;1500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Bydgoszcz;ul. Wojska Polskiego;65A;204;;
 DC.WML.5101.990.2024.2;2025-02-21;SN0LED;Dodatkowe;1500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Waliszewo;"";16;"";;
 DC.WML.5101.1005.2024.3;2034-02-21;SN112P;Kategoria1;500;£¹cznoœæ Kryzysowa Podlasie;Bia³ystok;ul. Zagórna;21;U1;"";"";"";"";"";Izbiszcze;"";53;"";;
@@ -664,3 +658,15 @@ DC.WML.5101.5319.2024.2;2025-09-18;SP3RN;Dodatkowe;500;Polski Zwi¹zek Krótkofalo
 DC.WML.5101.5339.2024.2;2025-09-18;SN1V;Dodatkowe;1500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Wolin;ul. Zamkowa;21;"";;
 DC.WML.5101.5340.2024.2;2025-10-24;SO4R;Dodatkowe;1500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Koniewo;"";20;"";;
 DC.WML.5101.5545.2024.2;2029-11-06;SN9A;Dodatkowe;1500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";D¹browa Górnicza;ul. Swobodna;59;"";;
+DC.WML.5101.5698.2024.2;2034-10-07;HF6Z;Kategoria1;500;Dolnoœl¹skie Stowarzyszenie Krótkofalowców i Radioamatorów;O³awa;ul. Orla;3;"";"";"";"";"";"";O³awa;ul. Orla;3;"";;
+DC.WML.5101.5759.2024.2;2025-10-09;SN7Z;Dodatkowe;1500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Zduñska Wola;ul. Ceramiczna;10;"";;
+DC.WML.5101.5930.2024.2;2034-10-18;SP2DX;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";£ódŸ;Al.Wyszyñskiego;33;20;;
+DC.WML.5101.5934.2024.2;2025-10-18;SO105BW;Dodatkowe;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Dobrzyca;ul. KoŸmiñska;35;"";;
+DC.WML.5101.5935.2024.2;2025-10-18;SP105BW;Dodatkowe;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Dobrzyca;ul. KoŸmiñska;35;"";;
+DC.WML.5101.5967.2024.2;2025-10-22;HF30PJY;Dodatkowe;1000;"Stowarzyszenie Krótkofalowców Wzgórz Dalkowskich ""SP3KEY""";Nowa Sól;Al. Wolnoœci;8;"";"";"";"";"";"";Nowe Miasteczko;ul. 22 Lipca;18;"";;
+DC.WML.5101.6118.2024.2;2028-03-01;HF60AST;Kategoria1;500;Niepo³omicki Klub Krótkofalowców przy M³odzie¿owym Obserwatorium Astronomicznym;Niepo³omice;ul. Miko³aja Kopernika;2;"";"";"";"";"";"";Niepo³omice;Bocheñska;26;"";;
+DC.WML.5101.6189.2024.2;2025-11-06;SN7ESH;Dodatkowe;1500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Bydgoszcz;ul. Glinki;32;E2;;
+DC.WML.5101.6190.2024.2;2025-11-06;SN7IU;Dodatkowe;1500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Bydgoszczul;ul. Glinki;32;E2;;
+DC.WML.5101.6191.2024.2;2025-11-06;SN6IW;Dodatkowe;1500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Bydgoszcz;ul. Glinki;32;E2;;
+DC.WML.5101.6192.2024.2;2025-11-06;SN4BUW;Dodatkowe;1500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Bydgoszczul. Glinki;"";32;E2;;
+DC.WML.5101.6237.2024.2;2034-11-12;SP7DTP;Kategoria1;500;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";£ódŸ;ul. Nastrojowa;50;13;;

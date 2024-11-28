@@ -5005,7 +5005,7 @@
         "Latitude": "51.11472",
         "Longitude": "16.95503",
         "QTH": "",
-        "edit_date": "2024-11-27"
+        "edit_date": "2024-11-28"
     },
     "SR6RWS": {
         "Callsign": "SR6RWS",
@@ -5117,7 +5117,7 @@
         "Latitude": "50.763544",
         "Longitude": "15.639784",
         "QTH": "",
-        "edit_date": "2024-11-27"
+        "edit_date": "2024-11-28"
     },
     "SR6UVO": {
         "Callsign": "SR6UVO",
@@ -7373,7 +7373,7 @@
         "Latitude": "49.96557",
         "Longitude": "21.99461",
         "QTH": "Rzeszow",
-        "edit_date": "2024-11-27"
+        "edit_date": "2024-11-28"
     },
     "SR8Z": {
         "Callsign": "SR8Z",
@@ -8013,7 +8013,7 @@
         "Latitude": "50.70491",
         "Longitude": "19.28541",
         "QTH": "Biskupice",
-        "edit_date": "2024-11-27"
+        "edit_date": "2024-11-28"
     },
     "SR9JK": {
         "Callsign": "SR9JK",
@@ -9277,6 +9277,22 @@
         "Latitude": "51.20057",
         "Longitude": "16.209077",
         "QTH": "Legnica",
+        "edit_date": "2023-01-01"
+    },
+    "SR4LIN": {
+        "Callsign": "SR4LIN",
+        "Modes": "c4fm",
+        "TX Frequency": "438.6500",
+        "TX CTCSS": "",
+        "RX Frequency": "431.0500",
+        "RX CTCSS": "",
+        "RX 1750": "false",
+        "Duplex": "-",
+        "Offset": "7.6",
+        "Status": "working",
+        "Latitude": "53.7906638",
+        "Longitude": "19.5364853",
+        "QTH": "",
         "edit_date": "2023-01-01"
     }
 }
