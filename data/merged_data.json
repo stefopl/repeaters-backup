@@ -49160,17 +49160,17 @@
     "SR3DAB": {
         "przemienniki_eu": {
             "Callsign": "SR3DAB",
-            "Modes": "fm, fmpoland",
-            "TX Frequency": "439.5750",
-            "TX CTCSS": "77",
-            "RX Frequency": "431.9750",
-            "RX CTCSS": "77",
+            "Modes": "c4fm",
+            "TX Frequency": "439.0500",
+            "TX CTCSS": "",
+            "RX Frequency": "431.4500",
+            "RX CTCSS": "",
             "RX 1750": "false",
             "Duplex": "-",
             "Offset": "7.6",
             "Status": "working",
             "Latitude": "52.1261",
-            "Longitude": "18.8562",
+            "Longitude": "52.1261",
             "QTH": "Zalesie"
         },
         "UKE_individual_devices": {
@@ -49322,6 +49322,23 @@
             "input_frequency": "430.55, 430.65",
             "output_frequency": "438.15, 438.25",
             "station_location": "Legnica"
+        }
+    },
+    "SR7KFX": {
+        "przemienniki_eu": {
+            "Callsign": "SR7KFX",
+            "Modes": "fm",
+            "TX Frequency": "439.2500",
+            "TX CTCSS": "85.4",
+            "RX Frequency": "431.6500",
+            "RX CTCSS": "88.5",
+            "RX 1750": "false",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "working",
+            "Latitude": "52.00964",
+            "Longitude": "18.81998",
+            "QTH": "Wielenin"
         }
     },
     "SR7SZ": {
