@@ -26050,7 +26050,7 @@
             "RX 1750": "false",
             "Duplex": "-",
             "Offset": "7.6",
-            "Status": "testing",
+            "Status": "working",
             "Latitude": "49.697373",
             "Longitude": "21.752431",
             "QTH": "Krosno"
@@ -31590,10 +31590,10 @@
             "RX 1750": "false",
             "Duplex": "-",
             "Offset": "7.6",
-            "Status": "off",
-            "Latitude": "50.066357",
-            "Longitude": "19.940202",
-            "QTH": "Krakow"
+            "Status": "working",
+            "Latitude": "49.959167",
+            "Longitude": "20.088",
+            "QTH": "Choragwica k/Krakowa"
         }
     },
     "SR9KS": {
@@ -34434,7 +34434,7 @@
             "RX 1750": "false",
             "Duplex": "-",
             "Offset": "7.6",
-            "Status": "working",
+            "Status": "off",
             "Latitude": "50.115185",
             "Longitude": "19.748343",
             "QTH": "Kochanow"
