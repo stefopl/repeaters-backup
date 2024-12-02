@@ -3,8 +3,8 @@
 <rxf version="1.0">
 	<link rel="self" href="http://przemienniki.net/export/rxf.xml" type="appliction/xml"/>
 	<link>http://przemienniki.net</link>
-	<updated>2024-11-11 08:23:51</updated>
-	<generated>2024-11-15 13:22:28</generated>
+	<updated>2024-12-02 10:37:43</updated>
+	<generated>2024-12-02 13:24:53</generated>
 	<generator>przemienniki.net v.2.12.0 (2019/02/04)</generator>
 	<dictionary>
 		<item>
@@ -8181,34 +8181,34 @@ Obiekt: Lokalizacja wieży jest na terenie Parku Krajobrazowego Wzgórz Dylewski
 			<id>9045801</id>
 			<hash>b4f04f6d2111e23785641cd48cf0c886</hash>
 			<created>2023-02-06 11:22:28</created>
-			<updated>2023-03-06 19:49:41</updated>
+			<updated>2024-12-02 10:37:43</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<licenseExpiryDate>2028-02-03</licenseExpiryDate>
-			<modeInt>8196</modeInt>
-			<mode>FM</mode>
+			<modeInt>8224</modeInt>
+			<mode>DSTAR</mode>
 			<mode>C4FM</mode>
 			<bandInt>16384</bandInt>
 			<band>70CM</band>
-			<qrg type="rx">431.000000</qrg>
-			<qrg type="tx">438.600000</qrg>
+			<qrg type="rx">430.550000</qrg>
+			<qrg type="tx">439.950000</qrg>
 			<country>pl</country>
-			<qth><![CDATA[Pasłęk]]></qth>
+			<qth><![CDATA[Pasłęk, pow. elbląski]]></qth>
 			<location>
 				<locator>JO94TB</locator>
-				<latitude>54.047551</latitude>
-				<longitude>19.621930</longitude>
+				<latitude>54.073344</latitude>
+				<longitude>19.648709</longitude>
 				<altitudeOverSea>109</altitudeOverSea>
 				<altitudeOverGround>10</altitudeOverGround>
 			</location>
-			<activationInt>256</activationInt>
+			<activationInt>4</activationInt>
 
-			<activation>CTCSS</activation>
+			<activation>CARRIER</activation>
 			<ctcss type="rx">94.8</ctcss>
 			<trxPower>15.00</trxPower>
 			<operator>SP4KDK</operator>
 			<remarks><![CDATA[Motorola Mtr-2000
-Antena-718
+Antena-Comet GP9
 Duplexer-Motorola]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR4UVE</link>
 			<source>przemienniki.net</source>
@@ -9816,7 +9816,7 @@ Przemiennik pracuje w sieci FM Poland (http://fm-poland.pl/dashboard)]]></remark
 			<id>8232959</id>
 			<hash>8cf7e03443bfd468672da7d5418ea50d</hash>
 			<created>2011-01-03 20:01:27</created>
-			<updated>2016-04-14 09:35:58</updated>
+			<updated>2024-12-02 10:33:02</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<modeInt>36</modeInt>
@@ -9844,7 +9844,7 @@ Przemiennik pracuje w sieci FM Poland (http://fm-poland.pl/dashboard)]]></remark
 			<operator>SQ7BCZ</operator>
 			<remarks><![CDATA[Comet GH70 , kable 7/8 i 1&5/8", Motorola MTR2000, D-STAR i FM, DVRPTR + oprogramowanie KI4LKF, Sterownik SQ5DCP]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR5RK</link>
-			<link>http://sr5rk.tomul.net</link>
+			<link>https://sq5dcp.tomul.net/sr5rk/</link>
 			<source>przemienniki.net</source>
 			<feedback>http://przemienniki.net/zglos/8232959</feedback>
 		</repeater>
@@ -11067,7 +11067,7 @@ RX ant.X300 / TX ant. X50]]></remarks>
 			<id>9044882</id>
 			<hash></hash>
 			<created>2017-03-06 15:15:30</created>
-			<updated>2024-03-24 12:54:22</updated>
+			<updated>2024-12-02 10:34:05</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<licenseExpiryDate>2028-09-01</licenseExpiryDate>
@@ -11090,12 +11090,13 @@ RX ant.X300 / TX ant. X50]]></remarks>
 
 			<activation>CTCSS</activation>
 			<ctcss type="rx">67.0</ctcss>
-			<trxPower>15.00</trxPower>
+			<ctcss type="tx">67.0</ctcss>
+			<trxPower>10.00</trxPower>
 			<operator>SP6AA</operator>
 			<operator>SP6AW</operator>
-			<remarks><![CDATA[nr pozwolenia 
+			<remarks><![CDATA[Nr pozwolenia 
 DC.WML.5101.4494.2023.2
-Przemiennik podłączony do sieci FM-Poland z domyślą grupą 260693 Legnica]]></remarks>
+Przemiennik podłączony do sieci FM-Poland]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR6AA</link>
 			<source>przemienniki.net</source>
 			<feedback>http://przemienniki.net/zglos/9044882</feedback>
@@ -11971,7 +11972,7 @@ Obiekt: Wieża widokowa wzniesiona w latach 1905–1906 z bloków betonowych na 
 			<id>9045874</id>
 			<hash>c22be9e4a18815824e0dbc43d9e65a87</hash>
 			<created>2024-01-25 17:31:53</created>
-			<updated>2024-03-19 22:14:52</updated>
+			<updated>2024-12-02 10:36:36</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<licenseExpiryDate>2028-08-04</licenseExpiryDate>
@@ -11994,11 +11995,12 @@ Obiekt: Wieża widokowa wzniesiona w latach 1905–1906 z bloków betonowych na 
 
 			<activation>CTCSS</activation>
 			<ctcss type="rx">67.0</ctcss>
-			<trxPower>10.00</trxPower>
+			<ctcss type="tx">67.0</ctcss>
+			<trxPower>5.00</trxPower>
 			<operator>SP6AW</operator>
 			<operator>SP6ONA</operator>
 			<remarks><![CDATA[Pozwolenie DC.WML.5101.4070.2023.2
-Przemiennik podłączony do sieci FM-Poland z domyślą grupą 260693 Legnica]]></remarks>
+Przemiennik podłączony do sieci FM-Poland z domyślą grupą 26061 Legnica]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR6MI</link>
 			<source>przemienniki.net</source>
 			<feedback>http://przemienniki.net/zglos/9045874</feedback>
@@ -13407,9 +13409,9 @@ Antena: RADMOR 5/8]]></remarks>
 			<id>9045779</id>
 			<hash>901ed4053290df59db0d032456574e68</hash>
 			<created>2022-11-29 09:52:48</created>
-			<updated>2022-11-29 09:52:48</updated>
-			<statusInt>1</statusInt>
-			<status>WORKING</status>
+			<updated>2024-12-02 10:33:22</updated>
+			<statusInt>2</statusInt>
+			<status>DISABLED</status>
 			<licenseExpiryDate>2027-09-21</licenseExpiryDate>
 			<modeInt>8192</modeInt>
 			<mode>C4FM</mode>
@@ -14396,9 +14398,9 @@ Antena: Sigma Wireless SA-410 4x dipol 1/2 fali - zysk 5dB - polaryzacja pionowa
 			<id>9044949</id>
 			<hash></hash>
 			<created>2018-01-02 13:47:30</created>
-			<updated>2018-03-14 09:25:17</updated>
-			<statusInt>1</statusInt>
-			<status>WORKING</status>
+			<updated>2024-12-02 10:33:33</updated>
+			<statusInt>2</statusInt>
+			<status>DISABLED</status>
 			<licenseExpiryDate>2023-12-15</licenseExpiryDate>
 			<modeInt>2048</modeInt>
 			<mode>MOTOTRBO</mode>
@@ -14429,9 +14431,9 @@ Antena: Sigma Wireless SA-410 4x dipol 1/2 fali - zysk 5dB - polaryzacja pionowa
 			<id>9044989</id>
 			<hash></hash>
 			<created>2018-10-01 12:59:54</created>
-			<updated>2022-11-28 20:48:43</updated>
-			<statusInt>1</statusInt>
-			<status>WORKING</status>
+			<updated>2024-12-02 10:33:14</updated>
+			<statusInt>2</statusInt>
+			<status>DISABLED</status>
 			<licenseExpiryDate>2028-07-09</licenseExpiryDate>
 			<modeInt>4</modeInt>
 			<mode>FM</mode>
@@ -15977,9 +15979,9 @@ Uruchomiony po konserwacji 6 czerwca 2020, prosimy o raporty słyszalności.]]><
 			<id>2954002</id>
 			<hash>2971d1bed5d4a824df10642c7f0c94b5</hash>
 			<created>2010-11-13 02:11:50</created>
-			<updated>2024-07-27 09:45:11</updated>
-			<statusInt>2</statusInt>
-			<status>DISABLED</status>
+			<updated>2024-12-02 10:37:09</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
 			<licenseExpiryDate>2016-08-15</licenseExpiryDate>
 			<modeInt>8196</modeInt>
 			<mode>FM</mode>
@@ -17794,9 +17796,9 @@ Przemiennik działa tylko w trybie analogowym.]]></remarks>
 			<id>6612250</id>
 			<hash>eaac0786d5d2e64151b7ce5d684df839</hash>
 			<created>2010-11-13 02:11:50</created>
-			<updated>2022-01-19 11:37:29</updated>
-			<statusInt>1</statusInt>
-			<status>WORKING</status>
+			<updated>2024-12-02 10:33:44</updated>
+			<statusInt>2</statusInt>
+			<status>DISABLED</status>
 			<modeInt>4</modeInt>
 			<mode>FM</mode>
 			<bandInt>4096</bandInt>
@@ -20265,12 +20267,13 @@ TS2 26091, 26098]]></remarks>
 			<id>9045793</id>
 			<hash>b2288cc08c617e6368c1ec869a65d12f</hash>
 			<created>2022-12-30 20:37:54</created>
-			<updated>2024-04-05 12:14:54</updated>
-			<statusInt>2</statusInt>
-			<status>DISABLED</status>
+			<updated>2024-12-02 10:32:08</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
 			<licenseExpiryDate>2027-12-13</licenseExpiryDate>
-			<modeInt>4</modeInt>
+			<modeInt>16388</modeInt>
 			<mode>FM</mode>
+			<mode>FMLINK</mode>
 			<bandInt>20480</bandInt>
 			<band>2M</band>
 			<band>70CM</band>
@@ -20294,9 +20297,9 @@ TS2 26091, 26098]]></remarks>
 			<ctcss type="tx">103.5</ctcss>
 			<trxPower>15.00</trxPower>
 			<operator>SP9FUN</operator>
-			<remarks><![CDATA[Radioprzemiennik SR9RT v.2.01 jest QRT. Trwają prace modernizacyjne (podłączanie modułu sieci FM Poland).
+			<remarks><![CDATA[13 listopada 2014 roku na Łysej Górze (781 m n.p.m.) w pobliżu Limanowej zainstalowano radioprzemiennik SR9RT, działający w pasmach amatorskich oraz sieci FM Poland. Urządzenie zostało uruchomione i jest już słyszalne w eterze, choć obecnie nie działa jeszcze w pełni sprawnie. Dalsza modernizacja obecnej wersji (2.01) została uznana za nieopłacalną. 
 
-Planowane QRV- maj 2024 r.
+Na przyszły rok planowane jest wprowadzenie wersji 3.0, która ma zrewolucjonizować funkcjonowanie przemiennika i zastąpić jego dotychczasowe rozwiązania.
 
 Multiband RPT:
 
@@ -20304,7 +20307,7 @@ Multiband RPT:
 145,6375 MHz (-0,6 MHz)
 51,990 MHz (-0,6 MHz)
 29,660 MHz (-0,1 MHz)
-FM Poland (TG: 26090)]]></remarks>
+FM Poland (TG: 260902)]]></remarks>
 			<link>http://przemienniki.net/przemienniki/crossband/SR9RT</link>
 			<link>http://radioteam.pl/sr9rt</link>
 			<source>przemienniki.net</source>

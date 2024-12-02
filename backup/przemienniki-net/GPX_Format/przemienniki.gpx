@@ -4837,25 +4837,25 @@ Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR4UVD
 
 	</desc>
 </wpt>
-<wpt lat="54.047551" lon="19.621930">
+<wpt lat="54.073344" lon="19.648709">
 	<name>SR4UVE</name>
 	<cmt>
-Przemiennik C4FM/Fusion+FM pasma 70cm
+Przemiennik C4FM/Fusion+DSTAR/DV pasma 70cm
 
 
-QTH: Pasłęk
-Częstotliwość: TX: 438,6000 MHz, RX: 431,0000 MHz 
-Aktywowanie: CTCSS (94.8 Hz)
+QTH: Pasłęk, pow. elbląski
+Częstotliwość: TX: 439,9500 MHz, RX: 430,5500 MHz 
+Aktywowanie: nośną
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR4UVE
 
 	</cmt>
 	<desc>
-Przemiennik C4FM/Fusion+FM pasma 70cm
+Przemiennik C4FM/Fusion+DSTAR/DV pasma 70cm
 
 
-QTH: Pasłęk
-Częstotliwość: TX: 438,6000 MHz, RX: 431,0000 MHz 
-Aktywowanie: CTCSS (94.8 Hz)
+QTH: Pasłęk, pow. elbląski
+Częstotliwość: TX: 439,9500 MHz, RX: 430,5500 MHz 
+Aktywowanie: nośną
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR4UVE
 
 	</desc>
@@ -12269,7 +12269,7 @@ Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR9RSR
 <wpt lat="49.719344" lon="20.454852">
 	<name>SR9RT</name>
 	<cmt>
-Przemiennik crossband FM
+Przemiennik crossband FM+FM-Link
 
 
 QTH: Mordarka - Łysa Góra 781 m n.p.m. (k. Limanowej)
@@ -12279,7 +12279,7 @@ Więcej informacji: http://przemienniki.net/przemienniki/crossband/SR9RT
 
 	</cmt>
 	<desc>
-Przemiennik crossband FM
+Przemiennik crossband FM+FM-Link
 
 
 QTH: Mordarka - Łysa Góra 781 m n.p.m. (k. Limanowej)

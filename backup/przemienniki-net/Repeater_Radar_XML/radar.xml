@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<repeaters update="2024-11-11 08:23:51" version="0.1">
+<repeaters update="2024-12-02 10:37:43" version="0.1">
 
 
 	<repeater
@@ -5406,25 +5406,25 @@ Obiekt: Lokalizacja wieży jest na terenie Parku Krajobrazowego Wzgórz Dylewski
 		callsign="SR4UVE"
 		country="PL"
 		region="4"
-		frequency="438600000"
+		frequency="439950000"
 		band="70cm"
 		ctcss="94.8"
 		tx_power="15.00"
-		city="Pasłęk"
+		city="Pasłęk, pow. elbląski"
 		location=""
 		locator="JO94TB"
-		type="FM"
+		type="DSTAR"
 		status="OPERATIONAL"
-		latitude="54.047551"
-		longitude="19.621930"
-		opening="CTCSS"
+		latitude="54.073344"
+		longitude="19.648709"
+		opening="CARRIER"
 		echolink=""
 		URL="70cm/SR4UVE"
 		antenna=""
 		alt_npm="109"
 		alt_npg="10"
 		description="Motorola Mtr-2000
-Antena-718
+Antena-Comet GP9
 Duplexer-Motorola"
 		/>
 
@@ -7324,7 +7324,7 @@ RX ant.X300 / TX ant. X50"
 		frequency="439400000"
 		band="70cm"
 		ctcss="67"
-		tx_power="15.00"
+		tx_power="10.00"
 		city="Legnica"
 		location=""
 		locator="JO81BE"
@@ -7338,9 +7338,9 @@ RX ant.X300 / TX ant. X50"
 		antenna=""
 		alt_npm="126"
 		alt_npg="20"
-		description="nr pozwolenia 
+		description="Nr pozwolenia 
 DC.WML.5101.4494.2023.2
-Przemiennik podłączony do sieci FM-Poland z domyślą grupą 260693 Legnica"
+Przemiennik podłączony do sieci FM-Poland"
 		/>
 
 
@@ -7938,7 +7938,7 @@ Obiekt: Wieża widokowa wzniesiona w latach 1905–1906 z bloków betonowych na 
 		frequency="439337500"
 		band="70cm"
 		ctcss="67"
-		tx_power="10.00"
+		tx_power="5.00"
 		city="Miłkowice"
 		location=""
 		locator="JO81AG"
@@ -7953,7 +7953,7 @@ Obiekt: Wieża widokowa wzniesiona w latach 1905–1906 z bloków betonowych na 
 		alt_npm="126"
 		alt_npg="20"
 		description="Pozwolenie DC.WML.5101.4070.2023.2
-Przemiennik podłączony do sieci FM-Poland z domyślą grupą 260693 Legnica"
+Przemiennik podłączony do sieci FM-Poland z domyślą grupą 26061 Legnica"
 		/>
 
 
@@ -8952,7 +8952,7 @@ Antena: RADMOR 5/8"
 		location=""
 		locator="KO00HJ"
 		type="C4FM/Fusion"
-		status="OPERATIONAL"
+		status="OFF"
 		latitude="50.382386"
 		longitude="20.592706"
 		opening="CARRIER"
@@ -9629,7 +9629,7 @@ Antena: Sigma Wireless SA-410 4x dipol 1/2 fali - zysk 5dB - polaryzacja pionowa
 		location=""
 		locator="KO00HJ"
 		type="DMR"
-		status="OPERATIONAL"
+		status="OFF"
 		latitude="50.382386"
 		longitude="20.592706"
 		opening="CARRIER"
@@ -9654,7 +9654,7 @@ Antena: Sigma Wireless SA-410 4x dipol 1/2 fali - zysk 5dB - polaryzacja pionowa
 		location=""
 		locator="KO00HJ"
 		type="FM"
-		status="OPERATIONAL"
+		status="OFF"
 		latitude="50.382386"
 		longitude="20.592706"
 		opening="CARRIER"
@@ -10754,7 +10754,7 @@ Uruchomiony po konserwacji 6 czerwca 2020, prosimy o raporty słyszalności."
 		location=""
 		locator="KN19EV"
 		type="FM"
-		status="OFF"
+		status="OPERATIONAL"
 		latitude="49.885216"
 		longitude="22.389420"
 		opening="CTCSS"
@@ -11975,7 +11975,7 @@ Przemiennik działa tylko w trybie analogowym."
 		location=""
 		locator="KO10PO"
 		type="FM"
-		status="OPERATIONAL"
+		status="OFF"
 		latitude="50.607544"
 		longitude="23.261111"
 		opening="CTCSS"
@@ -13644,7 +13644,7 @@ TS2 26091, 26098"
 		location=""
 		locator="KN09FR"
 		type="FM"
-		status="OFF"
+		status="OPERATIONAL"
 		latitude="49.719344"
 		longitude="20.454852"
 		opening="CTCSS"
@@ -13653,9 +13653,9 @@ TS2 26091, 26098"
 		antenna=""
 		alt_npm="781"
 		alt_npg="15"
-		description="Radioprzemiennik SR9RT v.2.01 jest QRT. Trwają prace modernizacyjne (podłączanie modułu sieci FM Poland).
+		description="13 listopada 2014 roku na Łysej Górze (781 m n.p.m.) w pobliżu Limanowej zainstalowano radioprzemiennik SR9RT, działający w pasmach amatorskich oraz sieci FM Poland. Urządzenie zostało uruchomione i jest już słyszalne w eterze, choć obecnie nie działa jeszcze w pełni sprawnie. Dalsza modernizacja obecnej wersji (2.01) została uznana za nieopłacalną. 
 
-Planowane QRV- maj 2024 r.
+Na przyszły rok planowane jest wprowadzenie wersji 3.0, która ma zrewolucjonizować funkcjonowanie przemiennika i zastąpić jego dotychczasowe rozwiązania.
 
 Multiband RPT:
 
@@ -13663,7 +13663,7 @@ Multiband RPT:
 145,6375 MHz (-0,6 MHz)
 51,990 MHz (-0,6 MHz)
 29,660 MHz (-0,1 MHz)
-FM Poland (TG: 26090)"
+FM Poland (TG: 260902)"
 		/>
 
 

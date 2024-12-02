@@ -1858,15 +1858,15 @@
 					<Placemark>
 						<name>SR4UVE</name>
 						<Point>
-							<coordinates>19.621930,54.047551</coordinates>
+							<coordinates>19.648709,54.073344</coordinates>
 						</Point>
 						<styleUrl>#BAND_70CM</styleUrl>
 						<description><![CDATA[
-							Przemiennik C4FM/Fusion+FM pasma 70cm<br />
-							QTH: Pasłęk<br />
-							QRG: TX: 438,6000 MHz, RX: 431,0000 MHz
+							Przemiennik C4FM/Fusion+DSTAR/DV pasma 70cm<br />
+							QTH: Pasłęk, pow. elbląski<br />
+							QRG: TX: 439,9500 MHz, RX: 430,5500 MHz
 							<br />
-							Aktywowanie: CTCSS (94.8 Hz)<br /><br />
+							Aktywowanie: nośną<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR4UVE">przemienniki.net/przemienniki/70cm/SR4UVE</a><br />
 						]]></description>
 					</Placemark>
@@ -3071,21 +3071,6 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
-						<name>SR7G</name>
-						<Point>
-							<coordinates>20.592706,50.382386</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik C4FM/Fusion pasma 70cm<br />
-							QTH: Złota<br />
-							QRG: TX: 439,0625 MHz, RX: 431,4625 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR7G">przemienniki.net/przemienniki/70cm/SR7G</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
 						<name>SR7KI</name>
 						<Point>
 							<coordinates>21.048573,50.860322</coordinates>
@@ -3293,21 +3278,6 @@
 							<br />
 							Aktywowanie: CTCSS (110.9 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR7ST">przemienniki.net/przemienniki/70cm/SR7ST</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>SR7T</name>
-						<Point>
-							<coordinates>20.592706,50.382386</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DMR pasma 70cm<br />
-							QTH: Złota<br />
-							QRG: TX: 438,8750 MHz, RX: 431,2750 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR7T">przemienniki.net/przemienniki/70cm/SR7T</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
@@ -5567,6 +5537,21 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
+						<name>SR7G</name>
+						<Point>
+							<coordinates>20.592706,50.382386</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik C4FM/Fusion pasma 70cm<br />
+							QTH: Złota<br />
+							QRG: TX: 439,0625 MHz, RX: 431,4625 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR7G">przemienniki.net/przemienniki/70cm/SR7G</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
 						<name>SR7LA</name>
 						<Point>
 							<coordinates>19.434011,51.723950</coordinates>
@@ -5609,6 +5594,21 @@
 							<br />
 							Aktywowanie: CTCSS (77.0 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR7PA">przemienniki.net/przemienniki/70cm/SR7PA</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>SR7T</name>
+						<Point>
+							<coordinates>20.592706,50.382386</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DMR pasma 70cm<br />
+							QTH: Złota<br />
+							QRG: TX: 438,8750 MHz, RX: 431,2750 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR7T">przemienniki.net/przemienniki/70cm/SR7T</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
@@ -6548,6 +6548,21 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
+						<name>SR7TCW</name>
+						<Point>
+							<coordinates>20.592706,50.382386</coordinates>
+						</Point>
+						<styleUrl>#MULTI</styleUrl>
+						<description><![CDATA[
+							Przemiennik crossband FM<br />
+							QTH: Złota<br />
+							QRG: 							RX/TX: 145,3000 + 438,1250 MHz
+							<br />
+							Aktywowanie: nośną<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/crossband/SR7TCW">przemienniki.net/przemienniki/crossband/SR7TCW</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
 						<name>SR7ZG</name>
 						<Point>
 							<coordinates>19.414183,51.847251</coordinates>
@@ -6560,21 +6575,6 @@
 							<br />
 							Aktywowanie: CTCSS (77.0 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/crossband/SR7ZG">przemienniki.net/przemienniki/crossband/SR7ZG</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>SR9RT</name>
-						<Point>
-							<coordinates>20.454852,49.719344</coordinates>
-						</Point>
-						<styleUrl>#MULTI</styleUrl>
-						<description><![CDATA[
-							Przemiennik crossband FM<br />
-							QTH: Mordarka - Łysa Góra 781 m n.p.m. (k. Limanowej)<br />
-							QRG: 							RX: 145,0375 MHz, TX: 145,6375 MHz + 438,6375 MHz
-							<br />
-							Aktywowanie: CTCSS (103.5 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/crossband/SR9RT">przemienniki.net/przemienniki/crossband/SR9RT</a><br />
 						]]></description>
 					</Placemark>
 				</Folder>
@@ -6641,21 +6641,6 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
-						<name>SR7TCW</name>
-						<Point>
-							<coordinates>20.592706,50.382386</coordinates>
-						</Point>
-						<styleUrl>#MULTI</styleUrl>
-						<description><![CDATA[
-							Przemiennik crossband FM<br />
-							QTH: Złota<br />
-							QRG: 							RX/TX: 145,3000 + 438,1250 MHz
-							<br />
-							Aktywowanie: nośną<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/crossband/SR7TCW">przemienniki.net/przemienniki/crossband/SR7TCW</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
 						<name>SR8MBR</name>
 						<Point>
 							<coordinates>22.048855,49.940092</coordinates>
@@ -6668,6 +6653,21 @@
 							<br />
 							Aktywowanie: CTCSS (71.9 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/crossband/SR8MBR">przemienniki.net/przemienniki/crossband/SR8MBR</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>SR9RT</name>
+						<Point>
+							<coordinates>20.454852,49.719344</coordinates>
+						</Point>
+						<styleUrl>#MULTI</styleUrl>
+						<description><![CDATA[
+							Przemiennik crossband FM+FM-Link<br />
+							QTH: Mordarka - Łysa Góra 781 m n.p.m. (k. Limanowej)<br />
+							QRG: 							RX: 145,0375 MHz, TX: 145,6375 MHz + 438,6375 MHz
+							<br />
+							Aktywowanie: CTCSS (103.5 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/crossband/SR9RT">przemienniki.net/przemienniki/crossband/SR9RT</a><br />
 						]]></description>
 					</Placemark>
 				</Folder>
@@ -6905,21 +6905,6 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
-						<name>SR8K</name>
-						<Point>
-							<coordinates>22.389420,49.885216</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik C4FM/Fusion+FM pasma 2m<br />
-							QTH: Drohobyczka-Dubiecko<br />
-							QRG: TX: 145,6000 MHz, RX: 145,0000 MHz
-							<br />
-							Aktywowanie: CTCSS (71.9 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR8K">przemienniki.net/przemienniki/2m/SR8K</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
 						<name>SR8R</name>
 						<Point>
 							<coordinates>21.978431,50.048852</coordinates>
@@ -6977,6 +6962,21 @@
 							<br />
 							Aktywowanie: CTCSS (118.8 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR8X">przemienniki.net/przemienniki/2m/SR8X</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>SR8Z</name>
+						<Point>
+							<coordinates>23.261111,50.607544</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik FM pasma 2m<br />
+							QTH: Feliksówka k/Zamościa<br />
+							QRG: TX: 145,7500 MHz, RX: 145,1500 MHz
+							<br />
+							Aktywowanie: CTCSS (77.0 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR8Z">przemienniki.net/przemienniki/2m/SR8Z</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
@@ -8003,6 +8003,21 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
+						<name>SR8K</name>
+						<Point>
+							<coordinates>22.389420,49.885216</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik C4FM/Fusion+FM pasma 2m<br />
+							QTH: Drohobyczka-Dubiecko<br />
+							QRG: TX: 145,6000 MHz, RX: 145,0000 MHz
+							<br />
+							Aktywowanie: CTCSS (71.9 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR8K">przemienniki.net/przemienniki/2m/SR8K</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
 						<name>SR8L</name>
 						<Point>
 							<coordinates>22.653510,51.004810</coordinates>
@@ -8090,21 +8105,6 @@
 							<br />
 							Aktywowanie: CTCSS (103.5 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR8V">przemienniki.net/przemienniki/2m/SR8V</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>SR8Z</name>
-						<Point>
-							<coordinates>23.261111,50.607544</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik FM pasma 2m<br />
-							QTH: Feliksówka k/Zamościa<br />
-							QRG: TX: 145,7500 MHz, RX: 145,1500 MHz
-							<br />
-							Aktywowanie: CTCSS (77.0 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR8Z">przemienniki.net/przemienniki/2m/SR8Z</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
