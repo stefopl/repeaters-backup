@@ -33000,15 +33000,15 @@
         },
         "przemienniki_eu": {
             "Callsign": "SR9RT",
-            "Modes": "fm",
-            "TX Frequency": "145.6375",
+            "Modes": "fm, fmpoland",
+            "TX Frequency": "29.6600",
             "TX CTCSS": "103.5",
-            "RX Frequency": "145.0375",
+            "RX Frequency": "29.5600",
             "RX CTCSS": "103.5",
             "RX 1750": "false",
             "Duplex": "-",
-            "Offset": "0.6",
-            "Status": "off",
+            "Offset": "0.1",
+            "Status": "working",
             "Latitude": "49.719344",
             "Longitude": "20.454852",
             "QTH": ""
@@ -49474,6 +49474,35 @@
             "station_location": "Rzeszów"
         }
     },
+    "SR9W": {
+        "przemienniki_eu": {
+            "Callsign": "SR9W",
+            "Modes": "fm",
+            "TX Frequency": "145.6000",
+            "TX CTCSS": "103.5",
+            "RX Frequency": "145.0000",
+            "RX CTCSS": "103.5",
+            "RX 1750": "false",
+            "Duplex": "-",
+            "Offset": "0.6",
+            "Status": "inprogress",
+            "Latitude": "49.778695397775",
+            "Longitude": "20.396280558875",
+            "QTH": "Makowica - Kamionna"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.4626.2024.2",
+            "valid_to": "2029-08-08",
+            "call_sign": "SR9W",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "145",
+            "output_frequency": "145.6",
+            "station_location": "Makowica"
+        }
+    },
     "SR9DD": {
         "UKE_club_devices": {
             "number": "DC.WML.5101.3396.2019.4",
@@ -55004,20 +55033,6 @@
             "input_frequency": "144.8",
             "output_frequency": "144.8",
             "station_location": "Miêdzybrodzie ¯ywieckie"
-        }
-    },
-    "SR9W": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.4626.2024.2",
-            "valid_to": "2029-08-08",
-            "call_sign": "SR9W",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "AnalogowyPrzemiennikFM",
-            "emission": "",
-            "input_frequency": "145",
-            "output_frequency": "145.6",
-            "station_location": "Makowica"
         }
     },
     "SR2LMU": {
