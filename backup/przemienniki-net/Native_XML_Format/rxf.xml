@@ -3,8 +3,8 @@
 <rxf version="1.0">
 	<link rel="self" href="http://przemienniki.net/export/rxf.xml" type="appliction/xml"/>
 	<link>http://przemienniki.net</link>
-	<updated>2024-12-10 03:34:59</updated>
-	<generated>2024-12-10 13:24:35</generated>
+	<updated>2024-12-02 10:37:43</updated>
+	<generated>2024-12-11 13:24:16</generated>
 	<generator>przemienniki.net v.2.12.0 (2019/02/04)</generator>
 	<dictionary>
 		<item>
@@ -26636,7 +26636,7 @@ IYM w trakcie dodawania]]></remarks>
 			<ctcss type="tx">118.8</ctcss>
 			<trxPower>8.50</trxPower>
 			<operator>GM8IOA</operator>
-			<link>http://przemienniki.net/przemienniki/70cm/FM/GB3SA</link>
+			<link>http://przemienniki.net/przemienniki/70cm/GB3SA</link>
 			<source>przemienniki.net</source>
 			<feedback>http://przemienniki.net/zglos/9045166</feedback>
 		</repeater>
