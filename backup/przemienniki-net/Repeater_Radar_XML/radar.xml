@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<repeaters update="2024-12-02 10:37:43" version="0.1">
+<repeaters update="2024-12-19 22:06:44" version="0.1">
 
 
 	<repeater
@@ -821,8 +821,8 @@ Przemiennik pracuje wyłącznie w trybie cyfrowym"
 		region="1"
 		frequency="438725000"
 		band="70cm"
-		ctcss="82.5"
-		tx_power="10.00"
+		ctcss="0"
+		tx_power="5.00"
 		city="Świnoujście"
 		location=""
 		locator="JO73CV"
@@ -830,13 +830,13 @@ Przemiennik pracuje wyłącznie w trybie cyfrowym"
 		status="OPERATIONAL"
 		latitude="53.907989"
 		longitude="14.246773"
-		opening="CTCSS"
+		opening="OTHER"
 		echolink=""
 		URL="70cm/SR1WU"
 		antenna=""
 		alt_npm="4"
 		alt_npg="40"
-		description="Antena X-200"
+		description="Antena X-200, (przemiennik testowo uruchomiony w trybie DCS)"
 		/>
 
 
@@ -2439,6 +2439,31 @@ Color Code: 5.
 Slot 1 TG260
 Slot 2 TG2605, TG8005, TG26057
 Obiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w Jemiołowie gmina Łagów 66-220 Łagów, maszt o wysokości 316 metrów. Centrum zbudowano w latach 1960-1962"
+		/>
+
+
+	<repeater
+		callsign="SR3DKA"
+		country="PL"
+		region="3"
+		frequency="438400000"
+		band="70cm"
+		ctcss="0"
+		tx_power="15.00"
+		city="Kalisz"
+		location=""
+		locator="JO91BR"
+		type="DSTAR"
+		status="OPERATIONAL"
+		latitude="51.742188"
+		longitude="18.095833"
+		opening="CARRIER"
+		echolink=""
+		URL="70cm/SR3DKA"
+		antenna=""
+		alt_npm="118"
+		alt_npg=""
+		description=""
 		/>
 
 
@@ -4544,6 +4569,60 @@ Obiekt: Lokalizacja wieży jest na terenie Parku Krajobrazowego Wzgórz Dylewski
 
 
 	<repeater
+		callsign="SR4LIN"
+		country="PL"
+		region="4"
+		frequency="438650000"
+		band="70cm"
+		ctcss="0"
+		tx_power="5.00"
+		city="Jerzwałd"
+		location=""
+		locator="JO93SS"
+		type="C4FM/Fusion"
+		status="OPERATIONAL"
+		latitude="53.788600"
+		longitude="19.535823"
+		opening="CARRIER"
+		echolink=""
+		URL="70cm/C4FM/Fusion/SR4LIN/9047358"
+		antenna=""
+		alt_npm="115"
+		alt_npg="10"
+		description="Przemiennik
+C4FM
+połączony
+z
+SR2MAL"
+		/>
+
+
+	<repeater
+		callsign="SR4LIN"
+		country="PL"
+		region="4"
+		frequency="438650000"
+		band="70cm"
+		ctcss="0"
+		tx_power="5.00"
+		city="Jerzwałd"
+		location=""
+		locator="JO93SS"
+		type="C4FM/Fusion"
+		status="OPERATIONAL"
+		latitude="53.788600"
+		longitude="19.535823"
+		opening="CARRIER"
+		echolink=""
+		URL="70cm/C4FM/Fusion/SR4LIN/9047361"
+		antenna=""
+		alt_npm="102"
+		alt_npg="10"
+		description=""
+		/>
+
+
+	<repeater
 		callsign="SR4LO"
 		country="PL"
 		region="4"
@@ -5191,7 +5270,7 @@ Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz."
 		region="4"
 		frequency="438900000"
 		band="70cm"
-		ctcss="0"
+		ctcss="67"
 		tx_power=""
 		city="Suwałki, ul. Mickiewicza 15"
 		location=""
@@ -5200,7 +5279,7 @@ Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz."
 		status="OPERATIONAL"
 		latitude="54.098344"
 		longitude="22.924715"
-		opening="CARRIER"
+		opening="CTCSS"
 		echolink=""
 		URL="70cm/SR4SUU"
 		antenna=""
@@ -5231,7 +5310,10 @@ Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz."
 		antenna=""
 		alt_npm="176"
 		alt_npg="12"
-		description="1# - lokalne echo (po testach należy rozlinkować komendą #)
+		description="Hotspot publiczny FM Poland.
+Monitorowane grupy: 112,260,2600,260077,260497,SP1...SP9
+Dostępne komendy DTMF:
+1# - lokalne echo (po testach należy rozlinkować komendą #)
 60# - pogoda dla Suwałk i okolic
 61# - ostrzeżenia pogodowe dla Suwałk i okolic
 62# - warunki propagacji
@@ -5239,7 +5321,9 @@ Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz."
 64# - stan rzeki Czarna Hańcza (stacja Bród Stary)
 *# - identyfikacja przemiennika
 91xxx# - linkowanie grupy xxx
-910# - rozłączenie grupy (grupa 0)"
+910# - rozłączenie grupy(grupa 0)
+
+Lokalna grupa domyślna: 260497 (po otwarciu hotspota nośną ta grupa zostaje zlinkowana automatycznie)"
 		/>
 
 
@@ -7016,6 +7100,31 @@ Przemiennik pracuje tylko w Narrow FM (NFM)"
 		alt_npm="92"
 		alt_npg=""
 		description="Yaesu DR-1X, Wires-X, C4FM, Antena Diamond  X-7000"
+		/>
+
+
+	<repeater
+		callsign="SR5WL"
+		country="PL"
+		region="5"
+		frequency="145625000"
+		band="2m"
+		ctcss="127.3"
+		tx_power="15.00"
+		city="Warszawa, ul. Braci Załuskich 1"
+		location=""
+		locator="KO02LG"
+		type="FM"
+		status="OPERATIONAL"
+		latitude=""
+		longitude=""
+		opening="CTCSS"
+		echolink=""
+		URL="2m/SR5WL"
+		antenna=""
+		alt_npm=""
+		alt_npg=""
+		description=""
 		/>
 
 
@@ -8952,7 +9061,7 @@ Antena: RADMOR 5/8"
 		location=""
 		locator="KO00HJ"
 		type="C4FM/Fusion"
-		status="OFF"
+		status="OPERATIONAL"
 		latitude="50.382386"
 		longitude="20.592706"
 		opening="CARRIER"
@@ -9629,7 +9738,7 @@ Antena: Sigma Wireless SA-410 4x dipol 1/2 fali - zysk 5dB - polaryzacja pionowa
 		location=""
 		locator="KO00HJ"
 		type="DMR"
-		status="OFF"
+		status="OPERATIONAL"
 		latitude="50.382386"
 		longitude="20.592706"
 		opening="CARRIER"
@@ -9654,7 +9763,7 @@ Antena: Sigma Wireless SA-410 4x dipol 1/2 fali - zysk 5dB - polaryzacja pionowa
 		location=""
 		locator="KO00HJ"
 		type="FM"
-		status="OFF"
+		status="OPERATIONAL"
 		latitude="50.382386"
 		longitude="20.592706"
 		opening="CARRIER"
@@ -10805,7 +10914,7 @@ Antena Comet GP9n 3x5/8λ (144MHz), 8x5/8λ (430MHz)"
 		location=""
 		locator="KN09VS"
 		type="FM"
-		status="OFF"
+		status="OPERATIONAL"
 		latitude="49.756122"
 		longitude="21.812941"
 		opening="CTCSS"
@@ -12644,7 +12753,7 @@ Przemiennik pracuje w sieci BM DMR."
 		location=""
 		locator="JO90XC"
 		type="DSTAR"
-		status="OPERATIONAL"
+		status="OFF"
 		latitude="50.116012"
 		longitude="19.969213"
 		opening="CTCSS"

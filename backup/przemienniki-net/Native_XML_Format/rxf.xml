@@ -3,8 +3,8 @@
 <rxf version="1.0">
 	<link rel="self" href="http://przemienniki.net/export/rxf.xml" type="appliction/xml"/>
 	<link>http://przemienniki.net</link>
-	<updated>2024-12-02 10:37:43</updated>
-	<generated>2024-12-11 13:24:16</generated>
+	<updated>2024-12-19 22:06:44</updated>
+	<generated>2024-12-20 13:21:28</generated>
 	<generator>przemienniki.net v.2.12.0 (2019/02/04)</generator>
 	<dictionary>
 		<item>
@@ -1350,7 +1350,7 @@ Przemiennik pracuje wyłącznie w trybie cyfrowym]]></remarks>
 			<id>9006144</id>
 			<hash></hash>
 			<created>2015-05-24 09:08:40</created>
-			<updated>2024-01-09 19:44:09</updated>
+			<updated>2024-12-19 17:34:50</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<licenseExpiryDate>2025-04-15</licenseExpiryDate>
@@ -1369,14 +1369,14 @@ Przemiennik pracuje wyłącznie w trybie cyfrowym]]></remarks>
 				<altitudeOverSea>4</altitudeOverSea>
 				<altitudeOverGround>40</altitudeOverGround>
 			</location>
-			<activationInt>256</activationInt>
+			<activationInt>2048</activationInt>
 
-			<activation>CTCSS</activation>
-			<ctcss type="rx">82.5</ctcss>
-			<ctcss type="tx">82.5</ctcss>
-			<trxPower>10.00</trxPower>
+			<activation>DCS</activation>
+			<dcs type="rx">073</dcs>
+			<dcs type="tx">073</dcs>
+			<trxPower>5.00</trxPower>
 			<operator>SQ1DEX</operator>
-			<remarks><![CDATA[Antena X-200]]></remarks>
+			<remarks><![CDATA[Antena X-200, (przemiennik testowo uruchomiony w trybie DCS)]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR1WU</link>
 			<source>przemienniki.net</source>
 			<feedback>http://przemienniki.net/zglos/9006144</feedback>
@@ -3788,6 +3788,40 @@ Obiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w Jemiołowie g
 			<link>http://www.dmrplus.eu</link>
 			<source>przemienniki.net</source>
 			<feedback>http://przemienniki.net/zglos/9045692</feedback>
+		</repeater>
+		<repeater>
+			<qra>SR3DKA</qra>
+			<id>9047360</id>
+			<hash>4ccdd73521f648f7b1f73789d463be05</hash>
+			<created>2024-12-19 22:03:05</created>
+			<updated>2024-12-19 22:03:05</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
+			<modeInt>10272</modeInt>
+			<mode>DSTAR</mode>
+			<mode>MOTOTRBO</mode>
+			<mode>C4FM</mode>
+			<bandInt>16384</bandInt>
+			<band>70CM</band>
+			<qrg type="rx">430.800000</qrg>
+			<qrg type="tx">438.400000</qrg>
+			<country>pl</country>
+			<qth><![CDATA[Kalisz]]></qth>
+			<location>
+				<locator>JO91BR</locator>
+				<latitude>51.742188</latitude>
+				<longitude>18.095833</longitude>
+				<altitudeOverSea>118</altitudeOverSea>
+			</location>
+			<activationInt>4</activationInt>
+
+			<activation>CARRIER</activation>
+			<trxPower>15.00</trxPower>
+			<operator>SP3VZT</operator>
+			<operator>SQ3TCG</operator>
+			<link>http://przemienniki.net/przemienniki/70cm/SR3DKA</link>
+			<source>przemienniki.net</source>
+			<feedback>http://przemienniki.net/zglos/9047360</feedback>
 		</repeater>
 		<repeater>
 			<qra>SR3DMR</qra>
@@ -6749,6 +6783,75 @@ Obiekt: Lokalizacja wieży jest na terenie Parku Krajobrazowego Wzgórz Dylewski
 			<feedback>http://przemienniki.net/zglos/9045863</feedback>
 		</repeater>
 		<repeater>
+			<qra>SR4LIN</qra>
+			<id>9047358</id>
+			<hash>e4e035cad43c50edfab22c354e5d71e4</hash>
+			<created>2024-12-19 17:42:20</created>
+			<updated>2024-12-19 17:42:20</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
+			<modeInt>8192</modeInt>
+			<mode>C4FM</mode>
+			<bandInt>16384</bandInt>
+			<band>70CM</band>
+			<qrg type="rx">431.050000</qrg>
+			<qrg type="tx">438.650000</qrg>
+			<country>pl</country>
+			<qth><![CDATA[Jerzwałd]]></qth>
+			<location>
+				<locator>JO93SS</locator>
+				<latitude>53.788600</latitude>
+				<longitude>19.535823</longitude>
+				<altitudeOverSea>115</altitudeOverSea>
+				<altitudeOverGround>10</altitudeOverGround>
+			</location>
+			<activationInt>4</activationInt>
+
+			<activation>CARRIER</activation>
+			<trxPower>5.00</trxPower>
+			<operator>SP4LIN</operator>
+			<remarks><![CDATA[Przemiennik
+C4FM
+połączony
+z
+SR2MAL]]></remarks>
+			<link>http://przemienniki.net/przemienniki/70cm/C4FM/Fusion/SR4LIN/9047358</link>
+			<source>przemienniki.net</source>
+			<feedback>http://przemienniki.net/zglos/9047358</feedback>
+		</repeater>
+		<repeater>
+			<qra>SR4LIN</qra>
+			<id>9047361</id>
+			<hash>10e00cd3233a829b01342beea1db142a</hash>
+			<created>2024-12-19 22:06:44</created>
+			<updated>2024-12-19 22:06:44</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
+			<modeInt>8192</modeInt>
+			<mode>C4FM</mode>
+			<bandInt>16384</bandInt>
+			<band>70CM</band>
+			<qrg type="rx">431.050000</qrg>
+			<qrg type="tx">438.650000</qrg>
+			<country>pl</country>
+			<qth><![CDATA[Jerzwałd]]></qth>
+			<location>
+				<locator>JO93SS</locator>
+				<latitude>53.788600</latitude>
+				<longitude>19.535823</longitude>
+				<altitudeOverSea>102</altitudeOverSea>
+				<altitudeOverGround>10</altitudeOverGround>
+			</location>
+			<activationInt>4</activationInt>
+
+			<activation>CARRIER</activation>
+			<trxPower>5.00</trxPower>
+			<operator>SP4LIN</operator>
+			<link>http://przemienniki.net/przemienniki/70cm/C4FM/Fusion/SR4LIN/9047361</link>
+			<source>przemienniki.net</source>
+			<feedback>http://przemienniki.net/zglos/9047361</feedback>
+		</repeater>
+		<repeater>
 			<qra>SR4LM</qra>
 			<id>9011789</id>
 			<hash>bbf2cf99320df18730580a056f00ac51</hash>
@@ -7666,10 +7769,10 @@ TX: Big-Star + GM-300]]></remarks>
 			<id>9044995</id>
 			<hash></hash>
 			<created>2018-11-18 14:53:56</created>
-			<updated>2024-08-24 17:42:17</updated>
+			<updated>2024-12-19 17:34:17</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
-			<licenseExpiryDate>2023-10-29</licenseExpiryDate>
+			<licenseExpiryDate>2028-11-06</licenseExpiryDate>
 			<modeInt>4</modeInt>
 			<mode>FM</mode>
 			<bandInt>4096</bandInt>
@@ -7889,7 +7992,7 @@ Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.]]></remarks>
 			<id>9045137</id>
 			<hash></hash>
 			<created>2019-11-05 22:31:08</created>
-			<updated>2020-02-26 13:47:31</updated>
+			<updated>2024-12-19 21:41:02</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<modeInt>4</modeInt>
@@ -7907,9 +8010,10 @@ Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.]]></remarks>
 				<altitudeOverSea>167</altitudeOverSea>
 				<altitudeOverGround>25</altitudeOverGround>
 			</location>
-			<activationInt>4</activationInt>
+			<activationInt>256</activationInt>
 
-			<activation>CARRIER</activation>
+			<activation>CTCSS</activation>
+			<ctcss type="rx">67.0</ctcss>
 			<operator>SP4GJ</operator>
 			<remarks><![CDATA[Diamond X510]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR4SUU</link>
@@ -7921,7 +8025,7 @@ Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.]]></remarks>
 			<id>9045900</id>
 			<hash>c528b8b0a741980c1a80186b4cb65959</hash>
 			<created>2024-08-05 10:38:19</created>
-			<updated>2024-11-08 22:57:31</updated>
+			<updated>2024-12-19 21:44:46</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<licenseExpiryDate>2029-06-14</licenseExpiryDate>
@@ -7947,7 +8051,10 @@ Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.]]></remarks>
 			<ctcss type="tx">67.0</ctcss>
 			<trxPower>5.00</trxPower>
 			<operator>SP4MN</operator>
-			<remarks><![CDATA[1# - lokalne echo (po testach należy rozlinkować komendą #)
+			<remarks><![CDATA[Hotspot publiczny FM Poland.
+Monitorowane grupy: 112,260,2600,260077,260497,SP1...SP9
+Dostępne komendy DTMF:
+1# - lokalne echo (po testach należy rozlinkować komendą #)
 60# - pogoda dla Suwałk i okolic
 61# - ostrzeżenia pogodowe dla Suwałk i okolic
 62# - warunki propagacji
@@ -7955,7 +8062,9 @@ Pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.]]></remarks>
 64# - stan rzeki Czarna Hańcza (stacja Bród Stary)
 *# - identyfikacja przemiennika
 91xxx# - linkowanie grupy xxx
-910# - rozłączenie grupy (grupa 0)]]></remarks>
+910# - rozłączenie grupy(grupa 0)
+
+Lokalna grupa domyślna: 260497 (po otwarciu hotspota nośną ta grupa zostaje zlinkowana automatycznie)]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR4SUW</link>
 			<link>http://sr4suw.cba.pl</link>
 			<source>przemienniki.net</source>
@@ -10607,6 +10716,35 @@ Antena: Diamond X-7000]]></remarks>
 			<link>https://www.qrz.com/db/SR5WI</link>
 			<source>przemienniki.net</source>
 			<feedback>http://przemienniki.net/zglos/9045197</feedback>
+		</repeater>
+		<repeater>
+			<qra>SR5WL</qra>
+			<id>9047359</id>
+			<hash>95f1d893739a18ef6257ab52d59bd8a3</hash>
+			<created>2024-12-19 21:43:44</created>
+			<updated>2024-12-19 21:43:44</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
+			<modeInt>4</modeInt>
+			<mode>FM</mode>
+			<bandInt>4096</bandInt>
+			<band>2M</band>
+			<qrg type="rx">145.025000</qrg>
+			<qrg type="tx">145.625000</qrg>
+			<country>pl</country>
+			<qth><![CDATA[Warszawa, ul. Braci Załuskich 1]]></qth>
+			<location>
+				<locator>KO02LG</locator>
+			</location>
+			<activationInt>256</activationInt>
+
+			<activation>CTCSS</activation>
+			<ctcss type="rx">127.3</ctcss>
+			<trxPower>15.00</trxPower>
+			<operator>SP5ZIP</operator>
+			<link>http://przemienniki.net/przemienniki/2m/SR5WL</link>
+			<source>przemienniki.net</source>
+			<feedback>http://przemienniki.net/zglos/9047359</feedback>
 		</repeater>
 		<repeater>
 			<qra>SR5WP</qra>
@@ -13409,9 +13547,9 @@ Antena: RADMOR 5/8]]></remarks>
 			<id>9045779</id>
 			<hash>901ed4053290df59db0d032456574e68</hash>
 			<created>2022-11-29 09:52:48</created>
-			<updated>2024-12-02 10:33:22</updated>
-			<statusInt>2</statusInt>
-			<status>DISABLED</status>
+			<updated>2024-12-19 17:34:59</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
 			<licenseExpiryDate>2027-09-21</licenseExpiryDate>
 			<modeInt>8192</modeInt>
 			<mode>C4FM</mode>
@@ -14398,9 +14536,9 @@ Antena: Sigma Wireless SA-410 4x dipol 1/2 fali - zysk 5dB - polaryzacja pionowa
 			<id>9044949</id>
 			<hash></hash>
 			<created>2018-01-02 13:47:30</created>
-			<updated>2024-12-02 10:33:33</updated>
-			<statusInt>2</statusInt>
-			<status>DISABLED</status>
+			<updated>2024-12-19 17:35:19</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
 			<licenseExpiryDate>2023-12-15</licenseExpiryDate>
 			<modeInt>2048</modeInt>
 			<mode>MOTOTRBO</mode>
@@ -14431,9 +14569,9 @@ Antena: Sigma Wireless SA-410 4x dipol 1/2 fali - zysk 5dB - polaryzacja pionowa
 			<id>9044989</id>
 			<hash></hash>
 			<created>2018-10-01 12:59:54</created>
-			<updated>2024-12-02 10:33:14</updated>
-			<statusInt>2</statusInt>
-			<status>DISABLED</status>
+			<updated>2024-12-19 17:35:08</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
 			<licenseExpiryDate>2028-07-09</licenseExpiryDate>
 			<modeInt>4</modeInt>
 			<mode>FM</mode>
@@ -16055,9 +16193,9 @@ Antena Comet GP9n 3x5/8λ (144MHz), 8x5/8λ (430MHz)]]></remarks>
 			<id>9045677</id>
 			<hash>e6246c5ba650525ba7dee31f3023831d</hash>
 			<created>2021-02-24 18:53:58</created>
-			<updated>2024-02-07 23:13:31</updated>
-			<statusInt>2</statusInt>
-			<status>DISABLED</status>
+			<updated>2024-12-19 17:33:20</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
 			<licenseExpiryDate>2026-01-15</licenseExpiryDate>
 			<modeInt>16388</modeInt>
 			<mode>FM</mode>
@@ -18745,9 +18883,9 @@ Przemiennik pracuje w sieci BM DMR.]]></remarks>
 			<id>9044984</id>
 			<hash>0b2c19a981340f617e4fd13d3608682a</hash>
 			<created>2018-08-27 12:25:58</created>
-			<updated>2024-10-26 14:50:34</updated>
-			<statusInt>1</statusInt>
-			<status>WORKING</status>
+			<updated>2024-12-19 21:41:14</updated>
+			<statusInt>2</statusInt>
+			<status>DISABLED</status>
 			<licenseExpiryDate>2021-07-12</licenseExpiryDate>
 			<modeInt>10276</modeInt>
 			<mode>FM</mode>
@@ -20267,13 +20405,12 @@ TS2 26091, 26098]]></remarks>
 			<id>9045793</id>
 			<hash>b2288cc08c617e6368c1ec869a65d12f</hash>
 			<created>2022-12-30 20:37:54</created>
-			<updated>2024-12-02 10:32:08</updated>
+			<updated>2024-12-19 17:33:33</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<licenseExpiryDate>2027-12-13</licenseExpiryDate>
-			<modeInt>16388</modeInt>
+			<modeInt>4</modeInt>
 			<mode>FM</mode>
-			<mode>FMLINK</mode>
 			<bandInt>20480</bandInt>
 			<band>2M</band>
 			<band>70CM</band>
@@ -20585,13 +20722,12 @@ FM Poland (TG: 260902)]]></remarks>
 			<id>9043517</id>
 			<hash>175e9a6a90b8fedcddcac459ca88c128</hash>
 			<created>2016-05-15 21:07:04</created>
-			<updated>2021-03-09 22:19:22</updated>
+			<updated>2024-12-19 17:33:07</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<licenseExpiryDate>2021-06-05</licenseExpiryDate>
-			<modeInt>16388</modeInt>
+			<modeInt>4</modeInt>
 			<mode>FM</mode>
-			<mode>FMLINK</mode>
 			<bandInt>16384</bandInt>
 			<band>70CM</band>
 			<qrg type="rx">431.500000</qrg>
@@ -22227,6 +22363,40 @@ Bramka do sieci FM Poland.]]></remarks>
 			<link>http://www.funkzentrum.de/news-mainmenu-92/7622.html</link>
 			<source>przemienniki.net</source>
 			<feedback>http://przemienniki.net/zglos/8996847</feedback>
+		</repeater>
+		<repeater>
+			<qra>DB0BS</qra>
+			<id>9047357</id>
+			<hash>2930a229349ed784dcd1d2a6d802f538</hash>
+			<created>2024-12-19 17:39:13</created>
+			<updated>2024-12-19 17:39:13</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
+			<modeInt>4</modeInt>
+			<mode>FM</mode>
+			<bandInt>16384</bandInt>
+			<band>70CM</band>
+			<qrg type="rx">431.225000</qrg>
+			<qrg type="tx">438.825000</qrg>
+			<country>de</country>
+			<qth><![CDATA[Bochum]]></qth>
+			<location>
+				<locator>JO31OL</locator>
+				<latitude>51.473255</latitude>
+				<longitude>7.225879</longitude>
+				<altitudeOverSea>102</altitudeOverSea>
+				<altitudeOverGround>89</altitudeOverGround>
+			</location>
+			<activationInt>256</activationInt>
+
+			<activation>CTCSS</activation>
+			<ctcss type="rx">67.0</ctcss>
+			<ctcss type="tx">67.0</ctcss>
+			<operator>DL1YBL</operator>
+			<link>http://przemienniki.net/przemienniki/70cm/DB0BS</link>
+			<link>https://www.relaisgruppe-ruhr.de/index.php/db0bs/</link>
+			<source>przemienniki.net</source>
+			<feedback>http://przemienniki.net/zglos/9047357</feedback>
 		</repeater>
 		<repeater>
 			<qra>DB0CAL</qra>

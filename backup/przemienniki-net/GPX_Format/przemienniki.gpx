@@ -751,7 +751,7 @@ Przemiennik FM pasma 70cm
 
 QTH: Świnoujście
 Częstotliwość: TX: 438,7250 MHz, RX: 431,1250 MHz 
-Aktywowanie: CTCSS (82.5 Hz)
+Aktywowanie: DCS (073)
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR1WU
 
 	</cmt>
@@ -761,7 +761,7 @@ Przemiennik FM pasma 70cm
 
 QTH: Świnoujście
 Częstotliwość: TX: 438,7250 MHz, RX: 431,1250 MHz 
-Aktywowanie: CTCSS (82.5 Hz)
+Aktywowanie: DCS (073)
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR1WU
 
 	</desc>
@@ -2281,6 +2281,29 @@ QTH: RTCN Jemiołów/Łagów maszt EmiTel
 Częstotliwość: TX: 438,1250 MHz, RX: 430,5250 MHz 
 Aktywowanie: nośną
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR3DJ
+
+	</desc>
+</wpt>
+<wpt lat="51.742188" lon="18.095833">
+	<name>SR3DKA</name>
+	<cmt>
+Przemiennik C4FM/Fusion+DMR+DSTAR/DV pasma 70cm
+
+
+QTH: Kalisz
+Częstotliwość: TX: 438,4000 MHz, RX: 430,8000 MHz 
+Aktywowanie: nośną
+Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR3DKA
+
+	</cmt>
+	<desc>
+Przemiennik C4FM/Fusion+DMR+DSTAR/DV pasma 70cm
+
+
+QTH: Kalisz
+Częstotliwość: TX: 438,4000 MHz, RX: 430,8000 MHz 
+Aktywowanie: nośną
+Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR3DKA
 
 	</desc>
 </wpt>
@@ -4009,6 +4032,52 @@ Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR4LG
 
 	</desc>
 </wpt>
+<wpt lat="53.788600" lon="19.535823">
+	<name>SR4LIN</name>
+	<cmt>
+Przemiennik C4FM/Fusion pasma 70cm
+
+
+QTH: Jerzwałd
+Częstotliwość: TX: 438,6500 MHz, RX: 431,0500 MHz 
+Aktywowanie: nośną
+Więcej informacji: http://przemienniki.net/przemienniki/70cm/C4FM/Fusion/SR4LIN/9047358
+
+	</cmt>
+	<desc>
+Przemiennik C4FM/Fusion pasma 70cm
+
+
+QTH: Jerzwałd
+Częstotliwość: TX: 438,6500 MHz, RX: 431,0500 MHz 
+Aktywowanie: nośną
+Więcej informacji: http://przemienniki.net/przemienniki/70cm/C4FM/Fusion/SR4LIN/9047358
+
+	</desc>
+</wpt>
+<wpt lat="53.788600" lon="19.535823">
+	<name>SR4LIN</name>
+	<cmt>
+Przemiennik C4FM/Fusion pasma 70cm
+
+
+QTH: Jerzwałd
+Częstotliwość: TX: 438,6500 MHz, RX: 431,0500 MHz 
+Aktywowanie: nośną
+Więcej informacji: http://przemienniki.net/przemienniki/70cm/C4FM/Fusion/SR4LIN/9047361
+
+	</cmt>
+	<desc>
+Przemiennik C4FM/Fusion pasma 70cm
+
+
+QTH: Jerzwałd
+Częstotliwość: TX: 438,6500 MHz, RX: 431,0500 MHz 
+Aktywowanie: nośną
+Więcej informacji: http://przemienniki.net/przemienniki/70cm/C4FM/Fusion/SR4LIN/9047361
+
+	</desc>
+</wpt>
 <wpt lat="53.937727" lon="21.844764">
 	<name>SR4LM</name>
 	<cmt>
@@ -4661,7 +4730,7 @@ Przemiennik FM pasma 70cm
 
 QTH: Suwałki, ul. Mickiewicza 15
 Częstotliwość: TX: 438,9000 MHz, RX: 431,3000 MHz 
-Aktywowanie: nośną
+Aktywowanie: CTCSS (67.0 Hz)
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR4SUU
 
 	</cmt>
@@ -4671,7 +4740,7 @@ Przemiennik FM pasma 70cm
 
 QTH: Suwałki, ul. Mickiewicza 15
 Częstotliwość: TX: 438,9000 MHz, RX: 431,3000 MHz 
-Aktywowanie: nośną
+Aktywowanie: CTCSS (67.0 Hz)
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR4SUU
 
 	</desc>
@@ -6237,6 +6306,29 @@ QTH: Warszawa
 Częstotliwość: TX: 438,9000 MHz, RX: 431,3000 MHz 
 Aktywowanie: nośną
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR5WI
+
+	</desc>
+</wpt>
+<wpt lat="52.270833" lon="20.958333">
+	<name>SR5WL</name>
+	<cmt>
+Przemiennik FM pasma 2m
+
+
+QTH: Warszawa, ul. Braci Załuskich 1
+Częstotliwość: TX: 145,6250 MHz, RX: 145,0250 MHz 
+Aktywowanie: CTCSS (127.3 Hz)
+Więcej informacji: http://przemienniki.net/przemienniki/2m/SR5WL
+
+	</cmt>
+	<desc>
+Przemiennik FM pasma 2m
+
+
+QTH: Warszawa, ul. Braci Załuskich 1
+Częstotliwość: TX: 145,6250 MHz, RX: 145,0250 MHz 
+Aktywowanie: CTCSS (127.3 Hz)
+Więcej informacji: http://przemienniki.net/przemienniki/2m/SR5WL
 
 	</desc>
 </wpt>
@@ -12269,7 +12361,7 @@ Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR9RSR
 <wpt lat="49.719344" lon="20.454852">
 	<name>SR9RT</name>
 	<cmt>
-Przemiennik crossband FM+FM-Link
+Przemiennik crossband FM
 
 
 QTH: Mordarka - Łysa Góra 781 m n.p.m. (k. Limanowej)
@@ -12279,7 +12371,7 @@ Więcej informacji: http://przemienniki.net/przemienniki/crossband/SR9RT
 
 	</cmt>
 	<desc>
-Przemiennik crossband FM+FM-Link
+Przemiennik crossband FM
 
 
 QTH: Mordarka - Łysa Góra 781 m n.p.m. (k. Limanowej)
@@ -12453,7 +12545,7 @@ Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR9SK
 <wpt lat="50.298203" lon="19.005029">
 	<name>SR9SS</name>
 	<cmt>
-Przemiennik FM+FM-Link pasma 70cm
+Przemiennik FM pasma 70cm
 
 
 QTH: Siemianowice Śląskie
@@ -12463,7 +12555,7 @@ Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR9SS
 
 	</cmt>
 	<desc>
-Przemiennik FM+FM-Link pasma 70cm
+Przemiennik FM pasma 70cm
 
 
 QTH: Siemianowice Śląskie
@@ -13551,6 +13643,29 @@ QTH: Berlin-Hohenschönhausen
 Częstotliwość: TX: 145,7250 MHz, RX: 145,1250 MHz 
 Aktywowanie: ton 1750Hz
 Więcej informacji: http://przemienniki.net/przemienniki/2m/DB0BRL
+
+	</desc>
+</wpt>
+<wpt lat="51.473255" lon="7.225879">
+	<name>DB0BS</name>
+	<cmt>
+Przemiennik FM pasma 70cm
+
+
+QTH: Bochum
+Częstotliwość: TX: 438,8250 MHz, RX: 431,2250 MHz 
+Aktywowanie: CTCSS (67.0 Hz)
+Więcej informacji: http://przemienniki.net/przemienniki/70cm/DB0BS
+
+	</cmt>
+	<desc>
+Przemiennik FM pasma 70cm
+
+
+QTH: Bochum
+Częstotliwość: TX: 438,8250 MHz, RX: 431,2250 MHz 
+Aktywowanie: CTCSS (67.0 Hz)
+Więcej informacji: http://przemienniki.net/przemienniki/70cm/DB0BS
 
 	</desc>
 </wpt>

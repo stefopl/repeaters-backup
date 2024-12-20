@@ -5,8 +5,8 @@
         },
         "http://przemienniki.net"
     ],
-    "updated": "2024-12-02 10:37:43",
-    "generated": "2024-12-11 13:24:16",
+    "updated": "2024-12-19 22:06:44",
+    "generated": "2024-12-20 13:21:28",
     "generator": "przemienniki.net v.2.12.0 (2019/02/04)",
     "dictionary": {
         "item": [
@@ -1455,7 +1455,7 @@
             "id": "9006144",
             "hash": null,
             "created": "2015-05-24 09:08:40",
-            "updated": "2024-01-09 19:44:09",
+            "updated": "2024-12-19 17:34:50",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2025-04-15",
@@ -1476,15 +1476,15 @@
                 "altitudeOverSea": "4",
                 "altitudeOverGround": "40"
             },
-            "activationInt": "256",
-            "activation": "CTCSS",
-            "ctcss": {
-                "rx": "82.5",
-                "tx": "82.5"
+            "activationInt": "2048",
+            "activation": "DCS",
+            "dcs": {
+                "rx": "073",
+                "tx": "073"
             },
-            "trxPower": "10.00",
+            "trxPower": "5.00",
             "operator": "SQ1DEX",
-            "remarks": "Antena X-200",
+            "remarks": "Antena X-200, (przemiennik testowo uruchomiony w trybie DCS)",
             "link": "http://przemienniki.net/przemienniki/70cm/SR1WU",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006144"
@@ -4112,6 +4112,45 @@
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045692"
+        },
+        "SR3DKA": {
+            "qra": "SR3DKA",
+            "id": "9047360",
+            "hash": "4ccdd73521f648f7b1f73789d463be05",
+            "created": "2024-12-19 22:03:05",
+            "updated": "2024-12-19 22:03:05",
+            "statusInt": "1",
+            "status": "WORKING",
+            "modeInt": "10272",
+            "mode": [
+                "DSTAR",
+                "MOTOTRBO",
+                "C4FM"
+            ],
+            "bandInt": "16384",
+            "band": "70CM",
+            "qrg": {
+                "rx": "430.800000",
+                "tx": "438.400000"
+            },
+            "country": "pl",
+            "qth": "Kalisz",
+            "location": {
+                "locator": "JO91BR",
+                "latitude": "51.742188",
+                "longitude": "18.095833",
+                "altitudeOverSea": "118"
+            },
+            "activationInt": "4",
+            "activation": "CARRIER",
+            "trxPower": "15.00",
+            "operator": [
+                "SP3VZT",
+                "SQ3TCG"
+            ],
+            "link": "http://przemienniki.net/przemienniki/70cm/SR3DKA",
+            "source": "przemienniki.net",
+            "feedback": "http://przemienniki.net/zglos/9047360"
         },
         "SR3DMR": {
             "qra": "SR3DMR",
@@ -7137,6 +7176,73 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045863"
         },
+        "SR4LIN": {
+            "qra": "SR4LIN",
+            "id": "9047358",
+            "hash": "e4e035cad43c50edfab22c354e5d71e4",
+            "created": "2024-12-19 17:42:20",
+            "updated": "2024-12-19 17:42:20",
+            "statusInt": "1",
+            "status": "WORKING",
+            "modeInt": "8192",
+            "mode": "C4FM",
+            "bandInt": "16384",
+            "band": "70CM",
+            "qrg": {
+                "rx": "431.050000",
+                "tx": "438.650000"
+            },
+            "country": "pl",
+            "qth": "Jerzwałd",
+            "location": {
+                "locator": "JO93SS",
+                "latitude": "53.788600",
+                "longitude": "19.535823",
+                "altitudeOverSea": "115",
+                "altitudeOverGround": "10"
+            },
+            "activationInt": "4",
+            "activation": "CARRIER",
+            "trxPower": "5.00",
+            "operator": "SP4LIN",
+            "remarks": "Przemiennik\nC4FM\npołączony\nz\nSR2MAL",
+            "link": "http://przemienniki.net/przemienniki/70cm/C4FM/Fusion/SR4LIN/9047358",
+            "source": "przemienniki.net",
+            "feedback": "http://przemienniki.net/zglos/9047358"
+        },
+        "SR4LIN_2": {
+            "qra": "SR4LIN",
+            "id": "9047361",
+            "hash": "10e00cd3233a829b01342beea1db142a",
+            "created": "2024-12-19 22:06:44",
+            "updated": "2024-12-19 22:06:44",
+            "statusInt": "1",
+            "status": "WORKING",
+            "modeInt": "8192",
+            "mode": "C4FM",
+            "bandInt": "16384",
+            "band": "70CM",
+            "qrg": {
+                "rx": "431.050000",
+                "tx": "438.650000"
+            },
+            "country": "pl",
+            "qth": "Jerzwałd",
+            "location": {
+                "locator": "JO93SS",
+                "latitude": "53.788600",
+                "longitude": "19.535823",
+                "altitudeOverSea": "102",
+                "altitudeOverGround": "10"
+            },
+            "activationInt": "4",
+            "activation": "CARRIER",
+            "trxPower": "5.00",
+            "operator": "SP4LIN",
+            "link": "http://przemienniki.net/przemienniki/70cm/C4FM/Fusion/SR4LIN/9047361",
+            "source": "przemienniki.net",
+            "feedback": "http://przemienniki.net/zglos/9047361"
+        },
         "SR4LM": {
             "qra": "SR4LM",
             "id": "9011789",
@@ -8110,10 +8216,10 @@
             "id": "9044995",
             "hash": null,
             "created": "2018-11-18 14:53:56",
-            "updated": "2024-08-24 17:42:17",
+            "updated": "2024-12-19 17:34:17",
             "statusInt": "1",
             "status": "WORKING",
-            "licenseExpiryDate": "2023-10-29",
+            "licenseExpiryDate": "2028-11-06",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "4096",
@@ -8328,7 +8434,7 @@
             "id": "9045137",
             "hash": null,
             "created": "2019-11-05 22:31:08",
-            "updated": "2020-02-26 13:47:31",
+            "updated": "2024-12-19 21:41:02",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "4",
@@ -8348,8 +8454,11 @@
                 "altitudeOverSea": "167",
                 "altitudeOverGround": "25"
             },
-            "activationInt": "4",
-            "activation": "CARRIER",
+            "activationInt": "256",
+            "activation": "CTCSS",
+            "ctcss": {
+                "rx": "67.0"
+            },
             "operator": "SP4GJ",
             "remarks": "Diamond X510",
             "link": "http://przemienniki.net/przemienniki/70cm/SR4SUU",
@@ -8361,7 +8470,7 @@
             "id": "9045900",
             "hash": "c528b8b0a741980c1a80186b4cb65959",
             "created": "2024-08-05 10:38:19",
-            "updated": "2024-11-08 22:57:31",
+            "updated": "2024-12-19 21:44:46",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2029-06-14",
@@ -8390,7 +8499,7 @@
             },
             "trxPower": "5.00",
             "operator": "SP4MN",
-            "remarks": "1# - lokalne echo (po testach należy rozlinkować komendą #)\n60# - pogoda dla Suwałk i okolic\n61# - ostrzeżenia pogodowe dla Suwałk i okolic\n62# - warunki propagacji\n63# - stopień zagrożenia pożarowego lasów (rejon 1_C Suwałki)\n64# - stan rzeki Czarna Hańcza (stacja Bród Stary)\n*# - identyfikacja przemiennika\n91xxx# - linkowanie grupy xxx\n910# - rozłączenie grupy (grupa 0)",
+            "remarks": "Hotspot publiczny FM Poland.\nMonitorowane grupy: 112,260,2600,260077,260497,SP1...SP9\nDostępne komendy DTMF:\n1# - lokalne echo (po testach należy rozlinkować komendą #)\n60# - pogoda dla Suwałk i okolic\n61# - ostrzeżenia pogodowe dla Suwałk i okolic\n62# - warunki propagacji\n63# - stopień zagrożenia pożarowego lasów (rejon 1_C Suwałki)\n64# - stan rzeki Czarna Hańcza (stacja Bród Stary)\n*# - identyfikacja przemiennika\n91xxx# - linkowanie grupy xxx\n910# - rozłączenie grupy(grupa 0)\n\nLokalna grupa domyślna: 260497 (po otwarciu hotspota nośną ta grupa zostaje zlinkowana automatycznie)",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR4SUW",
                 "http://sr4suw.cba.pl"
@@ -11174,6 +11283,38 @@
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045197"
+        },
+        "SR5WL": {
+            "qra": "SR5WL",
+            "id": "9047359",
+            "hash": "95f1d893739a18ef6257ab52d59bd8a3",
+            "created": "2024-12-19 21:43:44",
+            "updated": "2024-12-19 21:43:44",
+            "statusInt": "1",
+            "status": "WORKING",
+            "modeInt": "4",
+            "mode": "FM",
+            "bandInt": "4096",
+            "band": "2M",
+            "qrg": {
+                "rx": "145.025000",
+                "tx": "145.625000"
+            },
+            "country": "pl",
+            "qth": "Warszawa, ul. Braci Załuskich 1",
+            "location": {
+                "locator": "KO02LG"
+            },
+            "activationInt": "256",
+            "activation": "CTCSS",
+            "ctcss": {
+                "rx": "127.3"
+            },
+            "trxPower": "15.00",
+            "operator": "SP5ZIP",
+            "link": "http://przemienniki.net/przemienniki/2m/SR5WL",
+            "source": "przemienniki.net",
+            "feedback": "http://przemienniki.net/zglos/9047359"
         },
         "SR5WP": {
             "qra": "SR5WP",
@@ -14195,9 +14336,9 @@
             "id": "9045779",
             "hash": "901ed4053290df59db0d032456574e68",
             "created": "2022-11-29 09:52:48",
-            "updated": "2024-12-02 10:33:22",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2024-12-19 17:34:59",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2027-09-21",
             "modeInt": "8192",
             "mode": "C4FM",
@@ -15272,9 +15413,9 @@
             "id": "9044949",
             "hash": null,
             "created": "2018-01-02 13:47:30",
-            "updated": "2024-12-02 10:33:33",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2024-12-19 17:35:19",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2023-12-15",
             "modeInt": "2048",
             "mode": "MOTOTRBO",
@@ -15306,9 +15447,9 @@
             "id": "9044989",
             "hash": null,
             "created": "2018-10-01 12:59:54",
-            "updated": "2024-12-02 10:33:14",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2024-12-19 17:35:08",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2028-07-09",
             "modeInt": "4",
             "mode": "FM",
@@ -17065,9 +17206,9 @@
             "id": "9045677",
             "hash": "e6246c5ba650525ba7dee31f3023831d",
             "created": "2021-02-24 18:53:58",
-            "updated": "2024-02-07 23:13:31",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2024-12-19 17:33:20",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2026-01-15",
             "modeInt": "16388",
             "mode": [
@@ -19930,9 +20071,9 @@
             "id": "9044984",
             "hash": "0b2c19a981340f617e4fd13d3608682a",
             "created": "2018-08-27 12:25:58",
-            "updated": "2024-10-26 14:50:34",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2024-12-19 21:41:14",
+            "statusInt": "2",
+            "status": "DISABLED",
             "licenseExpiryDate": "2021-07-12",
             "modeInt": "10276",
             "mode": [
@@ -21648,15 +21789,12 @@
             "id": "9045793",
             "hash": "b2288cc08c617e6368c1ec869a65d12f",
             "created": "2022-12-30 20:37:54",
-            "updated": "2024-12-02 10:32:08",
+            "updated": "2024-12-19 17:33:33",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2027-12-13",
-            "modeInt": "16388",
-            "mode": [
-                "FM",
-                "FMLINK"
-            ],
+            "modeInt": "4",
+            "mode": "FM",
             "bandInt": "20480",
             "band": [
                 "2M",
@@ -22014,15 +22152,12 @@
             "id": "9043517",
             "hash": "175e9a6a90b8fedcddcac459ca88c128",
             "created": "2016-05-15 21:07:04",
-            "updated": "2021-03-09 22:19:22",
+            "updated": "2024-12-19 17:33:07",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2021-06-05",
-            "modeInt": "16388",
-            "mode": [
-                "FM",
-                "FMLINK"
-            ],
+            "modeInt": "4",
+            "mode": "FM",
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -23824,6 +23959,45 @@
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996847"
+        },
+        "DB0BS": {
+            "qra": "DB0BS",
+            "id": "9047357",
+            "hash": "2930a229349ed784dcd1d2a6d802f538",
+            "created": "2024-12-19 17:39:13",
+            "updated": "2024-12-19 17:39:13",
+            "statusInt": "1",
+            "status": "WORKING",
+            "modeInt": "4",
+            "mode": "FM",
+            "bandInt": "16384",
+            "band": "70CM",
+            "qrg": {
+                "rx": "431.225000",
+                "tx": "438.825000"
+            },
+            "country": "de",
+            "qth": "Bochum",
+            "location": {
+                "locator": "JO31OL",
+                "latitude": "51.473255",
+                "longitude": "7.225879",
+                "altitudeOverSea": "102",
+                "altitudeOverGround": "89"
+            },
+            "activationInt": "256",
+            "activation": "CTCSS",
+            "ctcss": {
+                "rx": "67.0",
+                "tx": "67.0"
+            },
+            "operator": "DL1YBL",
+            "link": [
+                "http://przemienniki.net/przemienniki/70cm/DB0BS",
+                "https://www.relaisgruppe-ruhr.de/index.php/db0bs/"
+            ],
+            "source": "przemienniki.net",
+            "feedback": "http://przemienniki.net/zglos/9047357"
         },
         "DB0CAL": {
             "qra": "DB0CAL",
