@@ -3,8 +3,8 @@
 <rxf version="1.0">
 	<link rel="self" href="http://przemienniki.net/export/rxf.xml" type="appliction/xml"/>
 	<link>http://przemienniki.net</link>
-	<updated>2024-12-19 22:06:44</updated>
-	<generated>2024-12-20 13:21:28</generated>
+	<updated>2024-12-21 12:24:03</updated>
+	<generated>2024-12-21 13:19:38</generated>
 	<generator>przemienniki.net v.2.12.0 (2019/02/04)</generator>
 	<dictionary>
 		<item>
@@ -2445,13 +2445,12 @@ antena 5dbi]]></remarks>
 			<id>2120714</id>
 			<hash>9052f0036f76959bdcef504ab5c06b11</hash>
 			<created>2010-12-26 16:48:23</created>
-			<updated>2024-06-11 10:56:33</updated>
+			<updated>2024-12-21 12:24:03</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<licenseExpiryDate>2029-04-09</licenseExpiryDate>
-			<modeInt>16388</modeInt>
+			<modeInt>4</modeInt>
 			<mode>FM</mode>
-			<mode>FMLINK</mode>
 			<bandInt>16384</bandInt>
 			<band>70CM</band>
 			<qrg type="rx">431.600000</qrg>

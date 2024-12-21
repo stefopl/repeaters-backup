@@ -5,8 +5,8 @@
         },
         "http://przemienniki.net"
     ],
-    "updated": "2024-12-19 22:06:44",
-    "generated": "2024-12-20 13:21:28",
+    "updated": "2024-12-21 12:24:03",
+    "generated": "2024-12-21 13:19:38",
     "generator": "przemienniki.net v.2.12.0 (2019/02/04)",
     "dictionary": {
         "item": [
@@ -2652,15 +2652,12 @@
             "id": "2120714",
             "hash": "9052f0036f76959bdcef504ab5c06b11",
             "created": "2010-12-26 16:48:23",
-            "updated": "2024-06-11 10:56:33",
+            "updated": "2024-12-21 12:24:03",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2029-04-09",
-            "modeInt": "16388",
-            "mode": [
-                "FM",
-                "FMLINK"
-            ],
+            "modeInt": "4",
+            "mode": "FM",
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
