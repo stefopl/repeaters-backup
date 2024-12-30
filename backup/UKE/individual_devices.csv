@@ -1,11 +1,5 @@
 number;valid_to;call_sign;category;transmitter_power;name_type_station;emission;input_frequency;output_frequency;station_location
-DC.WML.5101.3315.2019.2;2024-11-21;SR4BAU;Kategoria5;15;CyfrowyPrzemiennik;"";430.7625;438.3625;Augustów
 DC.WML.5101.3317.2019.2;2024-12-31;SR3NPB;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Pobiedziska
-DC.WML.5101.3402.2019.2;2024-12-02;SR1PKW;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Wolin
-DC.WML.5101.3492.2019.2;2024-12-14;SR5DRA;Kategoria5;15;PrzekaznikAPRS;"";144.8, 432.5;144.8, 432.5;Radom
-DC.WML.5101.3513.2019.2;2024-12-17;SR7CKD;Kategoria5;15;PrzemiennikFMDV;"";144.975;145.575;£ódŸ
-DC.WML.5101.3515.2019.2;2024-12-17;SR3MDV;Kategoria5;15;CyfrowyPrzemiennik;"";431.975;439.575;Leszno
-DC.WML.5101.3562.2019.2;2024-12-20;SR6Z;Kategoria5;10;AnalogowyPrzemiennikFM;"";145.0375;145.6375;Œwieradów Zdrój
 DC.WML.5101.127.2020.2;2025-01-17;SR8LW;Kategoria5;15;PrzemiennikFMDV;"";431.1;438.7;£uków
 DC.WML.5101.128.2020.2;2025-01-21;SR3DPN;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Poznañ
 DC.WML.5101.172.2020.4;2025-01-29;SR2DDU;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Przyjma
@@ -46,7 +40,6 @@ DC.WML.5101.1983.2020.2;2025-08-11;SR9SRC;Kategoria5;15;PrzekaznikAPRS;"";144.8;
 DC.WML.5101.2122.2020.2;2025-08-24;SR5WXGL;Kategoria5;15;StacjaPogodowa;"";144.95;144.95;Garbatka D³uga
 DC.WML.5101.2248.2020.2;2025-09-04;SR5RK;Kategoria5;15;PrzemiennikFMDV;"";431.15;438.75;Koz³owiec  - RTNC EMITEL
 DC.WML.5101.2342.2020.2;2025-09-22;SR1ASR;Kategoria5;15;CyfrowyPrzemiennik;"";431.025;438.625;Szczecin
-DC.WML.5101.1594.2021.2;2026-05-17;SR6WB;Kategoria5;15;PrzemiennikFMDV;"";431.7625;439.3625;Wa³brzych
 DC.WML.5101.2349.2020.3;2025-09-22;SR8DGN;Kategoria5;15;CyfrowaStacjaWezlowa;"";10.1493, 50.7, 144.8, 144.825, 144.85, 144.925, 430.475, 432.5, 433.425, 2362, 2397, 5675, 5745, 5805;10.1493, 50.7, 144.8, 144.825, 144.85, 144.925, 430.475, 432.5, 433.425, 2362, 2397, 5675, 5745, 5805;Lublin
 DC.WML.5101.2407.2020.2;2025-09-30;SR9DCH;Kategoria5;15;PrzemiennikFMDV;"";431.825;439.425;Orzesze
 DC.WML.5101.2439.2020.2;2025-10-01;SR3DMR;Kategoria5;15;CyfrowyPrzemiennik;"";145.0125;145.6125;Poznañ
@@ -96,6 +89,7 @@ DC.WML.5101.1433.2021.2;2026-05-06;SR2BD;Kategoria5;15;PrzemiennikFMDV;"";431.4;
 DC.WML.5101.1440.2021.3;2026-05-06;SR9KS;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.3;438.9;Siercza
 DC.WML.5101.1441.2021.2;2026-05-06;SR9K;Kategoria5;15;AnalogowyPrzemiennikFM;"";145.15;145.75;Siercza - MPWiK Zbiorniki Siercza
 DC.WML.5101.1525.2021.2;2026-05-11;SR2BG;Kategoria5;15;PrzemiennikFMDV;"";145.125;145.725;Bydgoszcz
+DC.WML.5101.1594.2021.2;2026-05-17;SR6WB;Kategoria5;15;PrzemiennikFMDV;"";431.7625;439.3625;Wa³brzych
 DC.WML.5101.1670.2021.2;2026-05-25;SR9WXL;Kategoria5;5;StacjaPogodowaAPRS;"";144.8;144.8;Leskowiec - szczyt w Beskidzie Ma³ym
 DC.WML.5101.1539.2021.2;2026-06-04;SR9UVC;Kategoria5;15;PrzemiennikFMDV;"";431.025;438.625;Lusina
 DC.WML.5101.1868.2021.3;2026-06-10;SR6DL;Kategoria5;15;AnalogowyPrzemiennikFM;"";144.975;144.975;Dalachów
@@ -134,7 +128,6 @@ DC.WML.5101.3893.2021.2;2026-11-17;SR7LDY;Kategoria5;15;CyfrowyPrzemiennik;"";14
 DC.WML.5101.3894.2021.2;2026-11-17;SR5WD;Kategoria5;15;PrzemiennikFMDV;"";430.8;438.4;Moszna-Parcela
 DC.WML.5101.3895.2021.2;2026-11-18;SR8DLB;Kategoria5;15;PrzekaznikAPRS;"";432.5, 144.8;432.5, 144.8;¯uków-Kolonia
 DC.WML.5101.3896.2021.2;2026-11-18;SR5WOT;Kategoria5;15;StacjaPogodowaAPRS;"";144.8;144.8;Karczew
-DC.WML.5101.3899.2021.2;2026-11-18;SR8RSC;Kategoria5;15;AnalogowyPrzemiennikFM;"";145.2875;145.2875;Boguchwa³a
 DC.WML.5101.4038.2021.2;2026-12-24;SR2GDD;Kategoria5;15;CyfrowyPrzemiennik;"";430.6875;438.2875;Gdañsk
 DC.WML.5101.2840.2020.7;2025-11-20;SR9IVG;Kategoria5;15;AnalogowyPrzemiennikFM;"";70.26;70.26;Mordarka
 DC.WML.5101.4046.2021.2;2026-12-03;SR6WF;Kategoria5;15;CyfrowyPrzemiennik;"";430.8;438.4;Mrozów
@@ -255,12 +248,10 @@ DC.WML.5101.2380.2023.2;2028-05-11;SR7TM;Kategoria5;15;PrzemiennikFMDV;"";431.07
 DC.WML.5101.2427.2023.2;2028-05-12;SR1W;Kategoria5;15;PrzemiennikFMDV;"";145.0125;145.6125;Œwinoujœcie
 DC.WML.5101.2545.2023.2;2028-05-18;SR5D;Kategoria5;15;CyfrowyPrzemiennik;"";145.1;145.7;Warszawa
 DC.WML.5101.2546.2023.2;2028-05-18;SR4MO;Kategoria5;15;AnalogowyPrzemiennikFM;"";430.85;438.45;Mor¹g
-DC.WML.5101.2555.2023.2;2028-05-19;SR9R;Kategoria5;15;AnalogowyPrzemiennikFM;"";430.5;438.1;Rybnik
 DC.WML.5101.2665.2023.2;2028-05-29;SR2GDA;Kategoria5;14;AnalogowyPrzemiennikFM;"";431.75;439.35;Rekcin
 DC.WML.5101.2804.2023.2;2028-05-31;SR9RMF;Kategoria5;15;Radiolatarnia;"";70.06;70.06;Góra Przehyba
 DC.WML.5101.3215.2023.3;2028-06-22;SR4L;Kategoria5;15;PrzemiennikFMDV;"";430.5;438.1;£om¿a
 DC.WML.5101.3552.2023.2;2028-08-20;SR4BI;Kategoria5;15;PrzekaznikAPRS, CyfrowyPrzemiennik;"";432.5, 430.8625;432.5, 438.4625;Juchnowiec Górny
-DC.WML.5101.3720.2023.2;2028-07-18;SR8MBR;Kategoria5;15;AnalogowyPrzemiennikATV, AnalogowyPrzemiennikFM;"";432.6, 50.54;432.6, 50.54;Tyczyn
 DC.WML.5101.3741.2023.2;2027-12-13;SR9RT;Kategoria5;15;AnalogowyPrzemiennikFM;"";29.56, 51.39, 431.0375, 145.0375;29.66, 51.99, 438.6375, 145.6375;Mordarka
 DC.WML.5101.4023.2023.2;2028-07-28;SR9SIE;Kategoria5;15;AnalogowyPrzemiennikFM;"";70.27;70.27;Siemianowice Œl¹skie
 DC.WML.5101.4024.2023.2;2028-07-28;SR5DRK;Kategoria5;15;PrzekaznikAPRS;"";432.5, 144.8;432.5, 144.8;"Kos³owiec - Obiekt RTCN ""Emitel"""
@@ -391,6 +382,7 @@ DC.WML.5101.5254.2024.2;2029-09-11;SR5ECHO;Kategoria5;15;AnalogowyPrzemiennikFM;
 DC.WML.5101.5255.2024.2;2029-09-11;SR0WX;Kategoria5;15;StacjaPogodowa;"";144.95, 434.95;144.95, 434.95;Warszawa
 DC.WML.5101.5256.2024.2;2029-09-17;SR7UTM;Kategoria5;15;CyfrowyPrzemiennik;"";431.5;439.1;Tomaszów Mazowiecki
 DC.WML.5101.5257.2024.2;2029-09-11;SR3ASE;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Œrem
+DC.WML.5101.5352.2024.2;2028-05-19;SR9R;Kategoria5;15;PrzemiennikFMDV;"";431.4125;439.0125;Rybnik
 DC.WML.5101.5533.2024.2;2029-10-24;SR7KGO;Kategoria5;15;AnalogowyPrzemiennikFM;"";433.25;145.275;£agiewniki
 DC.WML.5101.5534.2024.2;2029-09-30;SR5KAC;Kategoria5;15;PrzekaznikAPRS;"";432.5, 144.8;432.5, 144.8;Kacprówek
 DC.WML.5101.5532.2024.4;2029-09-30;SR4WA;Kategoria5;15;AnalogowyPrzemiennikFM;"";430.525;438.125;Wawrowice
@@ -401,3 +393,24 @@ DC.WML.5101.6225.2024.2;2029-11-08;SR8WX;Kategoria5;15;StacjaPogodowa;"";144.95;
 DC.WML.5101.6227.2024.3;2029-11-08;SR9PSD;Kategoria5;15;PrzemiennikFMDV;"";431.7125;439.7125;Pszów
 DC.WML.5101.6230.2024.2;2029-11-08;SR6LDV;Kategoria5;15;PrzemiennikFMDV;"";430.55, 430.65;438.15, 438.25;Legnica
 DC.WML.5101.6233.2024.3;2029-11-08;SR9GLC;Kategoria5;15;PrzemiennikFMDV;"";431.15;439.225;Gliwice
+DC.WML.5101.6315.2024.2;2030-01-29;SR5OK;Kategoria5;15;PrzemiennikFMDV;"";431.6625;439.2625;Kadzid³o
+DC.WML.5101.6317.2024.2;2029-11-18;SR4LIN;Kategoria5;15;PrzemiennikFMDV, PrzekaznikAPRS;"";431.05, 144.8;438.65, 144.8;Jerzwa³d
+DC.WML.5101.6318.2024.2;2029-11-18;SR4V;Kategoria5;15;CyfrowaStacjaWezlowa, PrzemiennikFMDV, PrzekaznikAPRS, StacjaPogodowa;"";438.1, 431.75, 145.1375, 144.925, 144.8;439.35, 438.1, 145.1375, 144.925, 144.8;Bia³ystok
+DC.WML.5101.6338.2024.2;2029-11-18;SR9EMP;Kategoria5;1;PrzekaznikAPRS;"";434.85;434.85;Kraków
+DC.WML.5101.6339.2024.2;2029-11-18;SR5Z;Kategoria5;15;PrzekaznikAPRS, StacjaPogodowaAPRS, StacjaPogodowa;"";434.95, 144.95, 144.8;434.95, 144.95, 144.8;Warszawa
+DC.WML.5101.6429.2024.2;2029-11-20;SR7DBZ;Kategoria5;15;PrzemiennikFMDV;"";430.96;438.56;Busko Zdrój
+DC.WML.5101.6363.2024.3;2029-11-20;SR7LM;Kategoria5;15;PrzemiennikFMDV;"";431.6;439.2;£ódŸ
+DC.WML.5101.6507.2024.2;2029-11-22;SR3DKA;Kategoria5;15;CyfrowyPrzemiennik;"";430.8;438.4;Kalisz
+DC.WML.5101.6343.2024.3;2029-11-26;SR7KFX;Kategoria5;15;PrzemiennikFMDV;"";431.65;439.25;Wielenin-Kolonia
+DC.WML.5101.6579.2024.2;2029-11-27;SR2W;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.425;439.025;W³oc³awek
+DC.WML.5101.6598.2024.2;2029-11-29;SR9WXW;Kategoria5;;StacjaPogodowaAPRS;"";144.8;144.8;Wielki Rachowiec-górna stacja wyci¹gu narciarskiego
+DC.WML.5101.6620.2024.3;2029-11-29;SR2WIL;Kategoria5;10;PrzekaznikAPRS;"";432.5, 144.8;432.5, 144.8;Gdañsk
+DC.WML.5101.6635.2024.2;2028-07-18;SR8MBR;Kategoria5;15;AnalogowyPrzemiennikFM, PrzekaznikAPRS, AnalogowyPrzemiennikATV;"";29.2, 434.855, 144.8, 145.2375, 50.54, 432.6;29.2, 434.855, 144.8, 145.2375, 50.54, 432.6;Tyczyn
+DC.WML.5101.6636.2024.2;2026-11-18;SR8RSC;Kategoria5;15;PrzekaznikAPRS, AnalogowyPrzemiennikATV, AnalogowyPrzemiennikFM;"";434.855, 144.8, 431.6785, 145.2875;434.855, 144.8, 439.275, 145.2875;Boguchwa³a
+DC.WML.5101.6640.2024.2;2029-12-02;SR9NLI;Kategoria5;15;StacjaPogodowa;"";5780, 5690, 2387, 431.525, 144.8;5780, 5690, 2387, 439.125, 144.8;Lipowa
+DC.WML.5101.6663.2024.3;2029-12-04;SR9DJC;Kategoria5;15;PrzemiennikFMDV;"";145.1875;145.7875;Muszyna 
+DC.WML.5101.6537.2024.4;2029-12-10;SR1TET;Kategoria5;15;CyfrowyPrzemiennik;"";430.025;431.625;Stargard
+DC.WML.5101.6779.2024.2;2029-12-11;SR1NRS;Kategoria5;15;CyfrowyPrzekaznik;"";432.5, 144.9, 144.875, 144.8;432.5, 144.9, 144.875, 144.8;Stargard
+DC.WML.5101.6845.2024.2;2029-12-16;SR9OMP;Kategoria5;15;CyfrowyPrzemiennik;"";431.3375;438.9375;Cieszyn
+DC.WML.5101.6870.2024.2;2029-12-16;SR7TX;Kategoria5;15;CyfrowaStacjaWezlowa, StacjaPogodowa, PrzekaznikAPRS, PrzemiennikFMDV;"";144.8, 431.335, 438.935, 144.735, 145.335;144.8, 431.335, 438.935, 144.735, 145.335;Filipy
+DC.WML.5101.6871.2024.2;2029-12-16;SR7FX;Kategoria5;15;PrzekaznikAPRS, StacjaPogodowa, PrzemiennikFMDV, CyfrowaStacjaWezlowa;"";144.8, 144.9875, 439.55, 145.5875, 145.0375, 145.6375, 431.95;144.8, 144.9875, 439.55, 145.5875, 145.0375, 145.6375, 431.95;Filipy
