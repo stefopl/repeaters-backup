@@ -3,8 +3,8 @@
 <rxf version="1.0">
 	<link rel="self" href="http://przemienniki.net/export/rxf.xml" type="appliction/xml"/>
 	<link>http://przemienniki.net</link>
-	<updated>2024-12-21 12:24:03</updated>
-	<generated>2024-12-21 13:19:38</generated>
+	<updated>2025-01-06 04:18:26</updated>
+	<generated>2025-01-06 13:22:24</generated>
 	<generator>przemienniki.net v.2.12.0 (2019/02/04)</generator>
 	<dictionary>
 		<item>
@@ -2802,9 +2802,10 @@ Ant. Diamond X-300]]></remarks>
 			<id>9045838</id>
 			<hash>de0cce0fa53e5018227b78ede389a508</hash>
 			<created>2023-06-29 16:15:03</created>
-			<updated>2023-06-29 17:06:04</updated>
+			<updated>2025-01-06 04:15:39</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
+			<licenseExpiryDate>2028-05-20</licenseExpiryDate>
 			<modeInt>8192</modeInt>
 			<mode>C4FM</mode>
 			<bandInt>16384</bandInt>
@@ -2822,12 +2823,12 @@ Ant. Diamond X-300]]></remarks>
 			<activationInt>4</activationInt>
 
 			<activation>CARRIER</activation>
-			<trxPower>5.00</trxPower>
+			<trxPower>15.00</trxPower>
 			<operator>SP2ZFT</operator>
 			<operator>SQ2CDE</operator>
 			<remarks><![CDATA[Lokalizacja na dachu Zespołu Szkół Technicznych w Malbork ul. Narutowicza 14 (klub SP2ZFT)
 Antena X-300  na 3m maszcie
-Przemiennik Home-made oparty na TRX Motorola
+Przemiennik Yaesu DR-2X + HRI-200
 Urządzenia przemiennika w pomieszczeniu klubu SP2ZFT]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR2MAL</link>
 			<link>https://ot16.pzk.org.pl/index.php/kluby/51-sp2zft</link>
@@ -5756,13 +5757,13 @@ Pwr: 15W]]></remarks>
 			<id>9044985</id>
 			<hash>587b318ea89fa90c984d974e4183372d</hash>
 			<created>2018-08-27 12:31:37</created>
-			<updated>2024-07-31 17:13:37</updated>
+			<updated>2025-01-06 04:18:26</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<licenseExpiryDate>2028-08-20</licenseExpiryDate>
-			<modeInt>10240</modeInt>
+			<modeInt>2052</modeInt>
+			<mode>FM</mode>
 			<mode>MOTOTRBO</mode>
-			<mode>C4FM</mode>
 			<bandInt>16384</bandInt>
 			<band>70CM</band>
 			<qrg type="rx">430.862500</qrg>
@@ -5776,36 +5777,22 @@ Pwr: 15W]]></remarks>
 				<altitudeOverSea>152</altitudeOverSea>
 				<altitudeOverGround>35</altitudeOverGround>
 			</location>
-			<activationInt>4</activationInt>
+			<activationInt>256</activationInt>
 
-			<activation>CARRIER</activation>
+			<activation>CTCSS</activation>
+			<ctcss type="rx">67.0</ctcss>
+			<ctcss type="tx">67.0</ctcss>
 			<trxPower>15.00</trxPower>
 			<operator>SP4FEU</operator>
 			<remarks><![CDATA[MOTOROLA MTR-2000  , sterownik MMDVM.
 Color Code 4.
-Przemiennik pracuje w  sieci Brandmeister  ,DMR PLUS
+Przemiennik pracuje w  sieci Brandmeister 
 ----------------------------------------------------------------------------
-Mod C4FM
-
-PL C4FM Poland (YCS260)
-
-DG-ID# 60 Wywoławcza polska grupa rozmówna Fusion II
-
-DG-ID# 84 Okręg 4, woj. warmińsko-mazurskie, podlaskie
-
-DG-ID# 95 Regionalna warmińsko-mazurska
-
-DG-ID# 90 Lokalna C4FM
-
-DG-ID# 97 Grupa odbiorcza alertów METEO - ZAKAZ NADAWANIA!!!
-
-
-
 oraz Analogowo FM
 
 CTCSS odbiornika:67.0Hz
 CTCSS nadajnika:67.0 Hz
-
+Szerokość : WIDE
 Antena  Radmor 3284/3
 
 Grupy TG na SR4BI 
@@ -5814,17 +5801,10 @@ SLOT 1
 
 TG 260 Wywoławcza - BrandMeister
 
-TG 1260 Wywoławcza - DMR PLUS
-
-TG 26004Grupa Dynamiczna Okręgowa SP4 do połączeń HBLink Polska
-
 
 ----------------------------------------------
 
 SLOT 2
-
-
-TG 8004 Okręgowa SP4 DMR PLUS
 
 TG 2604 Okręgowa SP4 do połączeń BrandMeister - DMR PLUS
 
@@ -5835,9 +5815,7 @@ TG 260454(SR4BI) Grupa - Lokalna
 
 TG 260099 GPS/RRS/APRS.
 
-260097 Echo (NOTICE: private call, not a TG)
-
-TG 9990 Echo TEST DMR PLUS]]></remarks>
+260097 Echo (NOTICE: private call, not a TG)]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR4BI</link>
 			<link>https://sr4bi.pl</link>
 			<source>przemienniki.net</source>
@@ -7166,9 +7144,9 @@ Połączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4M
 			<id>8253800</id>
 			<hash>59c83163056bf791578672762b349f23</hash>
 			<created>2010-11-13 02:11:50</created>
-			<updated>2023-06-28 10:51:53</updated>
-			<statusInt>1</statusInt>
-			<status>WORKING</status>
+			<updated>2025-01-06 04:14:12</updated>
+			<statusInt>2</statusInt>
+			<status>DISABLED</status>
 			<licenseExpiryDate>2024-03-11</licenseExpiryDate>
 			<modeInt>4</modeInt>
 			<mode>FM</mode>
@@ -15058,7 +15036,7 @@ Obiekt: Telewizyjna Stacja Retransmisyjna na Górze Kamieńsk EmiTel-a – zwana
 			<id>3426973</id>
 			<hash>37701ef53f48b32d83452ba8b19109e1</hash>
 			<created>2010-11-13 02:11:50</created>
-			<updated>2024-05-21 18:51:45</updated>
+			<updated>2025-01-06 04:16:53</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<modeInt>4</modeInt>
@@ -15076,9 +15054,10 @@ Obiekt: Telewizyjna Stacja Retransmisyjna na Górze Kamieńsk EmiTel-a – zwana
 				<altitudeOverSea>210</altitudeOverSea>
 				<altitudeOverGround>95</altitudeOverGround>
 			</location>
-			<activationInt>4</activationInt>
+			<activationInt>256</activationInt>
 
-			<activation>CARRIER</activation>
+			<activation>CTCSS</activation>
+			<ctcss type="rx">77.0</ctcss>
 			<trxPower>10.00</trxPower>
 			<operator>SQ7NHY</operator>
 			<operator>SP7BIX</operator>
@@ -16043,7 +16022,7 @@ sr8et@op.pl - wszelkie uwagi korespondentów prosimy kierować pod ten adres.]]>
 			<id>4942781</id>
 			<hash>fe54705fcb50f2a4300f51e1052bff97</hash>
 			<created>2010-11-13 02:11:50</created>
-			<updated>2024-07-27 09:45:41</updated>
+			<updated>2025-01-06 04:12:41</updated>
 			<statusInt>1</statusInt>
 			<status>WORKING</status>
 			<licenseExpiryDate>2027-02-09</licenseExpiryDate>
@@ -16066,9 +16045,9 @@ sr8et@op.pl - wszelkie uwagi korespondentów prosimy kierować pod ten adres.]]>
 			<ctcss type="rx">67.0</ctcss>
 			<ctcss type="tx">67.0</ctcss>
 			<trxPower>15.00</trxPower>
-			<operator>SQ8HPD</operator>
+			<operator>SQ8PDY</operator>
 			<remarks><![CDATA[Przemiennik w sieci FM POLAND !!!
-Domyślna grupa: 26090 Małopolska
+Domyślna grupa: 26081 Małopolska
 
 Antena: Diamond X-300]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR8JR</link>
@@ -18661,6 +18640,41 @@ SR9AMS (145,2375 MHz) – Pozwolenie radiowe do 03 II 2026 r. Aanalogowo-cyfrowa
 			<feedback>http://przemienniki.net/zglos/9045097</feedback>
 		</repeater>
 		<repeater>
+			<qra>SR9DJC-C</qra>
+			<id>8996810</id>
+			<hash>23ffb2d966dd9b7884fb5e7d43955c5b</hash>
+			<created>2011-01-18 23:39:22</created>
+			<updated>2025-01-06 04:14:50</updated>
+			<statusInt>1</statusInt>
+			<status>WORKING</status>
+			<modeInt>32</modeInt>
+			<mode>DSTAR</mode>
+			<bandInt>4096</bandInt>
+			<band>2M</band>
+			<qrg type="rx">145.187500</qrg>
+			<qrg type="tx">145.787500</qrg>
+			<country>pl</country>
+			<qth><![CDATA[Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)]]></qth>
+			<location>
+				<locator>KN09KK</locator>
+				<latitude>49.417864</latitude>
+				<longitude>20.895578</longitude>
+				<altitudeOverSea>1114</altitudeOverSea>
+				<altitudeOverGround>12</altitudeOverGround>
+			</location>
+			<activationInt>16777216</activationInt>
+
+			<activation>UNKNOWN</activation>
+			<trxPower>10.00</trxPower>
+			<operator>SP9WTC</operator>
+			<remarks><![CDATA[Ant: Tagra KAD150 1 x Tait TB8110 - 2m ( duosimplex)]]></remarks>
+			<link>http://przemienniki.net/przemienniki/2m/SR9DJC-C</link>
+			<link>http://www.sr9uvj.pl</link>
+			<link>http://www.ircddb.net/</link>
+			<source>przemienniki.net</source>
+			<feedback>http://przemienniki.net/zglos/8996810</feedback>
+		</repeater>
+		<repeater>
 			<qra>SR9DJK</qra>
 			<id>9045002</id>
 			<hash></hash>
@@ -20568,9 +20582,9 @@ FM Poland (TG: 260902)]]></remarks>
 			<id>9043615</id>
 			<hash></hash>
 			<created>2016-11-15 18:27:25</created>
-			<updated>2023-07-25 11:46:32</updated>
-			<statusInt>1</statusInt>
-			<status>WORKING</status>
+			<updated>2025-01-06 04:16:06</updated>
+			<statusInt>2</statusInt>
+			<status>DISABLED</status>
 			<modeInt>2052</modeInt>
 			<mode>FM</mode>
 			<mode>MOTOTRBO</mode>
@@ -20594,7 +20608,6 @@ FM Poland (TG: 260902)]]></remarks>
 			<ctcss type="tx">67.0</ctcss>
 			<trxPower>15.00</trxPower>
 			<operator>SQ9NOO</operator>
-			<operator>SP9WZO</operator>
 			<remarks><![CDATA[Kathrein 720-880]]></remarks>
 			<link>http://przemienniki.net/przemienniki/70cm/SR9SC</link>
 			<source>przemienniki.net</source>
@@ -21245,41 +21258,6 @@ Reszta dynamicznie wedle przeznaczenia na nr slotu.]]></remarks>
 			<link>http://www.ircddb.net/</link>
 			<source>przemienniki.net</source>
 			<feedback>http://przemienniki.net/zglos/8996811</feedback>
-		</repeater>
-		<repeater>
-			<qra>SR9UVJ-C</qra>
-			<id>8996810</id>
-			<hash>23ffb2d966dd9b7884fb5e7d43955c5b</hash>
-			<created>2011-01-18 23:39:22</created>
-			<updated>2012-03-18 12:31:31</updated>
-			<statusInt>1</statusInt>
-			<status>WORKING</status>
-			<modeInt>32</modeInt>
-			<mode>DSTAR</mode>
-			<bandInt>4096</bandInt>
-			<band>2M</band>
-			<qrg type="rx">145.187500</qrg>
-			<qrg type="tx">145.787500</qrg>
-			<country>pl</country>
-			<qth><![CDATA[Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)]]></qth>
-			<location>
-				<locator>KN09KK</locator>
-				<latitude>49.417864</latitude>
-				<longitude>20.895578</longitude>
-				<altitudeOverSea>1114</altitudeOverSea>
-				<altitudeOverGround>12</altitudeOverGround>
-			</location>
-			<activationInt>16777216</activationInt>
-
-			<activation>UNKNOWN</activation>
-			<trxPower>10.00</trxPower>
-			<operator>SQ9ATC</operator>
-			<remarks><![CDATA[Ant: Diamond X-50 2 x Motorola GM340 - 70cm 1 x Motorola CM140 - 2m]]></remarks>
-			<link>http://przemienniki.net/przemienniki/2m/SR9UVJ-C</link>
-			<link>http://www.sr9uvj.pl</link>
-			<link>http://www.ircddb.net/</link>
-			<source>przemienniki.net</source>
-			<feedback>http://przemienniki.net/zglos/8996810</feedback>
 		</repeater>
 		<repeater>
 			<qra>SR9UVL</qra>

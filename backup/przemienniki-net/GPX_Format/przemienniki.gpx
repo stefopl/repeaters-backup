@@ -3506,22 +3506,22 @@ Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR4BAU
 <wpt lat="53.015542" lon="23.135219">
 	<name>SR4BI</name>
 	<cmt>
-Przemiennik C4FM/Fusion+DMR pasma 70cm
+Przemiennik DMR+FM pasma 70cm
 
 
 QTH: Juchnowiec
 Częstotliwość: TX: 438,4625 MHz, RX: 430,8625 MHz 
-Aktywowanie: nośną
+Aktywowanie: CTCSS (67.0 Hz)
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR4BI
 
 	</cmt>
 	<desc>
-Przemiennik C4FM/Fusion+DMR pasma 70cm
+Przemiennik DMR+FM pasma 70cm
 
 
 QTH: Juchnowiec
 Częstotliwość: TX: 438,4625 MHz, RX: 430,8625 MHz 
-Aktywowanie: nośną
+Aktywowanie: CTCSS (67.0 Hz)
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR4BI
 
 	</desc>
@@ -9054,7 +9054,7 @@ Przemiennik FM pasma 70cm
 
 QTH: Działoszyn
 Częstotliwość: TX: 439,0000 MHz, RX: 431,4000 MHz 
-Aktywowanie: nośną
+Aktywowanie: CTCSS (77.0 Hz)
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR7WI
 
 	</cmt>
@@ -9064,7 +9064,7 @@ Przemiennik FM pasma 70cm
 
 QTH: Działoszyn
 Częstotliwość: TX: 439,0000 MHz, RX: 431,4000 MHz 
-Aktywowanie: nośną
+Aktywowanie: CTCSS (77.0 Hz)
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR7WI
 
 	</desc>
@@ -11254,6 +11254,29 @@ Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR9DDP
 
 	</desc>
 </wpt>
+<wpt lat="49.417864" lon="20.895578">
+	<name>SR9DJC-C</name>
+	<cmt>
+Przemiennik DSTAR/DV pasma 2m
+
+
+QTH: Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)
+Częstotliwość: TX: 145,7875 MHz, RX: 145,1875 MHz 
+Aktywowanie: b.d.
+Więcej informacji: http://przemienniki.net/przemienniki/2m/SR9DJC-C
+
+	</cmt>
+	<desc>
+Przemiennik DSTAR/DV pasma 2m
+
+
+QTH: Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)
+Częstotliwość: TX: 145,7875 MHz, RX: 145,1875 MHz 
+Aktywowanie: b.d.
+Więcej informacji: http://przemienniki.net/przemienniki/2m/SR9DJC-C
+
+	</desc>
+</wpt>
 <wpt lat="50.579506" lon="19.449523">
 	<name>SR9DJK</name>
 	<cmt>
@@ -12884,29 +12907,6 @@ QTH: Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)
 Częstotliwość: TX: 439,5000 MHz, RX: 431,9000 MHz 
 Aktywowanie: b.d.
 Więcej informacji: http://przemienniki.net/przemienniki/70cm/SR9UVJ-B
-
-	</desc>
-</wpt>
-<wpt lat="49.417864" lon="20.895578">
-	<name>SR9UVJ-C</name>
-	<cmt>
-Przemiennik DSTAR/DV pasma 2m
-
-
-QTH: Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)
-Częstotliwość: TX: 145,7875 MHz, RX: 145,1875 MHz 
-Aktywowanie: b.d.
-Więcej informacji: http://przemienniki.net/przemienniki/2m/SR9UVJ-C
-
-	</cmt>
-	<desc>
-Przemiennik DSTAR/DV pasma 2m
-
-
-QTH: Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)
-Częstotliwość: TX: 145,7875 MHz, RX: 145,1875 MHz 
-Aktywowanie: b.d.
-Więcej informacji: http://przemienniki.net/przemienniki/2m/SR9UVJ-C
 
 	</desc>
 </wpt>

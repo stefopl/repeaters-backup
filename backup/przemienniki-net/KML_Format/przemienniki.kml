@@ -1382,11 +1382,11 @@
 						</Point>
 						<styleUrl>#BAND_70CM</styleUrl>
 						<description><![CDATA[
-							Przemiennik C4FM/Fusion+DMR pasma 70cm<br />
+							Przemiennik DMR+FM pasma 70cm<br />
 							QTH: Juchnowiec<br />
 							QRG: TX: 438,4625 MHz, RX: 430,8625 MHz
 							<br />
-							Aktywowanie: nośną<br /><br />
+							Aktywowanie: CTCSS (67.0 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR4BI">przemienniki.net/przemienniki/70cm/SR4BI</a><br />
 						]]></description>
 					</Placemark>
@@ -1658,21 +1658,6 @@
 							<br />
 							Aktywowanie: nośną, CTCSS (67.0 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR4MO">przemienniki.net/przemienniki/70cm/SR4MO</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>SR4MR</name>
-						<Point>
-							<coordinates>21.296859,53.864468</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik FM pasma 70cm<br />
-							QTH: Mrągowo - wieża ciśnień wodociągów<br />
-							QRG: TX: 439,1500 MHz, RX: 431,5500 MHz
-							<br />
-							Aktywowanie: CTCSS (67.0 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR4MR">przemienniki.net/przemienniki/70cm/SR4MR</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
@@ -3501,7 +3486,7 @@
 							QTH: Działoszyn<br />
 							QRG: TX: 439,0000 MHz, RX: 431,4000 MHz
 							<br />
-							Aktywowanie: nośną<br /><br />
+							Aktywowanie: CTCSS (77.0 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR7WI">przemienniki.net/przemienniki/70cm/SR7WI</a><br />
 						]]></description>
 					</Placemark>
@@ -4496,21 +4481,6 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
-						<name>SR9SC</name>
-						<Point>
-							<coordinates>18.634977,49.736501</coordinates>
-						</Point>
-						<styleUrl>#BAND_70CM</styleUrl>
-						<description><![CDATA[
-							Przemiennik DMR+FM pasma 70cm<br />
-							QTH: Cieszyn<br />
-							QRG: TX: 438,9625 MHz, RX: 431,3625 MHz
-							<br />
-							Aktywowanie: CTCSS (67.0 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR9SC">przemienniki.net/przemienniki/70cm/SR9SC</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
 						<name>SR9SK</name>
 						<Point>
 							<coordinates>19.029843,49.685223</coordinates>
@@ -5402,6 +5372,21 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
+						<name>SR4MR</name>
+						<Point>
+							<coordinates>21.296859,53.864468</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik FM pasma 70cm<br />
+							QTH: Mrągowo - wieża ciśnień wodociągów<br />
+							QRG: TX: 439,1500 MHz, RX: 431,5500 MHz
+							<br />
+							Aktywowanie: CTCSS (67.0 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR4MR">przemienniki.net/przemienniki/70cm/SR4MR</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
 						<name>SR4SW</name>
 						<Point>
 							<coordinates>21.219062,53.563494</coordinates>
@@ -5939,6 +5924,21 @@
 							<br />
 							Aktywowanie: CTCSS (67.0 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR9S">przemienniki.net/przemienniki/70cm/SR9S</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
+						<name>SR9SC</name>
+						<Point>
+							<coordinates>18.634977,49.736501</coordinates>
+						</Point>
+						<styleUrl>#BAND_70CM</styleUrl>
+						<description><![CDATA[
+							Przemiennik DMR+FM pasma 70cm<br />
+							QTH: Cieszyn<br />
+							QRG: TX: 438,9625 MHz, RX: 431,3625 MHz
+							<br />
+							Aktywowanie: CTCSS (67.0 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/70cm/SR9SC">przemienniki.net/przemienniki/70cm/SR9SC</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>
@@ -8213,6 +8213,21 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
+						<name>SR9DJC-C</name>
+						<Point>
+							<coordinates>20.895578,49.417864</coordinates>
+						</Point>
+						<styleUrl>#BAND_2M</styleUrl>
+						<description><![CDATA[
+							Przemiennik DSTAR/DV pasma 2m<br />
+							QTH: Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)<br />
+							QRG: TX: 145,7875 MHz, RX: 145,1875 MHz
+							<br />
+							Aktywowanie: b.d.<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR9DJC-C">przemienniki.net/przemienniki/2m/SR9DJC-C</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
 						<name>SR9E</name>
 						<Point>
 							<coordinates>19.005029,50.298203</coordinates>
@@ -8300,21 +8315,6 @@
 							<br />
 							Aktywowanie: CTCSS (67.0 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR9S">przemienniki.net/przemienniki/2m/SR9S</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>SR9UVJ-C</name>
-						<Point>
-							<coordinates>20.895578,49.417864</coordinates>
-						</Point>
-						<styleUrl>#BAND_2M</styleUrl>
-						<description><![CDATA[
-							Przemiennik DSTAR/DV pasma 2m<br />
-							QTH: Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)<br />
-							QRG: TX: 145,7875 MHz, RX: 145,1875 MHz
-							<br />
-							Aktywowanie: b.d.<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/2m/SR9UVJ-C">przemienniki.net/przemienniki/2m/SR9UVJ-C</a><br />
 						]]></description>
 					</Placemark>
 					<Placemark>

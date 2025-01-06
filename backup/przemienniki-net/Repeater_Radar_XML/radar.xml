@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<repeaters update="2024-12-21 12:24:03" version="0.1">
+<repeaters update="2025-01-06 04:18:26" version="0.1">
 
 
 	<repeater
@@ -1793,7 +1793,7 @@ Ant. Diamond X-300"
 		frequency="439062500"
 		band="70cm"
 		ctcss="0"
-		tx_power="5.00"
+		tx_power="15.00"
 		city="Malbork"
 		location=""
 		locator="JO94MA"
@@ -1809,7 +1809,7 @@ Ant. Diamond X-300"
 		alt_npg="11"
 		description="Lokalizacja na dachu Zespołu Szkół Technicznych w Malbork ul. Narutowicza 14 (klub SP2ZFT)
 Antena X-300  na 3m maszcie
-Przemiennik Home-made oparty na TRX Motorola
+Przemiennik Yaesu DR-2X + HRI-200
 Urządzenia przemiennika w pomieszczeniu klubu SP2ZFT"
 		/>
 
@@ -3805,16 +3805,16 @@ Pwr: 15W"
 		region="4"
 		frequency="438462500"
 		band="70cm"
-		ctcss="0"
+		ctcss="67"
 		tx_power="15.00"
 		city="Juchnowiec"
 		location=""
 		locator="KO13NA"
-		type="C4FM/Fusion+DMR"
+		type="FM"
 		status="OPERATIONAL"
 		latitude="53.015542"
 		longitude="23.135219"
-		opening="CARRIER"
+		opening="CTCSS"
 		echolink=""
 		URL="70cm/SR4BI"
 		antenna=""
@@ -3822,29 +3822,13 @@ Pwr: 15W"
 		alt_npg="35"
 		description="MOTOROLA MTR-2000  , sterownik MMDVM.
 Color Code 4.
-Przemiennik pracuje w  sieci Brandmeister  ,DMR PLUS
+Przemiennik pracuje w  sieci Brandmeister 
 ----------------------------------------------------------------------------
-Mod C4FM
-
-PL C4FM Poland (YCS260)
-
-DG-ID# 60 Wywoławcza polska grupa rozmówna Fusion II
-
-DG-ID# 84 Okręg 4, woj. warmińsko-mazurskie, podlaskie
-
-DG-ID# 95 Regionalna warmińsko-mazurska
-
-DG-ID# 90 Lokalna C4FM
-
-DG-ID# 97 Grupa odbiorcza alertów METEO - ZAKAZ NADAWANIA!!!
-
-
-
 oraz Analogowo FM
 
 CTCSS odbiornika:67.0Hz
 CTCSS nadajnika:67.0 Hz
-
+Szerokość : WIDE
 Antena  Radmor 3284/3
 
 Grupy TG na SR4BI 
@@ -3853,17 +3837,10 @@ SLOT 1
 
 TG 260 Wywoławcza - BrandMeister
 
-TG 1260 Wywoławcza - DMR PLUS
-
-TG 26004Grupa Dynamiczna Okręgowa SP4 do połączeń HBLink Polska
-
 
 ----------------------------------------------
 
 SLOT 2
-
-
-TG 8004 Okręgowa SP4 DMR PLUS
 
 TG 2604 Okręgowa SP4 do połączeń BrandMeister - DMR PLUS
 
@@ -3874,9 +3851,7 @@ TG 260454(SR4BI) Grupa - Lokalna
 
 TG 260099 GPS/RRS/APRS.
 
-260097 Echo (NOTICE: private call, not a TG)
-
-TG 9990 Echo TEST DMR PLUS"
+260097 Echo (NOTICE: private call, not a TG)"
 		/>
 
 
@@ -4827,7 +4802,7 @@ Połączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4M
 		location=""
 		locator="KO03PU"
 		type="FM"
-		status="OPERATIONAL"
+		status="OFF"
 		latitude="53.864468"
 		longitude="21.296859"
 		opening="CTCSS"
@@ -10106,7 +10081,7 @@ Obiekt: Telewizyjna Stacja Retransmisyjna na Górze Kamieńsk EmiTel-a – zwana
 		region="7"
 		frequency="439000000"
 		band="70cm"
-		ctcss="0"
+		ctcss="77"
 		tx_power="10.00"
 		city="Działoszyn"
 		location=""
@@ -10115,7 +10090,7 @@ Obiekt: Telewizyjna Stacja Retransmisyjna na Górze Kamieńsk EmiTel-a – zwana
 		status="OPERATIONAL"
 		latitude="51.105189"
 		longitude="18.941747"
-		opening="CARRIER"
+		opening="CTCSS"
 		echolink=""
 		URL="70cm/SR7WI"
 		antenna=""
@@ -10819,7 +10794,7 @@ sr8et@op.pl - wszelkie uwagi korespondentów prosimy kierować pod ten adres."
 		alt_npm=""
 		alt_npg=""
 		description="Przemiennik w sieci FM POLAND !!!
-Domyślna grupa: 26090 Małopolska
+Domyślna grupa: 26081 Małopolska
 
 Antena: Diamond X-300"
 		/>
@@ -12580,6 +12555,31 @@ SR9AMS (145,2375 MHz) – Pozwolenie radiowe do 03 II 2026 r. Aanalogowo-cyfrowa
 
 
 	<repeater
+		callsign="SR9DJC-C"
+		country="PL"
+		region="9"
+		frequency="145787500"
+		band="2m"
+		ctcss="0"
+		tx_power="10.00"
+		city="Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)"
+		location=""
+		locator="KN09KK"
+		type="DSTAR"
+		status="OPERATIONAL"
+		latitude="49.417864"
+		longitude="20.895578"
+		opening="OTHER"
+		echolink=""
+		URL="2m/SR9DJC-C"
+		antenna=""
+		alt_npm="1114"
+		alt_npg="12"
+		description="Ant: Tagra KAD150 1 x Tait TB8110 - 2m ( duosimplex)"
+		/>
+
+
+	<repeater
 		callsign="SR9DJK"
 		country="PL"
 		region="9"
@@ -13863,7 +13863,7 @@ FM Poland (TG: 260902)"
 		location=""
 		locator="JN99HR"
 		type="FM"
-		status="OPERATIONAL"
+		status="OFF"
 		latitude="49.736501"
 		longitude="18.634977"
 		opening="CTCSS"
@@ -14337,31 +14337,6 @@ Reszta dynamicznie wedle przeznaczenia na nr slotu."
 		opening="OTHER"
 		echolink=""
 		URL="70cm/SR9UVJ-B"
-		antenna=""
-		alt_npm="1114"
-		alt_npg="12"
-		description="Ant: Diamond X-50 2 x Motorola GM340 - 70cm 1 x Motorola CM140 - 2m"
-		/>
-
-
-	<repeater
-		callsign="SR9UVJ-C"
-		country="PL"
-		region="9"
-		frequency="145787500"
-		band="2m"
-		ctcss="0"
-		tx_power="10.00"
-		city="Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)"
-		location=""
-		locator="KN09KK"
-		type="DSTAR"
-		status="OPERATIONAL"
-		latitude="49.417864"
-		longitude="20.895578"
-		opening="OTHER"
-		echolink=""
-		URL="2m/SR9UVJ-C"
 		antenna=""
 		alt_npm="1114"
 		alt_npg="12"

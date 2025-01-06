@@ -5,8 +5,8 @@
         },
         "http://przemienniki.net"
     ],
-    "updated": "2024-12-21 12:24:03",
-    "generated": "2024-12-21 13:19:38",
+    "updated": "2025-01-06 04:18:26",
+    "generated": "2025-01-06 13:22:24",
     "generator": "przemienniki.net v.2.12.0 (2019/02/04)",
     "dictionary": {
         "item": [
@@ -3043,9 +3043,10 @@
             "id": "9045838",
             "hash": "de0cce0fa53e5018227b78ede389a508",
             "created": "2023-06-29 16:15:03",
-            "updated": "2023-06-29 17:06:04",
+            "updated": "2025-01-06 04:15:39",
             "statusInt": "1",
             "status": "WORKING",
+            "licenseExpiryDate": "2028-05-20",
             "modeInt": "8192",
             "mode": "C4FM",
             "bandInt": "16384",
@@ -3064,12 +3065,12 @@
             },
             "activationInt": "4",
             "activation": "CARRIER",
-            "trxPower": "5.00",
+            "trxPower": "15.00",
             "operator": [
                 "SP2ZFT",
                 "SQ2CDE"
             ],
-            "remarks": "Lokalizacja na dachu Zespołu Szkół Technicznych w Malbork ul. Narutowicza 14 (klub SP2ZFT)\nAntena X-300  na 3m maszcie\nPrzemiennik Home-made oparty na TRX Motorola\nUrządzenia przemiennika w pomieszczeniu klubu SP2ZFT",
+            "remarks": "Lokalizacja na dachu Zespołu Szkół Technicznych w Malbork ul. Narutowicza 14 (klub SP2ZFT)\nAntena X-300  na 3m maszcie\nPrzemiennik Yaesu DR-2X + HRI-200\nUrządzenia przemiennika w pomieszczeniu klubu SP2ZFT",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR2MAL",
                 "https://ot16.pzk.org.pl/index.php/kluby/51-sp2zft"
@@ -6258,14 +6259,14 @@
             "id": "9044985",
             "hash": "587b318ea89fa90c984d974e4183372d",
             "created": "2018-08-27 12:31:37",
-            "updated": "2024-07-31 17:13:37",
+            "updated": "2025-01-06 04:18:26",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-08-20",
-            "modeInt": "10240",
+            "modeInt": "2052",
             "mode": [
-                "MOTOTRBO",
-                "C4FM"
+                "FM",
+                "MOTOTRBO"
             ],
             "bandInt": "16384",
             "band": "70CM",
@@ -6282,11 +6283,15 @@
                 "altitudeOverSea": "152",
                 "altitudeOverGround": "35"
             },
-            "activationInt": "4",
-            "activation": "CARRIER",
+            "activationInt": "256",
+            "activation": "CTCSS",
+            "ctcss": {
+                "rx": "67.0",
+                "tx": "67.0"
+            },
             "trxPower": "15.00",
             "operator": "SP4FEU",
-            "remarks": "MOTOROLA MTR-2000  , sterownik MMDVM.\nColor Code 4.\nPrzemiennik pracuje w  sieci Brandmeister  ,DMR PLUS\n----------------------------------------------------------------------------\nMod C4FM\n\nPL C4FM Poland (YCS260)\n\nDG-ID# 60 Wywoławcza polska grupa rozmówna Fusion II\n\nDG-ID# 84 Okręg 4, woj. warmińsko-mazurskie, podlaskie\n\nDG-ID# 95 Regionalna warmińsko-mazurska\n\nDG-ID# 90 Lokalna C4FM\n\nDG-ID# 97 Grupa odbiorcza alertów METEO - ZAKAZ NADAWANIA!!!\n\n\n\noraz Analogowo FM\n\nCTCSS odbiornika:67.0Hz\nCTCSS nadajnika:67.0 Hz\n\nAntena  Radmor 3284/3\n\nGrupy TG na SR4BI \n\nSLOT 1\n\nTG 260 Wywoławcza - BrandMeister\n\nTG 1260 Wywoławcza - DMR PLUS\n\nTG 26004Grupa Dynamiczna Okręgowa SP4 do połączeń HBLink Polska\n\n\n----------------------------------------------\n\nSLOT 2\n\n\nTG 8004 Okręgowa SP4 DMR PLUS\n\nTG 2604 Okręgowa SP4 do połączeń BrandMeister - DMR PLUS\n\n\nTG 9 Grupa statyczna oraz linkowanie się do reflektorów\n\nTG 260454(SR4BI) Grupa - Lokalna\n\nTG 260099 GPS/RRS/APRS.\n\n260097 Echo (NOTICE: private call, not a TG)\n\nTG 9990 Echo TEST DMR PLUS",
+            "remarks": "MOTOROLA MTR-2000  , sterownik MMDVM.\nColor Code 4.\nPrzemiennik pracuje w  sieci Brandmeister \n----------------------------------------------------------------------------\noraz Analogowo FM\n\nCTCSS odbiornika:67.0Hz\nCTCSS nadajnika:67.0 Hz\nSzerokość : WIDE\nAntena  Radmor 3284/3\n\nGrupy TG na SR4BI \n\nSLOT 1\n\nTG 260 Wywoławcza - BrandMeister\n\n\n----------------------------------------------\n\nSLOT 2\n\nTG 2604 Okręgowa SP4 do połączeń BrandMeister - DMR PLUS\n\n\nTG 9 Grupa statyczna oraz linkowanie się do reflektorów\n\nTG 260454(SR4BI) Grupa - Lokalna\n\nTG 260099 GPS/RRS/APRS.\n\n260097 Echo (NOTICE: private call, not a TG)",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR4BI",
                 "https://sr4bi.pl"
@@ -7584,9 +7589,9 @@
             "id": "8253800",
             "hash": "59c83163056bf791578672762b349f23",
             "created": "2010-11-13 02:11:50",
-            "updated": "2023-06-28 10:51:53",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2025-01-06 04:14:12",
+            "statusInt": "2",
+            "status": "DISABLED",
             "licenseExpiryDate": "2024-03-11",
             "modeInt": "4",
             "mode": "FM",
@@ -15961,7 +15966,7 @@
             "id": "3426973",
             "hash": "37701ef53f48b32d83452ba8b19109e1",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-05-21 18:51:45",
+            "updated": "2025-01-06 04:16:53",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "4",
@@ -15981,8 +15986,11 @@
                 "altitudeOverSea": "210",
                 "altitudeOverGround": "95"
             },
-            "activationInt": "4",
-            "activation": "CARRIER",
+            "activationInt": "256",
+            "activation": "CTCSS",
+            "ctcss": {
+                "rx": "77.0"
+            },
             "trxPower": "10.00",
             "operator": [
                 "SQ7NHY",
@@ -17037,7 +17045,7 @@
             "id": "4942781",
             "hash": "fe54705fcb50f2a4300f51e1052bff97",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-07-27 09:45:41",
+            "updated": "2025-01-06 04:12:41",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2027-02-09",
@@ -17063,8 +17071,8 @@
                 "tx": "67.0"
             },
             "trxPower": "15.00",
-            "operator": "SQ8HPD",
-            "remarks": "Przemiennik w sieci FM POLAND !!!\nDomyślna grupa: 26090 Małopolska\n\nAntena: Diamond X-300",
+            "operator": "SQ8PDY",
+            "remarks": "Przemiennik w sieci FM POLAND !!!\nDomyślna grupa: 26081 Małopolska\n\nAntena: Diamond X-300",
             "link": "http://przemienniki.net/przemienniki/70cm/SR8JR",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4942781"
@@ -19838,6 +19846,44 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045097"
         },
+        "SR9DJC-C": {
+            "qra": "SR9DJC-C",
+            "id": "8996810",
+            "hash": "23ffb2d966dd9b7884fb5e7d43955c5b",
+            "created": "2011-01-18 23:39:22",
+            "updated": "2025-01-06 04:14:50",
+            "statusInt": "1",
+            "status": "WORKING",
+            "modeInt": "32",
+            "mode": "DSTAR",
+            "bandInt": "4096",
+            "band": "2M",
+            "qrg": {
+                "rx": "145.187500",
+                "tx": "145.787500"
+            },
+            "country": "pl",
+            "qth": "Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)",
+            "location": {
+                "locator": "KN09KK",
+                "latitude": "49.417864",
+                "longitude": "20.895578",
+                "altitudeOverSea": "1114",
+                "altitudeOverGround": "12"
+            },
+            "activationInt": "16777216",
+            "activation": "UNKNOWN",
+            "trxPower": "10.00",
+            "operator": "SP9WTC",
+            "remarks": "Ant: Tagra KAD150 1 x Tait TB8110 - 2m ( duosimplex)",
+            "link": [
+                "http://przemienniki.net/przemienniki/2m/SR9DJC-C",
+                "http://www.sr9uvj.pl",
+                "http://www.ircddb.net/"
+            ],
+            "source": "przemienniki.net",
+            "feedback": "http://przemienniki.net/zglos/8996810"
+        },
         "SR9DJK": {
             "qra": "SR9DJK",
             "id": "9045002",
@@ -21968,9 +22014,9 @@
             "id": "9043615",
             "hash": null,
             "created": "2016-11-15 18:27:25",
-            "updated": "2023-07-25 11:46:32",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2025-01-06 04:16:06",
+            "statusInt": "2",
+            "status": "DISABLED",
             "modeInt": "2052",
             "mode": [
                 "FM",
@@ -21998,10 +22044,7 @@
                 "tx": "67.0"
             },
             "trxPower": "15.00",
-            "operator": [
-                "SQ9NOO",
-                "SP9WZO"
-            ],
+            "operator": "SQ9NOO",
             "remarks": "Kathrein 720-880",
             "link": "http://przemienniki.net/przemienniki/70cm/SR9SC",
             "source": "przemienniki.net",
@@ -22716,44 +22759,6 @@
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996811"
-        },
-        "SR9UVJ-C": {
-            "qra": "SR9UVJ-C",
-            "id": "8996810",
-            "hash": "23ffb2d966dd9b7884fb5e7d43955c5b",
-            "created": "2011-01-18 23:39:22",
-            "updated": "2012-03-18 12:31:31",
-            "statusInt": "1",
-            "status": "WORKING",
-            "modeInt": "32",
-            "mode": "DSTAR",
-            "bandInt": "4096",
-            "band": "2M",
-            "qrg": {
-                "rx": "145.187500",
-                "tx": "145.787500"
-            },
-            "country": "pl",
-            "qth": "Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)",
-            "location": {
-                "locator": "KN09KK",
-                "latitude": "49.417864",
-                "longitude": "20.895578",
-                "altitudeOverSea": "1114",
-                "altitudeOverGround": "12"
-            },
-            "activationInt": "16777216",
-            "activation": "UNKNOWN",
-            "trxPower": "10.00",
-            "operator": "SQ9ATC",
-            "remarks": "Ant: Diamond X-50 2 x Motorola GM340 - 70cm 1 x Motorola CM140 - 2m",
-            "link": [
-                "http://przemienniki.net/przemienniki/2m/SR9UVJ-C",
-                "http://www.sr9uvj.pl",
-                "http://www.ircddb.net/"
-            ],
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/8996810"
         },
         "SR9UVL": {
             "qra": "SR9UVL",
