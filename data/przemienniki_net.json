@@ -5,8 +5,8 @@
         },
         "http://przemienniki.net"
     ],
-    "updated": "2025-01-06 04:18:26",
-    "generated": "2025-01-06 13:22:24",
+    "updated": "2025-01-06 16:09:36",
+    "generated": "2025-01-07 13:22:11",
     "generator": "przemienniki.net v.2.12.0 (2019/02/04)",
     "dictionary": {
         "item": [
@@ -17437,9 +17437,9 @@
             "id": "9045167",
             "hash": null,
             "created": "2020-08-22 19:47:43",
-            "updated": "2020-09-09 18:41:56",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2025-01-06 16:09:36",
+            "statusInt": "2",
+            "status": "DISABLED",
             "licenseExpiryDate": "2023-03-07",
             "modeInt": "4",
             "mode": "FM",

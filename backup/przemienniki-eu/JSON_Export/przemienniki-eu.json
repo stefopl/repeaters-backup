@@ -17,7 +17,7 @@
             52.51452,
             21.068521
         ],
-        "qth": "Serock"
+        "qth": ""
     },
     {
         "callsign": "SR0DN",
@@ -36,7 +36,7 @@
             51.916059,
             21.550892
         ],
-        "qth": "Wola Rebkowska"
+        "qth": ""
     },
     {
         "callsign": "SR0DZ",
@@ -56,7 +56,7 @@
             52.500185,
             21.060421
         ],
-        "qth": "Serock"
+        "qth": ""
     },
     {
         "callsign": "SR0WW",
@@ -75,7 +75,7 @@
             53.844838,
             14.615891
         ],
-        "qth": "Wolin"
+        "qth": ""
     },
     {
         "callsign": "SR1ASR",
@@ -94,7 +94,7 @@
             53.456806,
             14.547729
         ],
-        "qth": "Szczecin"
+        "qth": ""
     },
     {
         "callsign": "SR1CH",
@@ -113,7 +113,7 @@
             0,
             0
         ],
-        "qth": "Czartoryja"
+        "qth": ""
     },
     {
         "callsign": "SR1CZ",
@@ -132,7 +132,7 @@
             53.547541,
             16.233773
         ],
-        "qth": "Czaplinek"
+        "qth": ""
     },
     {
         "callsign": "SR1D",
@@ -151,7 +151,7 @@
             52.737737,
             14.705231
         ],
-        "qth": "Debno"
+        "qth": ""
     },
     {
         "callsign": "SR1DMR",
@@ -170,7 +170,7 @@
             54.124488,
             16.685599
         ],
-        "qth": "Polanow"
+        "qth": ""
     },
     {
         "callsign": "SR1G",
@@ -190,7 +190,7 @@
             54.178284,
             15.553207
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR1K",
@@ -209,7 +209,7 @@
             53.342431,
             15.024889
         ],
-        "qth": "Stargard"
+        "qth": ""
     },
     {
         "callsign": "SR1KG",
@@ -229,7 +229,7 @@
             54.178284,
             15.553207
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR1KN",
@@ -248,7 +248,7 @@
             54.207675,
             16.225714
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR1LS",
@@ -267,7 +267,7 @@
             53.435441,
             14.539579
         ],
-        "qth": "Szczecin"
+        "qth": ""
     },
     {
         "callsign": "SR1N",
@@ -286,7 +286,7 @@
             54.20258,
             16.177512
         ],
-        "qth": "Koszalin"
+        "qth": ""
     },
     {
         "callsign": "SR1P",
@@ -306,7 +306,7 @@
             0,
             0
         ],
-        "qth": "Postomino"
+        "qth": ""
     },
     {
         "callsign": "SR1RE",
@@ -325,7 +325,7 @@
             53.772662,
             15.406737
         ],
-        "qth": "Resko"
+        "qth": ""
     },
     {
         "callsign": "SR1RG",
@@ -344,7 +344,7 @@
             54.053464,
             15.256868
         ],
-        "qth": "Trzebiatow"
+        "qth": ""
     },
     {
         "callsign": "SR1S",
@@ -363,7 +363,7 @@
             53.458827,
             14.535034
         ],
-        "qth": "Szczecin"
+        "qth": ""
     },
     {
         "callsign": "SR1SZ",
@@ -382,7 +382,7 @@
             53.458827,
             14.535034
         ],
-        "qth": "Szczecin"
+        "qth": ""
     },
     {
         "callsign": "SR1TET",
@@ -401,7 +401,7 @@
             53.3425,
             15.0252
         ],
-        "qth": "Stargard"
+        "qth": ""
     },
     {
         "callsign": "SR1TS",
@@ -420,7 +420,7 @@
             53.458827,
             14.535034
         ],
-        "qth": "Szczecin"
+        "qth": ""
     },
     {
         "callsign": "SR1UVH",
@@ -439,7 +439,7 @@
             53.909623,
             14.254937
         ],
-        "qth": "Swinoujscie"
+        "qth": ""
     },
     {
         "callsign": "SR1UVS",
@@ -458,7 +458,7 @@
             53.435441,
             14.539579
         ],
-        "qth": "Szczecin"
+        "qth": ""
     },
     {
         "callsign": "SR1UVX",
@@ -477,7 +477,7 @@
             53.342431,
             15.024889
         ],
-        "qth": "Stargard"
+        "qth": ""
     },
     {
         "callsign": "SR1W",
@@ -497,7 +497,7 @@
             53.909511,
             14.254612
         ],
-        "qth": "Swinoujscie"
+        "qth": ""
     },
     {
         "callsign": "SR1W",
@@ -517,7 +517,7 @@
             53.909511,
             14.254612
         ],
-        "qth": "Swinoujscie"
+        "qth": ""
     },
     {
         "callsign": "SR1WA",
@@ -536,7 +536,7 @@
             53.278012,
             16.48346
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR1WAD",
@@ -556,7 +556,7 @@
             53.278132,
             16.483364
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR1WOY",
@@ -575,7 +575,7 @@
             54.179524,
             15.56913
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR1WR",
@@ -594,7 +594,7 @@
             53.947183,
             15.53354
         ],
-        "qth": "Ryman"
+        "qth": ""
     },
     {
         "callsign": "SR1WU",
@@ -613,7 +613,7 @@
             53.907989,
             14.246773
         ],
-        "qth": "Swinoujscie"
+        "qth": ""
     },
     {
         "callsign": "SR1WX",
@@ -632,7 +632,7 @@
             53.341126,
             15.039536
         ],
-        "qth": "Stargard"
+        "qth": ""
     },
     {
         "callsign": "SR1YWX",
@@ -651,7 +651,7 @@
             53.339449,
             15.008799
         ],
-        "qth": "Stargard"
+        "qth": ""
     },
     {
         "callsign": "SR1Z",
@@ -670,7 +670,7 @@
             53.334105,
             14.67537
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR1ZDR",
@@ -689,7 +689,7 @@
             53.301882,
             15.908961
         ],
-        "qth": "Kalisz Pomorski"
+        "qth": ""
     },
     {
         "callsign": "SR1ZK-B",
@@ -708,7 +708,7 @@
             53.334105,
             14.67537
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR1ZW",
@@ -728,7 +728,7 @@
             53.909511,
             14.254612
         ],
-        "qth": "Swinoujscie"
+        "qth": ""
     },
     {
         "callsign": "SR23BN",
@@ -748,7 +748,7 @@
             50.307487,
             19.12194
         ],
-        "qth": "Bedzin"
+        "qth": ""
     },
     {
         "callsign": "SR23CM",
@@ -767,7 +767,7 @@
             0,
             0
         ],
-        "qth": "Skrzyczne"
+        "qth": ""
     },
     {
         "callsign": "SR2BC",
@@ -787,7 +787,7 @@
             53.130098,
             17.945776
         ],
-        "qth": "Bydgoszcz"
+        "qth": ""
     },
     {
         "callsign": "SR2BD",
@@ -806,7 +806,7 @@
             53.112533,
             18.038706
         ],
-        "qth": "Bydgoszcz"
+        "qth": ""
     },
     {
         "callsign": "SR2BG",
@@ -825,7 +825,7 @@
             53.113086,
             18.038022
         ],
-        "qth": "Bydgoszcz"
+        "qth": ""
     },
     {
         "callsign": "SR2BT",
@@ -844,7 +844,7 @@
             53.543337,
             18.06983
         ],
-        "qth": "Bory Tucholskie"
+        "qth": ""
     },
     {
         "callsign": "SR2BW",
@@ -863,7 +863,7 @@
             54.181,
             17.49345
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2BY",
@@ -882,7 +882,7 @@
             53.10927,
             17.990141
         ],
-        "qth": "Bydgoszcz"
+        "qth": ""
     },
     {
         "callsign": "SR2C",
@@ -901,7 +901,7 @@
             54.452753,
             18.435949
         ],
-        "qth": "Chwaszczyno EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR2D",
@@ -920,7 +920,7 @@
             0,
             0
         ],
-        "qth": "Gdansk"
+        "qth": ""
     },
     {
         "callsign": "SR2DCH",
@@ -939,7 +939,7 @@
             53.660436,
             17.379398
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2DMR",
@@ -958,7 +958,7 @@
             52.919733,
             17.836519
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2DMR-C",
@@ -977,7 +977,7 @@
             52.919733,
             17.836519
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2EL",
@@ -998,7 +998,7 @@
             54.138022,
             19.456066
         ],
-        "qth": "Elblag"
+        "qth": ""
     },
     {
         "callsign": "SR2FM",
@@ -1018,7 +1018,7 @@
             52.919733,
             17.836519
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2G",
@@ -1037,7 +1037,7 @@
             54.34704,
             18.665793
         ],
-        "qth": "Gdansk"
+        "qth": ""
     },
     {
         "callsign": "SR2GA",
@@ -1057,7 +1057,7 @@
             54.777673,
             18.413129
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2GD",
@@ -1076,7 +1076,7 @@
             54.34704,
             18.665793
         ],
-        "qth": "Gdansk"
+        "qth": ""
     },
     {
         "callsign": "SR2GD",
@@ -1095,7 +1095,7 @@
             54.34704,
             18.665793
         ],
-        "qth": "Gdansk"
+        "qth": ""
     },
     {
         "callsign": "SR2GD-C",
@@ -1116,7 +1116,7 @@
             54.34704,
             18.665793
         ],
-        "qth": "Gdansk"
+        "qth": ""
     },
     {
         "callsign": "SR2GDA",
@@ -1137,7 +1137,7 @@
             53.7469812,
             18.6755997
         ],
-        "qth": "Smetowo Graniczne"
+        "qth": ""
     },
     {
         "callsign": "SR2GDD",
@@ -1156,7 +1156,7 @@
             54.354307,
             18.718538
         ],
-        "qth": "Gdansk"
+        "qth": ""
     },
     {
         "callsign": "SR2GN",
@@ -1175,7 +1175,7 @@
             54.718116,
             18.052215
         ],
-        "qth": "Gniewino - Wieza widokowa"
+        "qth": ""
     },
     {
         "callsign": "SR2GR",
@@ -1196,7 +1196,7 @@
             53.48156,
             18.75563
         ],
-        "qth": "Grudziadz"
+        "qth": ""
     },
     {
         "callsign": "SR2GS",
@@ -1215,7 +1215,7 @@
             54.452753,
             18.435949
         ],
-        "qth": "Chwaszczyno"
+        "qth": ""
     },
     {
         "callsign": "SR2GT",
@@ -1235,7 +1235,7 @@
             54.452753,
             18.435949
         ],
-        "qth": "Chwaszczyno EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR2IN",
@@ -1255,7 +1255,7 @@
             52.79399974800632,
             18.260815626300076
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2J",
@@ -1274,7 +1274,7 @@
             52.919733,
             17.836519
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2JJ",
@@ -1293,7 +1293,7 @@
             52.919733,
             17.836519
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2K",
@@ -1312,7 +1312,7 @@
             53.042635,
             18.62559
         ],
-        "qth": "Torun"
+        "qth": ""
     },
     {
         "callsign": "SR2KU",
@@ -1332,7 +1332,7 @@
             54.209874,
             18.111871
         ],
-        "qth": "Wiezyca"
+        "qth": ""
     },
     {
         "callsign": "SR2KY",
@@ -1351,7 +1351,7 @@
             53.71013,
             18.955103
         ],
-        "qth": "Kwidzyn"
+        "qth": ""
     },
     {
         "callsign": "SR2MAL",
@@ -1370,7 +1370,7 @@
             54.039803,
             19.033037
         ],
-        "qth": "Malbork"
+        "qth": ""
     },
     {
         "callsign": "SR2OK",
@@ -1389,7 +1389,7 @@
             54.545013,
             18.535907
         ],
-        "qth": "Gdynia-Oksywie EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR2OX",
@@ -1408,7 +1408,7 @@
             54.550543,
             18.537683
         ],
-        "qth": "Gdynia"
+        "qth": ""
     },
     {
         "callsign": "SR2PA",
@@ -1429,7 +1429,7 @@
             54.065486,
             19.659217
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2PB",
@@ -1450,7 +1450,7 @@
             53.242992,
             19.394201
         ],
-        "qth": "Brodnica"
+        "qth": ""
     },
     {
         "callsign": "SR2R",
@@ -1469,7 +1469,7 @@
             0,
             0
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2RR",
@@ -1488,7 +1488,7 @@
             52.803414,
             18.271496
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2SL",
@@ -1508,7 +1508,7 @@
             54.462977,
             16.986933
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2SWR",
@@ -1528,7 +1528,7 @@
             53.017158,
             18.601855
         ],
-        "qth": "Torun"
+        "qth": ""
     },
     {
         "callsign": "SR2T",
@@ -1547,7 +1547,7 @@
             53.025586,
             18.688461
         ],
-        "qth": "Torun"
+        "qth": ""
     },
     {
         "callsign": "SR2UVF",
@@ -1568,7 +1568,7 @@
             53.142333,
             18.134742
         ],
-        "qth": "Bydgoszcz"
+        "qth": ""
     },
     {
         "callsign": "SR2UVG",
@@ -1587,7 +1587,7 @@
             54.452753,
             18.435949
         ],
-        "qth": "Chwaszczyno EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR2UVG-B",
@@ -1606,14 +1606,12 @@
             54.452753,
             18.435949
         ],
-        "qth": "Chwaszczyno EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR2UVO",
         "modes": [
-            "dstar",
-            "dmr",
-            "c4fm"
+            "dmr"
         ],
         "tx_frequency": 438.9625,
         "tx_ctcss": false,
@@ -1627,7 +1625,7 @@
             52.64211,
             19.05158
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2UVT-C",
@@ -1646,7 +1644,7 @@
             0,
             0
         ],
-        "qth": "Tuchola"
+        "qth": ""
     },
     {
         "callsign": "SR2UVV-B",
@@ -1665,7 +1663,7 @@
             52.919733,
             17.836519
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2VV",
@@ -1685,7 +1683,7 @@
             53.016123980923346,
             17.762767069150588
         ],
-        "qth": "Szubin"
+        "qth": ""
     },
     {
         "callsign": "SR2VV-B",
@@ -1704,7 +1702,7 @@
             53.016054,
             17.762658
         ],
-        "qth": "Szubin"
+        "qth": ""
     },
     {
         "callsign": "SR2VVV",
@@ -1724,7 +1722,7 @@
             53.016054,
             17.762658
         ],
-        "qth": "Szubin"
+        "qth": ""
     },
     {
         "callsign": "SR2VVV-B",
@@ -1743,26 +1741,26 @@
             53.016054,
             17.762658
         ],
-        "qth": "Szubin"
+        "qth": ""
     },
     {
         "callsign": "SR2W",
         "modes": [
             "fm"
         ],
-        "tx_frequency": 145.7375,
-        "tx_ctcss": 82.5,
-        "rx_frequency": 145.1375,
+        "tx_frequency": 439.025,
+        "tx_ctcss": false,
+        "rx_frequency": 431.425,
         "rx_ctcss": 82.5,
         "rx_1750": false,
         "duplex": "-",
-        "offset": 0.6,
-        "status": "off",
+        "offset": 7.6,
+        "status": "working",
         "coordinates": [
             52.665735,
             19.049512
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2WE",
@@ -1781,7 +1779,7 @@
             54.590756,
             18.22903
         ],
-        "qth": "Wejherowo"
+        "qth": ""
     },
     {
         "callsign": "SR2WL",
@@ -1795,12 +1793,12 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "working",
+        "status": "off",
         "coordinates": [
             52.665735,
             19.049512
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR2Z",
@@ -1819,7 +1817,7 @@
             54.545013,
             18.535907
         ],
-        "qth": "Gdynia-Oksywie EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR3DAB",
@@ -1838,7 +1836,7 @@
             52.1261,
             18.8562
         ],
-        "qth": "Zalesie"
+        "qth": ""
     },
     {
         "callsign": "SR3DAB",
@@ -1858,7 +1856,7 @@
             52.1261,
             18.8562
         ],
-        "qth": "Zalesie"
+        "qth": ""
     },
     {
         "callsign": "SR3DAB",
@@ -1877,7 +1875,7 @@
             52.1261,
             18.8562
         ],
-        "qth": "Zalesie"
+        "qth": ""
     },
     {
         "callsign": "SR3DGW",
@@ -1896,7 +1894,7 @@
             52.744249,
             15.280424
         ],
-        "qth": "Gorzow Wielkopolski"
+        "qth": ""
     },
     {
         "callsign": "SR3DJ",
@@ -1915,7 +1913,7 @@
             52.346795,
             15.276266
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR3DMR",
@@ -1934,7 +1932,7 @@
             52.459156,
             16.905933
         ],
-        "qth": "Poznan"
+        "qth": ""
     },
     {
         "callsign": "SR3DOS",
@@ -1955,7 +1953,7 @@
             51.659738,
             17.79778
         ],
-        "qth": "Ostrow Wielkopolski"
+        "qth": ""
     },
     {
         "callsign": "SR3DRW",
@@ -1974,7 +1972,7 @@
             51.60944,
             16.867769
         ],
-        "qth": "Rawicz"
+        "qth": ""
     },
     {
         "callsign": "SR3DSE",
@@ -1993,7 +1991,7 @@
             52.086156,
             17.022016
         ],
-        "qth": "Srem"
+        "qth": ""
     },
     {
         "callsign": "SR3DZG",
@@ -2012,7 +2010,7 @@
             51.93551,
             15.527107
         ],
-        "qth": "Zielona Gora"
+        "qth": ""
     },
     {
         "callsign": "SR3G",
@@ -2031,7 +2029,7 @@
             52.732269,
             15.211474
         ],
-        "qth": "Gorzow Wielkopolski"
+        "qth": ""
     },
     {
         "callsign": "SR3GO",
@@ -2050,7 +2048,7 @@
             52.732269,
             15.211474
         ],
-        "qth": "Gorzow Wielkopolski"
+        "qth": ""
     },
     {
         "callsign": "SR3GW",
@@ -2069,7 +2067,7 @@
             52.740422,
             15.277767
         ],
-        "qth": "Gorzow Wielkopolski - lokalny"
+        "qth": ""
     },
     {
         "callsign": "SR3J",
@@ -2089,7 +2087,7 @@
             52.346795,
             15.276266
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR3JA",
@@ -2109,7 +2107,7 @@
             51.967538,
             17.498297
         ],
-        "qth": "Jarocin, ul. Kosciuszki 43"
+        "qth": ""
     },
     {
         "callsign": "SR3K",
@@ -2128,7 +2126,7 @@
             51.763809,
             18.081964
         ],
-        "qth": "Kalisz"
+        "qth": ""
     },
     {
         "callsign": "SR3KA",
@@ -2147,7 +2145,7 @@
             51.958967,
             16.162937
         ],
-        "qth": "Kaszczor"
+        "qth": ""
     },
     {
         "callsign": "SR3KEP",
@@ -2168,7 +2166,7 @@
             51.297605,
             18.00335
         ],
-        "qth": "Kepno"
+        "qth": ""
     },
     {
         "callsign": "SR3KH",
@@ -2187,7 +2185,7 @@
             52.208723,
             18.629383
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR3KHA",
@@ -2206,7 +2204,7 @@
             0,
             0
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR3KRZ",
@@ -2225,7 +2223,7 @@
             51.857324,
             16.842054
         ],
-        "qth": "Krzemieniewo"
+        "qth": ""
     },
     {
         "callsign": "SR3L",
@@ -2244,7 +2242,7 @@
             51.847173,
             16.597824
         ],
-        "qth": "Leszno"
+        "qth": ""
     },
     {
         "callsign": "SR3LS",
@@ -2263,7 +2261,7 @@
             51.847173,
             16.597824
         ],
-        "qth": "Leszno"
+        "qth": ""
     },
     {
         "callsign": "SR3LW",
@@ -2282,7 +2280,7 @@
             52.430375,
             16.195741
         ],
-        "qth": "Lwowek"
+        "qth": ""
     },
     {
         "callsign": "SR3MDV",
@@ -2321,7 +2319,7 @@
             51.844136,
             16.594246
         ],
-        "qth": "Leszno"
+        "qth": ""
     },
     {
         "callsign": "SR3N",
@@ -2340,7 +2338,7 @@
             53.146203,
             16.71503
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR3O",
@@ -2359,7 +2357,7 @@
             51.64643,
             17.819217
         ],
-        "qth": "Ostrow Wielkopolski"
+        "qth": ""
     },
     {
         "callsign": "SR3OS",
@@ -2378,7 +2376,7 @@
             51.64643,
             17.819217
         ],
-        "qth": "Ostrow Wielkopolski"
+        "qth": ""
     },
     {
         "callsign": "SR3OW",
@@ -2397,7 +2395,7 @@
             0,
             0
         ],
-        "qth": "Ostrow WLKp"
+        "qth": ""
     },
     {
         "callsign": "SR3P",
@@ -2416,7 +2414,7 @@
             52.371322,
             16.908054
         ],
-        "qth": "Poznan - Debiec"
+        "qth": ""
     },
     {
         "callsign": "SR3PB",
@@ -2435,7 +2433,7 @@
             52.476886,
             17.279806
         ],
-        "qth": "Pobiedziska"
+        "qth": ""
     },
     {
         "callsign": "SR3PI",
@@ -2454,7 +2452,7 @@
             0,
             0
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR3PO",
@@ -2473,7 +2471,7 @@
             52.459156,
             16.905933
         ],
-        "qth": "Poznan"
+        "qth": ""
     },
     {
         "callsign": "SR3PO",
@@ -2492,7 +2490,7 @@
             52.459156,
             16.905933
         ],
-        "qth": "Poznan"
+        "qth": ""
     },
     {
         "callsign": "SR3PX",
@@ -2511,7 +2509,7 @@
             52.681328,
             16.945813
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR3RR",
@@ -2530,7 +2528,7 @@
             51.605659,
             16.860366
         ],
-        "qth": "Rawicz"
+        "qth": ""
     },
     {
         "callsign": "SR3SN",
@@ -2550,7 +2548,7 @@
             52.2444,
             15.4992
         ],
-        "qth": "Swiebodzin"
+        "qth": ""
     },
     {
         "callsign": "SR3T",
@@ -2569,7 +2567,7 @@
             51.961434,
             18.414342
         ],
-        "qth": "Malanow"
+        "qth": ""
     },
     {
         "callsign": "SR3TU",
@@ -2588,7 +2586,7 @@
             0,
             0
         ],
-        "qth": "Turek"
+        "qth": ""
     },
     {
         "callsign": "SR3UVJ",
@@ -2607,7 +2605,7 @@
             52.346795,
             15.276266
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR3UVL",
@@ -2626,7 +2624,7 @@
             51.844136,
             16.594246
         ],
-        "qth": "Leszno"
+        "qth": ""
     },
     {
         "callsign": "SR3UVP",
@@ -2645,7 +2643,7 @@
             52.459156,
             16.905933
         ],
-        "qth": "Poznan"
+        "qth": ""
     },
     {
         "callsign": "SR3WT",
@@ -2664,7 +2662,7 @@
             52.11856,
             16.116998
         ],
-        "qth": "Wolsztyn"
+        "qth": ""
     },
     {
         "callsign": "SR3X",
@@ -2683,7 +2681,7 @@
             52.459156,
             16.905933
         ],
-        "qth": "Poznan"
+        "qth": ""
     },
     {
         "callsign": "SR3XX",
@@ -2703,7 +2701,7 @@
             52.459156,
             16.905933
         ],
-        "qth": "Poznan"
+        "qth": ""
     },
     {
         "callsign": "SR3XXX",
@@ -2723,7 +2721,7 @@
             52.117304,
             16.98422
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR3Z",
@@ -2742,7 +2740,7 @@
             51.935511,
             15.527107
         ],
-        "qth": "Zielona Gora"
+        "qth": ""
     },
     {
         "callsign": "SR3ZBZ",
@@ -2762,7 +2760,7 @@
             52.998288,
             16.906704
         ],
-        "qth": "Chodziez"
+        "qth": ""
     },
     {
         "callsign": "SR3ZF",
@@ -2781,7 +2779,7 @@
             51.92698,
             15.488042
         ],
-        "qth": "Zielona Gora"
+        "qth": ""
     },
     {
         "callsign": "SR3ZG",
@@ -2800,7 +2798,7 @@
             51.92698,
             15.488042
         ],
-        "qth": "Zielona Gora"
+        "qth": ""
     },
     {
         "callsign": "SR3ZJ",
@@ -2819,7 +2817,7 @@
             52.346301,
             15.275602
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR3ZX",
@@ -2839,7 +2837,7 @@
             51.935511,
             15.527107
         ],
-        "qth": "Zielona Gora"
+        "qth": ""
     },
     {
         "callsign": "SR4ALL",
@@ -2858,7 +2856,7 @@
             53.636169,
             19.460143
         ],
-        "qth": "Zabrowo"
+        "qth": ""
     },
     {
         "callsign": "SR4AUU",
@@ -2877,7 +2875,7 @@
             53.840818,
             22.986185
         ],
-        "qth": "Augustow"
+        "qth": ""
     },
     {
         "callsign": "SR4AUV",
@@ -2896,7 +2894,7 @@
             53.836155,
             23.004719
         ],
-        "qth": "KO13MV"
+        "qth": ""
     },
     {
         "callsign": "SR4BA",
@@ -2917,7 +2915,7 @@
             54.301463334068785,
             20.75370922731756
         ],
-        "qth": "Bartoszyce"
+        "qth": ""
     },
     {
         "callsign": "SR4BAU",
@@ -2936,7 +2934,7 @@
             53.837154,
             22.97915
         ],
-        "qth": "Augustow"
+        "qth": ""
     },
     {
         "callsign": "SR4BI",
@@ -2957,7 +2955,7 @@
             53.015542,
             23.135219
         ],
-        "qth": "Juchnowiec"
+        "qth": ""
     },
     {
         "callsign": "SR4BIA",
@@ -2976,7 +2974,7 @@
             53.107935,
             23.184082
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4BK",
@@ -2995,7 +2993,7 @@
             53.11948,
             23.152
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4BL",
@@ -3014,7 +3012,7 @@
             53.172613,
             22.039165
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4BS",
@@ -3034,7 +3032,7 @@
             53.132887,
             23.138298
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4BSK",
@@ -3053,7 +3051,7 @@
             0,
             0
         ],
-        "qth": "Sokolka"
+        "qth": ""
     },
     {
         "callsign": "SR4C4FM",
@@ -3072,7 +3070,7 @@
             0,
             0
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4D",
@@ -3092,7 +3090,7 @@
             53.937727,
             21.844764
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4DG",
@@ -3111,7 +3109,7 @@
             53.549375,
             19.940454
         ],
-        "qth": "Gora Dylewska EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR4DGD",
@@ -3130,7 +3128,7 @@
             53.549375,
             19.940454
         ],
-        "qth": "Gora Dylewska EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR4DGT",
@@ -3150,7 +3148,7 @@
             53.549375,
             19.940454
         ],
-        "qth": "Gora Dylewska EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR4DM",
@@ -3170,7 +3168,7 @@
             53.931698255447344,
             20.49833329802923
         ],
-        "qth": "Dobre Miasto"
+        "qth": ""
     },
     {
         "callsign": "SR4DMR",
@@ -3189,7 +3187,7 @@
             53.815738,
             22.375785
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4DX",
@@ -3208,7 +3206,7 @@
             54.060989,
             19.618992
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4EL",
@@ -3228,7 +3226,7 @@
             54.189015,
             19.394187
         ],
-        "qth": "Elblag"
+        "qth": ""
     },
     {
         "callsign": "SR4FSK",
@@ -3248,7 +3246,7 @@
             53.635713,
             22.467744
         ],
-        "qth": "Grajewo"
+        "qth": ""
     },
     {
         "callsign": "SR4H",
@@ -3268,7 +3266,7 @@
             0,
             0
         ],
-        "qth": "Hajnowka"
+        "qth": ""
     },
     {
         "callsign": "SR4J",
@@ -3288,7 +3286,7 @@
             53.549375,
             19.940454
         ],
-        "qth": "Gora Dylewska EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR4KT",
@@ -3307,7 +3305,7 @@
             54.08155,
             21.370446
         ],
-        "qth": "Ketrzyn"
+        "qth": ""
     },
     {
         "callsign": "SR4L",
@@ -3328,7 +3326,7 @@
             53.183005,
             22.052192
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4LDG",
@@ -3347,7 +3345,7 @@
             53.549375,
             19.940454
         ],
-        "qth": "Gora Dylewska EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR4LG",
@@ -3367,7 +3365,7 @@
             53.129161,
             22.080552
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4LIN",
@@ -3386,7 +3384,7 @@
             53.7906638,
             19.5364853
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4LM",
@@ -3405,7 +3403,7 @@
             53.937727,
             21.844764
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4LO",
@@ -3424,7 +3422,7 @@
             53.159484,
             22.091746
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4LU",
@@ -3445,7 +3443,7 @@
             53.47835242737452,
             19.76466855382814
         ],
-        "qth": "Lubawa"
+        "qth": ""
     },
     {
         "callsign": "SR4M",
@@ -3465,7 +3463,7 @@
             53.937727,
             21.844764
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4MI",
@@ -3485,7 +3483,7 @@
             53.937727,
             21.844764
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4MID",
@@ -3504,7 +3502,7 @@
             53.937727,
             21.844764
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4MIT",
@@ -3523,7 +3521,7 @@
             53.937727,
             21.844764
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4MO",
@@ -3544,7 +3542,7 @@
             53.913509,
             19.928902
         ],
-        "qth": "Morag"
+        "qth": ""
     },
     {
         "callsign": "SR4MR",
@@ -3563,7 +3561,7 @@
             53.864468,
             21.296859
         ],
-        "qth": "Mragowo - wieza cisnien wodociagow"
+        "qth": ""
     },
     {
         "callsign": "SR4MWO",
@@ -3585,7 +3583,7 @@
             53.866333,
             21.285911
         ],
-        "qth": "Mragowo"
+        "qth": ""
     },
     {
         "callsign": "SR4O",
@@ -3604,7 +3602,7 @@
             53.773118,
             20.51332
         ],
-        "qth": "Olsztyn"
+        "qth": ""
     },
     {
         "callsign": "SR4OE",
@@ -3624,7 +3622,7 @@
             54.035498,
             22.500114
         ],
-        "qth": "Olecko"
+        "qth": ""
     },
     {
         "callsign": "SR4OEX",
@@ -3643,7 +3641,7 @@
             54.025626,
             22.492029
         ],
-        "qth": "Olecko"
+        "qth": ""
     },
     {
         "callsign": "SR4ON",
@@ -3663,7 +3661,7 @@
             53.770592,
             20.490134
         ],
-        "qth": "Olsztyn"
+        "qth": ""
     },
     {
         "callsign": "SR4OND",
@@ -3682,7 +3680,7 @@
             53.770592,
             20.490134
         ],
-        "qth": "Olsztyn"
+        "qth": ""
     },
     {
         "callsign": "SR4ONT",
@@ -3701,7 +3699,7 @@
             53.773118,
             20.51332
         ],
-        "qth": "Olsztyn"
+        "qth": ""
     },
     {
         "callsign": "SR4ONX",
@@ -3722,7 +3720,7 @@
             53.773118,
             20.51332
         ],
-        "qth": "Olsztyn"
+        "qth": ""
     },
     {
         "callsign": "SR4OS",
@@ -3743,7 +3741,7 @@
             53.691595,
             19.96897
         ],
-        "qth": "Ostroda"
+        "qth": ""
     },
     {
         "callsign": "SR4PA",
@@ -3762,7 +3760,7 @@
             54.056859,
             19.65798
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4PA",
@@ -3782,7 +3780,7 @@
             54.025593386753364,
             19.69471146919766
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4PL",
@@ -3802,7 +3800,7 @@
             0,
             0
         ],
-        "qth": "Podlesna"
+        "qth": ""
     },
     {
         "callsign": "SR4RS",
@@ -3821,7 +3819,7 @@
             53.134117,
             23.172523
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4S",
@@ -3840,7 +3838,7 @@
             53.409137,
             23.484552
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4SA",
@@ -3859,7 +3857,7 @@
             53.409137,
             23.484552
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4SN",
@@ -3881,7 +3879,7 @@
             53.564684,
             21.00016
         ],
-        "qth": "Szczytno"
+        "qth": ""
     },
     {
         "callsign": "SR4ST",
@@ -3902,7 +3900,7 @@
             53.813,
             19.625
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4SU",
@@ -3922,7 +3920,7 @@
             54.196059,
             22.872801
         ],
-        "qth": "Jeleniewo"
+        "qth": ""
     },
     {
         "callsign": "SR4SUU",
@@ -3941,7 +3939,7 @@
             54.098344,
             22.924715
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4SUW",
@@ -3961,7 +3959,7 @@
             54.1213,
             22.947
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4SW",
@@ -3981,7 +3979,7 @@
             53.563494,
             21.219062
         ],
-        "qth": "Swietajno"
+        "qth": ""
     },
     {
         "callsign": "SR4SWE",
@@ -4000,7 +3998,7 @@
             53.563494,
             21.219062
         ],
-        "qth": "Swietajno"
+        "qth": ""
     },
     {
         "callsign": "SR4U",
@@ -4019,7 +4017,7 @@
             53.108847,
             23.121939
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4UBI",
@@ -4039,7 +4037,7 @@
             53.132887,
             23.138298
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4UG",
@@ -4060,7 +4058,7 @@
             0,
             0
         ],
-        "qth": "Giby"
+        "qth": ""
     },
     {
         "callsign": "SR4UVD",
@@ -4079,7 +4077,7 @@
             53.549375,
             19.940454
         ],
-        "qth": "Gora Dylewska EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR4UVE",
@@ -4099,7 +4097,7 @@
             54.047551,
             19.62193
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4UVM",
@@ -4118,7 +4116,7 @@
             53.937727,
             21.844764
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR4UVN",
@@ -4138,7 +4136,7 @@
             53.770592,
             20.490134
         ],
-        "qth": "Olsztyn"
+        "qth": ""
     },
     {
         "callsign": "SR4WA",
@@ -4159,7 +4157,7 @@
             53.438,
             19.458
         ],
-        "qth": "Wawrowice"
+        "qth": ""
     },
     {
         "callsign": "SR4X",
@@ -4179,7 +4177,7 @@
             53.015657,
             23.135085
         ],
-        "qth": "Juchnowiec"
+        "qth": ""
     },
     {
         "callsign": "SR5AWK",
@@ -4199,7 +4197,7 @@
             52.13117,
             21.055902
         ],
-        "qth": "Warszawa"
+        "qth": ""
     },
     {
         "callsign": "SR5CI",
@@ -4218,7 +4216,7 @@
             52.88445,
             20.602777
         ],
-        "qth": "Ciechanow"
+        "qth": ""
     },
     {
         "callsign": "SR5DMR",
@@ -4237,7 +4235,7 @@
             52.980992,
             20.677636
         ],
-        "qth": "06-461 Koziczyn 46"
+        "qth": ""
     },
     {
         "callsign": "SR5DMRC",
@@ -4256,7 +4254,7 @@
             52.981,
             20.677617
         ],
-        "qth": "06-461 Koziczyn 46"
+        "qth": ""
     },
     {
         "callsign": "SR5DV",
@@ -4297,7 +4295,7 @@
             51.408264,
             21.113534
         ],
-        "qth": "RADOM - maszt Emitel"
+        "qth": ""
     },
     {
         "callsign": "SR5E",
@@ -4316,7 +4314,7 @@
             52.215502,
             20.97256
         ],
-        "qth": "Warszawa-Ochota, ul. Czestochowska"
+        "qth": ""
     },
     {
         "callsign": "SR5ECHO",
@@ -4335,7 +4333,7 @@
             52.188,
             20.875
         ],
-        "qth": "Warszawa"
+        "qth": ""
     },
     {
         "callsign": "SR5ECHO",
@@ -4354,7 +4352,7 @@
             52.188,
             20.875
         ],
-        "qth": "WARSZAWA"
+        "qth": ""
     },
     {
         "callsign": "SR5FUS",
@@ -4373,7 +4371,7 @@
             51.421913,
             21.163807
         ],
-        "qth": "Radom"
+        "qth": ""
     },
     {
         "callsign": "SR5FWG",
@@ -4393,7 +4391,7 @@
             51.901273,
             21.614472
         ],
-        "qth": "Garwolin"
+        "qth": ""
     },
     {
         "callsign": "SR5GM",
@@ -4412,7 +4410,7 @@
             0,
             0
         ],
-        "qth": "Grodzisk Mazowiecki"
+        "qth": ""
     },
     {
         "callsign": "SR5GR",
@@ -4431,7 +4429,7 @@
             51.865339,
             20.869367
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5ID",
@@ -4451,7 +4449,7 @@
             52.101806,
             21.811093
         ],
-        "qth": "Kuflew"
+        "qth": ""
     },
     {
         "callsign": "SR5KAB",
@@ -4470,7 +4468,7 @@
             52.219587,
             21.017187
         ],
-        "qth": "Warszawa"
+        "qth": ""
     },
     {
         "callsign": "SR5KO",
@@ -4490,7 +4488,7 @@
             51.561205,
             21.56698
         ],
-        "qth": "Kozienice"
+        "qth": ""
     },
     {
         "callsign": "SR5KP",
@@ -4509,7 +4507,7 @@
             52.175313,
             20.742929
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5KPN",
@@ -4529,7 +4527,7 @@
             52.29863,
             20.530593
         ],
-        "qth": "Zamczysko"
+        "qth": ""
     },
     {
         "callsign": "SR5LOM",
@@ -4548,7 +4546,7 @@
             52.34111,
             20.8843
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5LW",
@@ -4567,7 +4565,7 @@
             52.15872,
             20.81788
         ],
-        "qth": "Pruszkow"
+        "qth": ""
     },
     {
         "callsign": "SR5MDV",
@@ -4586,7 +4584,7 @@
             52.177192,
             21.552627
         ],
-        "qth": "Minsk Mazowiecki"
+        "qth": ""
     },
     {
         "callsign": "SR5MM",
@@ -4607,7 +4605,7 @@
             52.177192,
             21.552627
         ],
-        "qth": "Minsk Mazowiecki"
+        "qth": ""
     },
     {
         "callsign": "SR5MS",
@@ -4626,7 +4624,7 @@
             52.425343,
             20.751385
         ],
-        "qth": "Nowy Dwor Mazowiecki"
+        "qth": ""
     },
     {
         "callsign": "SR5ND",
@@ -4645,7 +4643,7 @@
             52.448234,
             20.707103
         ],
-        "qth": "Nowy Dwor Mazowiecki"
+        "qth": ""
     },
     {
         "callsign": "SR5NRD",
@@ -4664,7 +4662,7 @@
             52.480013,
             20.061837
         ],
-        "qth": "Cybulin"
+        "qth": ""
     },
     {
         "callsign": "SR5O",
@@ -4684,7 +4682,7 @@
             53.080352,
             21.569352
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5OK",
@@ -4707,7 +4705,7 @@
             53.23469,
             21.45663
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5OMZ",
@@ -4726,7 +4724,7 @@
             0,
             0
         ],
-        "qth": "Ciechanow"
+        "qth": ""
     },
     {
         "callsign": "SR5OS",
@@ -4747,7 +4745,7 @@
             53.080149,
             21.56918
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5P",
@@ -4766,7 +4764,7 @@
             52.543202,
             19.71592
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5PL",
@@ -4785,7 +4783,7 @@
             52.544455,
             19.719648
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5PLZ",
@@ -4804,7 +4802,7 @@
             52.544962,
             19.719402
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5PN",
@@ -4823,7 +4821,7 @@
             52.61766,
             20.353525
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5POT",
@@ -4842,7 +4840,7 @@
             52.268443,
             21.12563
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5PR",
@@ -4862,7 +4860,7 @@
             52.158506,
             20.817633
         ],
-        "qth": "Pruszkow"
+        "qth": ""
     },
     {
         "callsign": "SR5QDMR",
@@ -4881,7 +4879,7 @@
             52.156559,
             22.276954
         ],
-        "qth": "Siedlce"
+        "qth": ""
     },
     {
         "callsign": "SR5R",
@@ -4900,7 +4898,7 @@
             52.158506,
             20.817633
         ],
-        "qth": "Pruszkow"
+        "qth": ""
     },
     {
         "callsign": "SR5RA",
@@ -4919,7 +4917,7 @@
             51.355087,
             21.099805
         ],
-        "qth": "Radom"
+        "qth": ""
     },
     {
         "callsign": "SR5RAD",
@@ -4939,7 +4937,7 @@
             51.408958,
             21.114788
         ],
-        "qth": "RADOM - maszt Emitel"
+        "qth": ""
     },
     {
         "callsign": "SR5RK",
@@ -4959,7 +4957,7 @@
             51.358587,
             20.572206
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5RR",
@@ -4980,7 +4978,7 @@
             52.178734,
             21.056765
         ],
-        "qth": "Warszawa - Mokotow, ul. Iberyjska"
+        "qth": ""
     },
     {
         "callsign": "SR5S",
@@ -5001,7 +4999,7 @@
             52.178818,
             22.271183
         ],
-        "qth": "Siedlce"
+        "qth": ""
     },
     {
         "callsign": "SR5SE",
@@ -5021,7 +5019,7 @@
             52.178818,
             22.271183
         ],
-        "qth": "Siedlce"
+        "qth": ""
     },
     {
         "callsign": "SR5SQ",
@@ -5040,7 +5038,7 @@
             52.007496,
             20.589476
         ],
-        "qth": "Krze Duze"
+        "qth": ""
     },
     {
         "callsign": "SR5U",
@@ -5059,7 +5057,7 @@
             52.194374,
             20.886109
         ],
-        "qth": "Warszawa Ursus"
+        "qth": ""
     },
     {
         "callsign": "SR5UOS",
@@ -5079,7 +5077,7 @@
             53.080289,
             21.569459
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5UR",
@@ -5098,7 +5096,7 @@
             52.194374,
             20.886109
         ],
-        "qth": "Warszawa Ursus"
+        "qth": ""
     },
     {
         "callsign": "SR5UVA",
@@ -5117,7 +5115,7 @@
             52.268254,
             21.128688
         ],
-        "qth": "Warszawa - komin EC Kaweczyn"
+        "qth": ""
     },
     {
         "callsign": "SR5UVR",
@@ -5136,7 +5134,7 @@
             51.406036,
             21.152552
         ],
-        "qth": "Radom"
+        "qth": ""
     },
     {
         "callsign": "SR5VW",
@@ -5155,7 +5153,7 @@
             52.880556,
             21.400833
         ],
-        "qth": "Rozan EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR5W",
@@ -5175,7 +5173,7 @@
             52.268254,
             21.128688
         ],
-        "qth": "Warszawa - komin EC Kaweczyn"
+        "qth": ""
     },
     {
         "callsign": "SR5WA",
@@ -5194,7 +5192,7 @@
             52.268254,
             21.128688
         ],
-        "qth": "Warszawa - komin EC Kaweczyn"
+        "qth": ""
     },
     {
         "callsign": "SR5WAD",
@@ -5214,7 +5212,7 @@
             52.268254,
             21.128688
         ],
-        "qth": "Warszawa - komin EC Kaweczyn"
+        "qth": ""
     },
     {
         "callsign": "SR5WB",
@@ -5233,7 +5231,7 @@
             52.175313,
             20.742929
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5WC",
@@ -5252,7 +5250,7 @@
             52.175313,
             20.742929
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5WD",
@@ -5272,7 +5270,7 @@
             52.175313,
             20.742929
         ],
-        "qth": "Moszna-Parcela"
+        "qth": ""
     },
     {
         "callsign": "SR5WF",
@@ -5291,7 +5289,7 @@
             52.246944,
             21.086911
         ],
-        "qth": "Warszawa"
+        "qth": ""
     },
     {
         "callsign": "SR5WI",
@@ -5310,7 +5308,7 @@
             52.241419,
             21.098156
         ],
-        "qth": "Warszawa"
+        "qth": ""
     },
     {
         "callsign": "SR5WP",
@@ -5330,7 +5328,7 @@
             52.175313,
             20.742929
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5WU",
@@ -5349,7 +5347,7 @@
             52.150552,
             21.042197
         ],
-        "qth": "Warszawa-Ursynow"
+        "qth": ""
     },
     {
         "callsign": "SR5WW",
@@ -5368,7 +5366,7 @@
             52.268254,
             21.128688
         ],
-        "qth": "Warszawa - Komin EC Kaweczyn"
+        "qth": ""
     },
     {
         "callsign": "SR5WWL",
@@ -5387,7 +5385,7 @@
             52.362126,
             21.138649
         ],
-        "qth": "Marki"
+        "qth": ""
     },
     {
         "callsign": "SR5WZ",
@@ -5406,7 +5404,7 @@
             52.175313,
             20.742929
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR5YAM",
@@ -5427,7 +5425,7 @@
             52.146074,
             20.815292
         ],
-        "qth": "Komorow"
+        "qth": ""
     },
     {
         "callsign": "SR5YM",
@@ -5447,7 +5445,7 @@
             52.146074,
             20.815292
         ],
-        "qth": "Komorow"
+        "qth": ""
     },
     {
         "callsign": "SR5ZIP",
@@ -5466,7 +5464,7 @@
             52.284421,
             20.94239
         ],
-        "qth": "Warszawa"
+        "qth": ""
     },
     {
         "callsign": "SR5ZQ",
@@ -5485,7 +5483,7 @@
             52.007496,
             20.589476
         ],
-        "qth": "Skierniewice"
+        "qth": ""
     },
     {
         "callsign": "SR5ZU",
@@ -5504,7 +5502,7 @@
             53.064381,
             19.885142
         ],
-        "qth": "Zuromin"
+        "qth": ""
     },
     {
         "callsign": "SR6A",
@@ -5523,7 +5521,7 @@
             50.853782,
             17.460431
         ],
-        "qth": "Brzeg"
+        "qth": ""
     },
     {
         "callsign": "SR6AA",
@@ -5543,7 +5541,7 @@
             51.205828,
             16.165898
         ],
-        "qth": "Legnica"
+        "qth": ""
     },
     {
         "callsign": "SR6ACZ",
@@ -5562,7 +5560,7 @@
             51.111545,
             17.060299
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6B",
@@ -5581,7 +5579,7 @@
             50.971612,
             14.940872
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6C",
@@ -5601,7 +5599,7 @@
             51.262989,
             15.564836
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6DA",
@@ -5620,7 +5618,7 @@
             51.077817,
             18.571536
         ],
-        "qth": "Dalachow"
+        "qth": ""
     },
     {
         "callsign": "SR6DJG",
@@ -5639,7 +5637,7 @@
             50.944061,
             15.762719
         ],
-        "qth": "Jezow Sudecki"
+        "qth": ""
     },
     {
         "callsign": "SR6DKB",
@@ -5658,7 +5656,7 @@
             50.48804,
             17.969138
         ],
-        "qth": "Krapkowice"
+        "qth": ""
     },
     {
         "callsign": "SR6DL",
@@ -5677,7 +5675,7 @@
             51.078464,
             18.571192
         ],
-        "qth": "Dalachow"
+        "qth": ""
     },
     {
         "callsign": "SR6DMO",
@@ -5697,7 +5695,7 @@
             0,
             0
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6DMR",
@@ -5716,7 +5714,7 @@
             51.114774,
             17.067787
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6DST",
@@ -5736,7 +5734,7 @@
             50.77057,
             17.084985
         ],
-        "qth": "Strzelin, Wieza Cisnien"
+        "qth": ""
     },
     {
         "callsign": "SR6DWS",
@@ -5755,7 +5753,7 @@
             50.680321,
             16.485667
         ],
-        "qth": "Wielka Sowa"
+        "qth": ""
     },
     {
         "callsign": "SR6DZM",
@@ -5774,7 +5772,7 @@
             51.47532,
             16.905376
         ],
-        "qth": "Zmigrod"
+        "qth": ""
     },
     {
         "callsign": "SR6F",
@@ -5793,7 +5791,7 @@
             50.465278,
             18.154444
         ],
-        "qth": "Wysoka k. Gory sw. Anny EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR6FG",
@@ -5831,7 +5829,7 @@
             50.865094,
             16.709427
         ],
-        "qth": "Gora Sleza EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR6GL",
@@ -5850,7 +5848,7 @@
             0,
             0
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6HBL",
@@ -5869,7 +5867,7 @@
             0,
             0
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6J",
@@ -5888,7 +5886,7 @@
             50.79487,
             15.514833
         ],
-        "qth": "Gora Szrenica\/Szklarska Poreba"
+        "qth": ""
     },
     {
         "callsign": "SR6JG",
@@ -5907,7 +5905,7 @@
             50.747633,
             15.72735
         ],
-        "qth": "Gora Kopa\/Karpacz"
+        "qth": ""
     },
     {
         "callsign": "SR6K",
@@ -5926,7 +5924,7 @@
             50.63656,
             16.532815
         ],
-        "qth": "Jugow"
+        "qth": ""
     },
     {
         "callsign": "SR6L",
@@ -5946,7 +5944,7 @@
             51.200767,
             16.208553
         ],
-        "qth": "Legnica"
+        "qth": ""
     },
     {
         "callsign": "SR6LDV",
@@ -5965,7 +5963,7 @@
             51.20057,
             16.209077
         ],
-        "qth": "Legnica"
+        "qth": ""
     },
     {
         "callsign": "SR6LWS",
@@ -5985,7 +5983,7 @@
             50.680321,
             16.485667
         ],
-        "qth": "Wielka Sowa"
+        "qth": ""
     },
     {
         "callsign": "SR6LZM",
@@ -6005,7 +6003,7 @@
             51.47532,
             16.905376
         ],
-        "qth": "Zmigrod"
+        "qth": ""
     },
     {
         "callsign": "SR6MA",
@@ -6024,7 +6022,7 @@
             50.865094,
             16.709427
         ],
-        "qth": "Gora Sleza EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR6MI",
@@ -6044,7 +6042,7 @@
             51.256347,
             16.055585
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6MRU",
@@ -6064,7 +6062,7 @@
             51.141371,
             17.030831
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6NR",
@@ -6084,7 +6082,7 @@
             50.539307,
             16.567286
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6OA",
@@ -6103,7 +6101,7 @@
             50.945369,
             17.305275
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6OO",
@@ -6124,7 +6122,7 @@
             50.880998,
             18.413141
         ],
-        "qth": "Olesno"
+        "qth": ""
     },
     {
         "callsign": "SR6OP",
@@ -6144,7 +6142,7 @@
             50.675862,
             17.956617
         ],
-        "qth": "Opole"
+        "qth": ""
     },
     {
         "callsign": "SR6PS",
@@ -6164,7 +6162,7 @@
             50.842723,
             16.487099
         ],
-        "qth": "Swidnica"
+        "qth": ""
     },
     {
         "callsign": "SR6R",
@@ -6183,7 +6181,7 @@
             51.106164,
             17.04304
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6RC",
@@ -6203,7 +6201,7 @@
             51.11472,
             16.95503
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6RWS",
@@ -6222,7 +6220,7 @@
             50.680321,
             16.485667
         ],
-        "qth": "Wielka Sowa"
+        "qth": ""
     },
     {
         "callsign": "SR6S",
@@ -6241,7 +6239,7 @@
             50.680321,
             16.485667
         ],
-        "qth": "Wielka Sowa"
+        "qth": ""
     },
     {
         "callsign": "SR6TT",
@@ -6262,7 +6260,7 @@
             50.914357,
             16.014392
         ],
-        "qth": "BOLKOW STARE ROCHOWICE"
+        "qth": ""
     },
     {
         "callsign": "SR6TW",
@@ -6283,7 +6281,7 @@
             51.345552,
             17.497358
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6UKB",
@@ -6303,7 +6301,7 @@
             50.257005,
             17.428894
         ],
-        "qth": "Kopa Biskupia"
+        "qth": ""
     },
     {
         "callsign": "SR6UKR",
@@ -6322,7 +6320,7 @@
             50.488055,
             17.969159
         ],
-        "qth": "Krapkowice"
+        "qth": ""
     },
     {
         "callsign": "SR6UPK",
@@ -6362,7 +6360,7 @@
             50.751164,
             17.882663
         ],
-        "qth": "Elektrownia Opole, Brzezie k\/Opola"
+        "qth": ""
     },
     {
         "callsign": "SR6UVW",
@@ -6381,7 +6379,7 @@
             51.114443,
             17.067505
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6UVX",
@@ -6401,7 +6399,7 @@
             51.470531,
             16.909204
         ],
-        "qth": "Zmigrod"
+        "qth": ""
     },
     {
         "callsign": "SR6UVY",
@@ -6421,7 +6419,7 @@
             0,
             0
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6W",
@@ -6442,7 +6440,7 @@
             50.779349102530134,
             16.210993863262267
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6WB",
@@ -6461,7 +6459,7 @@
             50.779349102530134,
             16.210993863262267
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6WF",
@@ -6480,7 +6478,7 @@
             0,
             0
         ],
-        "qth": "Mrozow"
+        "qth": ""
     },
     {
         "callsign": "SR6WR",
@@ -6499,7 +6497,7 @@
             51.114462,
             16.958219
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6WRC",
@@ -6518,7 +6516,7 @@
             0,
             0
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR6WS",
@@ -6537,7 +6535,7 @@
             50.680321,
             16.485667
         ],
-        "qth": "Wielka Sowa"
+        "qth": ""
     },
     {
         "callsign": "SR6WY",
@@ -6556,7 +6554,7 @@
             50.465278,
             18.154444
         ],
-        "qth": "Wysoka k. Gory Sw Anny"
+        "qth": ""
     },
     {
         "callsign": "SR6XWS",
@@ -6575,7 +6573,7 @@
             50.680321,
             16.485667
         ],
-        "qth": "Wielka Sowa"
+        "qth": ""
     },
     {
         "callsign": "SR6Z",
@@ -6594,7 +6592,7 @@
             50.88405,
             15.329887
         ],
-        "qth": "Gora Swieradowiec"
+        "qth": ""
     },
     {
         "callsign": "SR7ABZ",
@@ -6614,7 +6612,7 @@
             50.480313,
             20.714713
         ],
-        "qth": "Busko-Zdroj"
+        "qth": ""
     },
     {
         "callsign": "SR7BU",
@@ -6634,7 +6632,7 @@
             51.458155,
             18.829116
         ],
-        "qth": "Burzenin"
+        "qth": ""
     },
     {
         "callsign": "SR7CKD",
@@ -6653,7 +6651,7 @@
             51.774038,
             19.504914
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7DBZ",
@@ -6673,7 +6671,7 @@
             0,
             0
         ],
-        "qth": "Busko-Zdroj"
+        "qth": ""
     },
     {
         "callsign": "SR7DMK",
@@ -6692,7 +6690,7 @@
             50.860322,
             21.048573
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7DMR",
@@ -6711,7 +6709,7 @@
             51.205645,
             19.435416
         ],
-        "qth": "Gora Kamiensk wieza EmiTel"
+        "qth": ""
     },
     {
         "callsign": "SR7DSC",
@@ -6730,7 +6728,7 @@
             51.974983,
             20.144561
         ],
-        "qth": "Skierniewice"
+        "qth": ""
     },
     {
         "callsign": "SR7DVK",
@@ -6749,7 +6747,7 @@
             52.241023,
             19.353639
         ],
-        "qth": "Kutno"
+        "qth": ""
     },
     {
         "callsign": "SR7E",
@@ -6768,7 +6766,7 @@
             51.267423,
             19.328424
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7FUS",
@@ -6787,7 +6785,7 @@
             51.205645,
             19.435416
         ],
-        "qth": "Gora Kamiensk wieza EmiTel"
+        "qth": ""
     },
     {
         "callsign": "SR7G",
@@ -6806,7 +6804,7 @@
             50.382386,
             20.592706
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7HYT",
@@ -6825,7 +6823,7 @@
             0,
             0
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7KFX",
@@ -6844,7 +6842,7 @@
             52.00964,
             18.81998
         ],
-        "qth": "Wielenin"
+        "qth": ""
     },
     {
         "callsign": "SR7KGO",
@@ -6865,7 +6863,7 @@
             50.475985,
             20.75619
         ],
-        "qth": "Busko-Zdroj"
+        "qth": ""
     },
     {
         "callsign": "SR7KI",
@@ -6885,7 +6883,7 @@
             50.860322,
             21.048573
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7KP",
@@ -6904,7 +6902,7 @@
             50.895799,
             20.665477
         ],
-        "qth": "Kielce"
+        "qth": ""
     },
     {
         "callsign": "SR7KU",
@@ -6923,7 +6921,7 @@
             52.230773,
             19.375715
         ],
-        "qth": "Kutno"
+        "qth": ""
     },
     {
         "callsign": "SR7L",
@@ -6942,7 +6940,7 @@
             51.774319,
             19.506038
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7LA",
@@ -6961,7 +6959,7 @@
             51.72395,
             19.434011
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7LD",
@@ -6980,7 +6978,7 @@
             51.77415,
             19.505409
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7LDA",
@@ -6999,7 +6997,7 @@
             51.780793,
             19.533964
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7LDD",
@@ -7018,7 +7016,7 @@
             51.746115,
             19.450216
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7LDQ",
@@ -7037,7 +7035,7 @@
             51.814756,
             19.619306
         ],
-        "qth": "Plichtow"
+        "qth": ""
     },
     {
         "callsign": "SR7LDY",
@@ -7056,7 +7054,7 @@
             51.814756,
             19.619306
         ],
-        "qth": "Plichtow"
+        "qth": ""
     },
     {
         "callsign": "SR7LDZ",
@@ -7076,7 +7074,7 @@
             51.774038,
             19.504914
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7LL",
@@ -7095,7 +7093,7 @@
             51.780793,
             19.533964
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7LLX",
@@ -7134,7 +7132,7 @@
             51.761471,
             19.539368
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7LO",
@@ -7153,7 +7151,7 @@
             51.774038,
             19.504914
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7MK",
@@ -7172,7 +7170,7 @@
             50.860322,
             21.048573
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7O",
@@ -7191,7 +7189,7 @@
             50.904167,
             21.246944
         ],
-        "qth": "Sniezkowice POLKOMTEL"
+        "qth": ""
     },
     {
         "callsign": "SR7OS",
@@ -7210,7 +7208,7 @@
             50.952249,
             21.383228
         ],
-        "qth": "Ostrowiec Swietokrzyski"
+        "qth": ""
     },
     {
         "callsign": "SR7PA",
@@ -7230,7 +7228,7 @@
             51.667203,
             19.337734
         ],
-        "qth": "Pabianice"
+        "qth": ""
     },
     {
         "callsign": "SR7PB",
@@ -7251,7 +7249,7 @@
             51.012532,
             21.545069
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7SAN",
@@ -7270,7 +7268,7 @@
             50.593202,
             21.591853
         ],
-        "qth": "Koprzywnica"
+        "qth": ""
     },
     {
         "callsign": "SR7SC",
@@ -7290,7 +7288,7 @@
             51.974983,
             20.144561
         ],
-        "qth": "Skierniewice"
+        "qth": ""
     },
     {
         "callsign": "SR7SI",
@@ -7310,7 +7308,7 @@
             51.598809,
             18.697218
         ],
-        "qth": "Sieradz"
+        "qth": ""
     },
     {
         "callsign": "SR7ST",
@@ -7330,7 +7328,7 @@
             50.553432,
             21.076508
         ],
-        "qth": "Staszow - wieza   Polkomtel Sp. z o.o. - Plus"
+        "qth": ""
     },
     {
         "callsign": "SR7SZ",
@@ -7349,7 +7347,7 @@
             50.55339,
             21.07638
         ],
-        "qth": "Staszow - wieza Polkomtel Sp. z o.o."
+        "qth": ""
     },
     {
         "callsign": "SR7T",
@@ -7368,7 +7366,7 @@
             50.382386,
             20.592706
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7TCW",
@@ -7387,7 +7385,7 @@
             50.382386,
             20.592706
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7TM",
@@ -7407,7 +7405,7 @@
             51.548173,
             20.045956
         ],
-        "qth": "Tomaszow Mazowiecki"
+        "qth": ""
     },
     {
         "callsign": "SR7UAL",
@@ -7426,7 +7424,7 @@
             51.780951,
             19.533544
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7ULD",
@@ -7445,7 +7443,7 @@
             51.746801,
             19.487679
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7ULM",
@@ -7464,7 +7462,7 @@
             51.746115,
             19.450216
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7USI",
@@ -7483,7 +7481,7 @@
             51.5988891,
             18.6972428
         ],
-        "qth": "Sieradz"
+        "qth": ""
     },
     {
         "callsign": "SR7UTM",
@@ -7502,7 +7500,7 @@
             51.547877,
             20.044931
         ],
-        "qth": "Tomaszow Mazowiecki"
+        "qth": ""
     },
     {
         "callsign": "SR7UVK-B",
@@ -7521,7 +7519,7 @@
             50.860322,
             21.048573
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7UVL-B",
@@ -7540,7 +7538,7 @@
             51.780793,
             19.533964
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7UVV",
@@ -7559,7 +7557,7 @@
             51.205645,
             19.435416
         ],
-        "qth": "Gora Kamiensk wieza EmiTel"
+        "qth": ""
     },
     {
         "callsign": "SR7UWI",
@@ -7579,7 +7577,7 @@
             51.259814,
             18.322125
         ],
-        "qth": "Czastary"
+        "qth": ""
     },
     {
         "callsign": "SR7V",
@@ -7598,7 +7596,7 @@
             50.860322,
             21.048573
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7VV",
@@ -7618,7 +7616,7 @@
             51.205645,
             19.435416
         ],
-        "qth": "Gora Kamiensk wieza EmiTel"
+        "qth": ""
     },
     {
         "callsign": "SR7W",
@@ -7637,7 +7635,7 @@
             51.209193,
             18.579957
         ],
-        "qth": "Wielun"
+        "qth": ""
     },
     {
         "callsign": "SR7WI",
@@ -7656,7 +7654,7 @@
             51.105189,
             18.941747
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7Z",
@@ -7675,7 +7673,7 @@
             51.75349,
             19.455361
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR7ZD",
@@ -7695,7 +7693,7 @@
             51.596268,
             18.975685
         ],
-        "qth": "Zdunska Wola"
+        "qth": ""
     },
     {
         "callsign": "SR7ZG",
@@ -7714,7 +7712,7 @@
             51.847251,
             19.414183
         ],
-        "qth": "Zgierz"
+        "qth": ""
     },
     {
         "callsign": "SR8AGA",
@@ -7734,7 +7732,7 @@
             49.814923,
             21.99281
         ],
-        "qth": "Domaradz"
+        "qth": ""
     },
     {
         "callsign": "SR8AR",
@@ -7753,7 +7751,7 @@
             49.697472,
             21.752673
         ],
-        "qth": "Krosno"
+        "qth": ""
     },
     {
         "callsign": "SR8AR",
@@ -7772,7 +7770,7 @@
             49.697426,
             21.753496
         ],
-        "qth": "Krosno"
+        "qth": ""
     },
     {
         "callsign": "SR8AVB",
@@ -7793,7 +7791,7 @@
             52.030614,
             23.147055
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8B",
@@ -7812,7 +7810,7 @@
             50.248324,
             22.406369
         ],
-        "qth": "Lezajsk"
+        "qth": ""
     },
     {
         "callsign": "SR8BB",
@@ -7831,7 +7829,7 @@
             49.337049,
             22.353548
         ],
-        "qth": "Bereznica Wyzna"
+        "qth": ""
     },
     {
         "callsign": "SR8BD",
@@ -7850,7 +7848,7 @@
             52.027832,
             23.158573
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8BI",
@@ -7869,7 +7867,7 @@
             49.334568,
             22.298952
         ],
-        "qth": "Baligrod"
+        "qth": ""
     },
     {
         "callsign": "SR8BP",
@@ -7888,7 +7886,7 @@
             52.18624,
             22.78165
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8CH",
@@ -7908,7 +7906,7 @@
             51.13186,
             23.472208
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8D",
@@ -7927,7 +7925,7 @@
             52.18624,
             22.78165
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8DE",
@@ -7946,7 +7944,7 @@
             49.964483,
             21.446086
         ],
-        "qth": "Debica"
+        "qth": ""
     },
     {
         "callsign": "SR8DEF",
@@ -7966,7 +7964,7 @@
             50.059358,
             21.397837
         ],
-        "qth": "Debica"
+        "qth": ""
     },
     {
         "callsign": "SR8DMB",
@@ -7985,7 +7983,7 @@
             49.521832,
             22.411545
         ],
-        "qth": "Bezmiechowa"
+        "qth": ""
     },
     {
         "callsign": "SR8DMK",
@@ -8004,7 +8002,7 @@
             49.756122,
             21.812941
         ],
-        "qth": "RTCN Sucha Gora\/Krosno EmiTel-Czarnorzeki 90"
+        "qth": ""
     },
     {
         "callsign": "SR8DMR",
@@ -8023,7 +8021,7 @@
             52.18624,
             22.78165
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8DRL",
@@ -8042,7 +8040,7 @@
             51.234937,
             22.545933
         ],
-        "qth": "Lublin"
+        "qth": ""
     },
     {
         "callsign": "SR8DU",
@@ -8062,7 +8060,7 @@
             49.885216,
             22.38942
         ],
-        "qth": "Drohobyczka-Dubiecko"
+        "qth": ""
     },
     {
         "callsign": "SR8DV",
@@ -8081,7 +8079,7 @@
             49.756122,
             21.812941
         ],
-        "qth": "RTCN Sucha Gora\/Krosno EmiTel-Czarnorzeki 90"
+        "qth": ""
     },
     {
         "callsign": "SR8DVP",
@@ -8100,7 +8098,7 @@
             51.325496,
             21.968573
         ],
-        "qth": "Kazimierz Dolny"
+        "qth": ""
     },
     {
         "callsign": "SR8ET",
@@ -8119,7 +8117,7 @@
             49.561127,
             22.206183
         ],
-        "qth": "Sanok - Urzad Miasta"
+        "qth": ""
     },
     {
         "callsign": "SR8FWD",
@@ -8138,7 +8136,7 @@
             51.558118,
             23.553329
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8J",
@@ -8157,7 +8155,7 @@
             50.000296,
             22.713323
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8JR",
@@ -8176,7 +8174,7 @@
             50.000296,
             22.713323
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8JS",
@@ -8195,7 +8193,7 @@
             49.81322,
             21.350967
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8K",
@@ -8215,7 +8213,7 @@
             49.885216,
             22.38942
         ],
-        "qth": "Drohobyczka-Dubiecko"
+        "qth": ""
     },
     {
         "callsign": "SR8KP",
@@ -8234,7 +8232,7 @@
             50.221148,
             22.421792
         ],
-        "qth": "Lezajsk-Giedlarowa"
+        "qth": ""
     },
     {
         "callsign": "SR8KR",
@@ -8249,12 +8247,12 @@
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "off",
+        "status": "working",
         "coordinates": [
             49.756122,
             21.812941
         ],
-        "qth": "RTCN Sucha Gora\/Krosno EmiTel-Czarnorzeki 90"
+        "qth": ""
     },
     {
         "callsign": "SR8KSR",
@@ -8274,7 +8272,7 @@
             49.697373,
             21.752431
         ],
-        "qth": "Krosno"
+        "qth": ""
     },
     {
         "callsign": "SR8L",
@@ -8293,7 +8291,7 @@
             51.00481,
             22.65351
         ],
-        "qth": "RTCN Lublin \/ Bozy Dar (Emitel)"
+        "qth": ""
     },
     {
         "callsign": "SR8LBD",
@@ -8312,7 +8310,7 @@
             51.00481,
             22.65351
         ],
-        "qth": "RTCN Lublin \/ Bozy Dar (Emitel)"
+        "qth": ""
     },
     {
         "callsign": "SR8LBL",
@@ -8331,7 +8329,7 @@
             50.221007,
             22.421881
         ],
-        "qth": "Giedlarowa"
+        "qth": ""
     },
     {
         "callsign": "SR8LBT",
@@ -8350,7 +8348,7 @@
             51.241034,
             22.55055
         ],
-        "qth": "Lublin"
+        "qth": ""
     },
     {
         "callsign": "SR8LKR",
@@ -8369,7 +8367,7 @@
             50.96089,
             22.157174
         ],
-        "qth": "Krasnik"
+        "qth": ""
     },
     {
         "callsign": "SR8LL",
@@ -8388,7 +8386,7 @@
             51.225671,
             22.623193
         ],
-        "qth": "Lublin"
+        "qth": ""
     },
     {
         "callsign": "SR8LLB",
@@ -8409,7 +8407,7 @@
             51.469129,
             22.604413
         ],
-        "qth": "Lubartow"
+        "qth": ""
     },
     {
         "callsign": "SR8LN",
@@ -8428,7 +8426,7 @@
             51.24134650078683,
             22.50971378339263
         ],
-        "qth": "Lublin"
+        "qth": ""
     },
     {
         "callsign": "SR8LSW",
@@ -8449,7 +8447,7 @@
             51.221537,
             22.694369
         ],
-        "qth": "Swidnik"
+        "qth": ""
     },
     {
         "callsign": "SR8LU",
@@ -8468,7 +8466,7 @@
             51.225671,
             22.623193
         ],
-        "qth": "Lublin"
+        "qth": ""
     },
     {
         "callsign": "SR8LUB",
@@ -8487,7 +8485,7 @@
             51.235083,
             22.522944
         ],
-        "qth": "Lublin"
+        "qth": ""
     },
     {
         "callsign": "SR8LUF",
@@ -8506,7 +8504,7 @@
             51.225671,
             22.623193
         ],
-        "qth": "Lublin"
+        "qth": ""
     },
     {
         "callsign": "SR8LW",
@@ -8527,7 +8525,7 @@
             51.928906,
             22.360262
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8LWB",
@@ -8546,7 +8544,7 @@
             0,
             0
         ],
-        "qth": "Bogdanka"
+        "qth": ""
     },
     {
         "callsign": "SR8MBR",
@@ -8566,7 +8564,7 @@
             49.940092,
             22.048855
         ],
-        "qth": "Tyczyn, Lasek"
+        "qth": ""
     },
     {
         "callsign": "SR8NP",
@@ -8586,7 +8584,7 @@
             49.76715,
             22.755932
         ],
-        "qth": "Przemysl"
+        "qth": ""
     },
     {
         "callsign": "SR8PL",
@@ -8606,7 +8604,7 @@
             51.325496,
             21.968573
         ],
-        "qth": "Kazimierz Dolny"
+        "qth": ""
     },
     {
         "callsign": "SR8PPN",
@@ -8627,7 +8625,7 @@
             51.371732,
             23.23574
         ],
-        "qth": "gm. Urszulin"
+        "qth": ""
     },
     {
         "callsign": "SR8PU",
@@ -8646,7 +8644,7 @@
             51.325496,
             21.968573
         ],
-        "qth": "Kazimierz Dolny"
+        "qth": ""
     },
     {
         "callsign": "SR8R",
@@ -8665,7 +8663,7 @@
             50.048852,
             21.978431
         ],
-        "qth": "Rzeszow"
+        "qth": ""
     },
     {
         "callsign": "SR8RD",
@@ -8684,7 +8682,7 @@
             50.553361,
             22.074279
         ],
-        "qth": "Stalowa Wola"
+        "qth": ""
     },
     {
         "callsign": "SR8RJS",
@@ -8704,7 +8702,7 @@
             49.81322,
             21.350967
         ],
-        "qth": "Opacie"
+        "qth": ""
     },
     {
         "callsign": "SR8RSC",
@@ -8724,7 +8722,7 @@
             49.9914,
             21.941145
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8RZ",
@@ -8744,7 +8742,7 @@
             0,
             0
         ],
-        "qth": "Rzeszow"
+        "qth": ""
     },
     {
         "callsign": "SR8S",
@@ -8763,7 +8761,7 @@
             51.215067,
             22.70218
         ],
-        "qth": "Swidnik"
+        "qth": ""
     },
     {
         "callsign": "SR8SD",
@@ -8782,7 +8780,7 @@
             51.215067,
             22.70218
         ],
-        "qth": "Swidnik"
+        "qth": ""
     },
     {
         "callsign": "SR8SM",
@@ -8801,7 +8799,7 @@
             50.072277,
             21.712224
         ],
-        "qth": "Debica"
+        "qth": ""
     },
     {
         "callsign": "SR8T",
@@ -8821,7 +8819,7 @@
             49.756122,
             21.812941
         ],
-        "qth": "RTCN Sucha Gora\/Krosno EmiTel-Czarnorzeki 90"
+        "qth": ""
     },
     {
         "callsign": "SR8TA",
@@ -8841,7 +8839,7 @@
             49.756122,
             21.812941
         ],
-        "qth": "RTCN Sucha Gora\/Krosno EmiTel-Czarnorzeki 90"
+        "qth": ""
     },
     {
         "callsign": "SR8TPM",
@@ -8879,7 +8877,7 @@
             0,
             0
         ],
-        "qth": "Lezajsk Cmentarna CNR"
+        "qth": ""
     },
     {
         "callsign": "SR8U",
@@ -8898,7 +8896,7 @@
             49.334568,
             22.298952
         ],
-        "qth": "Baligrod"
+        "qth": ""
     },
     {
         "callsign": "SR8UKS",
@@ -8917,7 +8915,7 @@
             49.756122,
             21.812941
         ],
-        "qth": "RTCN Sucha Gora\/Krosno EmiTel-Czarnorzeki 90"
+        "qth": ""
     },
     {
         "callsign": "SR8UVB",
@@ -8936,7 +8934,7 @@
             52.18624,
             22.78165
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8UVC",
@@ -8957,7 +8955,7 @@
             52.048835,
             23.116651
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8UVL",
@@ -8976,7 +8974,7 @@
             51.225671,
             22.623193
         ],
-        "qth": "Lublin"
+        "qth": ""
     },
     {
         "callsign": "SR8UVP",
@@ -8995,7 +8993,7 @@
             51.325496,
             21.968573
         ],
-        "qth": "Kazimierz Dolny"
+        "qth": ""
     },
     {
         "callsign": "SR8UVS",
@@ -9014,7 +9012,7 @@
             51.215067,
             22.70218
         ],
-        "qth": "Swidnik"
+        "qth": ""
     },
     {
         "callsign": "SR8UWD",
@@ -9035,7 +9033,7 @@
             51.558078,
             23.55371
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8V",
@@ -9054,7 +9052,7 @@
             49.81322,
             21.350967
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8WD",
@@ -9073,7 +9071,7 @@
             51.548785,
             23.548394
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8X",
@@ -9092,7 +9090,7 @@
             51.351915,
             22.187133
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR8Y",
@@ -9111,7 +9109,7 @@
             49.96557,
             21.99461
         ],
-        "qth": "Rzeszow"
+        "qth": ""
     },
     {
         "callsign": "SR8Z",
@@ -9130,7 +9128,7 @@
             50.607544,
             23.261111
         ],
-        "qth": "Feliksowka k\/Zamoscia"
+        "qth": ""
     },
     {
         "callsign": "SR8ZA",
@@ -9149,7 +9147,7 @@
             50.607544,
             23.261111
         ],
-        "qth": "Feliksowka k\/Zamoscia"
+        "qth": ""
     },
     {
         "callsign": "SR9A",
@@ -9168,7 +9166,7 @@
             49.884356,
             20.911473
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9ABC",
@@ -9187,7 +9185,7 @@
             49.466565,
             20.556552
         ],
-        "qth": "Szczawnica - Gora Przehyba (Teren schroniska)"
+        "qth": ""
     },
     {
         "callsign": "SR9AD",
@@ -9207,7 +9205,7 @@
             0,
             0
         ],
-        "qth": "Krakow?"
+        "qth": ""
     },
     {
         "callsign": "SR9AD",
@@ -9226,7 +9224,7 @@
             50.027327,
             19.923507
         ],
-        "qth": "Krakow"
+        "qth": ""
     },
     {
         "callsign": "SR9AE",
@@ -9245,7 +9243,7 @@
             49.766749,
             20.059544
         ],
-        "qth": "Obserwatorium astronomiczne na Gorze Lubomir"
+        "qth": ""
     },
     {
         "callsign": "SR9AMS",
@@ -9266,7 +9264,7 @@
             49.71934,
             20.45485
         ],
-        "qth": "(zmiana lokalizacji)"
+        "qth": ""
     },
     {
         "callsign": "SR9ASR",
@@ -9286,7 +9284,7 @@
             49.787232,
             19.22477
         ],
-        "qth": "Gora Zar"
+        "qth": ""
     },
     {
         "callsign": "SR9B",
@@ -9306,7 +9304,7 @@
             49.685223,
             19.029843
         ],
-        "qth": "Skrzyczne"
+        "qth": ""
     },
     {
         "callsign": "SR9BN",
@@ -9325,7 +9323,7 @@
             50.319022,
             19.115659
         ],
-        "qth": "Bedzin"
+        "qth": ""
     },
     {
         "callsign": "SR9BSR",
@@ -9345,7 +9343,7 @@
             49.760053,
             19.001327
         ],
-        "qth": "Gora Szyndzielnia"
+        "qth": ""
     },
     {
         "callsign": "SR9C",
@@ -9364,7 +9362,7 @@
             50.066357,
             19.940202
         ],
-        "qth": "Krakow"
+        "qth": ""
     },
     {
         "callsign": "SR9CSR",
@@ -9383,7 +9381,7 @@
             49.933851,
             19.249664
         ],
-        "qth": "Osiek"
+        "qth": ""
     },
     {
         "callsign": "SR9CZ",
@@ -9402,7 +9400,7 @@
             50.814463,
             19.12091
         ],
-        "qth": "Czestochowa"
+        "qth": ""
     },
     {
         "callsign": "SR9CZC",
@@ -9421,7 +9419,7 @@
             50.784237,
             19.127363
         ],
-        "qth": "Czestochowa"
+        "qth": ""
     },
     {
         "callsign": "SR9CZE",
@@ -9440,7 +9438,7 @@
             50.843583,
             19.133441
         ],
-        "qth": "Czestochowa"
+        "qth": ""
     },
     {
         "callsign": "SR9D",
@@ -9459,7 +9457,7 @@
             50.307652,
             19.12205
         ],
-        "qth": "Bedzin"
+        "qth": ""
     },
     {
         "callsign": "SR9DBN",
@@ -9478,7 +9476,7 @@
             50.213236,
             19.127539
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9DBY",
@@ -9497,7 +9495,7 @@
             0,
             0
         ],
-        "qth": "Bytom"
+        "qth": ""
     },
     {
         "callsign": "SR9DDP",
@@ -9516,7 +9514,7 @@
             49.435756,
             20.734167
         ],
-        "qth": "Gora Kicarz"
+        "qth": ""
     },
     {
         "callsign": "SR9DJK",
@@ -9535,7 +9533,7 @@
             50.579506,
             19.449523
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9DKA",
@@ -9554,7 +9552,7 @@
             50.298203,
             19.005029
         ],
-        "qth": "Siemianowice Slaskie"
+        "qth": ""
     },
     {
         "callsign": "SR9DLI",
@@ -9573,7 +9571,7 @@
             49.704911,
             20.402898
         ],
-        "qth": "Limanowa Lipowe"
+        "qth": ""
     },
     {
         "callsign": "SR9DMR",
@@ -9592,7 +9590,7 @@
             50.245312077120985,
             19.026965855589307
         ],
-        "qth": "Katowice"
+        "qth": ""
     },
     {
         "callsign": "SR9DSK",
@@ -9611,7 +9609,7 @@
             49.418869,
             20.476544
         ],
-        "qth": "SZCZAWNICA"
+        "qth": ""
     },
     {
         "callsign": "SR9DSR",
@@ -9630,7 +9628,7 @@
             49.738391,
             19.007333
         ],
-        "qth": "Klimczok"
+        "qth": ""
     },
     {
         "callsign": "SR9DV",
@@ -9652,7 +9650,7 @@
             50.116012,
             19.969213
         ],
-        "qth": "Wegrzce"
+        "qth": ""
     },
     {
         "callsign": "SR9DX",
@@ -9672,7 +9670,7 @@
             0,
             0
         ],
-        "qth": "Bytom"
+        "qth": ""
     },
     {
         "callsign": "SR9DXK",
@@ -9691,7 +9689,7 @@
             0,
             0
         ],
-        "qth": "Bytom"
+        "qth": ""
     },
     {
         "callsign": "SR9E",
@@ -9711,7 +9709,7 @@
             50.298203,
             19.005029
         ],
-        "qth": "Siemianowice Slaskie"
+        "qth": ""
     },
     {
         "callsign": "SR9EE",
@@ -9730,7 +9728,7 @@
             49.685223,
             19.029843
         ],
-        "qth": "Skrzyczne EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR9EHO",
@@ -9750,7 +9748,7 @@
             49.719397,
             20.454828
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9FUN",
@@ -9769,7 +9767,7 @@
             49.466572,
             20.556545
         ],
-        "qth": "Szczawnica - Gora Przehyba (Teren schroniska)"
+        "qth": ""
     },
     {
         "callsign": "SR9GC",
@@ -9788,7 +9786,7 @@
             0,
             0
         ],
-        "qth": "Gliwice"
+        "qth": ""
     },
     {
         "callsign": "SR9GP",
@@ -9808,7 +9806,7 @@
             49.724771,
             20.45819
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9GR",
@@ -9830,7 +9828,7 @@
             49.664762,
             21.152389
         ],
-        "qth": "Gorlice, maszt Emitel na Gorze Cmentarnej"
+        "qth": ""
     },
     {
         "callsign": "SR9IVG",
@@ -9850,7 +9848,7 @@
             49.719395,
             20.454785
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9J",
@@ -9869,7 +9867,7 @@
             50.814463,
             19.12091
         ],
-        "qth": "Czestochowa"
+        "qth": ""
     },
     {
         "callsign": "SR9JG",
@@ -9889,7 +9887,7 @@
             50.70491,
             19.28541
         ],
-        "qth": "Biskupice"
+        "qth": ""
     },
     {
         "callsign": "SR9JK",
@@ -9909,7 +9907,7 @@
             50.539655,
             19.428821
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9JSR",
@@ -9928,7 +9926,7 @@
             0,
             0
         ],
-        "qth": "Jastrzebie Zdroj"
+        "qth": ""
     },
     {
         "callsign": "SR9K",
@@ -9947,7 +9945,7 @@
             49.9731,
             20.033849
         ],
-        "qth": "Siercza k\/Wieliczki"
+        "qth": ""
     },
     {
         "callsign": "SR9KAO",
@@ -9970,7 +9968,7 @@
             50.03314,
             20.998133
         ],
-        "qth": "Tarnow"
+        "qth": ""
     },
     {
         "callsign": "SR9KD",
@@ -9990,7 +9988,7 @@
             50.312352,
             19.198926
         ],
-        "qth": "Sosnowiec"
+        "qth": ""
     },
     {
         "callsign": "SR9KM",
@@ -10009,7 +10007,7 @@
             50.57099703963008,
             18.65032279748326
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9KR",
@@ -10028,7 +10026,7 @@
             49.959167,
             20.088
         ],
-        "qth": "Choragwica k\/Krakowa"
+        "qth": ""
     },
     {
         "callsign": "SR9KS",
@@ -10047,7 +10045,7 @@
             49.9731,
             20.033849
         ],
-        "qth": "Siercza k\/Wieliczki"
+        "qth": ""
     },
     {
         "callsign": "SR9KW",
@@ -10066,7 +10064,7 @@
             0,
             0
         ],
-        "qth": "Pogrzebien"
+        "qth": ""
     },
     {
         "callsign": "SR9L",
@@ -10085,7 +10083,7 @@
             49.704911,
             20.402898
         ],
-        "qth": "Limanowa Lipowe"
+        "qth": ""
     },
     {
         "callsign": "SR9LC",
@@ -10105,7 +10103,7 @@
             50.698776,
             18.642656
         ],
-        "qth": "LUBECKO"
+        "qth": ""
     },
     {
         "callsign": "SR9LC",
@@ -10125,7 +10123,7 @@
             50.698776,
             18.642656
         ],
-        "qth": "Lubecko"
+        "qth": ""
     },
     {
         "callsign": "SR9LI",
@@ -10145,7 +10143,7 @@
             49.773212,
             20.385038
         ],
-        "qth": "Pasierbiec"
+        "qth": ""
     },
     {
         "callsign": "SR9LK",
@@ -10164,7 +10162,7 @@
             49.9731,
             20.033849
         ],
-        "qth": "Siercza k\/Wieliczki"
+        "qth": ""
     },
     {
         "callsign": "SR9NJ",
@@ -10183,7 +10181,7 @@
             49.417864,
             20.895578
         ],
-        "qth": "Krynica Zdroj, Jaworzyna (gorna stacja kolejki gondolowej"
+        "qth": ""
     },
     {
         "callsign": "SR9NJ",
@@ -10203,7 +10201,7 @@
             49.417864,
             20.895578
         ],
-        "qth": "Krynica Zdroj, Jaworzyna (gorna stacja kolejki gondolowej"
+        "qth": ""
     },
     {
         "callsign": "SR9NP",
@@ -10223,7 +10221,7 @@
             49.467423,
             20.554353
         ],
-        "qth": "Prehyba"
+        "qth": ""
     },
     {
         "callsign": "SR9NS",
@@ -10243,7 +10241,7 @@
             49.633351,
             20.737875
         ],
-        "qth": "Nowy Sacz"
+        "qth": ""
     },
     {
         "callsign": "SR9NSC",
@@ -10262,7 +10260,7 @@
             49.612762,
             20.716533
         ],
-        "qth": "Nowy Sacz"
+        "qth": ""
     },
     {
         "callsign": "SR9NSK",
@@ -10281,7 +10279,7 @@
             49.685689,
             19.031386
         ],
-        "qth": "Skrzyczne"
+        "qth": ""
     },
     {
         "callsign": "SR9OA",
@@ -10300,7 +10298,27 @@
             50.004545,
             20.243282
         ],
-        "qth": "Wieza widokowa Dabrowa"
+        "qth": ""
+    },
+    {
+        "callsign": "SR9OMP",
+        "modes": [
+            "fm",
+            "dmr"
+        ],
+        "tx_frequency": 431.3375,
+        "tx_ctcss": 77,
+        "rx_frequency": 438.9375,
+        "rx_ctcss": 77,
+        "rx_1750": false,
+        "duplex": "+",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            49.736501,
+            18.634977
+        ],
+        "qth": ""
     },
     {
         "callsign": "SR9P",
@@ -10320,7 +10338,7 @@
             49.7533,
             19.7822
         ],
-        "qth": "Gora Koskowa POLKOMTEL"
+        "qth": ""
     },
     {
         "callsign": "SR9PC",
@@ -10339,7 +10357,7 @@
             49.7533,
             19.7822
         ],
-        "qth": "Gora Koskowa POLKOMTEL"
+        "qth": ""
     },
     {
         "callsign": "SR9PJD",
@@ -10360,7 +10378,7 @@
             0,
             0
         ],
-        "qth": "Gliwice"
+        "qth": ""
     },
     {
         "callsign": "SR9POL",
@@ -10379,7 +10397,7 @@
             49.719364,
             20.454774
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9PS",
@@ -10399,7 +10417,7 @@
             50.039285,
             18.400512
         ],
-        "qth": "Pszow"
+        "qth": ""
     },
     {
         "callsign": "SR9RAC",
@@ -10418,7 +10436,7 @@
             50.120982,
             18.153277
         ],
-        "qth": "Strzybniczek"
+        "qth": ""
     },
     {
         "callsign": "SR9RC",
@@ -10437,7 +10455,7 @@
             0,
             0
         ],
-        "qth": "Pogrzebien"
+        "qth": ""
     },
     {
         "callsign": "SR9RR",
@@ -10476,7 +10494,7 @@
             50.087687,
             18.534451
         ],
-        "qth": "Rybnik"
+        "qth": ""
     },
     {
         "callsign": "SR9RT",
@@ -10496,7 +10514,7 @@
             49.719344,
             20.454852
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9RT",
@@ -10516,7 +10534,7 @@
             49.719344,
             20.454852
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9RT",
@@ -10536,7 +10554,7 @@
             49.719344,
             20.454852
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9RT",
@@ -10556,7 +10574,7 @@
             49.719344,
             20.454852
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9S",
@@ -10575,7 +10593,7 @@
             50.01602,
             19.10627
         ],
-        "qth": "Wola"
+        "qth": ""
     },
     {
         "callsign": "SR9S",
@@ -10595,7 +10613,7 @@
             50.01657,
             19.106255
         ],
-        "qth": "Wola"
+        "qth": ""
     },
     {
         "callsign": "SR9SA",
@@ -10615,7 +10633,7 @@
             49.760432,
             19.001325
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9SC",
@@ -10624,18 +10642,18 @@
             "dmr"
         ],
         "tx_frequency": 438.9625,
-        "tx_ctcss": 67,
+        "tx_ctcss": false,
         "rx_frequency": 431.3625,
         "rx_ctcss": 67,
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "working",
+        "status": "off",
         "coordinates": [
             49.736501,
             18.634977
         ],
-        "qth": "Cieszyn"
+        "qth": ""
     },
     {
         "callsign": "SR9SE",
@@ -10655,7 +10673,7 @@
             50.318897,
             19.115915
         ],
-        "qth": "Bedzin"
+        "qth": ""
     },
     {
         "callsign": "SR9SIM",
@@ -10674,7 +10692,7 @@
             50.26633,
             19.1375
         ],
-        "qth": "Sosnowiec"
+        "qth": ""
     },
     {
         "callsign": "SR9SIM",
@@ -10693,7 +10711,7 @@
             0,
             0
         ],
-        "qth": "Sosnowiec"
+        "qth": ""
     },
     {
         "callsign": "SR9SK",
@@ -10713,7 +10731,7 @@
             49.685223,
             19.029843
         ],
-        "qth": "Skrzyczne"
+        "qth": ""
     },
     {
         "callsign": "SR9SS",
@@ -10733,7 +10751,7 @@
             50.298203,
             19.005029
         ],
-        "qth": "Siemianowice Slaskie"
+        "qth": ""
     },
     {
         "callsign": "SR9SZ",
@@ -10752,7 +10770,7 @@
             50.298203,
             19.005029
         ],
-        "qth": "Siemianowice Slaskie"
+        "qth": ""
     },
     {
         "callsign": "SR9TB",
@@ -10771,7 +10789,7 @@
             49.884356,
             20.911473
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9TG",
@@ -10791,7 +10809,7 @@
             0,
             0
         ],
-        "qth": "Tarnowskie Gory"
+        "qth": ""
     },
     {
         "callsign": "SR9TM",
@@ -10811,7 +10829,7 @@
             49.782306,
             20.022833
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9TR",
@@ -10830,7 +10848,7 @@
             50.02509,
             21.007561
         ],
-        "qth": "Tarnow"
+        "qth": ""
     },
     {
         "callsign": "SR9TRZ",
@@ -10849,7 +10867,7 @@
             50.173858,
             19.472398
         ],
-        "qth": "Trzebinia"
+        "qth": ""
     },
     {
         "callsign": "SR9UCZ",
@@ -10868,7 +10886,7 @@
             50.843583,
             19.133441
         ],
-        "qth": "Czestochowa"
+        "qth": ""
     },
     {
         "callsign": "SR9UPZ",
@@ -10887,7 +10905,7 @@
             49.678767,
             20.626436
         ],
-        "qth": "Kleczany"
+        "qth": ""
     },
     {
         "callsign": "SR9US",
@@ -10906,7 +10924,7 @@
             0,
             0
         ],
-        "qth": "Gora Czantoria"
+        "qth": ""
     },
     {
         "callsign": "SR9UV",
@@ -10925,7 +10943,7 @@
             50.555045,
             19.478789
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9UVC",
@@ -10944,7 +10962,7 @@
             49.969967,
             19.934092
         ],
-        "qth": "Krakow"
+        "qth": ""
     },
     {
         "callsign": "SR9UVJ",
@@ -10964,7 +10982,7 @@
             0,
             0
         ],
-        "qth": "Jaworzyna Krynicka"
+        "qth": ""
     },
     {
         "callsign": "SR9UVJ",
@@ -10984,7 +11002,7 @@
             0,
             0
         ],
-        "qth": "Jaworzyna krynicka"
+        "qth": ""
     },
     {
         "callsign": "SR9UVJ-B",
@@ -11003,10 +11021,10 @@
             49.417864,
             20.895578
         ],
-        "qth": "Krynica Zdroj - Jaworzyna (gorna stacja kolejki gondolowej)"
+        "qth": ""
     },
     {
-        "callsign": "SR9UVJ-C",
+        "callsign": "SR9DJC",
         "modes": [
             "dstar"
         ],
@@ -11022,7 +11040,7 @@
             49.417864,
             20.895578
         ],
-        "qth": "Krynica Zdroj - Jaworzyna (gorna stacja kolejki gondolowej)"
+        "qth": ""
     },
     {
         "callsign": "SR9UVL",
@@ -11041,7 +11059,7 @@
             49.653614,
             19.991663
         ],
-        "qth": "Lubon Wlk."
+        "qth": ""
     },
     {
         "callsign": "SR9UVM",
@@ -11060,7 +11078,7 @@
             49.958656,
             20.081999
         ],
-        "qth": "Krakow - RTCN Choragwica EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR9UVO",
@@ -11079,7 +11097,7 @@
             50.115185,
             19.748343
         ],
-        "qth": "Kochanow"
+        "qth": ""
     },
     {
         "callsign": "SR9UVP",
@@ -11098,7 +11116,7 @@
             49.7533,
             19.7822
         ],
-        "qth": "Gora Koskowa POLKOMTEL"
+        "qth": ""
     },
     {
         "callsign": "SR9UVR",
@@ -11118,7 +11136,7 @@
             49.349622,
             20.053072
         ],
-        "qth": "Gliczarow Gorny Maszt OSP"
+        "qth": ""
     },
     {
         "callsign": "SR9UVT",
@@ -11137,7 +11155,7 @@
             49.7533,
             19.7822
         ],
-        "qth": "Gora Koskowa POLKOMTEL"
+        "qth": ""
     },
     {
         "callsign": "SR9UVU",
@@ -11156,7 +11174,7 @@
             49.685473,
             19.031218
         ],
-        "qth": "Skrzyczne"
+        "qth": ""
     },
     {
         "callsign": "SR9UVZ",
@@ -11176,7 +11194,7 @@
             49.349622,
             20.053072
         ],
-        "qth": "Gliczarow Gorny Maszt OSP"
+        "qth": ""
     },
     {
         "callsign": "SR9UW",
@@ -11195,7 +11213,7 @@
             0,
             0
         ],
-        "qth": "Katowice"
+        "qth": ""
     },
     {
         "callsign": "SR9VDM",
@@ -11214,7 +11232,7 @@
             49.891714,
             20.928624
         ],
-        "qth": "Lichwin"
+        "qth": ""
     },
     {
         "callsign": "SR9VJK",
@@ -11233,7 +11251,7 @@
             49.417328,
             20.895254
         ],
-        "qth": "Jaworzyna Krynicka"
+        "qth": ""
     },
     {
         "callsign": "SR9VJP",
@@ -11254,7 +11272,7 @@
             0,
             0
         ],
-        "qth": "MUSZYNA"
+        "qth": ""
     },
     {
         "callsign": "SR9VO",
@@ -11274,7 +11292,7 @@
             50.033162,
             20.998049
         ],
-        "qth": "Tarnow"
+        "qth": ""
     },
     {
         "callsign": "SR9VRJ",
@@ -11293,7 +11311,7 @@
             49.307959,
             19.936232
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9VVO",
@@ -11312,7 +11330,7 @@
             49.891714,
             20.928624
         ],
-        "qth": "Lichwin"
+        "qth": ""
     },
     {
         "callsign": "SR9W",
@@ -11331,7 +11349,7 @@
             49.77869539777453,
             20.396280558875176
         ],
-        "qth": "Makowica - Kamionna"
+        "qth": ""
     },
     {
         "callsign": "SR9X",
@@ -11350,7 +11368,7 @@
             49.307959,
             19.936232
         ],
-        "qth": false
+        "qth": ""
     },
     {
         "callsign": "SR9Z",
@@ -11369,7 +11387,7 @@
             49.467256,
             20.553933
         ],
-        "qth": "Przehyba EMITEL"
+        "qth": ""
     },
     {
         "callsign": "SR9ZAC",
@@ -11388,7 +11406,7 @@
             49.277298,
             19.877682
         ],
-        "qth": "Koscielisko (Podhale)"
+        "qth": ""
     },
     {
         "callsign": "SR9ZAR",
@@ -11407,7 +11425,7 @@
             49.787232,
             19.22477
         ],
-        "qth": "Gora Zar"
+        "qth": ""
     },
     {
         "callsign": "SR9ZHP",
@@ -11426,6 +11444,6 @@
             0,
             0
         ],
-        "qth": "Bedzin"
+        "qth": ""
     }
 ]

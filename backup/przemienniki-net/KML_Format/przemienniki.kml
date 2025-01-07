@@ -8738,6 +8738,21 @@
 						]]></description>
 					</Placemark>
 					<Placemark>
+						<name>SR8LBL</name>
+						<Point>
+							<coordinates>22.421881,50.221007</coordinates>
+						</Point>
+						<styleUrl>#BAND_10M</styleUrl>
+						<description><![CDATA[
+							Przemiennik FM pasma 10m<br />
+							QTH: Giedlarowa<br />
+							QRG: TX: 29,670 MHz, RX: 29,570 MHz
+							<br />
+							Aktywowanie: CTCSS (71.9 Hz)<br /><br />
+							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/10m/SR8LBL">przemienniki.net/przemienniki/10m/SR8LBL</a><br />
+						]]></description>
+					</Placemark>
+					<Placemark>
 						<name>SR9EHO</name>
 						<Point>
 							<coordinates>20.454828,49.719397</coordinates>
@@ -8783,21 +8798,6 @@
 							<br />
 							Aktywowanie: nośną, CTCSS (127.3 Hz)<br /><br />
 							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/10m/FM/SR8AR/9044872">przemienniki.net/przemienniki/10m/FM/SR8AR/9044872</a><br />
-						]]></description>
-					</Placemark>
-					<Placemark>
-						<name>SR8LBL</name>
-						<Point>
-							<coordinates>22.421881,50.221007</coordinates>
-						</Point>
-						<styleUrl>#BAND_10M</styleUrl>
-						<description><![CDATA[
-							Przemiennik FM pasma 10m<br />
-							QTH: Giedlarowa<br />
-							QRG: TX: 29,670 MHz, RX: 29,570 MHz
-							<br />
-							Aktywowanie: CTCSS (71.9 Hz)<br /><br />
-							Więcej informacji: <br /><a href="http://przemienniki.net/przemienniki/10m/SR8LBL">przemienniki.net/przemienniki/10m/SR8LBL</a><br />
 						]]></description>
 					</Placemark>
 				</Folder>

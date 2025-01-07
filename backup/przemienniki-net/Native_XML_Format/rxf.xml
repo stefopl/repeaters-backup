@@ -3,8 +3,8 @@
 <rxf version="1.0">
 	<link rel="self" href="http://przemienniki.net/export/rxf.xml" type="appliction/xml"/>
 	<link>http://przemienniki.net</link>
-	<updated>2025-01-06 04:18:26</updated>
-	<generated>2025-01-06 13:22:24</generated>
+	<updated>2025-01-06 16:09:36</updated>
+	<generated>2025-01-07 13:22:11</generated>
 	<generator>przemienniki.net v.2.12.0 (2019/02/04)</generator>
 	<dictionary>
 		<item>
@@ -16373,9 +16373,9 @@ Przemiennik Motorola MTR2000 UHF]]></remarks>
 			<id>9045167</id>
 			<hash></hash>
 			<created>2020-08-22 19:47:43</created>
-			<updated>2020-09-09 18:41:56</updated>
-			<statusInt>1</statusInt>
-			<status>WORKING</status>
+			<updated>2025-01-06 16:09:36</updated>
+			<statusInt>2</statusInt>
+			<status>DISABLED</status>
 			<licenseExpiryDate>2023-03-07</licenseExpiryDate>
 			<modeInt>4</modeInt>
 			<mode>FM</mode>

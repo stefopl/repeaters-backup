@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<repeaters update="2025-01-06 04:18:26" version="0.1">
+<repeaters update="2025-01-06 16:09:36" version="0.1">
 
 
 	<repeater
@@ -11023,7 +11023,7 @@ Przemiennik Motorola MTR2000 UHF"
 		location=""
 		locator="KO10FF"
 		type="FM"
-		status="OPERATIONAL"
+		status="OFF"
 		latitude="50.221007"
 		longitude="22.421881"
 		opening="CTCSS"
