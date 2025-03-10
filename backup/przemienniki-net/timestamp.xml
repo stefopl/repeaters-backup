@@ -1,3 +1,79 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html lang="pl">
 
-<timestamp>2025-01-06 16:09:36</timestamp>
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<title>przemienniki.net</title>
+<style type="text/css">
+/* latin-ext */
+@font-face {
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 500;
+	src: local('Raleway Medium'), local('Raleway-Medium'), url(Raleway-Medium-latin-ext.woff2) format('woff2'), url(Raleway-Medium.woff) format('woff');
+	unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: 'Raleway';
+	font-style: normal;
+	font-weight: 500;
+	src: local('Raleway Medium'), local('Raleway-Medium'), url(Raleway-Medium-latin.woff2) format('woff2'), url(Raleway-Medium.woff) format('woff');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+/* latin-ext */
+@font-face {
+	font-family: 'Raleway';
+	font-style: italic;
+	font-weight: 500;
+	src: local('Raleway Medium Italic'), local('Raleway-MediumItalic'), url(Raleway-MediumItalic-latin-ext.woff2) format('woff2'), url(Raleway-MediumItalic.woff) format('woff2');
+	unicode-range: U+0100-024F, U+1E00-1EFF, U+20A0-20AB, U+20AD-20CF, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+	font-family: 'Raleway';
+	font-style: italic;
+	font-weight: 500;
+	src: local('Raleway Medium Italic'), local('Raleway-MediumItalic'), url(Raleway-MediumItalic-latin.woff2) format('woff2'), url(Raleway-MediumItalic.woff) format('woff2');
+	unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215;
+}
+
+body {
+	font-family: Raleway !important;
+	background: rgb(255,255,255);
+	margin: 15px;
+}
+
+a:link, a:visited {
+	color: rgb(51, 122, 183);
+	text-decoration: none;
+}
+
+a:active, a:visited {
+	color: rgb(255,0,0);
+	text-decoration: underline;
+}
+
+p { text-align: justify; }
+
+img {     max-width: 100%;
+    max-height: 100%;
+}
+</style>
+</head>
+<body>
+	<img src="logont.png" alt="" />
+	<h1>I teraz to już naprawdę koniec.</h1>
+	<p>Niestety, nie jestem w stanie ani usunąć długu technologicznego w kodzie strony, ani przepisać strony od nowa. Związane jest to z moim dość intensywnym życiem zawodowym jak i prywatnym. Po prostu nie mam na to czasu ani siły. Ani też chęci, bo na przestrzeni lat, krótkofalarstwo z różnych powodów przestało być moim hobby. A niestety praca przy takim serwisie, który jest zintegrowany z wieloma usługami, to jest kupa roboty i czasu. Czasu który wolę spędzić w inny sposób.</p>
+	<p>Serwis został napisany w czasach PHP 5.0. Od tamtego czasu sporo się pozmieniało, pozmieniały się przeróżne API z których strona korzystała, PHP też się porządnie zmieniło i przez to doszedłem do punktu w którym bardzo dużo kodu trzeba by było przepisać. I nie oszukujmy się, nigdy nie wiązałem swojej kariery zawodowej z programowaniem, tak więc nawet te 15 lat temu, kod strony najpierw był napisaną na kolanie prowizorką, do której były doklejane kolejne rzeczy i kolejne komponenty, które dzisiaj są już mocno przeterminowane, by potem stać się niezarządzalnym potworkiem którego trzeba zaorać i zakopać głęboko pod ziemią. Tak więc, stronę trzeba by było napisać od nowa. Próbowałem, powstał jakiś szkielet, ale po paru tygodniach zrozumiałem że nie mam na to po prostu czasu. Tak samo rozwój nowych typów przemienników również wymagał zmian kodu strony. A ja swoją przygodę z krótkofalarstwem skończyłem w momencie gdy przemienniki cyfrowe były w testach.</p>
+	<p>Aktualnie prowadzone są prace aby uruchomić ten serwis w nowej wersji i liczę że nowym administratorom się to uda już wkrótce. Będę starał się aktualizować informacje na ten temat.</p>
+	<p>Wobec powyższego proszę, poniżej ostatni dump z bazy, i cytując Douglasa Adamsa - cześć, i dzięki za ryby.</p>
+	<p><a href="przemienniki.net.sql.xz">przemienniki.net.sql.xz</a></p>
+	<p>73!</p>
+</body>
+</html>
