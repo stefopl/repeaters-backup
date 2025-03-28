@@ -1,12 +1,4 @@
 number;valid_to;call_sign;category;transmitter_power;name_type_station;emission;input_frequency;output_frequency;station_location
-DC.WML.5101.764.2020.2;2025-03-26;SR9DMR;Kategoria5;15;CyfrowyPrzekaznik;"";430.85;438.45;Katowice
-DC.WML.5101.778.2020.2;2025-03-26;SR8LLB;Kategoria5;15;PrzemiennikFMDV;"";431.65, 144.8;439.25, 144.8;Lubartów
-DC.WML.5101.780.2020.2;2025-03-26;SR5WXW;Kategoria5;15;StacjaPogodowa;"";144.95, 434.95;144.95, 434.95;Warszawa
-DC.WML.5101.784.2020.2;2025-03-27;SR2D;Kategoria5;15;CyfrowyPrzemiennik;"";145.125;145.725;Gdañsk
-DC.WML.5101.785.2020.2;2025-03-27;SR5WP;Kategoria5;15;PrzemiennikFMDV;"";431.025;438.625;Moszna-Parcela
-DC.WML.5101.786.2020.2;2025-03-27;SR5WC;Kategoria5;15;PrzemiennikFMDV;"";431;438.6;Moszna-Parcela
-DC.WML.5101.867.2020.2;2025-04-07;SR7ULM;Kategoria5;15;PrzemiennikFMDV;"";431.9;439.5;£ódŸ
-DC.WML.5101.868.2020.2;2025-04-07;SR5OMZ;Kategoria5;15;CyfrowyPrzemiennik;"";145.1375;145.7375;Ciechanów
 DC.WML.5101.956.2020.2;2025-04-17;SR5WZ;Kategoria5;15;PrzemiennikFMDV;"";431.4;439;Moszna-Parcela
 DC.WML.5101.959.2020.3;2025-04-17;SR5WB;Kategoria5;15;PrzemiennikFMDV;"";430.95;438.55;Moszna-Parcela
 DC.WML.5101.996.2020.2;2025-04-23;SR6DWH;Kategoria5;15;CyfrowaStacjaWezlowa;"";144.8, 144.925, 438.45, 438.375, 2392.25;144.8, 144.925, 430.85, 430.775, 2392.25;Wa³brzych
@@ -295,6 +287,7 @@ DC.WML.5101.434.2024.2;2029-01-24;SR6DB;Kategoria5;15;CyfrowaStacjaWezlowa;"";70
 DC.WML.5101.495.2024.2;2029-01-26;SR5NWA;Kategoria5;15;PrzekaznikAPRS;"";432.5, 144.8;432.5, 144.8;Warszawa
 DC.WML.5101.496.2024.2;2029-01-26;SR5FUS;Kategoria5;15;CyfrowyPrzemiennik;"";430.55;438.15;Radom
 DC.WML.5101.626.2024.2;2029-01-31;SR3PN;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Pniewy
+DC.WML.5101.3515.2024.2;2029-06-14;SR4SUW;Kategoria5;15;CyfrowyPrzekaznik;"";434.7;434.7;Suwa³ki
 DC.WML.5101.628.2024.2;2029-02-01;SR2CPA;Kategoria5;15;PrzekaznikAPRS;"";432.5, 144.8, 433.8, 433.775, 434.855;432.5, 144.8, 433.8, 433.775, 434.855;Tonin
 DC.WML.5101.629.2024.2;2029-02-01;SR2SAT;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Samoci¹¿ek
 DC.WML.5101.635.2024.3;2029-02-01;SR8BD;Kategoria5;15;AnalogowyPrzemiennikFM;"";70.275, 431.275;70.275, 438.875;Bia³a Podlaska
@@ -328,7 +321,6 @@ DC.WML.5101.2221.2024.2;2029-04-15;SR7OS;Kategoria5;15;AnalogowyPrzemiennikFM;""
 DC.WML.5101.2336.2024.2;2029-04-22;SR5E;Kategoria5;15;PrzekaznikAPRS, AnalogowyPrzemiennikFM;"";144.8, 431.775;144.8, 439.375;Warszawa
 DC.WML.5101.2432.2024.2;2029-05-28;SR8LHN;Kategoria5;10;Radiolatarnia;"";1296.984;1296.984;Rakowiska
 DC.WML.5101.2472.2024.2;2029-04-29;SR4LU;Kategoria5;15;PrzemiennikFMDV;"";145.0875, 431.775;145.6875, 439.375;Tuszewo
-DC.WML.5101.2473.2024.2;2029-04-29;SR1WR;Kategoria5;15;PrzemiennikFMDV;"";431.45;439.05;Rymañ
 DC.WML.5101.2566.2024.2;2029-05-14;SR5MM;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.35;438.95;Miñsk Mazowiecki
 DC.WML.5101.2568.2024.5;2029-05-02;SR4BL;Kategoria5;15;PrzekaznikAPRS, AnalogowyPrzemiennikFM;"";144.8, 431;144.8, 438.6;£om¿a
 DC.WML.5101.2296.2024.5;2029-05-16;SR8KSR;Kategoria5;15;PrzemiennikFMDV;"";431.325;438.925;Krosno
@@ -342,12 +334,10 @@ DC.WML.5101.3406.2024.2;2029-06-14;SR4WX;Kategoria5;15;CyfrowyPrzekaznik;"";432.
 DC.WML.5101.3455.2024.2;2029-06-12;SR8LUB;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.8;439.4;Lublin
 DC.WML.5101.3478.2024.2;2025-09-03;SR8WXL;Kategoria5;15;StacjaPogodowaAPRS;"";434.855, 144.8;434.855, 144.8;Lubatowa
 DC.WML.5101.3514.2024.2;2029-06-14;SR9DKA;Kategoria5;15;PrzemiennikFMDV;"";430.9;438.5;Siemianowice Œl¹skie
-DC.WML.5101.3515.2024.2;2029-06-14;SR4SUW;Kategoria5;15;CyfrowyPrzekaznik;"";434.7;434.7;Suwa³ki
 DC.WML.5101.3516.2024.2;2029-06-14;SR3X;Kategoria5;15;PrzemiennikFMDV;"";431.4375, 145.1625;439.0375, 145.7625;Poznañ
 DC.WML.5101.3517.2024.2;2029-06-17;SR8FM;Kategoria5;15;PrzemiennikFMDV;"";434.4;434.4;Zawierzbie
 DC.WML.5101.3513.2024.2;2029-06-17;SR5ZOC;Kategoria5;15;CyfrowaStacjaWezlowa;"";434.855, 145.5875, 432.5, 144.95, 144.8;434.855, 145.5875, 432.5, 144.95, 144.8;Nowosielec
 DC.WML.5101.3551.2024.3;2029-06-17;SR9NRA;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Rajcza Graberki
-DC.WML.5101.3743.2024.3;2029-06-25;SR6L;Kategoria5;15;PrzemiennikFMDV;"";431.6;439.2;Legnica
 DC.WML.5101.4107.2024.2;2029-07-12;SR0LORA;Kategoria5;5;CyfrowyPrzekaznik;"";438.115;438.115;Radzymin
 DC.WML.5101.4108.2024.2;2029-07-12;SR3DGW;Kategoria5;15;CyfrowyPrzemiennik;"";430.95;438.55;Gorzów Wielkopolski
 DC.WML.5101.4110.2024.2;2029-07-12;SR9SIM;Kategoria5;15;CyfrowyPrzemiennik;"";431.4375;439.0375;Sosnowiec
@@ -361,7 +351,6 @@ DC.WML.5101.5220.2024.3;2029-09-10;SR6TT;Kategoria5;15;AnalogowyPrzemiennikFM;""
 DC.WML.5101.5224.2024.2;2029-09-10;SR2LMU;Kategoria5;15;PrzekaznikAPRS;"";144.8, 434.855, 433.775, 433.8, 432.5;144.8, 434.855, 433.775, 433.8, 432.5;Murczynek
 DC.WML.5101.5248.2024.2;2029-09-17;SR8NLU;Kategoria5;15;AnalogowyPrzemiennikFM, PrzekaznikAPRS, StacjaPogodowaAPRS, CyfrowyPrzemiennik;"";431.325, 433.8, 432.5, 144.95, 144.85, 144.8, 144.6;431.325, 433.8, 432.5, 144.95, 144.85, 144.8, 144.6;Niedrzwica Du¿a
 DC.WML.5101.5249.2024.3;2029-09-17;SR4SUU;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.3;438.9;Suwa³ki
-DC.WML.5101.5250.2024.2;2029-09-11;SR4PL;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.975;439.575;Podleœna
 DC.WML.5101.5251.2024.2;2029-09-11;SR1RES;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Resko
 DC.WML.5101.5253.2024.2;2029-09-19;SR1AD;Kategoria5;15;Radiolatarnia;"";432.427, 144.427, 70.042, 50.427;432.427, 144.427, 70.042, 50.427;Szczecin
 DC.WML.5101.5254.2024.2;2029-09-11;SR5ECHO;Kategoria5;15;AnalogowyPrzemiennikFM;"";145.7, 439.15;145.7, 439.15;Warszawa
@@ -412,11 +401,22 @@ DC.WML.5101.596.2025.2;2030-01-29;SR7OSQ;Kategoria5;15;CyfrowyPrzemiennik;"";431
 DC.WML.5101.580.2025.2;2026-02-03;SR9POL;Kategoria5;15;AnalogowyPrzemiennikFM;"";50.53;50.53;Stary S¹cz - Góra Przehyba
 DC.WML.5101.600.2025.2;2030-01-29;SR2DCH;Kategoria5;15;CyfrowyPrzemiennik;"";430.7875;438.3875;Cz³uchów
 DC.WML.5101.611.2025.2;2029-11-26;SR7KFX;Kategoria5;15;PrzemiennikFMDV;"";430.6625, 431.65;438.2625, 439.25;Wielenin-Kolonia
+DC.WML.5101.634.2025.2;2029-04-29;SR1WR;Kategoria5;15;PrzemiennikFMDV;"";431.0875, 431.45;438.6875, 439.05;Rymañ
+DC.WML.5101.608.2025.3;2029-06-25;SR6L;Kategoria5;15;PrzemiennikFMDV;"";431.95, 431.85, 431.525, 431.6;439.55, 439.45, 439.125, 439.2;Legnica
 DC.WML.5101.796.2025.2;2030-02-03;SR7U;Kategoria5;15;PrzekaznikAPRS, CyfrowaStacjaWezlowa;"";5795, 2397, 434.855, 433.775, 144.8;5795, 2397, 434.855, 433.775, 144.8;Chêciny
 DC.WML.5101.866.2025.3;2030-02-05;SR1WXW;Kategoria5;15;PrzekaznikAPRS;"";434.855, 432.5, 144.8;434.855, 432.5, 144.8;Zagozd
 DC.WML.5101.868.2025.2;2030-02-05;SR1M;Kategoria5;15;StacjaPogodowa;"";144.95;144.95;Malechowo
 DC.WML.5101.908.2025.2;2030-02-06;SR9GM;Kategoria5;10;PrzekaznikAPRS;"";144.8;144.8;Ustroñ
 DC.WML.5101.909.2025.2;2030-02-06;SR3AK;Kategoria5;15;StacjaPogodowaAPRS;"";144.8;144.8;Pi³ka
 DC.WML.5101.1070.2025.2;2030-02-12;SR9NSK;Kategoria5;15;StacjaPogodowaAPRS;"";5810, 5780, 5680, 2387, 434.675, 144.8;5810, 5780, 5680, 2387, 434.675, 144.8;Szczyrk Góra Skrzyczne
+DC.WML.5101.1097.2025.2;2030-02-13;SR3GBN;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Nowo³oskoniec
 DC.WML.5101.1123.2025.2;2030-02-13;SR9SR;Kategoria5;15;CyfrowyPrzemiennik;"";430.8875;438.3875;Rybnik
 DC.WML.5101.1244.2025.2;2030-02-19;SR9WXS;Kategoria5;5;StacjaPogodowaAPRS, PrzekaznikAPRS;"";5680, 2387, 439.875, 439.66, 144.8;5680, 2387, 439.875, 439.6, 144.8;Bielsko Bia³a
+DC.WML.5101.1433.2025.2;2030-02-26;SR8RZE;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.6875;439.2875;Rzeszów
+DC.WML.5101.1460.2025.2;2030-02-27;SR6TW;Kategoria5;15;CyfrowyPrzemiennik;"";431.15;438.75;Che³stów - wie¿a
+DC.WML.5101.1782.2025.2;2029-09-11;SR4PL;Kategoria5;15;AnalogowyPrzemiennikFM;"";430.175;439.575;Podleœna
+DC.WML.5101.1835.2025.3;2030-03-18;SR4T;Kategoria5;15;AnalogowyPrzemiennikFM;"";145.1625;145.7625;Turcz
+DC.WML.5101.1838.2025.3;2030-04-17;SR5WB;Kategoria5;15;PrzemiennikFMDV;"";430.95;438.55;Moszna-Parcela
+DC.WML.5101.1878.2025.3;2030-03-27;SR5WC;Kategoria5;15;PrzemiennikFMDV;"";431;438.6;Moszna-Parcela
+DC.WML.5101.1879.2025.3;2030-03-27;SR5WP;Kategoria5;15;PrzemiennikFMDV;"";431.025;438.625;Moszna-Parcela
+DC.WML.5101.1880.2025.4;2030-04-17;SR5WZ;Kategoria5;15;PrzemiennikFMDV;"";431.4;439;Moszna-Parcela
