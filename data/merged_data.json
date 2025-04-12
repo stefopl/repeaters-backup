@@ -3056,6 +3056,36 @@
             "lng": ""
         }
     },
+    "SR3DKA": {
+        "przemienniki_eu": {
+            "Callsign": "SR3DKA",
+            "Modes": "dmr, c4fm, dstar",
+            "TX Frequency": "438.4",
+            "TX CTCSS": "",
+            "RX Frequency": "430.8",
+            "RX CTCSS": "",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "working",
+            "Latitude": "51.7423",
+            "Longitude": "18.0959",
+            "QTH": "Kalisz",
+            "Locator": "JO91BR"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.6507.2024.2",
+            "valid_to": "2029-11-22",
+            "call_sign": "SR3DKA",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowyPrzemiennik",
+            "emission": "",
+            "input_frequency": "430.8",
+            "output_frequency": "438.4",
+            "station_location": "Kalisz"
+        }
+    },
     "SR3DMR": {
         "przemienniki_eu": {
             "Callsign": "SR3DMR",
@@ -3503,8 +3533,8 @@
             "Duplex": "-",
             "Offset": "0.6",
             "Status": "working",
-            "Latitude": "51.763809",
-            "Longitude": "18.081964",
+            "Latitude": "51.763816",
+            "Longitude": "18.081671",
             "QTH": "Kalisz",
             "Locator": "JO91AS"
         },
@@ -5227,7 +5257,7 @@
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "7.6",
-            "Status": "working",
+            "Status": "off",
             "Latitude": "53.931698255447",
             "Longitude": "20.498333298029",
             "QTH": "Dobre Miasto",
@@ -6600,6 +6630,36 @@
             "Longitude": "21.219062",
             "QTH": "Swietajno",
             "Locator": "KO03ON"
+        }
+    },
+    "SR4T": {
+        "przemienniki_eu": {
+            "Callsign": "SR4T",
+            "Modes": "fm, echolink, extremelink",
+            "TX Frequency": "145.7625",
+            "TX CTCSS": "94.8",
+            "RX Frequency": "145.1625",
+            "RX CTCSS": "94.8",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "0.6",
+            "Status": "working",
+            "Latitude": "54.2789608",
+            "Longitude": "20.9415585",
+            "QTH": "Turcz",
+            "Locator": "KO04LG"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.1835.2025.3",
+            "valid_to": "2030-03-18",
+            "call_sign": "SR4T",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "145.1625",
+            "output_frequency": "145.7625",
+            "station_location": "Turcz"
         }
     },
     "SR4U": {
@@ -9334,7 +9394,7 @@
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "7.6",
-            "Status": "working",
+            "Status": "off",
             "Latitude": "50.944061",
             "Longitude": "15.762719",
             "QTH": "Jezow Sudecki",
@@ -11661,14 +11721,14 @@
         "przemienniki_eu": {
             "Callsign": "SR7LA",
             "Modes": "fm",
-            "TX Frequency": "439.575",
+            "TX Frequency": "439.55",
             "TX CTCSS": "77",
-            "RX Frequency": "431.975",
+            "RX Frequency": "431.95",
             "RX CTCSS": "77",
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "7.6",
-            "Status": "testing",
+            "Status": "working",
             "Latitude": "51.58721",
             "Longitude": "19.16252",
             "QTH": "ask",
@@ -15662,6 +15722,24 @@
             "lng": ""
         }
     },
+    "SR9BB": {
+        "przemienniki_eu": {
+            "Callsign": "SR9BB",
+            "Modes": "fm, fmlink",
+            "TX Frequency": "438.5375",
+            "TX CTCSS": "67",
+            "RX Frequency": "430.9375",
+            "RX CTCSS": "67",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "planned",
+            "Latitude": "49.755244",
+            "Longitude": "19.002927",
+            "QTH": "Schroniska PTTK Szyndzielnia",
+            "Locator": "JN99MS"
+        }
+    },
     "SR9BN": {
         "przemienniki_eu": {
             "Callsign": "SR9BN",
@@ -17819,7 +17897,7 @@
     "SR9SS": {
         "przemienniki_eu": {
             "Callsign": "SR9SS",
-            "Modes": "fm",
+            "Modes": "fm, fmlink",
             "TX Frequency": "439.1",
             "TX CTCSS": "71.9",
             "RX Frequency": "431.5",
@@ -18808,9 +18886,9 @@
             "Callsign": "SR9X",
             "Modes": "fm",
             "TX Frequency": "145.7",
-            "TX CTCSS": "",
+            "TX CTCSS": "94.8",
             "RX Frequency": "145.1",
-            "RX CTCSS": "",
+            "RX CTCSS": "94.8",
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "0.6",
@@ -24661,20 +24739,6 @@
             "station_location": "Warszawa"
         }
     },
-    "SR3DKA": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.6507.2024.2",
-            "valid_to": "2029-11-22",
-            "call_sign": "SR3DKA",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "CyfrowyPrzemiennik",
-            "emission": "",
-            "input_frequency": "430.8",
-            "output_frequency": "438.4",
-            "station_location": "Kalisz"
-        }
-    },
     "SR9WXW": {
         "UKE_individual_devices": {
             "number": "DC.WML.5101.6598.2024.2",
@@ -25009,20 +25073,6 @@
             "input_frequency": "431.6875",
             "output_frequency": "439.2875",
             "station_location": "Rzeszów"
-        }
-    },
-    "SR4T": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.1835.2025.3",
-            "valid_to": "2030-03-18",
-            "call_sign": "SR4T",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "AnalogowyPrzemiennikFM",
-            "emission": "",
-            "input_frequency": "145.1625",
-            "output_frequency": "145.7625",
-            "station_location": "Turcz"
         }
     }
 }
