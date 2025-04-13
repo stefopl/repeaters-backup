@@ -259,7 +259,7 @@ SR5R,fm,145.6,,145,127.3,,-,0.6,working,52.158506,20.817633,Pruszkow,KO02JD
 SR5RA,fm,438.925,118.8,431.325,118.8,,-,7.6,working,51.355087,21.099805,Radom,KO01NI
 SR5RAD,"fm, fmpoland",145.7875,118.8,145.1875,118.8,,-,0.6,working,51.408958,21.114788,"RADOM - maszt Emitel",KO01NJ
 SR5RK,"fm, dstar",438.75,118.8,431.15,118.8,,-,7.6,working,51.358587,20.572206,"Kozowiec - Przysucha RTCN",KO01GI
-SR5RR,"fm, echolink, fmpoland",439.275,127.3,431.675,127.3,,-,7.6,off,52.178734,21.056765,"Warszawa - Mokotow, ul. Iberyjska",KO02ME
+SR5RR,"fm, echolink, fmpoland",439.275,127.3,431.675,127.3,,-,7.6,working,52.178734,21.056765,"Warszawa - Mokotow, ul. Iberyjska",KO02ME
 SR5S,"fm, echolink, fmpoland",145.6125,127.3,145.0125,127.3,,-,0.6,working,52.178818,22.271183,Siedlce,KO12DE
 SR5SE,"fm, c4fm",438.75,127.3,431.15,127.3,,-,7.6,working,52.178818,22.271183,Siedlce,KO12DE
 SR5SQ,c4fm,438.9875,,431.3875,,,-,7.6,off,52.007496,20.589476,"Krze Duze",KO02HA
