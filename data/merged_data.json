@@ -1949,6 +1949,51 @@
             "lng": ""
         }
     },
+    "SR2GRU": {
+        "przemienniki_eu": {
+            "Callsign": "SR2GRU",
+            "Modes": "fm",
+            "TX Frequency": "145.6875",
+            "TX CTCSS": "",
+            "RX Frequency": "145.0875",
+            "RX CTCSS": "94.8",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "0.6",
+            "Status": "working",
+            "Latitude": "53.45833",
+            "Longitude": "18.75",
+            "QTH": "Grudziadz",
+            "Locator": "JO93JL"
+        },
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.2058.2024.2",
+            "valid_to": "2039-04-09",
+            "call_sign": "SR2GRU",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowyPrzemiennik",
+            "emission": "",
+            "input_frequency": "145.6875",
+            "output_frequency": "145.0875",
+            "applicant_name": "Liga Obrony Kraju",
+            "applicant_city": "Warszawa",
+            "applicant_street": "ul. Chocimska",
+            "applicant_house": "14",
+            "applicant_number": "",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Grudzi¹dz",
+            "station_street": "ul. Cegielniana",
+            "station_house": "3",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
+        }
+    },
     "SR2GS": {
         "przemienniki_eu": {
             "Callsign": "SR2GS",
@@ -6329,15 +6374,15 @@
             "Modes": "fm, echolink, extremelink",
             "TX Frequency": "439.575",
             "TX CTCSS": "67",
-            "RX Frequency": "431.975",
+            "RX Frequency": "430.175",
             "RX CTCSS": "67",
             "RX 1750": "",
             "Duplex": "-",
-            "Offset": "7.6",
+            "Offset": "9.4",
             "Status": "working",
             "Latitude": "53.938",
             "Longitude": "20.458",
-            "QTH": "Podlesna",
+            "QTH": "Podlesna 66",
             "Locator": "KO03FW"
         },
         "UKE_individual_devices": {
@@ -14867,6 +14912,36 @@
             "lng": ""
         }
     },
+    "SR8RZE": {
+        "przemienniki_eu": {
+            "Callsign": "SR8RZE",
+            "Modes": "fm, fmpoland",
+            "TX Frequency": "439.2875",
+            "TX CTCSS": "71.9",
+            "RX Frequency": "431.6875",
+            "RX CTCSS": "71.9",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "working",
+            "Latitude": "50.062275",
+            "Longitude": "21.954842",
+            "QTH": "Rzeszow",
+            "Locator": "KO00XB"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.1433.2025.2",
+            "valid_to": "2030-02-26",
+            "call_sign": "SR8RZE",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "431.6875",
+            "output_frequency": "439.2875",
+            "station_location": "Rzeszów"
+        }
+    },
     "SR8S": {
         "przemienniki_eu": {
             "Callsign": "SR8S",
@@ -17249,6 +17324,24 @@
             "station_location": "Krynica-Zdrój - szczyt góry Jaworzyna Krynicka"
         }
     },
+    "SR9NKU": {
+        "przemienniki_eu": {
+            "Callsign": "SR9NKU",
+            "Modes": "fm, echolink, fmpoland",
+            "TX Frequency": "438.3625",
+            "TX CTCSS": "71.9",
+            "RX Frequency": "430.7625",
+            "RX CTCSS": "71.9",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "inprogress",
+            "Latitude": "50.341733",
+            "Longitude": "19.210983",
+            "QTH": "Dabrowa Gornicza",
+            "Locator": "JO90IO"
+        }
+    },
     "SR9NP": {
         "przemienniki_eu": {
             "Callsign": "SR9NP",
@@ -17442,6 +17535,24 @@
             "station_number": "",
             "lat": "",
             "lng": ""
+        }
+    },
+    "SR9OKO": {
+        "przemienniki_eu": {
+            "Callsign": "SR9OKO",
+            "Modes": "dmr",
+            "TX Frequency": "438.8",
+            "TX CTCSS": "",
+            "RX Frequency": "431.2",
+            "RX CTCSS": "",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "working",
+            "Latitude": "50.1348061",
+            "Longitude": "18.1668112",
+            "QTH": "Strzybnik",
+            "Locator": "JO90BD"
         }
     },
     "SR9OMP": {
@@ -17988,6 +18099,36 @@
             "station_number": "",
             "lat": "",
             "lng": ""
+        }
+    },
+    "SR9SR": {
+        "przemienniki_eu": {
+            "Callsign": "SR9SR",
+            "Modes": "dmr",
+            "TX Frequency": "438.4875",
+            "TX CTCSS": "",
+            "RX Frequency": "430.8875",
+            "RX CTCSS": "",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "working",
+            "Latitude": "50.086379",
+            "Longitude": "18.554571",
+            "QTH": "Rybnik",
+            "Locator": "JO90GC"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.1123.2025.2",
+            "valid_to": "2030-02-13",
+            "call_sign": "SR9SR",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowyPrzemiennik",
+            "emission": "",
+            "input_frequency": "430.8875",
+            "output_frequency": "438.3875",
+            "station_location": "Rybnik"
         }
     },
     "SR9SS": {
@@ -21872,35 +22013,6 @@
             "lng": ""
         }
     },
-    "SR2GRU": {
-        "UKE_club_devices": {
-            "number": "DC.WML.5101.2058.2024.2",
-            "valid_to": "2039-04-09",
-            "call_sign": "SR2GRU",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "CyfrowyPrzemiennik",
-            "emission": "",
-            "input_frequency": "145.6875",
-            "output_frequency": "145.0875",
-            "applicant_name": "Liga Obrony Kraju",
-            "applicant_city": "Warszawa",
-            "applicant_street": "ul. Chocimska",
-            "applicant_house": "14",
-            "applicant_number": "",
-            "enduser_name": "",
-            "enduser_city": "",
-            "enduser_street": "",
-            "enduser_house": "",
-            "enduser_number": "",
-            "station_city": "Grudzi¹dz",
-            "station_street": "ul. Cegielniana",
-            "station_house": "3",
-            "station_number": "",
-            "lat": "",
-            "lng": ""
-        }
-    },
     "SR9LHK": {
         "UKE_club_devices": {
             "number": "DC.WML.5101.2172.2024.2",
@@ -25061,20 +25173,6 @@
             "station_location": "Nowo³oskoniec"
         }
     },
-    "SR9SR": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.1123.2025.2",
-            "valid_to": "2030-02-13",
-            "call_sign": "SR9SR",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "CyfrowyPrzemiennik",
-            "emission": "",
-            "input_frequency": "430.8875",
-            "output_frequency": "438.3875",
-            "station_location": "Rybnik"
-        }
-    },
     "SR9WXS": {
         "UKE_individual_devices": {
             "number": "DC.WML.5101.1244.2025.2",
@@ -25087,20 +25185,6 @@
             "input_frequency": "5680, 2387, 439.875, 439.66, 144.8",
             "output_frequency": "5680, 2387, 439.875, 439.6, 144.8",
             "station_location": "Bielsko Bia³a"
-        }
-    },
-    "SR8RZE": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.1433.2025.2",
-            "valid_to": "2030-02-26",
-            "call_sign": "SR8RZE",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "AnalogowyPrzemiennikFM",
-            "emission": "",
-            "input_frequency": "431.6875",
-            "output_frequency": "439.2875",
-            "station_location": "Rzeszów"
         }
     },
     "SR9LRA": {
