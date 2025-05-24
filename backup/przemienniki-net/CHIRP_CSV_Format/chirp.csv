@@ -1,110 +1,298 @@
-<!DOCTYPE html>
-<html lang="pl">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Wkrótce ruszamy</title>
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;700&display=swap" rel="stylesheet">
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      font-family: 'Playfair Display', serif;
-      background: url('/i/photo-unsplash.jpg') no-repeat center center fixed;
-      /* image from https://unsplash.com/photos/aerial-photography-of-mountain-and-trees-during-golden-hour-EShGwCZs3Nc, license https://unsplash.com/license */
-      background-size: cover;
-      color: #212529;
-      height: 100vh;
-      overflow: hidden;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-
-    .blur-overlay {
-      backdrop-filter: blur(8px);
-      background-color: rgba(255, 255, 255, 0.6);
-      width: 100%;
-      height: 100%;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      flex-direction: column;
-    }
-
-    .fade-in {
-      opacity: 0;
-      transform: translateY(20px);
-      animation: fadeInUp 1s ease-out forwards;
-    }
-
-    .fade-in:nth-child(1) {
-      animation-delay: 0.2s;
-    }
-
-    .fade-in:nth-child(2) {
-      animation-delay: 0.4s;
-    }
-
-    .fade-in:nth-child(3) {
-      animation-delay: 0.6s;
-    }
-
-    .fade-in:nth-child(4) {
-      animation-delay: 0.8s;
-    }
-
-    @keyframes fadeInUp {
-      to {
-        opacity: 1;
-        transform: translateY(0);
-      }
-    }
-
-    .logo {
-      margin-bottom: 30px;
-    }
-
-    .logo img {
-    /*  width: 250px; */
-      height: auto;
-    }
-
-    .pzk-logo {
-      margin-top: 30px;
-    }
-
-    .pzk-logo img {
-      width: 94px;
-      height: 197px;
-    }
-
-    h1 {
-      font-size: 3rem;
-      margin-bottom: 1rem;
-    }
-
-    p {
-      font-size: 1.5rem;
-      max-width: 500px;
-      margin: 0 auto;
-    }
-  </style>
-</head>
-<body>
-  <div class="blur-overlay">
-    <div>
-      <div class="logo fade-in">
-        <img src="/i/logont.png" alt="Logo" />
-      </div>
-      <h1 class="fade-in">To nie koniec, niebawem rozpoczniemy nową przygodę.</h1>
-      <p class="fade-in">Stay tuned!</p>
-      <div class="pzk-logo fade-in">
-        <img src="/i/pzk.png" alt="PZK logo" />
-      </div>
-    </div>
-  </div>
-</body>
-</html>
-
+Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,Mode,TStep,Comment
+1,SR0CK,439.062500,-,7.600000,Tone,77.0,77.0,FM,12.5,Serock
+2,SR0DZ,439.537500,-,7.600000,,88.5,77.0,FM,12.5,Serock
+3,SR0WW,438.825000,-,7.600000,Tone,82.5,82.5,FM,12.5,Wolin
+5,SR1CH,145.787500,split,439.500000,Tone,82.5,82.5,FM,12.5,Czartoryja
+7,SR1G,145.625000,-,0.600000,Tone,88.5,88.5,FM,12.5,Kołobrzeg
+8,SR1K,145.700000,-,0.600000,Tone,82.5,82.5,FM,12.5,Stargard
+10,SR1KN,438.675000,-,7.600000,,88.5,88.5,FM,12.5,Koszalin Góra Chełmska - wieża widokowa
+11,SR1N,145.675000,-,0.600000,,88.5,88.5,FM,12.5,Koszalin
+12,SR1RE,439.150000,-,7.600000,Tone,88.5,88.5,FM,12.5,Resko
+13,SR1RG,438.875000,-,7.600000,Tone,82.5,82.5,FM,12.5,Trzebiatów
+14,SR1SZ,439.075000,-,7.600000,Tone,82.5,82.5,FM,12.5,Szczecin
+15,SR1UVH,439.025000,-,7.600000,,88.5,88.5,DV,12.5,Świnoujście
+16,SR1UVS,439.412500,-,7.600000,,88.5,88.5,DV,12.5,Szczecin
+19,SR1W,145.612500,-,0.600000,Tone,82.5,82.5,FM,12.5,Świnoujście
+20,SR1WA,439.400000,-,7.600000,Tone,82.5,82.5,FM,12.5,Wałcz
+22,SR1WU,438.725000,-,7.600000,Tone,82.5,82.5,FM,12.5,Świnoujście
+24,SR1Z,145.637500,-,0.600000,Tone,82.5,82.5,FM,12.5,Kołowo EMITEL
+25,SR1ZK-B,439.300000,-,7.600000,,88.5,88.5,DV,12.5,Kołowo
+28,SR2BG,145.725000,-,0.600000,Tone,67.0,67.0,FM,12.5,Bydgoszcz
+29,SR2BT,439.100000,-,7.600000,Tone,77.0,77.0,FM,12.5,Bory Tucholskie
+30,SR2BW,438.700000,-,7.600000,,88.5,88.5,FM,12.5,Bytów - komin ciepłowni Veolia Północ
+31,SR2C,145.600000,-,0.600000,Tone,94.8,94.8,FM,12.5,Chwaszczyno EMITEL
+34,SR2EL,439.550000,-,7.600000,Tone,94.8,94.8,FM,12.5,Elbląg
+35,SR2FM,439.537500,-,7.600000,Tone,74.4,74.4,FM,12.5,Szubin - Jabłowo Pałuckie / wieża p.poż
+37,SR2GA,438.975000,-,7.600000,Tone,94.8,94.8,FM,12.5,Władysławowo
+38,SR2GD,439.075000,-,7.600000,Tone,94.8,94.8,FM,12.5,Gdańsk
+39,SR2GD-C,439.087500,-,7.600000,Tone,94.8,94.8,FM,12.5,Gdańsk
+40,SR2GDA,439.350000,-,7.600000,Tone,94.8,94.8,FM,12.5,Pruszcz Gdański
+42,SR2GN,439.325000,-,7.600000,Tone,94.8,94.8,FM,12.5,Gniewino - Wieża widokowa
+43,SR2GR,439.200000,-,7.600000,Tone,94.8,88.5,FM,12.5,Grudziądz
+44,SR2GRU,145.687500,-,0.600000,Tone,94.8,88.5,FM,12.5,Grudziądz
+45,SR2GS,438.550000,-,7.600000,Tone,94.8,94.8,FM,12.5,Chwaszczyno
+46,SR2GT,439.025000,-,7.600000,Tone,94.8,94.8,FM,12.5,Chwaszczyno EMITEL
+48,SR2J,145.587500,-,0.600000,Tone,74.4,74.4,FM,12.5,Szubin - Jabłowo Pałuckie / wieża p.poż
+49,SR2JJ,439.162500,-,7.600000,Tone,74.4,74.4,FM,12.5,Szubin - Jabłowo Pałuckie / wieża p.poż
+50,SR2K,145.712500,-,0.600000,Tone,88.5,88.5,FM,12.5,Toruń
+51,SR2KU,439.425000,-,7.600000,Tone,94.8,94.8,FM,12.5,Wieżyca
+52,SR2KY,439.250000,-,7.600000,,88.5,88.5,FM,12.5,Kwidzyn
+55,SR2PA,439.300000,-,7.600000,Tone,94.8,94.8,FM,12.5,Pasłęk
+56,SR2PB,145.737500,-,0.600000,Tone,88.5,88.5,FM,12.5,Brodnica
+57,SR2SL,438.750000,-,7.600000,,88.5,88.5,FM,12.5,Słupsk
+58,SR2SWR,438.775000,-,7.600000,Tone,88.5,88.5,FM,12.5,Toruń
+59,SR2T,145.775000,-,0.600000,,88.5,88.5,FM,12.5,Toruń
+60,SR2UVF,438.937500,-,7.600000,,88.5,88.5,DV,12.5,Bydgoszcz
+62,SR2UVG-B,438.687500,-,7.600000,,88.5,88.5,DV,12.5,Chwaszczyno EMITEL
+63,SR2UVO,438.962500,-,7.600000,,88.5,88.5,DV,12.5,Włocławek
+64,SR2UVV-B,439.362500,-,7.600000,,88.5,88.5,DV,12.5,Szubin - Jabłowo Pałuckie / wieża p.poż
+65,SR2VV,439.137500,-,7.600000,Tone,74.4,74.4,FM,12.5,Szubin
+66,SR2VV-B,145.750000,-,0.600000,,88.5,74.4,FM,12.5,Szubin
+67,SR2VVV,439.337500,-,7.600000,,88.5,88.5,DV,12.5,Szubin
+68,SR2VVV-B,438.812500,-,7.600000,,88.5,88.5,DV,12.5,Szubin
+70,SR2WL,439.025000,-,7.600000,Tone,82.5,88.5,FM,12.5,Włocławek
+71,SR2Z,145.650000,-,0.600000,Tone,94.8,94.8,FM,12.5,Gdynia-Oksywie EMITEL
+74,SR3DOS,438.287500,-,7.600000,,88.5,88.5,DV,12.5,Ostrów Wielkopolski
+78,SR3G,145.750000,-,0.600000,Tone,77.0,77.0,FM,12.5,Gorzów Wielkopolski
+79,SR3GW,438.950000,-,7.600000,Tone,77.0,88.5,FM,12.5,Gorzów Wielkopolski - lokalny
+80,SR3JA,438.975000,-,7.600000,Tone,110.9,110.9,FM,12.5,Jarocin, ul. Kościuszki 43
+81,SR3K,145.750000,-,0.600000,,88.5,88.5,FM,12.5,Kalisz
+83,SR3KH,438.800000,-,7.600000,,88.5,88.5,FM,12.5,Koło - ZST
+86,SR3L,145.775000,-,0.600000,Tone,103.5,103.5,FM,12.5,Leszno
+87,SR3LS,439.275000,-,7.600000,Tone,103.5,103.5,FM,12.5,Leszno
+88,SR3LW,439.125000,-,7.600000,Tone,110.9,110.9,FM,12.5,Lwówek
+90,SR3MDW,439.225000,-,7.600000,Tone,103.5,103.5,FM,12.5,Leszno
+91,SR3N,145.687500,-,0.600000,Tone,110.9,110.9,FM,12.5,Piła
+92,SR3O,145.725000,-,0.600000,Tone,103.5,88.5,FM,12.5,Ostrów Wielkopolski
+93,SR3P,145.650000,-,0.600000,Tone,110.9,110.9,FM,12.5,Poznań - Dębiec
+94,SR3PB,438.875000,-,7.600000,Tone,110.9,110.9,FM,12.5,Pobiedziska
+95,SR3PI,439.050000,-,7.600000,Tone,67.0,67.0,FM,12.5,Piła
+96,SR3PO,439.200000,-,7.600000,Tone,110.9,110.9,FM,12.5,Poznań
+97,SR3PX,438.900000,-,7.600000,Tone,110.9,110.9,FM,12.5,Słomowo
+98,SR3SN,439.100000,-,7.600000,Tone,100.0,100.0,FM,12.5,Świebodzin
+99,SR3T,145.637500,-,0.600000,Tone,110.9,110.9,FM,12.5,Malanów
+100,SR3UVL,439.237500,-,7.600000,,88.5,88.5,DV,12.5,Leszno
+101,SR3WT,439.325000,-,7.600000,Tone,110.9,110.9,FM,12.5,Wolsztyn
+102,SR3X,145.762500,-,0.600000,Tone,110.9,110.9,FM,12.5,Poznań
+103,SR3XX,439.025000,-,7.600000,Tone,110.9,110.9,FM,12.5,Poznań
+104,SR3XXX,438.700000,-,7.600000,Tone,110.9,110.9,FM,12.5,RTCN Poznań/Śrem, maszt EmiTel, adres Góra 42 koło Śremu
+105,SR3Z,145.712500,-,0.600000,Tone,71.9,71.9,FM,12.5,Zielona Góra
+107,SR3ZG,439.075000,-,7.600000,Tone,203.5,203.5,FM,12.5,Zielona Góra
+108,SR3ZJ,438.750000,-,7.600000,Tone,79.7,79.7,FM,12.5,Jemiołów EMITEL
+109,SR3ZX,439.350000,-,7.600000,,88.5,88.5,DV,12.5,Zielona Góra
+110,SR4BA,438.537500,-,7.600000,Tone,67.0,67.0,FM,12.5,Kiertyny Małe k/Bartoszyc
+111,SR4BS,439.025000,-,7.600000,Tone,67.0,67.0,FM,12.5,Białystok
+113,SR4D,145.787500,-,0.600000,Tone,67.0,67.0,FM,12.5,Miłki k/Giżycka  EMITEL
+116,SR4DGT,438.575000,-,7.600000,Tone,67.0,67.0,FM,12.5,Góra Dylewska EMITEL
+118,SR4EL,439.050000,-,7.600000,Tone,94.8,94.8,FM,12.5,Elbląg
+119,SR4J,145.625000,-,0.600000,Tone,67.0,67.0,FM,12.5,Góra Dylewska EMITEL
+121,SR4L,438.100000,-,7.600000,,88.5,88.5,DV,12.5,Łomża
+122,SR4LO,439.100000,-,7.600000,Tone,67.0,67.0,FM,12.5,Łomża - maszt
+123,SR4LU,439.375000,-,7.600000,Tone,67.0,67.0,FM,12.5,LUBAWA
+124,SR4MI,438.750000,-,7.600000,Tone,67.0,67.0,FM,12.5,Miłki k/Giżycka EMITEL
+127,SR4MO,438.450000,-,7.600000,Tone,67.0,67.0,FM,12.5,
+128,SR4MR,439.150000,-,7.600000,Tone,67.0,67.0,FM,12.5,Mrągowo - wieża ciśnień wodociągów
+129,SR4MWO,438.150000,-,7.600000,Tone,67.0,67.0,FM,12.5,Mrągowo
+130,SR4O,145.725000,-,0.600000,,88.5,67.0,FM,12.5,Olsztyn
+132,SR4ON,438.675000,-,7.600000,Tone,67.0,67.0,FM,12.5,Olsztyn
+134,SR4OS,438.400000,-,7.600000,Tone,67.0,67.0,FM,12.5,Ostróda
+135,SR4PA,439.000000,-,7.600000,Tone,94.8,94.8,FM,12.5,Pasłęk, pow. elbląski
+136,SR4PA,145.775000,-,0.600000,Tone,94.8,94.8,FM,12.5,Pasłęk
+137,SR4RS,145.700000,-,0.600000,Tone,67.0,67.0,FM,12.5,Białystok
+138,SR4S,145.575000,-,0.600000,Tone,67.0,67.0,FM,12.5,Sokółka
+139,SR4SA,439.375000,-,7.600000,Tone,67.0,67.0,FM,12.5,Sokółka
+140,SR4SN,438.875000,-,7.600000,Tone,67.0,88.5,FM,12.5,Szczytno
+141,SR4SU,438.800000,-,7.600000,Tone,67.0,67.0,FM,12.5,Jeleniewo
+142,SR4SUU,438.900000,-,7.600000,,88.5,88.5,FM,12.5,Suwałki, ul. Mickiewicza 15
+143,SR4U,145.725000,-,0.600000,,88.5,88.5,FM,12.5,Białystok
+144,SR4UBI,439.425000,-,7.600000,,88.5,88.5,DV,12.5,Białystok
+145,SR4UG,438.775000,-,7.600000,,88.5,88.5,DV,12.5,Giby
+146,SR4UVD,439.512500,-,7.600000,,88.5,88.5,DV,12.5,Góra Dylewska EMITEL
+147,SR4UVE,438.600000,-,7.600000,Tone,94.8,88.5,FM,12.5,Pasłęk
+148,SR4UVM,439.487500,-,7.600000,,88.5,88.5,DV,12.5,Miłki k/Giżycka  EMITEL
+149,SR4UVN,439.462500,-,7.600000,,88.5,88.5,DV,12.5,Olsztyn
+150,SR4X,145.600000,-,0.600000,Tone,67.0,88.5,FM,12.5,Juchnowiec
+152,SR5CI,438.437500,-,7.600000,Tone,127.3,88.5,FM,12.5,Ciechanów
+156,SR5E,439.375000,-,7.600000,Tone,127.3,127.3,FM,12.5,Warszawa-Ochota, ul. Częstochowska
+158,SR5FWG,438.250000,-,7.600000,Tone,127.3,127.3,FM,12.5,Garwolin
+159,SR5GM,439.225000,-,7.600000,Tone,127.3,127.3,FM,12.5,Grodzisk Mazowiecki
+161,SR5KPN,438.200000,split,430.600000,Tone,127.3,127.3,FM,12.5,Zamczysko
+163,SR5MM,438.950000,-,7.600000,Tone,127.3,127.3,FM,12.5,Mińsk Mazowiecki
+165,SR5ND,439.425000,-,7.600000,Tone,127.3,127.3,FM,12.5,Nowy Dwór Mazowiecki
+166,SR5NRD,438.975000,split,431.375000,Tone,127.3,88.5,FM,12.5,Cybulin
+167,SR5O,145.675000,-,0.600000,Tone,127.3,127.3,FM,12.5,Ostrołęka
+168,SR5OK,439.262500,-,7.600000,,88.5,88.5,DV,12.5,Kadzidło
+170,SR5OS,439.050000,-,7.600000,Tone,67.0,67.0,FM,12.5,Ostrołęka
+171,SR5P,145.725000,split,145.125000,Tone,127.3,88.5,FM,12.5,Płock
+172,SR5POT,439.150000,-,7.600000,Tone,127.3,127.3,FM,12.5,Warszawa, ul. Chełmżyńska
+173,SR5PR,439.175000,-,7.600000,,88.5,88.5,FM,12.5,Pruszków
+175,SR5R,145.600000,-,0.600000,Tone,127.3,88.5,FM,12.5,Pruszków
+176,SR5RA,438.925000,-,7.600000,Tone,118.8,118.8,FM,12.5,Radom
+177,SR5RAD,145.787500,-,0.600000,Tone,118.8,118.8,FM,12.5,RADOM - maszt Emitel
+178,SR5RK,438.750000,-,7.600000,Tone,118.8,118.8,FM,12.5,Kozłowiec - Przysucha RTCN
+179,SR5S,145.612500,-,0.600000,Tone,127.3,127.3,FM,12.5,Siedlce
+180,SR5SE,438.750000,-,7.600000,Tone,127.3,127.3,FM,12.5,Siedlce
+181,SR5U,145.775000,-,0.600000,,88.5,88.5,FM,12.5,Warszawa Ursus
+182,SR5UOS,438.912500,-,7.600000,,88.5,88.5,DV,12.5,Ostrołęka
+183,SR5UR,439.300000,-,7.600000,Tone,127.3,88.5,FM,12.5,Warszawa Ursus
+184,SR5UVR,438.525000,-,7.600000,,88.5,88.5,DV,12.5,Radom
+185,SR5VW,438.825000,-,7.600000,Tone,67.0,67.0,FM,12.5,Różan EMITEL
+186,SR5W,145.750000,-,0.600000,Tone,127.3,127.3,FM,12.5,Warszawa - komin EC Kawęczyn
+188,SR5WC,438.600000,-,7.600000,,88.5,88.5,DV,12.5,Moszna-Parcela komin Elektrociepłowni Pruszków II
+190,SR5WP,438.625000,-,7.600000,Tone,127.3,127.3,FM,12.5,Moszna-Parcela komin Elektrociepłowni Pruszków II
+193,SR5WZ,439.000000,-,7.600000,Tone,127.3,127.3,FM,12.5,Moszna-Parcela komin Elektrociepłowni Pruszków II
+194,SR5ZIP,439.250000,-,7.600000,Tone,127.3,127.3,FM,12.5,Warszawa
+195,SR5ZU,438.700000,-,7.600000,Tone,88.5,88.5,FM,12.5,Żuromin
+196,SR6AA,439.400000,-,7.600000,Tone,67.0,88.5,FM,12.5,Legnica
+197,SR6ACZ,438.950000,-,7.600000,Tone,103.5,103.5,FM,12.5,Wrocław
+198,SR6B,145.762500,-,0.600000,Tone,77.0,77.0,FM,12.5,Działoszyn - stacja meteo
+199,SR6C,439.250000,-,7.600000,Tone,67.0,67.0,FM,12.5,Bolesławiec
+200,SR6DA,439.137500,-,7.600000,,88.5,88.5,FM,12.5,Dalachów
+201,SR6DKB,438.262500,-,7.600000,,88.5,88.5,DV,12.5,Krapkowice
+203,SR6DST,145.687500,-,0.600000,Tone,123.0,123.0,FM,12.5,Strzelin, Wieża Ciśnień
+204,SR6DWS,438.462500,-,7.600000,,88.5,88.5,DV,12.5,Wielka Sowa
+205,SR6G,145.625000,-,0.600000,Tone,94.8,94.8,FM,12.5,Góra Ślęża EMITEL
+206,SR6GL,438.750000,-,7.600000,,88.5,88.5,FM,12.5,Głubczyce
+207,SR6J,145.675000,-,0.600000,Tone,67.0,67.0,FM,12.5,Góra Szrenica/Szklarska Poręba
+208,SR6JG,438.675000,-,7.600000,Tone,67.0,67.0,FM,12.5,Góra Kopa/Karpacz
+209,SR6K,145.737500,-,0.600000,,88.5,88.5,FM,12.5,Jugów
+210,SR6LWS,439.287500,-,7.600000,Tone,94.8,94.8,FM,12.5,Wielka Sowa
+211,SR6LZM,438.600000,-,7.600000,Tone,103.5,103.5,FM,12.5,Żmigród
+212,SR6MA,438.725000,-,7.600000,Tone,94.8,88.5,FM,12.5,Góra Ślęża EMITEL
+213,SR6MI,439.337500,-,7.600000,Tone,67.0,88.5,FM,12.5,Miłkowice
+214,SR6MRU,439.300000,-,7.600000,,88.5,88.5,FM,12.5,Wrocław
+215,SR6NR,439.425000,-,7.600000,Tone,94.8,88.5,FM,12.5,Nowa Ruda-Słupiec
+216,SR6OA,438.875000,-,7.600000,Tone,123.0,123.0,FM,12.5,Oława
+217,SR6OO,439.250000,-,7.600000,Tone,123.0,123.0,FM,12.5,Olesno
+218,SR6OP,439.325000,-,7.600000,Tone,94.8,94.8,FM,12.5,Opole
+219,SR6PS,438.800000,-,7.600000,Tone,94.8,94.8,FM,12.5,Świdnica
+220,SR6R,145.600000,-,0.600000,Tone,103.5,103.5,FM,12.5,Wrocław
+222,SR6S,145.787500,-,0.600000,Tone,94.8,94.8,FM,12.5,Wielka Sowa
+223,SR6TT,439.225000,-,7.600000,Tone,67.0,67.0,FM,12.5,59-420 BOLKÓW STARE ROCHOWICE 116
+224,SR6TW,438.750000,-,7.600000,,88.5,88.5,DV,12.5,Chełstów
+225,SR6UKB,439.262500,-,7.600000,Tone,94.8,94.8,FM,12.5,Kopa Biskupia
+227,SR6UVO,439.387500,-,7.600000,Tone,94.8,94.8,FM,12.5,Elektrownia Opole, Brzezie k/Opola
+228,SR6UVW,439.012500,-,7.600000,,88.5,88.5,DV,12.5,Wrocław - Dom Akademicki
+229,SR6UVX,439.412500,-,7.600000,Tone,103.5,88.5,FM,12.5,Żmigród
+230,SR6UVY,439.212500,-,7.600000,,88.5,88.5,FM,12.5,Oława
+231,SR6W,145.662500,-,0.600000,Tone,94.8,94.8,FM,12.5,Wałbrzych
+232,SR6WB,439.362500,-,7.600000,Tone,94.8,88.5,FM,12.5,Wałbrzych
+233,SR6WR,438.850000,-,7.600000,Tone,103.5,103.5,FM,12.5,Wrocław
+234,SR6WS,438.925000,-,7.600000,Tone,94.8,94.8,FM,12.5,Wielka Sowa
+235,SR6WY,439.075000,-,7.600000,Tone,71.9,71.9,FM,12.5,Wysoka k. Góry Św Anny
+237,SR7ABZ,145.275000,-,0.600000,Tone,88.5,88.5,FM,12.5,Busko-Zdrój
+238,SR7DBZ,438.562500,-,7.600000,,88.5,88.5,FM,12.5,Busko-Zdroj
+243,SR7E,145.762500,-,0.600000,Tone,77.0,77.0,FM,12.5,Bełchatów
+246,SR7KGO,145.275000,split,433.250000,Tone,88.5,88.5,FM,12.5,Busko-Zdrój
+247,SR7KI,438.725000,-,7.600000,Tone,88.5,88.5,FM,12.5,RTCN Święty Krzyż EmiTel - Łysa Góra/Nowa Słupia
+248,SR7KU,438.925000,-,7.600000,Tone,82.5,88.5,FM,12.5,Kutno
+249,SR7L,145.675000,-,0.600000,Tone,77.0,88.5,FM,12.5,Łódź
+250,SR7LD,439.075000,-,7.600000,Tone,77.0,77.0,FM,12.5,Łódź
+253,SR7LDZ,438.350000,-,7.600000,Tone,77.0,77.0,FM,12.5,Łódź
+256,SR7OS,439.475000,-,7.600000,Tone,71.9,71.9,FM,12.5,Ostrowiec Świętokrzyski
+257,SR7PB,438.650000,-,7.600000,,88.5,118.8,FM,12.5,Bałtów
+259,SR7SI,438.825000,-,7.600000,Tone,77.0,77.0,FM,12.5,Sieradz
+260,SR7ST,439.150000,-,7.600000,Tone,110.9,110.9,FM,12.5,Staszów - wieża   Polkomtel Sp. z o.o. - Plus
+262,SR7TCW,438.125000,split,145.300000,,88.5,88.5,FM,12.5,Złota
+263,SR7TM,438.675000,-,7.600000,Tone,118.8,118.8,FM,12.5,Tomaszów Mazowiecki
+264,SR7UAL,438.650000,-,7.600000,,88.5,88.5,DV,12.5,Łódź
+266,SR7UTM,439.100000,-,7.600000,,88.5,88.5,DV,12.5,Tomaszów Mazowiecki
+267,SR7UVK-B,439.125000,-,7.600000,,88.5,88.5,DV,12.5,Łysa Góra/Nowa Słupia - RTCN Święty Krzyż EmiTel
+268,SR7UVL-B,439.450000,-,7.600000,,88.5,88.5,DV,12.5,Łódź
+269,SR7UVV,439.487500,-,7.600000,,88.5,88.5,DV,12.5,Góra Kamieńsk wieża EmiTel
+270,SR7UWI,438.525000,-,7.600000,,88.5,88.5,DV,12.5,Czastary
+271,SR7V,145.625000,-,0.600000,Tone,88.5,88.5,FM,12.5,RTCN Święty Krzyż EmiTel - Łysa Góra/Nowa Słupia
+272,SR7VV,439.112500,-,7.600000,Tone,77.0,77.0,FM,12.5,Góra Kamieńsk wieża EmiTel
+273,SR7WI,439.000000,-,7.600000,,88.5,88.5,FM,12.5,Działoszyn
+274,SR7Z,145.600000,-,0.600000,Tone,77.0,88.5,FM,12.5,Łódź
+275,SR7ZD,438.900000,-,7.600000,Tone,77.0,88.5,FM,12.5,Zduńska Wola
+276,SR8AGA,439.350000,-,7.600000,Tone,103.5,88.5,FM,12.5,Domaradz
+277,SR8AVB,439.012500,-,7.600000,,88.5,88.5,DV,12.5,Biała Podlaska
+278,SR8B,145.787500,-,0.600000,Tone,71.9,71.9,FM,12.5,Leżajsk
+279,SR8BB,438.875000,-,7.600000,Tone,103.5,103.5,FM,12.5,Bereżnica Wyżna
+280,SR8BD,438.875000,-,7.600000,Tone,103.5,103.5,FM,12.5,Biała Podlaska Pec
+281,SR8BP,438.650000,-,7.600000,Tone,79.7,79.7,FM,12.5,Chotycze / Łosice
+282,SR8CH,438.675000,-,7.600000,Tone,77.0,77.0,FM,12.5,Chełm
+283,SR8D,145.650000,-,0.600000,Tone,79.7,79.7,FM,12.5,Chotycze / Łosice
+284,SR8DE,439.300000,-,7.600000,Tone,103.5,88.5,FM,12.5,Dębica
+285,SR8DEF,438.425000,-,7.600000,Tone,103.5,88.5,FM,12.5,Dębica
+288,SR8DU,439.000000,-,7.600000,Tone,71.9,71.9,FM,12.5,Drohobyczka-Dubiecko
+290,SR8ET,439.200000,-,7.600000,Tone,71.9,71.9,FM,12.5,Sanok - Urząd Miasta
+292,SR8J,145.700000,-,0.600000,,88.5,88.5,FM,12.5,Jarosław
+293,SR8JR,439.250000,-,7.600000,Tone,67.0,67.0,FM,12.5,Jarosław
+294,SR8JS,438.800000,-,7.600000,,88.5,103.5,FM,12.5,Jasło - Góra Liwocz
+295,SR8K,145.600000,-,0.600000,Tone,71.9,71.9,FM,12.5,Drohobyczka-Dubiecko
+296,SR8KP,439.575000,-,7.600000,Tone,71.9,71.9,FM,12.5,Leżajsk-Giedlarowa
+297,SR8L,145.675000,-,0.600000,Tone,67.0,67.0,FM,12.5,RTCN Lublin / Boży Dar (Emitel)
+298,SR8LBD,438.575000,-,7.600000,Tone,77.0,77.0,FM,12.5,RTCN Lublin / Boży Dar (Emitel)
+299,SR8LKR,438.550000,-,7.600000,Tone,67.0,67.0,FM,12.5,Kraśnik
+300,SR8LLB,439.250000,-,7.600000,Tone,77.0,77.0,FM,12.5,Lubartów
+301,SR8LSW,439.025000,-,7.600000,Tone,110.9,110.9,FM,12.5,Świdnik
+302,SR8LU,439.050000,-,7.600000,Tone,67.0,67.0,FM,12.5,Lublin
+304,SR8LW,438.700000,-,7.600000,Tone,67.0,67.0,FM,12.5,Łuków (Zbożowa 2)
+305,SR8MBR,50.540000,split,432.600000,Tone,71.9,71.9,FM,12.5,Tyczyn, Lasek
+306,SR8NP,145.762500,-,0.600000,,88.5,186.2,FM,12.5,Przemyśl
+307,SR8PL,439.087500,-,7.600000,Tone,118.8,118.8,FM,12.5,Kazimierz Dolny
+308,SR8PPN,438.900000,-,7.600000,Tone,67.0,67.0,FM,12.5,gm. Urszulin
+309,SR8PU,438.850000,-,7.600000,Tone,118.8,118.8,FM,12.5,Kazimierz Dolny
+310,SR8R,145.675000,-,0.600000,Tone,71.9,88.5,FM,12.5,Rzeszów
+312,SR8RSC,145.287500,+,0.000000,Tone,71.9,71.9,FM,12.5,Boguchwała
+313,SR8S,145.712500,-,0.600000,Tone,123.0,123.0,FM,12.5,Świdnik
+314,SR8SD,439.325000,-,7.600000,Tone,123.0,123.0,FM,12.5,Świdnik
+315,SR8TPM,145.337500,+,0.000000,Tone,71.9,71.9,FM,12.5,
+316,SR8U,145.687500,-,0.600000,,88.5,88.5,FM,12.5,Baligród
+317,SR8UVB,439.412500,-,7.600000,,88.5,88.5,DV,12.5,Chotycze - RTCN Łosice
+318,SR8UVL,438.825000,-,7.600000,,88.5,88.5,DV,12.5,Lublin
+319,SR8UVP,439.462500,-,7.600000,,88.5,88.5,DV,12.5,Kazimierz Dolny
+320,SR8UVS,438.325000,-,7.600000,,88.5,88.5,DV,12.5,Świdnik
+321,SR8UWD,438.512500,-,7.600000,,88.5,88.5,DV,12.5,Włodawa
+322,SR8V,145.612500,-,0.600000,Tone,103.5,88.5,FM,12.5,Jasło
+323,SR8WD,438.975000,-,7.600000,Tone,103.5,103.5,FM,12.5,Włodawa
+324,SR8Z,145.750000,-,0.600000,Tone,77.0,77.0,FM,12.5,Feliksówka k/Zamościa
+325,SR8ZA,439.275000,-,7.600000,Tone,77.0,77.0,FM,12.5,Feliksówka k/Zamościa
+326,SR9A,145.775000,-,0.600000,,88.5,88.5,FM,12.5,Góra Wał - Tarnów
+328,SR9AE,438.825000,-,7.600000,Tone,103.5,103.5,FM,12.5,Obserwatorium astronomiczne na Górze Lubomir
+329,SR9ASR,438.300000,-,7.600000,Tone,74.4,74.4,FM,12.5,Góra Żar
+331,SR9BSR,438.250000,-,7.600000,Tone,74.4,88.5,FM,12.5,Góra Szyndzielnia
+332,SR9CZ,439.175000,-,7.600000,,88.5,88.5,DV,12.5,Częstochowa
+333,SR9CZE,439.562500,-,7.600000,Tone,67.0,67.0,FM,12.5,Częstochowa
+340,SR9E,145.725000,-,0.600000,Tone,71.9,71.9,FM,12.5,Siemianowice Śląskie
+341,SR9GC,438.925000,-,7.600000,,88.5,88.5,FM,12.5,Gliwice
+342,SR9GR,438.537500,-,7.600000,Tone,162.2,162.2,FM,12.5,Gorlice, maszt Emitel na Górze Cmentarnej
+343,SR9J,145.787500,-,0.600000,Tone,123.0,123.0,FM,12.5,Częstochowa
+344,SR9JK,438.800000,-,7.600000,Tone,94.8,88.5,FM,12.5,Włodowice
+345,SR9K,145.750000,-,0.600000,Tone,103.5,88.5,FM,12.5,Siercza k/Wieliczki
+346,SR9KD,438.950000,-,7.600000,Tone,71.9,88.5,FM,12.5,Sosnowiec
+347,SR9KM,438.975000,-,7.600000,Tone,71.9,71.9,FM,12.5,Krupski Młyn
+348,SR9KR,439.275000,-,7.600000,,88.5,88.5,DV,12.5,Kraków
+349,SR9KS,438.900000,-,7.600000,Tone,103.5,103.5,FM,12.5,Siercza k/Wieliczki
+350,SR9L,145.687500,-,0.600000,Tone,107.2,107.2,FM,12.5,Limanowa Lipowe
+351,SR9LC,438.700000,-,7.600000,Tone,71.9,71.9,FM,12.5,LUBECKO
+352,SR9LI,438.675000,-,7.600000,,88.5,88.5,FM,12.5,Pasierbiec
+353,SR9NJ,438.700000,-,7.600000,Tone,103.5,103.5,FM,12.5,Krynica Zdrój, Jaworzyna (górna stacja kolejki gondolowej
+354,SR9NP,438.937500,-,7.600000,Tone,107.2,107.2,FM,12.5,Prehyba
+355,SR9NS,439.225000,-,7.600000,Tone,107.2,107.2,FM,12.5,Nowy Sącz
+356,SR9OA,438.750000,-,7.600000,Tone,107.2,88.5,FM,12.5,Wieża widokowa Dąbrowa
+357,SR9P,145.662500,-,0.600000,Tone,103.5,88.5,FM,12.5,Góra Koskowa POLKOMTEL
+358,SR9PC,438.850000,-,7.600000,Tone,103.5,88.5,FM,12.5,Góra Koskowa POLKOMTEL
+359,SR9PS,439.250000,-,7.600000,Tone,67.0,67.0,FM,12.5,Pszów
+360,SR9RAC,439.575000,-,7.600000,Tone,67.0,67.0,FM,12.5,Strzybniczek
+363,SR9S,145.775000,-,0.600000,Tone,67.0,67.0,FM,12.5,Wola
+364,SR9SC,438.962500,-,7.600000,Tone,67.0,67.0,FM,12.5,Cieszyn
+365,SR9SK,439.375000,-,7.600000,Tone,67.0,67.0,FM,12.5,Skrzyczne
+366,SR9SS,439.100000,-,7.600000,Tone,71.9,71.9,FM,12.5,Siemianowice Śląskie
+368,SR9TB,438.775000,-,7.600000,Tone,103.5,103.5,FM,12.5,Góra Wał - Tarnów
+369,SR9TM,438.512500,-,7.600000,Tone,103.5,103.5,FM,12.5,Pcim - Kudłacze
+375,SR9UV,439.337500,-,7.600000,,88.5,88.5,DV,12.5,Włodowice
+377,SR9UVJ,439.500000,-,7.600000,,88.5,88.5,DV,12.5,Jaworzyna Krynicka
+378,SR9UVJ,439.500000,-,7.600000,,88.5,88.5,DV,12.5,Jaworzyna krynicka
+379,SR9UVJ-B,439.500000,-,7.600000,,88.5,88.5,DV,12.5,Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)
+380,SR9UVJ-C,145.787500,-,0.600000,,88.5,88.5,DV,12.5,Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)
+383,SR9UVP,439.362500,-,7.600000,,88.5,88.5,DV,12.5,Góra Koskowa POLKOMTEL
+385,SR9UVZ,439.200000,-,7.600000,,88.5,88.5,DV,12.5,Góra Gubałówka EMITEL
+388,SR9VJP,438.587500,-,7.600000,,88.5,88.5,DV,12.5,MUSZYNA
+390,SR9VVO,439.437500,-,7.600000,,88.5,88.5,DV,12.5,Lichwin
+391,SR9X,145.700000,-,0.600000,,88.5,88.5,FM,12.5,Góra Gubałówka EMITEL
+392,SR9Z,145.737500,-,0.600000,Tone,107.2,107.2,FM,12.5,Przehyba EMITEL
+394,SR9ZAR,439.537500,-,7.600000,Tone,67.0,67.0,FM,12.5,Góra Żar
+395,SR9ZHP,145.287500,+,0.000000,Tone,127.3,127.3,FM,12.5,Będzin
