@@ -1,8 +1,4 @@
 number;valid_to;call_sign;category;transmitter_power;name_type_station;emission;input_frequency;output_frequency;station_location
-DC.WML.5101.1089.2020.2;2025-05-04;SR2WE;Kategoria5;15;PrzemiennikFMDV;"";431.625;439.225;Wejherowo
-DC.WML.5101.1107.2020.3;2025-05-10;SR5WAW;Kategoria5;50;Radiolatarnia;"";28.227, 50.467, 70.097, 144.467, 432.467, 1296.867, 2320.867, 3400.867, 5760.867, 10386.867, 24048.867, 47088.867;28.227, 50.467, 70.097, 144.467, 432.467, 1296.867, 2320.867, 3400.867, 5760.867, 10386.867, 24048.867, 47088.867;Rembertów
-DC.WML.5101.1126.2020.2;2025-05-08;SR9EM;Kategoria5;10;AnalogowyPrzemiennikFM;"";430.9125;438.5125;Kraków
-DC.WML.5101.1290.2020.2;2025-05-25;SR6MRU;Kategoria5;15;PrzemiennikFMDV;"";431.7;439.3;Wroc³aw
 DC.WML.5101.1369.2020.2;2025-06-05;SR7ABZ;Kategoria5;15;AnalogowyPrzemiennikFM;"";144.675;145.275;Busko Zdrój
 DC.WML.5101.1438.2020.2;2025-07-28;SR5RR;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.675;439.275;Warszawa
 DC.WML.5101.1464.2020.2;2025-06-17;SR5YAM;Kategoria5;15;CyfrowaStacjaWezlowa;"";430.5375, 432.5, 144.8375, 144.8;430.5375, 432.5, 144.8375, 144.8;Komorów
@@ -416,3 +412,12 @@ DC.WML.5101.1958.2025.2;2029-11-18;SR9EMP;Kategoria5;15;PrzekaznikAPRS;"";144.8,
 DC.WML.5101.1961.2025.3;2030-03-25;SR8KP;Kategoria5;15;PrzekaznikAPRS, AnalogowyPrzemiennikFM;"";434.855, 431.975, 29.57;434.855, 439.575, 29.67;Giedlarowa
 DC.WML.5101.2126.2025.3;2030-04-01;SR5WXW;Kategoria5;15;StacjaPogodowa;"";434.95, 144.95;434.95, 144.95;Warszawa
 DC.WML.5101.2339.2025.2;2030-03-20;SR8LT;Kategoria5;15;CyfrowyPrzemiennik;"";431.65;430.05;Lublin
+DC.WML.5101.2479.2025.3;2030-04-11;SR3NPB;Kategoria5;15;CyfrowyPrzemiennik;"";144.8;144.8;Pobiedziska
+DC.WML.5101.2569.2025.2;2030-04-16;SR8ALA;Kategoria5;10;CyfrowyPrzemiennik;"";431.875;439.475;Domaradz
+DC.WML.5101.2727.2025.2;2030-04-29;SR9KFZ;Kategoria5;15;PrzekaznikAPRS;"";432.5, 144.8;432.5, 144.8;Czêstochowa
+DC.WML.5101.2728.2025.2;2030-04-29;SR9UCZ;Kategoria5;15;CyfrowyPrzekaznik;"";431.4875;439.0875;Czêstochowa
+DC.WML.5101.2730.2025.2;2030-04-25;SR9DMR;Kategoria5;15;CyfrowyPrzemiennik;"";430.85;438.45;Katowice
+DC.WML.5101.2982.2025.3;2030-05-07;SR9NKU;Kategoria5;15;AnalogowyPrzemiennikFM;"";430.7625;438.3625;D¹browa Górnicza
+DC.WML.5101.2985.2025.2;2030-05-07;SR3XX;Kategoria5;15;PrzemiennikFMDV;"";144.975, 431.425;145.575, 439.025;Poznañ
+DC.WML.5101.3158.2025.2;2030-05-14;SR7LDX;Kategoria5;15;PrzemiennikFMDV;"";431.9;439.5;£ódŸ
+DC.WML.5101.3300.2025.2;2030-05-20;SR2WKW;Kategoria5;15;StacjaPogodowa;"";144.95;144.95;Kwidzyn
