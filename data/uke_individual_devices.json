@@ -23,18 +23,6 @@
         "output_frequency": "144.8, 50.7, 2395",
         "station_location": "Magurka Wilkowicka"
     },
-    "SR4SN": {
-        "number": "DC.WML.5101.1677.2020.2",
-        "valid_to": "2025-07-16",
-        "call_sign": "SR4SN",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "PrzemiennikFMDV",
-        "emission": "",
-        "input_frequency": "431.275",
-        "output_frequency": "438.875",
-        "station_location": "Szczytno"
-    },
     "SR5DDD": {
         "number": "DC.WML.5101.1665.2020.5",
         "valid_to": "2025-07-23",
@@ -1210,18 +1198,6 @@
         "input_frequency": "432.5, 144.8",
         "output_frequency": "432.5, 144.8",
         "station_location": "Świdnik"
-    },
-    "SR5SE": {
-        "number": "DC.WML.5101.1522.2020.5",
-        "valid_to": "2025-06-24",
-        "call_sign": "SR5SE",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "PrzemiennikFMDV",
-        "emission": "",
-        "input_frequency": "431.15",
-        "output_frequency": "438.75",
-        "station_location": "Siedlce"
     },
     "SR7UVL": {
         "number": "DC.WML.5101.235.2022.2",
@@ -2915,6 +2891,18 @@
         "output_frequency": "438.975",
         "station_location": "Potępa"
     },
+    "SR5ID": {
+        "number": "DC.WML.5101.1432.2024.2",
+        "valid_to": "2029-02-21",
+        "call_sign": "SR5ID",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzekaznikAPRS, StacjaPogodowa, PrzemiennikFMDV",
+        "emission": "",
+        "input_frequency": "144.8, 145.125, 431.4375",
+        "output_frequency": "144.8, 145.725, 439.0375",
+        "station_location": "Kuflew"
+    },
     "SR8RJS": {
         "number": "DC.WML.5101.4793.2023.2",
         "valid_to": "2028-09-22",
@@ -3467,18 +3455,6 @@
         "output_frequency": "144.8",
         "station_location": "Rzeszów"
     },
-    "SR5ID": {
-        "number": "DC.WML.5101.1432.2024.2",
-        "valid_to": "2029-02-21",
-        "call_sign": "SR5ID",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "PrzekaznikAPRS, StacjaPogodowa, PrzemiennikFMDV",
-        "emission": "",
-        "input_frequency": "144.8, 145.125, 431.4375",
-        "output_frequency": "144.8, 145.725, 439.0375",
-        "station_location": "Kuflew"
-    },
     "SR9RB": {
         "number": "DC.WML.5101.1499.2024.2",
         "valid_to": "2029-03-14",
@@ -4019,18 +3995,6 @@
         "output_frequency": "144.8, 434.855, 433.775, 433.8, 432.5",
         "station_location": "Murczynek"
     },
-    "SR8ST": {
-        "number": "DC.WML.5101.167.2025.2",
-        "valid_to": "2030-01-13",
-        "call_sign": "SR8ST",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "PrzemiennikFMDV",
-        "emission": "",
-        "input_frequency": "456.17",
-        "output_frequency": "466.17",
-        "station_location": "Strzyżów"
-    },
     "SR8NLU": {
         "number": "DC.WML.5101.5248.2024.2",
         "valid_to": "2029-09-17",
@@ -4547,6 +4511,18 @@
         "output_frequency": "439.3125",
         "station_location": "Pszów"
     },
+    "SR8ST": {
+        "number": "DC.WML.5101.167.2025.2",
+        "valid_to": "2030-01-13",
+        "call_sign": "SR8ST",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzemiennikFMDV",
+        "emission": "",
+        "input_frequency": "456.17",
+        "output_frequency": "466.17",
+        "station_location": "Strzyżów"
+    },
     "SR6PCB": {
         "number": "DC.WML.5101.235.2025.2",
         "valid_to": "2030-01-20",
@@ -4582,18 +4558,6 @@
         "input_frequency": "432.5, 144.8",
         "output_frequency": "432.5, 144.8",
         "station_location": "Radom"
-    },
-    "SR9BW": {
-        "number": "DC.WML.5101.573.2025.2",
-        "valid_to": "2030-01-29",
-        "call_sign": "SR9BW",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "PrzekaznikAPRS",
-        "emission": "",
-        "input_frequency": "144.8",
-        "output_frequency": "144.8",
-        "station_location": "Kraków"
     },
     "SR0KA": {
         "number": "DC.WML.5101.593.2025.2",
@@ -5135,6 +5099,30 @@
         "output_frequency": "144.8",
         "station_location": "Bibice"
     },
+    "SR9PZC": {
+        "number": "DC.WML.5101.3954.2025.2",
+        "valid_to": "2030-06-17",
+        "call_sign": "SR9PZC",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzekaznikAPRS, AnalogowyPrzemiennikFM",
+        "emission": "",
+        "input_frequency": "2360, 5825, 434.855, 145.2875",
+        "output_frequency": "2360, 5825, 434.855, 145.2875",
+        "station_location": "Piwniczna-Zdrój"
+    },
+    "SR9BW": {
+        "number": "DC.WML.5101.3946.2025.2",
+        "valid_to": "2030-01-29",
+        "call_sign": "SR9BW",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzekaznikAPRS",
+        "emission": "",
+        "input_frequency": "144.9, 144.8",
+        "output_frequency": "144.9, 144.8",
+        "station_location": "Kraków"
+    },
     "SR9RP": {
         "number": "DC.WML.5101.4100.2025.2",
         "valid_to": "2030-06-20",
@@ -5170,5 +5158,29 @@
         "input_frequency": "431.75",
         "output_frequency": "439.35",
         "station_location": "Przehyba"
+    },
+    "SR5WRX": {
+        "number": "DC.WML.5101.4421.2025.2",
+        "valid_to": "2030-07-04",
+        "call_sign": "SR5WRX",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzemiennikFMDV",
+        "emission": "",
+        "input_frequency": "1270.575",
+        "output_frequency": "1298.575",
+        "station_location": "Warszawa"
+    },
+    "SR2ALL": {
+        "number": "DC.WML.5101.4827.2025.2",
+        "valid_to": "2030-07-17",
+        "call_sign": "SR2ALL",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "CyfrowyPrzekaznik",
+        "emission": "",
+        "input_frequency": "145.45",
+        "output_frequency": "145.45",
+        "station_location": "Gdynia"
     }
 }
