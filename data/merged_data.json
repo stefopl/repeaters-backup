@@ -262,7 +262,7 @@
             "Status": "working",
             "Latitude": "54.178284",
             "Longitude": "15.553207",
-            "QTH": "Koobrzeg",
+            "QTH": "Kolobrzeg",
             "Locator": "JO74SE"
         },
         "UKE_club_devices": {
@@ -337,7 +337,7 @@
             "Status": "working",
             "Latitude": "54.178284",
             "Longitude": "15.553207",
-            "QTH": "Koobrzeg",
+            "QTH": "Kolobrzeg",
             "Locator": "JO74SE"
         },
         "UKE_club_devices": {
@@ -382,7 +382,7 @@
             "Status": "working",
             "Latitude": "54.207675",
             "Longitude": "16.225714",
-            "QTH": "Koszalin Gora Chemska - wieza widokowa",
+            "QTH": "Koszalin Gora Chelmska - wieza widokowa",
             "Locator": "JO84CE"
         },
         "UKE_club_devices": {
@@ -898,7 +898,7 @@
             "Status": "working",
             "Latitude": "53.278012",
             "Longitude": "16.48346",
-            "QTH": "Wacz",
+            "QTH": "Walcz",
             "Locator": "JO83FG"
         },
         "UKE_individual_devices": {
@@ -928,7 +928,7 @@
             "Status": "working",
             "Latitude": "53.278132",
             "Longitude": "16.483364",
-            "QTH": "Wacz",
+            "QTH": "Walcz",
             "Locator": "JO83FG"
         },
         "UKE_individual_devices": {
@@ -958,7 +958,7 @@
             "Status": "off",
             "Latitude": "54.179524",
             "Longitude": "15.56913",
-            "QTH": "Dworcowa 10, Koobrzeg, Polska",
+            "QTH": "Dworcowa 10, Kolobrzeg, Polska",
             "Locator": "JO74SE"
         }
     },
@@ -1084,7 +1084,7 @@
             "Status": "working",
             "Latitude": "53.334105",
             "Longitude": "14.67537",
-            "QTH": "Koowo EMITEL",
+            "QTH": "Kolowo EMITEL",
             "Locator": "JO73II"
         },
         "UKE_club_devices": {
@@ -1147,7 +1147,7 @@
             "Status": "working",
             "Latitude": "53.334105",
             "Longitude": "14.67537",
-            "QTH": "Koowo",
+            "QTH": "Kolowo",
             "Locator": "JO73II"
         }
     },
@@ -1420,7 +1420,7 @@
             "Status": "working",
             "Latitude": "54.181",
             "Longitude": "17.49345",
-            "QTH": "Bytow - komin ciepowni Veolia Ponoc",
+            "QTH": "Bytow - komin cieplowni Veolia Polnoc",
             "Locator": "JO84RE"
         },
         "UKE_club_devices": {
@@ -1546,7 +1546,7 @@
             "Status": "working",
             "Latitude": "53.660436",
             "Longitude": "17.379398",
-            "QTH": "Czuchow",
+            "QTH": "Czluchow",
             "Locator": "JO83QP"
         },
         "UKE_individual_devices": {
@@ -1576,7 +1576,7 @@
             "Status": "working",
             "Latitude": "52.919733",
             "Longitude": "17.836519",
-            "QTH": "Szubin - Jabowo Pauckie / wieza p.poz",
+            "QTH": "Szubin - Jablowo Paluckie / wieza p.poz",
             "Locator": "JO82WW"
         },
         "UKE_individual_devices": {
@@ -1606,7 +1606,7 @@
             "Status": "inprogress",
             "Latitude": "52.919733",
             "Longitude": "17.836519",
-            "QTH": "Szubin - Jabowo Pauckie / wieza p.poz",
+            "QTH": "Szubin - Jablowo Paluckie / wieza p.poz",
             "Locator": "JO82WW"
         }
     },
@@ -1654,7 +1654,7 @@
             "Status": "working",
             "Latitude": "52.919733",
             "Longitude": "17.836519",
-            "QTH": "Szubin - Jabowo Pauckie / wieza p.poz",
+            "QTH": "Szubin - Jablowo Paluckie / wieza p.poz",
             "Locator": "JO82WW"
         },
         "UKE_individual_devices": {
@@ -1729,7 +1729,7 @@
             "Status": "working",
             "Latitude": "54.777673",
             "Longitude": "18.413129",
-            "QTH": "Wadysawowo",
+            "QTH": "Wladyslawowo",
             "Locator": "JO94ES"
         },
         "UKE_club_devices": {
@@ -2120,9 +2120,9 @@
             "Duplex": "-",
             "Offset": "7.6",
             "Status": "working",
-            "Latitude": "52.793999748006",
-            "Longitude": "18.2608156263",
-            "QTH": "Inowrocaw",
+            "Latitude": "52.79399975",
+            "Longitude": "18.26081563",
+            "QTH": "Inowroclaw",
             "Locator": "JO92DT"
         }
     },
@@ -2140,7 +2140,7 @@
             "Status": "working",
             "Latitude": "52.919733",
             "Longitude": "17.836519",
-            "QTH": "Szubin - Jabowo Pauckie / wieza p.poz",
+            "QTH": "Szubin - Jablowo Paluckie / wieza p.poz",
             "Locator": "JO82WW"
         },
         "UKE_individual_devices": {
@@ -2170,7 +2170,7 @@
             "Status": "working",
             "Latitude": "52.919733",
             "Longitude": "17.836519",
-            "QTH": "Szubin - Jabowo Pauckie / wieza p.poz",
+            "QTH": "Szubin - Jablowo Paluckie / wieza p.poz",
             "Locator": "JO82WW"
         },
         "UKE_individual_devices": {
@@ -2416,7 +2416,7 @@
             "Status": "working",
             "Latitude": "54.065486",
             "Longitude": "19.659217",
-            "QTH": "Pasek",
+            "QTH": "Paslek",
             "Locator": "JO94TB"
         },
         "UKE_individual_devices": {
@@ -2491,7 +2491,7 @@
             "Status": "planned",
             "Latitude": "0",
             "Longitude": "0",
-            "QTH": "Inowrocaw",
+            "QTH": "Inowroclaw",
             "Locator": "JO92DT"
         }
     },
@@ -2509,7 +2509,7 @@
             "Status": "off",
             "Latitude": "52.803414",
             "Longitude": "18.271496",
-            "QTH": "Inowrocaw",
+            "QTH": "Inowroclaw",
             "Locator": "JO92DT"
         }
     },
@@ -2527,7 +2527,7 @@
             "Status": "working",
             "Latitude": "54.462977",
             "Longitude": "16.986933",
-            "QTH": "Supsk",
+            "QTH": "Slupsk",
             "Locator": "JO84LL"
         },
         "UKE_club_devices": {
@@ -2755,7 +2755,7 @@
             "Status": "working",
             "Latitude": "52.64211",
             "Longitude": "19.05158",
-            "QTH": "Wocawek",
+            "QTH": "Wloclawek",
             "Locator": "JO92MP"
         },
         "UKE_individual_devices": {
@@ -2803,7 +2803,7 @@
             "Status": "working",
             "Latitude": "52.919733",
             "Longitude": "17.836519",
-            "QTH": "Szubin - Jabowo Pauckie / wieza p.poz",
+            "QTH": "Szubin - Jablowo Paluckie / wieza p.poz",
             "Locator": "JO82WW"
         }
     },
@@ -2819,8 +2819,8 @@
             "Duplex": "-",
             "Offset": "7.6",
             "Status": "working",
-            "Latitude": "53.016123980923",
-            "Longitude": "17.762767069151",
+            "Latitude": "53.01612398",
+            "Longitude": "17.76276707",
             "QTH": "Szubin",
             "Locator": "JO83VA"
         }
@@ -2893,7 +2893,7 @@
             "Status": "working",
             "Latitude": "52.665735",
             "Longitude": "19.049512",
-            "QTH": "Wocawek",
+            "QTH": "Wloclawek",
             "Locator": "JO92MP"
         },
         "UKE_individual_devices": {
@@ -2941,7 +2941,7 @@
             "Status": "off",
             "Latitude": "52.665735",
             "Longitude": "19.049512",
-            "QTH": "Wocawek",
+            "QTH": "Wloclawek",
             "Locator": "JO92MP"
         }
     },
@@ -3004,7 +3004,7 @@
             "Status": "planned",
             "Latitude": "52.346795",
             "Longitude": "15.276266",
-            "QTH": "RTCN Jemioow/agow maszt EmiTel",
+            "QTH": "RTCN Jemiolow/Lagow maszt EmiTel",
             "Locator": "JO72PI"
         }
     },
@@ -3082,7 +3082,7 @@
             "Status": "off",
             "Latitude": "52.346795",
             "Longitude": "15.276266",
-            "QTH": "RTCN Jemioow/agow maszt EmiTel",
+            "QTH": "RTCN Jemiolow/Lagow maszt EmiTel",
             "Locator": "JO72PI"
         },
         "UKE_club_devices": {
@@ -3472,7 +3472,7 @@
             "Status": "working",
             "Latitude": "52.346795",
             "Longitude": "15.276266",
-            "QTH": "RTCN Jemioow/agow maszt EmiTel",
+            "QTH": "RTCN Jemiolow/Lagow maszt EmiTel",
             "Locator": "JO72PI"
         },
         "UKE_club_devices": {
@@ -3547,7 +3547,7 @@
             "Status": "planned",
             "Latitude": "52.346795",
             "Longitude": "15.276266",
-            "QTH": "RTCN Jemioow/agow maszt EmiTel",
+            "QTH": "RTCN Jemiolow/Lagow maszt EmiTel",
             "Locator": "JO72PI"
         },
         "UKE_club_devices": {
@@ -3670,7 +3670,7 @@
             "Status": "working",
             "Latitude": "52.208723",
             "Longitude": "18.629383",
-            "QTH": "Koo - ZST",
+            "QTH": "Kolo - ZST",
             "Locator": "JO92HF"
         },
         "UKE_club_devices": {
@@ -3715,7 +3715,7 @@
             "Status": "working",
             "Latitude": "0",
             "Longitude": "0",
-            "QTH": "62-600 Koo, ul. Dabrowskiego 7",
+            "QTH": "62-600 Kolo, ul. Dabrowskiego 7",
             "Locator": "JO92HE"
         }
     },
@@ -3907,7 +3907,7 @@
             "Status": "working",
             "Latitude": "53.146203",
             "Longitude": "16.71503",
-            "QTH": "Pia",
+            "QTH": "Pila",
             "Locator": "JO83ID"
         },
         "UKE_club_devices": {
@@ -4147,7 +4147,7 @@
             "Status": "working",
             "Latitude": "0",
             "Longitude": "0",
-            "QTH": "Pia",
+            "QTH": "Pila",
             "Locator": "JO83ID"
         },
         "UKE_club_devices": {
@@ -4222,7 +4222,7 @@
             "Status": "working",
             "Latitude": "52.681328",
             "Longitude": "16.945813",
-            "QTH": "Somowo",
+            "QTH": "Slomowo",
             "Locator": "JO82LQ"
         },
         "UKE_individual_devices": {
@@ -4336,7 +4336,7 @@
             "Status": "off",
             "Latitude": "52.346795",
             "Longitude": "15.276266",
-            "QTH": "RTCN Jemioow/agow maszt EmiTel",
+            "QTH": "RTCN Jemiolow/Lagow maszt EmiTel",
             "Locator": "JO72PI"
         },
         "UKE_club_devices": {
@@ -4534,7 +4534,7 @@
             "Status": "working",
             "Latitude": "52.117304",
             "Longitude": "16.98422",
-            "QTH": "RTCN Poznan/Srem, maszt EmiTel, adres Gora 42 koo Sremu",
+            "QTH": "RTCN Poznan/Srem, maszt EmiTel, adres Gora 42 kolo Sremu",
             "Locator": "JO82LC"
         },
         "UKE_club_devices": {
@@ -4744,7 +4744,7 @@
             "Status": "working",
             "Latitude": "52.346795",
             "Longitude": "15.276266",
-            "QTH": "RTCN Jemioow/agow maszt EmiTel",
+            "QTH": "RTCN Jemiolow/Lagow maszt EmiTel",
             "Locator": "JO72PI"
         },
         "UKE_club_devices": {
@@ -4898,8 +4898,8 @@
             "Duplex": "-",
             "Offset": "7.6",
             "Status": "working",
-            "Latitude": "54.301463334069",
-            "Longitude": "20.753709227318",
+            "Latitude": "54.30146333",
+            "Longitude": "20.75370923",
             "QTH": "Bartoszyce",
             "Locator": "KO04JH"
         },
@@ -4978,7 +4978,7 @@
             "Status": "off",
             "Latitude": "53.107935",
             "Longitude": "23.184082",
-            "QTH": "Biaystok",
+            "QTH": "Bialystok",
             "Locator": "KO13OC"
         }
     },
@@ -4996,7 +4996,7 @@
             "Status": "off",
             "Latitude": "53.11948",
             "Longitude": "23.152",
-            "QTH": "Biaystok, Politechnika Biaostocka",
+            "QTH": "Bialystok, Politechnika Bialostocka",
             "Locator": "KO13NC"
         },
         "UKE_individual_devices": {
@@ -5026,7 +5026,7 @@
             "Status": "planned",
             "Latitude": "53.172613",
             "Longitude": "22.039165",
-            "QTH": "omza",
+            "QTH": "Lomza",
             "Locator": "KO13AE"
         },
         "UKE_individual_devices": {
@@ -5056,7 +5056,7 @@
             "Status": "working",
             "Latitude": "53.132887",
             "Longitude": "23.138298",
-            "QTH": "Biaystok",
+            "QTH": "Bialystok",
             "Locator": "KO13ND"
         },
         "UKE_club_devices": {
@@ -5119,7 +5119,7 @@
             "Status": "working",
             "Latitude": "0",
             "Longitude": "0",
-            "QTH": "Biaystok",
+            "QTH": "Bialystok",
             "Locator": "KO13ND"
         },
         "UKE_individual_devices": {
@@ -5149,7 +5149,7 @@
             "Status": "working",
             "Latitude": "53.937727",
             "Longitude": "21.844764",
-            "QTH": "Miki k/Gizycka  EMITEL",
+            "QTH": "Milki k/Gizycka  EMITEL",
             "Locator": "KO03WW"
         },
         "UKE_club_devices": {
@@ -5327,8 +5327,8 @@
             "Duplex": "-",
             "Offset": "7.6",
             "Status": "off",
-            "Latitude": "53.931698255447",
-            "Longitude": "20.498333298029",
+            "Latitude": "53.93169826",
+            "Longitude": "20.4983333",
             "QTH": "Dobre Miasto",
             "Locator": "KO03FW"
         },
@@ -5359,7 +5359,7 @@
             "Status": "unverified",
             "Latitude": "53.815738",
             "Longitude": "22.375785",
-            "QTH": "Ek",
+            "QTH": "Elk",
             "Locator": "KO13ET"
         }
     },
@@ -5377,7 +5377,7 @@
             "Status": "working",
             "Latitude": "54.060989",
             "Longitude": "19.618992",
-            "QTH": "Pasek",
+            "QTH": "Paslek",
             "Locator": "JO94TB"
         },
         "UKE_individual_devices": {
@@ -5575,7 +5575,7 @@
             "Status": "working",
             "Latitude": "53.183005",
             "Longitude": "22.052192",
-            "QTH": "omza",
+            "QTH": "Lomza",
             "Locator": "KO13AE"
         },
         "UKE_individual_devices": {
@@ -5650,7 +5650,7 @@
             "Status": "working",
             "Latitude": "53.129161",
             "Longitude": "22.080552",
-            "QTH": "Gieczyn",
+            "QTH": "Gielczyn",
             "Locator": "KO13AD"
         },
         "UKE_individual_devices": {
@@ -5680,7 +5680,7 @@
             "Status": "working",
             "Latitude": "53.7906638",
             "Longitude": "19.5364853",
-            "QTH": "Jerzwad",
+            "QTH": "Jerzwald",
             "Locator": "JO93ss"
         },
         "UKE_individual_devices": {
@@ -5710,7 +5710,7 @@
             "Status": "inprogress",
             "Latitude": "53.937727",
             "Longitude": "21.844764",
-            "QTH": "Miki k/Gizycka EMITEL",
+            "QTH": "Milki k/Gizycka EMITEL",
             "Locator": "KO03WW"
         },
         "UKE_club_devices": {
@@ -5755,7 +5755,7 @@
             "Status": "working",
             "Latitude": "53.159484",
             "Longitude": "22.091746",
-            "QTH": "omza - maszt",
+            "QTH": "Lomza - maszt",
             "Locator": "KO13BD"
         },
         "UKE_club_devices": {
@@ -5798,8 +5798,8 @@
             "Duplex": "-",
             "Offset": "7.6",
             "Status": "working",
-            "Latitude": "53.478352427375",
-            "Longitude": "19.764668553828",
+            "Latitude": "53.47835243",
+            "Longitude": "19.76466855",
             "QTH": "Lubawa",
             "Locator": "JO93VL"
         },
@@ -5830,7 +5830,7 @@
             "Status": "off",
             "Latitude": "53.937727",
             "Longitude": "21.844764",
-            "QTH": "Miki k/Gizycka  EMITEL",
+            "QTH": "Milki k/Gizycka  EMITEL",
             "Locator": "KO03WW"
         },
         "UKE_club_devices": {
@@ -5875,7 +5875,7 @@
             "Status": "working",
             "Latitude": "53.937727",
             "Longitude": "21.844764",
-            "QTH": "Miki k/Gizycka EMITEL",
+            "QTH": "Milki k/Gizycka EMITEL",
             "Locator": "KO03WW"
         },
         "UKE_club_devices": {
@@ -5920,7 +5920,7 @@
             "Status": "working",
             "Latitude": "53.937727",
             "Longitude": "21.844764",
-            "QTH": "Miki k/Gizycka EMITEL",
+            "QTH": "Milki k/Gizycka EMITEL",
             "Locator": "KO03WW"
         },
         "UKE_club_devices": {
@@ -5965,7 +5965,7 @@
             "Status": "working",
             "Latitude": "53.937727",
             "Longitude": "21.844764",
-            "QTH": "Miki k/Gizycka EMITEL",
+            "QTH": "Milki k/Gizycka EMITEL",
             "Locator": "KO03WW"
         },
         "UKE_club_devices": {
@@ -6374,9 +6374,9 @@
             "Duplex": "-",
             "Offset": "0.6",
             "Status": "working",
-            "Latitude": "54.025593386753",
-            "Longitude": "19.694711469198",
-            "QTH": "Pasek",
+            "Latitude": "54.02559339",
+            "Longitude": "19.69471147",
+            "QTH": "Paslek",
             "Locator": "JO94UA"
         },
         "UKE_individual_devices": {
@@ -6436,7 +6436,7 @@
             "Status": "working",
             "Latitude": "53.134117",
             "Longitude": "23.172523",
-            "QTH": "Biaystok",
+            "QTH": "Bialystok",
             "Locator": "KO13OD"
         },
         "UKE_club_devices": {
@@ -6481,7 +6481,7 @@
             "Status": "working",
             "Latitude": "53.409137",
             "Longitude": "23.484552",
-            "QTH": "Sokoka",
+            "QTH": "Sokolka",
             "Locator": "KO13RJ"
         },
         "UKE_individual_devices": {
@@ -6511,7 +6511,7 @@
             "Status": "working",
             "Latitude": "53.409137",
             "Longitude": "23.484552",
-            "QTH": "Sokoka",
+            "QTH": "Sokolka",
             "Locator": "KO13RJ"
         },
         "UKE_individual_devices": {
@@ -6559,7 +6559,7 @@
             "Status": "inprogress",
             "Latitude": "53.813",
             "Longitude": "19.625",
-            "QTH": "Skitawki",
+            "QTH": "Skitlawki",
             "Locator": "JO93TT"
         }
     },
@@ -6607,7 +6607,7 @@
             "Status": "working",
             "Latitude": "54.098344",
             "Longitude": "22.924715",
-            "QTH": "Suwaki, ul. Mickiewicza 15",
+            "QTH": "Suwalki, ul. Mickiewicza 15",
             "Locator": "KO14LC"
         },
         "UKE_individual_devices": {
@@ -6637,7 +6637,7 @@
             "Status": "working",
             "Latitude": "54.1213",
             "Longitude": "22.947",
-            "QTH": "Suwaki",
+            "QTH": "Suwalki",
             "Locator": "KO14LC"
         },
         "UKE_individual_devices": {
@@ -6733,7 +6733,7 @@
             "Status": "working",
             "Latitude": "53.108847",
             "Longitude": "23.121939",
-            "QTH": "Biaystok",
+            "QTH": "Bialystok",
             "Locator": "KO13NC"
         },
         "UKE_individual_devices": {
@@ -6763,7 +6763,7 @@
             "Status": "working",
             "Latitude": "53.132887",
             "Longitude": "23.138298",
-            "QTH": "Biaystok",
+            "QTH": "Bialystok",
             "Locator": "KO13ND"
         },
         "UKE_club_devices": {
@@ -6883,7 +6883,7 @@
             "Status": "working",
             "Latitude": "54.047551",
             "Longitude": "19.62193",
-            "QTH": "Pasek",
+            "QTH": "Paslek",
             "Locator": "JO94TB"
         },
         "UKE_individual_devices": {
@@ -6913,7 +6913,7 @@
             "Status": "working",
             "Latitude": "53.937727",
             "Longitude": "21.844764",
-            "QTH": "Miki k/Gizycka  EMITEL",
+            "QTH": "Milki k/Gizycka  EMITEL",
             "Locator": "KO03WW"
         },
         "UKE_club_devices": {
@@ -7369,7 +7369,7 @@
             "Status": "off",
             "Latitude": "51.865339",
             "Longitude": "20.869367",
-            "QTH": "GROJEC, ul. PISUDSKIEGO 6",
+            "QTH": "GROJEC, ul. PILSUDSKIEGO 6",
             "Locator": "KO01KU"
         }
     },
@@ -7480,7 +7480,7 @@
             "Status": "off",
             "Latitude": "52.175313",
             "Longitude": "20.742929",
-            "QTH": "Moszna-Parcela komin Elektrociepowni Pruszkow II",
+            "QTH": "Moszna-Parcela komin Elektrocieplowni Pruszkow II",
             "Locator": "KO02IE"
         }
     },
@@ -7516,7 +7516,7 @@
             "Status": "inprogress",
             "Latitude": "52.34111",
             "Longitude": "20.8843",
-            "QTH": "omianki",
+            "QTH": "Lomianki",
             "Locator": "KO02KI"
         },
         "UKE_individual_devices": {
@@ -7714,7 +7714,7 @@
             "Status": "working",
             "Latitude": "53.080352",
             "Longitude": "21.569352",
-            "QTH": "Ostroeka",
+            "QTH": "Ostroleka",
             "Locator": "KO03SB"
         },
         "UKE_club_devices": {
@@ -7759,7 +7759,7 @@
             "Status": "working",
             "Latitude": "53.23469",
             "Longitude": "21.45663",
-            "QTH": "Kadzido",
+            "QTH": "Kadzidlo",
             "Locator": "KO03RF"
         },
         "UKE_individual_devices": {
@@ -7807,7 +7807,7 @@
             "Status": "working",
             "Latitude": "53.080149",
             "Longitude": "21.56918",
-            "QTH": "Ostroeka",
+            "QTH": "Ostroleka",
             "Locator": "KO03SB"
         },
         "UKE_club_devices": {
@@ -7852,7 +7852,7 @@
             "Status": "working",
             "Latitude": "52.543202",
             "Longitude": "19.71592",
-            "QTH": "Pock",
+            "QTH": "Plock",
             "Locator": "JO92UN"
         },
         "UKE_club_devices": {
@@ -7897,7 +7897,7 @@
             "Status": "working",
             "Latitude": "52.544455",
             "Longitude": "19.719648",
-            "QTH": "Pock",
+            "QTH": "Plock",
             "Locator": "JO92UN"
         },
         "UKE_club_devices": {
@@ -7942,7 +7942,7 @@
             "Status": "inprogress",
             "Latitude": "52.544962",
             "Longitude": "19.719402",
-            "QTH": "Pock",
+            "QTH": "Plock",
             "Locator": "JO92UN"
         },
         "UKE_club_devices": {
@@ -7987,7 +7987,7 @@
             "Status": "off",
             "Latitude": "52.61766",
             "Longitude": "20.353525",
-            "QTH": "Ponsk",
+            "QTH": "Plonsk",
             "Locator": "KO02EO"
         }
     },
@@ -8215,7 +8215,7 @@
             "Status": "working",
             "Latitude": "51.358587",
             "Longitude": "20.572206",
-            "QTH": "Kozowiec - Przysucha RTCN",
+            "QTH": "Kozlowiec - Przysucha RTCN",
             "Locator": "KO01GI"
         },
         "UKE_individual_devices": {
@@ -8386,7 +8386,7 @@
             "Status": "working",
             "Latitude": "53.080289",
             "Longitude": "21.569459",
-            "QTH": "Ostroeka",
+            "QTH": "Ostroleka",
             "Locator": "KO03SB"
         },
         "UKE_club_devices": {
@@ -8731,7 +8731,7 @@
             "Status": "working",
             "Latitude": "52.175313",
             "Longitude": "20.742929",
-            "QTH": "Moszna-Parcela komin Elektrociepowni Pruszkow II",
+            "QTH": "Moszna-Parcela komin Elektrocieplowni Pruszkow II",
             "Locator": "KO02IE"
         },
         "UKE_individual_devices": {
@@ -8761,7 +8761,7 @@
             "Status": "working",
             "Latitude": "52.175313",
             "Longitude": "20.742929",
-            "QTH": "Moszna-Parcela komin Elektrociepowni Pruszkow II",
+            "QTH": "Moszna-Parcela komin Elektrocieplowni Pruszkow II",
             "Locator": "KO02IE"
         },
         "UKE_individual_devices": {
@@ -8881,7 +8881,7 @@
             "Status": "working",
             "Latitude": "52.175313",
             "Longitude": "20.742929",
-            "QTH": "Moszna-Parcela komin Elektrociepowni Pruszkow II",
+            "QTH": "Moszna-Parcela komin Elektrocieplowni Pruszkow II",
             "Locator": "KO02IE"
         },
         "UKE_individual_devices": {
@@ -9031,7 +9031,7 @@
             "Status": "working",
             "Latitude": "52.175313",
             "Longitude": "20.742929",
-            "QTH": "Moszna-Parcela komin Elektrociepowni Pruszkow II",
+            "QTH": "Moszna-Parcela komin Elektrocieplowni Pruszkow II",
             "Locator": "KO02IE"
         },
         "UKE_individual_devices": {
@@ -9280,7 +9280,7 @@
             "Status": "working",
             "Latitude": "51.111545",
             "Longitude": "17.060299",
-            "QTH": "Wrocaw",
+            "QTH": "Wroclaw",
             "Locator": "JO81MC"
         },
         "UKE_individual_devices": {
@@ -9310,7 +9310,7 @@
             "Status": "working",
             "Latitude": "50.971612",
             "Longitude": "14.940872",
-            "QTH": "Dziaoszyn - stacja meteo",
+            "QTH": "Dzialoszyn - stacja meteo",
             "Locator": "JO70LX"
         },
         "UKE_club_devices": {
@@ -9355,7 +9355,7 @@
             "Status": "working",
             "Latitude": "51.262989",
             "Longitude": "15.564836",
-            "QTH": "Bolesawiec",
+            "QTH": "Boleslawiec",
             "Locator": "JO71SG"
         },
         "UKE_club_devices": {
@@ -9523,7 +9523,7 @@
             "Status": "inprogress",
             "Latitude": "0",
             "Longitude": "0",
-            "QTH": "Oawa",
+            "QTH": "Olawa",
             "Locator": "JO80PW"
         },
         "UKE_individual_devices": {
@@ -9553,7 +9553,7 @@
             "Status": "working",
             "Latitude": "51.114774",
             "Longitude": "17.067787",
-            "QTH": "Wrocaw",
+            "QTH": "Wroclaw",
             "Locator": "JO81MC"
         }
     },
@@ -9787,7 +9787,7 @@
             "Status": "working",
             "Latitude": "0",
             "Longitude": "0",
-            "QTH": "Gubczyce",
+            "QTH": "Glubczyce",
             "Locator": "JO80VE"
         },
         "UKE_club_devices": {
@@ -9832,7 +9832,7 @@
             "Status": "planned",
             "Latitude": "0",
             "Longitude": "0",
-            "QTH": "Wrocaw",
+            "QTH": "Wroclaw",
             "Locator": "JO81LC"
         },
         "UKE_individual_devices": {
@@ -10165,7 +10165,7 @@
             "Status": "working",
             "Latitude": "51.256347",
             "Longitude": "16.055585",
-            "QTH": "Mikowice",
+            "QTH": "Milkowice",
             "Locator": "JO81AG"
         },
         "UKE_individual_devices": {
@@ -10195,7 +10195,7 @@
             "Status": "working",
             "Latitude": "51.141371",
             "Longitude": "17.030831",
-            "QTH": "Wrocaw",
+            "QTH": "Wroclaw",
             "Locator": "JO81MD"
         }
     },
@@ -10213,7 +10213,7 @@
             "Status": "working",
             "Latitude": "50.539307",
             "Longitude": "16.567286",
-            "QTH": "Nowa Ruda-Supiec",
+            "QTH": "Nowa Ruda-Slupiec",
             "Locator": "JO80GM"
         },
         "UKE_individual_devices": {
@@ -10243,7 +10243,7 @@
             "Status": "working",
             "Latitude": "50.945369",
             "Longitude": "17.305275",
-            "QTH": "Oawa",
+            "QTH": "Olawa",
             "Locator": "JO80PW"
         },
         "UKE_individual_devices": {
@@ -10408,7 +10408,7 @@
             "Status": "working",
             "Latitude": "51.106164",
             "Longitude": "17.04304",
-            "QTH": "Wrocaw",
+            "QTH": "Wroclaw",
             "Locator": "JO81MC"
         },
         "UKE_club_devices": {
@@ -10453,7 +10453,7 @@
             "Status": "working",
             "Latitude": "51.11472",
             "Longitude": "16.95503",
-            "QTH": "Wrocaw",
+            "QTH": "Wroclaw",
             "Locator": "JO81lc"
         },
         "UKE_individual_devices": {
@@ -10603,7 +10603,7 @@
             "Status": "working",
             "Latitude": "51.345552",
             "Longitude": "17.497358",
-            "QTH": "Chestow",
+            "QTH": "Chelstow",
             "Locator": "JO81RI"
         },
         "UKE_individual_devices": {
@@ -10813,7 +10813,7 @@
             "Status": "working",
             "Latitude": "51.114443",
             "Longitude": "17.067505",
-            "QTH": "Wrocaw - Dom Akademicki",
+            "QTH": "Wroclaw - Dom Akademicki",
             "Locator": "JO81MC"
         },
         "UKE_individual_devices": {
@@ -10861,7 +10861,7 @@
             "Status": "working",
             "Latitude": "0",
             "Longitude": "0",
-            "QTH": "Oawa",
+            "QTH": "Olawa",
             "Locator": "JO80PW"
         },
         "UKE_individual_devices": {
@@ -10889,9 +10889,9 @@
             "Duplex": "-",
             "Offset": "0.6",
             "Status": "working",
-            "Latitude": "50.77934910253",
-            "Longitude": "16.210993863262",
-            "QTH": "Gora Chemiec",
+            "Latitude": "50.7793491",
+            "Longitude": "16.21099386",
+            "QTH": "Gora Chelmiec",
             "Locator": "JO80DT"
         },
         "UKE_club_devices": {
@@ -10934,9 +10934,9 @@
             "Duplex": "-",
             "Offset": "7.6",
             "Status": "working",
-            "Latitude": "50.77934910253",
-            "Longitude": "16.210993863262",
-            "QTH": "Gora Chemiec",
+            "Latitude": "50.7793491",
+            "Longitude": "16.21099386",
+            "QTH": "Gora Chelmiec",
             "Locator": "JO80DT"
         },
         "UKE_individual_devices": {
@@ -10996,7 +10996,7 @@
             "Status": "working",
             "Latitude": "51.114462",
             "Longitude": "16.958219",
-            "QTH": "Wrocaw",
+            "QTH": "Wroclaw",
             "Locator": "JO81LC"
         },
         "UKE_club_devices": {
@@ -11041,7 +11041,7 @@
             "Status": "working",
             "Latitude": "0",
             "Longitude": "0",
-            "QTH": "Wrocaw",
+            "QTH": "Wroclaw",
             "Locator": "JO81kb"
         },
         "UKE_individual_devices": {
@@ -11206,7 +11206,7 @@
             "Status": "testing",
             "Latitude": "51.774038",
             "Longitude": "19.504914",
-            "QTH": "odz",
+            "QTH": "Lodz",
             "Locator": "JO91SS"
         },
         "UKE_individual_devices": {
@@ -11266,7 +11266,7 @@
             "Status": "off",
             "Latitude": "50.860322",
             "Longitude": "21.048573",
-            "QTH": "ysa Gora/Nowa Supia - RTCN Swiety Krzyz EmiTel",
+            "QTH": "Lysa Gora/Nowa Slupia - RTCN Swiety Krzyz EmiTel",
             "Locator": "KO00MU"
         },
         "UKE_club_devices": {
@@ -11431,7 +11431,7 @@
             "Status": "working",
             "Latitude": "51.267423",
             "Longitude": "19.328424",
-            "QTH": "Bechatow",
+            "QTH": "Belchatow",
             "Locator": "JO91PG"
         }
     },
@@ -11494,7 +11494,7 @@
             "Status": "working",
             "Latitude": "50.382386",
             "Longitude": "20.592706",
-            "QTH": "Zota",
+            "QTH": "Zlota",
             "Locator": "KO00HJ"
         },
         "UKE_individual_devices": {
@@ -11524,7 +11524,7 @@
             "Status": "testing",
             "Latitude": "0",
             "Longitude": "0",
-            "QTH": "odz",
+            "QTH": "Lodz",
             "Locator": "JO91RS"
         },
         "UKE_individual_devices": {
@@ -11614,7 +11614,7 @@
             "Status": "working",
             "Latitude": "50.860322",
             "Longitude": "21.048573",
-            "QTH": "RTCN Swiety Krzyz EmiTel - ysa Gora/Nowa Supia",
+            "QTH": "RTCN Swiety Krzyz EmiTel - Lysa Gora/Nowa Slupia",
             "Locator": "KO00MU"
         },
         "UKE_club_devices": {
@@ -11734,7 +11734,7 @@
             "Status": "working",
             "Latitude": "51.774319",
             "Longitude": "19.506038",
-            "QTH": "odz",
+            "QTH": "Lodz",
             "Locator": "JO91SS"
         },
         "UKE_club_devices": {
@@ -11779,7 +11779,7 @@
             "Status": "working",
             "Latitude": "51.58721",
             "Longitude": "19.16252",
-            "QTH": "ask",
+            "QTH": "Lask",
             "Locator": "JO91NO"
         },
         "UKE_individual_devices": {
@@ -11809,7 +11809,7 @@
             "Status": "working",
             "Latitude": "51.77415",
             "Longitude": "19.505409",
-            "QTH": "odz",
+            "QTH": "Lodz",
             "Locator": "JO91SS"
         },
         "UKE_club_devices": {
@@ -11854,7 +11854,7 @@
             "Status": "working",
             "Latitude": "51.780793",
             "Longitude": "19.533964",
-            "QTH": "odz",
+            "QTH": "Lodz",
             "Locator": "JO91SS"
         },
         "UKE_individual_devices": {
@@ -11884,7 +11884,7 @@
             "Status": "working",
             "Latitude": "51.746115",
             "Longitude": "19.450216",
-            "QTH": "odz",
+            "QTH": "Lodz",
             "Locator": "JO91RR"
         },
         "UKE_individual_devices": {
@@ -11974,7 +11974,7 @@
             "Status": "working",
             "Latitude": "51.774038",
             "Longitude": "19.504914",
-            "QTH": "odz",
+            "QTH": "Lodz",
             "Locator": "JO91SS"
         },
         "UKE_individual_devices": {
@@ -12004,7 +12004,7 @@
             "Status": "working",
             "Latitude": "51.780793",
             "Longitude": "19.533964",
-            "QTH": "odz",
+            "QTH": "Lodz",
             "Locator": "JO91SS"
         },
         "UKE_individual_devices": {
@@ -12052,7 +12052,7 @@
             "Status": "inprogress",
             "Latitude": "51.761471",
             "Longitude": "19.539368",
-            "QTH": "odz",
+            "QTH": "Lodz",
             "Locator": "JO91SS"
         },
         "UKE_individual_devices": {
@@ -12082,7 +12082,7 @@
             "Status": "working",
             "Latitude": "51.774038",
             "Longitude": "19.504914",
-            "QTH": "odz",
+            "QTH": "Lodz",
             "Locator": "JO91SS"
         },
         "UKE_individual_devices": {
@@ -12112,7 +12112,7 @@
             "Status": "working",
             "Latitude": "50.860322",
             "Longitude": "21.048573",
-            "QTH": "ysa Gora/Nowa Supia - RTCN Swiety Krzyz EmiTel",
+            "QTH": "Lysa Gora/Nowa Slupia - RTCN Swiety Krzyz EmiTel",
             "Locator": "KO00MU"
         },
         "UKE_club_devices": {
@@ -12223,7 +12223,7 @@
             "Status": "working",
             "Latitude": "51.012532",
             "Longitude": "21.545069",
-            "QTH": "Batow",
+            "QTH": "Baltow",
             "Locator": "KO01SA"
         }
     },
@@ -12406,7 +12406,7 @@
             "Status": "working",
             "Latitude": "50.382386",
             "Longitude": "20.592706",
-            "QTH": "Zota",
+            "QTH": "Zlota",
             "Locator": "KO00HJ"
         },
         "UKE_individual_devices": {
@@ -12436,7 +12436,7 @@
             "Status": "working",
             "Latitude": "50.382386",
             "Longitude": "20.592706",
-            "QTH": "Zota",
+            "QTH": "Zlota",
             "Locator": "KO00HJ"
         },
         "UKE_individual_devices": {
@@ -12496,7 +12496,7 @@
             "Status": "working",
             "Latitude": "51.780951",
             "Longitude": "19.533544",
-            "QTH": "odz",
+            "QTH": "Lodz",
             "Locator": "JO91SS"
         }
     },
@@ -12514,7 +12514,7 @@
             "Status": "off",
             "Latitude": "51.746801",
             "Longitude": "19.487679",
-            "QTH": "odz",
+            "QTH": "Lodz",
             "Locator": "JO91RR"
         }
     },
@@ -12532,7 +12532,7 @@
             "Status": "working",
             "Latitude": "51.746115",
             "Longitude": "19.450216",
-            "QTH": "odz",
+            "QTH": "Lodz",
             "Locator": "JO91RR"
         },
         "UKE_individual_devices": {
@@ -12637,7 +12637,7 @@
             "Status": "working",
             "Latitude": "50.860322",
             "Longitude": "21.048573",
-            "QTH": "ysa Gora/Nowa Supia - RTCN Swiety Krzyz EmiTel",
+            "QTH": "Lysa Gora/Nowa Slupia - RTCN Swiety Krzyz EmiTel",
             "Locator": "KO00MU"
         }
     },
@@ -12655,7 +12655,7 @@
             "Status": "working",
             "Latitude": "51.780793",
             "Longitude": "19.533964",
-            "QTH": "odz",
+            "QTH": "Lodz",
             "Locator": "JO91SS"
         }
     },
@@ -12736,7 +12736,7 @@
             "Status": "working",
             "Latitude": "50.860322",
             "Longitude": "21.048573",
-            "QTH": "RTCN Swiety Krzyz EmiTel - ysa Gora/Nowa Supia",
+            "QTH": "RTCN Swiety Krzyz EmiTel - Lysa Gora/Nowa Slupia",
             "Locator": "KO00MU"
         },
         "UKE_club_devices": {
@@ -12871,7 +12871,7 @@
             "Status": "working",
             "Latitude": "51.105189",
             "Longitude": "18.941747",
-            "QTH": "Dziaoszyn",
+            "QTH": "Dzialoszyn",
             "Locator": "JO91LC"
         },
         "UKE_club_devices": {
@@ -12916,7 +12916,7 @@
             "Status": "working",
             "Latitude": "51.75349",
             "Longitude": "19.455361",
-            "QTH": "odz",
+            "QTH": "Lodz",
             "Locator": "JO91RS"
         },
         "UKE_club_devices": {
@@ -13096,7 +13096,7 @@
             "Status": "working",
             "Latitude": "52.030614",
             "Longitude": "23.147055",
-            "QTH": "Biaa Podlaska",
+            "QTH": "Biala Podlaska",
             "Locator": "KO12NA"
         }
     },
@@ -13177,7 +13177,7 @@
             "Status": "working",
             "Latitude": "52.027832",
             "Longitude": "23.158573",
-            "QTH": "Biaa Podlaska Pec",
+            "QTH": "Biala Podlaska Pec",
             "Locator": "KO12NA"
         },
         "UKE_individual_devices": {
@@ -13252,7 +13252,7 @@
             "Status": "working",
             "Latitude": "52.18624",
             "Longitude": "22.78165",
-            "QTH": "Chotycze / osice",
+            "QTH": "Chotycze / Losice",
             "Locator": "KO12JE"
         },
         "UKE_club_devices": {
@@ -13297,7 +13297,7 @@
             "Status": "off",
             "Latitude": "51.13186",
             "Longitude": "23.472208",
-            "QTH": "Chem",
+            "QTH": "Chelm",
             "Locator": "KO11RD"
         }
     },
@@ -13315,7 +13315,7 @@
             "Status": "working",
             "Latitude": "52.18624",
             "Longitude": "22.78165",
-            "QTH": "Chotycze / osice",
+            "QTH": "Chotycze / Losice",
             "Locator": "KO12JE"
         },
         "UKE_club_devices": {
@@ -13444,7 +13444,7 @@
             "Status": "working",
             "Latitude": "52.18624",
             "Longitude": "22.78165",
-            "QTH": "Chotycze - RTCN osice",
+            "QTH": "Chotycze - RTCN Losice",
             "Locator": "KO12JE"
         },
         "UKE_club_devices": {
@@ -13702,7 +13702,7 @@
             "Status": "working",
             "Latitude": "51.558118",
             "Longitude": "23.553329",
-            "QTH": "Wodawa",
+            "QTH": "Wlodawa",
             "Locator": "KO11SN"
         },
         "UKE_club_devices": {
@@ -13747,7 +13747,7 @@
             "Status": "working",
             "Latitude": "50.000296",
             "Longitude": "22.713323",
-            "QTH": "Jarosaw",
+            "QTH": "Jaroslaw",
             "Locator": "KO10IA"
         },
         "UKE_club_devices": {
@@ -13792,7 +13792,7 @@
             "Status": "working",
             "Latitude": "50.000296",
             "Longitude": "22.713323",
-            "QTH": "Jarosaw",
+            "QTH": "Jaroslaw",
             "Locator": "KO10IA"
         },
         "UKE_club_devices": {
@@ -13837,7 +13837,7 @@
             "Status": "working",
             "Latitude": "49.81322",
             "Longitude": "21.350967",
-            "QTH": "Jaso - Gora Liwocz",
+            "QTH": "Jaslo - Gora Liwocz",
             "Locator": "KN09QT"
         },
         "UKE_club_devices": {
@@ -14291,8 +14291,8 @@
             "Duplex": "-",
             "Offset": "7.6",
             "Status": "working",
-            "Latitude": "51.241346500787",
-            "Longitude": "22.509713783393",
+            "Latitude": "51.2413465",
+            "Longitude": "22.50971378",
             "QTH": "Lublin",
             "Locator": "KO11gf"
         },
@@ -14488,7 +14488,7 @@
             "Status": "working",
             "Latitude": "51.928906",
             "Longitude": "22.360262",
-            "QTH": "ukow (Zbozowa 2)",
+            "QTH": "Lukow (Zbozowa 2)",
             "Locator": "KO11EW"
         }
     },
@@ -14785,7 +14785,7 @@
             "Status": "working",
             "Latitude": "49.9914",
             "Longitude": "21.941145",
-            "QTH": "Boguchwaa",
+            "QTH": "Boguchwala",
             "Locator": "KN09XX"
         },
         "UKE_individual_devices": {
@@ -15172,7 +15172,7 @@
             "Status": "working",
             "Latitude": "52.18624",
             "Longitude": "22.78165",
-            "QTH": "Chotycze - RTCN osice",
+            "QTH": "Chotycze - RTCN Losice",
             "Locator": "KO12JE"
         },
         "UKE_club_devices": {
@@ -15217,7 +15217,7 @@
             "Status": "off",
             "Latitude": "52.048835",
             "Longitude": "23.116651",
-            "QTH": "Biaa Podlaska",
+            "QTH": "Biala Podlaska",
             "Locator": "KO12NB"
         },
         "UKE_individual_devices": {
@@ -15382,7 +15382,7 @@
             "Status": "working",
             "Latitude": "51.558078",
             "Longitude": "23.55371",
-            "QTH": "Wodawa",
+            "QTH": "Wlodawa",
             "Locator": "KO11SN"
         },
         "UKE_club_devices": {
@@ -15427,7 +15427,7 @@
             "Status": "working",
             "Latitude": "49.81322",
             "Longitude": "21.350967",
-            "QTH": "Jaso",
+            "QTH": "Jaslo",
             "Locator": "KN09QT"
         },
         "UKE_individual_devices": {
@@ -15457,7 +15457,7 @@
             "Status": "working",
             "Latitude": "51.548785",
             "Longitude": "23.548394",
-            "QTH": "Wodawa",
+            "QTH": "Wlodawa",
             "Locator": "KO11SN"
         },
         "UKE_club_devices": {
@@ -15502,7 +15502,7 @@
             "Status": "off",
             "Latitude": "51.351915",
             "Longitude": "22.187133",
-            "QTH": "Puawy",
+            "QTH": "Pulawy",
             "Locator": "KO11CI"
         },
         "UKE_individual_devices": {
@@ -15598,7 +15598,7 @@
             "Status": "working",
             "Latitude": "49.884356",
             "Longitude": "20.911473",
-            "QTH": "Gora Wa - Tarnow",
+            "QTH": "Gora Wal - Tarnow",
             "Locator": "KN09KV"
         },
         "UKE_club_devices": {
@@ -16132,7 +16132,7 @@
             "Status": "working",
             "Latitude": "50.213236",
             "Longitude": "19.127539",
-            "QTH": "Mysowice",
+            "QTH": "Myslowice",
             "Locator": "JO90NF"
         }
     },
@@ -16225,7 +16225,7 @@
             "Status": "working",
             "Latitude": "50.579506",
             "Longitude": "19.449523",
-            "QTH": "Wodowice - Jura",
+            "QTH": "Wlodowice - Jura",
             "Locator": "JO90RN"
         }
     },
@@ -16316,8 +16316,8 @@
             "Duplex": "-",
             "Offset": "7.6",
             "Status": "working",
-            "Latitude": "50.245312077121",
-            "Longitude": "19.026965855589",
+            "Latitude": "50.24531208",
+            "Longitude": "19.02696586",
             "QTH": "Katowice",
             "Locator": "JO90MF"
         },
@@ -16594,7 +16594,7 @@
             "Status": "off",
             "Latitude": "49.719397",
             "Longitude": "20.454828",
-            "QTH": "Mordarka - ysa Gora (k. Limanowej)",
+            "QTH": "Mordarka - Lysa Gora (k. Limanowej)",
             "Locator": "KN09FR"
         }
     },
@@ -16675,7 +16675,7 @@
             "Status": "testing",
             "Latitude": "49.724771",
             "Longitude": "20.45819",
-            "QTH": "Mordarka - ysa gora",
+            "QTH": "Mordarka - Lysa gora",
             "Locator": "KN09FR"
         }
     },
@@ -16738,7 +16738,7 @@
             "Status": "off",
             "Latitude": "49.719395",
             "Longitude": "20.454785",
-            "QTH": "Mordarka - ysa Gora (k. Limanowej)",
+            "QTH": "Mordarka - Lysa Gora (k. Limanowej)",
             "Locator": "KN09FR"
         },
         "UKE_individual_devices": {
@@ -16843,7 +16843,7 @@
             "Status": "working",
             "Latitude": "50.539655",
             "Longitude": "19.428821",
-            "QTH": "Wodowice",
+            "QTH": "Wlodowice",
             "Locator": "JO90RM"
         }
     },
@@ -16982,9 +16982,9 @@
             "Duplex": "-",
             "Offset": "7.6",
             "Status": "working",
-            "Latitude": "50.57099703963",
-            "Longitude": "18.650322797483",
-            "QTH": "Krupski Myn",
+            "Latitude": "50.57099704",
+            "Longitude": "18.6503228",
+            "QTH": "Krupski Mlyn",
             "Locator": "JO90HN"
         },
         "UKE_individual_devices": {
@@ -17662,7 +17662,7 @@
             "Status": "off",
             "Latitude": "49.719364",
             "Longitude": "20.454774",
-            "QTH": "Mordarka - ysa Gora (k. Limanowej)",
+            "QTH": "Mordarka - Lysa Gora (k. Limanowej)",
             "Locator": "KN09FR"
         },
         "UKE_individual_devices": {
@@ -17872,7 +17872,7 @@
             "Status": "working",
             "Latitude": "49.719344",
             "Longitude": "20.454852",
-            "QTH": "Mordarka - ysa Gora 781 m n.p.m. k. Limanowej",
+            "QTH": "Mordarka - Lysa Gora 781 m n.p.m. k. Limanowej",
             "Locator": "KN09FR"
         },
         "UKE_individual_devices": {
@@ -17947,7 +17947,7 @@
             "Status": "planned",
             "Latitude": "49.760432",
             "Longitude": "19.001325",
-            "QTH": "Gora Szyndzielnia, Bielsko-Biaa",
+            "QTH": "Gora Szyndzielnia, Bielsko-Biala",
             "Locator": "JN99MS"
         }
     },
@@ -18181,7 +18181,7 @@
             "Status": "working",
             "Latitude": "49.884356",
             "Longitude": "20.911473",
-            "QTH": "Gora Wa - Tarnow",
+            "QTH": "Gora Wal - Tarnow",
             "Locator": "KN09KV"
         },
         "UKE_club_devices": {
@@ -18244,7 +18244,7 @@
             "Status": "working",
             "Latitude": "49.782306",
             "Longitude": "20.022833",
-            "QTH": "Pcim - Kudacze",
+            "QTH": "Pcim - Kudlacze",
             "Locator": "KN09AS"
         },
         "UKE_individual_devices": {
@@ -18410,8 +18410,8 @@
             "Duplex": "-",
             "Offset": "7.6",
             "Status": "working",
-            "Latitude": "49.683229113152",
-            "Longitude": "18.820010726441",
+            "Latitude": "49.68322911",
+            "Longitude": "18.82001073",
             "QTH": "Ustron Gora Czantoria",
             "Locator": "JN99JQ"
         },
@@ -18442,7 +18442,7 @@
             "Status": "working",
             "Latitude": "50.555045",
             "Longitude": "19.478789",
-            "QTH": "Wodowice",
+            "QTH": "Wlodowice",
             "Locator": "JO90RN"
         }
     },
@@ -18919,7 +18919,7 @@
             "Status": "working",
             "Latitude": "49.307959",
             "Longitude": "19.936232",
-            "QTH": "Obiekt Emitel RTON Gubaowka",
+            "QTH": "Obiekt Emitel RTON Gubalowka",
             "Locator": "JN99XH"
         },
         "UKE_club_devices": {
@@ -18992,8 +18992,8 @@
             "Duplex": "-",
             "Offset": "0.6",
             "Status": "inprogress",
-            "Latitude": "49.778695397775",
-            "Longitude": "20.396280558875",
+            "Latitude": "49.7786954",
+            "Longitude": "20.39628056",
             "QTH": "Makowica - Kamionna",
             "Locator": "KN09es"
         },
@@ -19024,7 +19024,7 @@
             "Status": "working",
             "Latitude": "49.307959",
             "Longitude": "19.936232",
-            "QTH": "Obiekt Emitel RTON Gubaowka",
+            "QTH": "Obiekt Emitel RTON Gubalowka",
             "Locator": "JN99XH"
         },
         "UKE_club_devices": {
