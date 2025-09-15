@@ -5,8 +5,8 @@
         },
         "http://przemienniki.net"
     ],
-    "updated": "2025-01-06 16:09:36",
-    "generated": "2025-01-07 13:22:11",
+    "updated": "2024-06-21 01:08:12",
+    "generated": "2025-09-15 20:55:38",
     "generator": "przemienniki.net v.2.12.0 (2019/02/04)",
     "dictionary": {
         "item": [
@@ -164,6 +164,13 @@
                 "value": "32768",
                 "description": "Tetra",
                 "preferedColor": "#0000ff"
+            },
+            {
+                "type": "mode",
+                "name": "M17",
+                "value": "33554432",
+                "description": "M17",
+                "preferedColor": "#fc353b"
             },
             {
                 "type": "status",
@@ -332,9 +339,9 @@
             "id": "9045891",
             "hash": "f7ae687f3e2d0e7f7069acc0826e7c08",
             "created": "2024-06-20 14:06:39",
-            "updated": "2024-09-18 21:33:13",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2024-06-20 14:06:39",
+            "statusInt": "16",
+            "status": "BUILDING",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "16384",
@@ -373,9 +380,9 @@
             "id": "9045894",
             "hash": "fa41f2ba01d7d664d0920a8c9df8a68b",
             "created": "2024-06-20 14:18:03",
-            "updated": "2024-09-18 21:33:26",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2024-06-20 14:18:03",
+            "statusInt": "16",
+            "status": "BUILDING",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "16384",
@@ -414,9 +421,9 @@
             "id": "9045893",
             "hash": "d7856d60fc1ecfce39b21b62c5d5336f",
             "created": "2024-06-20 14:15:04",
-            "updated": "2024-09-18 21:33:36",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2024-06-20 14:15:04",
+            "statusInt": "16",
+            "status": "BUILDING",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "16384",
@@ -525,9 +532,9 @@
             "id": "9002884",
             "hash": null,
             "created": "2014-01-27 15:17:14",
-            "updated": "2024-09-26 08:34:12",
-            "statusInt": "4",
-            "status": "UNKNOWN",
+            "updated": "2014-01-27 15:17:31",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2019-01-17",
             "modeInt": "4",
             "mode": "FM",
@@ -1455,7 +1462,7 @@
             "id": "9006144",
             "hash": null,
             "created": "2015-05-24 09:08:40",
-            "updated": "2024-12-19 17:34:50",
+            "updated": "2024-01-09 19:44:09",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2025-04-15",
@@ -1476,15 +1483,15 @@
                 "altitudeOverSea": "4",
                 "altitudeOverGround": "40"
             },
-            "activationInt": "2048",
-            "activation": "DCS",
-            "dcs": {
-                "rx": "073",
-                "tx": "073"
+            "activationInt": "256",
+            "activation": "CTCSS",
+            "ctcss": {
+                "rx": "82.5",
+                "tx": "82.5"
             },
-            "trxPower": "5.00",
+            "trxPower": "10.00",
             "operator": "SQ1DEX",
-            "remarks": "Antena X-200, (przemiennik testowo uruchomiony w trybie DCS)",
+            "remarks": "Antena X-200",
             "link": "http://przemienniki.net/przemienniki/70cm/SR1WU",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006144"
@@ -1997,9 +2004,9 @@
             "id": "1678166",
             "hash": "f4c47c60c8198b8d430a54c07030ef78",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-11-10 18:31:08",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2022-12-27 20:25:54",
+            "statusInt": "4",
+            "status": "UNKNOWN",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "16384",
@@ -2218,7 +2225,7 @@
             "id": "9045814",
             "hash": "3da0a4d0cad11b42c6d2546589adb3d0",
             "created": "2023-04-30 22:29:03",
-            "updated": "2024-09-18 21:34:37",
+            "updated": "2024-06-19 22:22:23",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-05-31",
@@ -2253,17 +2260,13 @@
             },
             "trxPower": "15.00",
             "operator": [
-                "SP2BRP",
+                "SP4KDK",
                 "SP2PA",
-                "SP4OX",
-                "SP4I"
+                "SP4OX"
             ],
             "echolink": "144387",
-            "remarks": "Przemiennik SR2EL FM-Echolink w Elblągu Rx: 439,550 Tx: 431,950 CTCSS: 94,8Hz\n\nTrx: Motorola MTR-2000\nAntena: Diamond X300\nPwr: 15W\n\nPołączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA",
-            "link": [
-                "http://przemienniki.net/przemienniki/70cm/SR2EL",
-                "https://minilink.pl/wp/"
-            ],
+            "remarks": "Przemiennik SR2EL FM-Echolink w Elblągu Rx: 439,550 Tx: 431,950 CTCSS: 94,8Hz\n\nTrx: Motorola MTR-2000\nAntena: Diamond X300\nPwr: 15W\n\nPołączone na stałe do sieci Mini Link SR2PA - SR2GDA - SR2GD - SR2EL - SR4OS - SR4MO - SR4DM",
+            "link": "http://przemienniki.net/przemienniki/70cm/SR2EL",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045814"
         },
@@ -2354,7 +2357,7 @@
             "id": "6252065",
             "hash": "f7a49c64ea074af6de73e43d7ad519ef",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-09-12 17:59:25",
+            "updated": "2022-12-19 19:51:09",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "4",
@@ -2381,11 +2384,8 @@
                 "tx": "94.8"
             },
             "trxPower": "10.00",
-            "operator": [
-                "SP2XDM",
-                "SQ2IHP"
-            ],
-            "remarks": "Przemiennik SR2GA FM-Echolink w Władysławowie Rx: 438,975 Tx: 431,375 CTCSS: 94,8Hz\n\nTrx: Motorola GM-600, GM-340\nAntena: Diamond F718\nPwr: 10W\n\nPołączone na stałe do sieci Mini Link SR2GA - SR2PA - SR2GDA - SR2GD - SR2EL - SR4OS - SR4MO - SR4WA",
+            "operator": "SP2XDM",
+            "remarks": "F-718",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR2GA",
                 "http://www.lewczuk.pl/index.php/pl/sr2ga"
@@ -2476,7 +2476,7 @@
             "id": "9044941",
             "hash": null,
             "created": "2017-11-03 11:44:56",
-            "updated": "2024-09-18 21:34:25",
+            "updated": "2024-06-19 22:21:33",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "1028",
@@ -2505,17 +2505,16 @@
                 "rx": "94.8",
                 "tx": "94.8"
             },
-            "trxPower": "10.00",
+            "trxPower": "5.00",
             "operator": [
                 "SP2TFV",
                 "SQ2CDE"
             ],
             "echolink": "146672",
-            "remarks": "Przemiennik SR2GD FM-Echolink w Gdansku Rx: 439,0875 Tx: 431,4875 CTCSS: 94.8Hz\n\nTrx: Motorola GM350\nAntena: Diamond X300\nPwr: 15W\n\nPołączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA",
+            "remarks": "Przemiennik SR2GD FM-Echolink w Gdansku Rx: 439,0875 Tx: 431,4875 CTCSS: 94.8Hz\n\nTrx: Motorola GM350\nAntena: Diamond X300\nPwr: 15W",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR2GD-C",
-                "http://http://sp2pzh.cqdx.pl/",
-                "https://minilink.pl/wp/"
+                "http://http://sp2pzh.cqdx.pl/"
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044941"
@@ -2525,7 +2524,7 @@
             "id": "9045809",
             "hash": "03ccdfc682272b8a690a3d4146dfd961",
             "created": "2023-03-23 17:28:31",
-            "updated": "2024-09-18 21:34:58",
+            "updated": "2023-08-03 23:01:01",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-06-01",
@@ -2541,12 +2540,12 @@
                 "tx": "439.350000"
             },
             "country": "pl",
-            "qth": "Smętowo Graniczne",
+            "qth": "Pruszcz Gdański",
             "location": {
-                "locator": "JO93IR",
-                "latitude": "53.747576",
-                "longitude": "18.690181",
-                "altitudeOverSea": "150",
+                "locator": "JO94GF",
+                "latitude": "54.243392",
+                "longitude": "18.547914",
+                "altitudeOverSea": "100",
                 "altitudeOverGround": "10"
             },
             "activationInt": "260",
@@ -2563,15 +2562,11 @@
                 "SP2GDA",
                 "SP2PA",
                 "SP4I",
-                "SQ2TBZ",
-                "SP4OX"
+                "SQ4OJD"
             ],
             "echolink": "132296",
-            "remarks": "Przemiennik SR2GDA FM-Echolink w Smętowo Graniczne Rx: 439,350 Tx: 431,750 CTCSS: 94,8Hz\n\nTrx: Motorola GM340\nAntena: Diamond X300\nPwr: 15W\n\nPołączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA",
-            "link": [
-                "http://przemienniki.net/przemienniki/70cm/SR2GDA",
-                "https://minilink.pl/wp/"
-            ],
+            "remarks": "Przemiennik SR2GDA FM-Echolink w Pruszczu Gdańskim Rx: 439,350 Tx: 431,750 CTCSS: 94,8Hz\n\nTrx: Motorola GM340\nAntena: Diamond X300\nPwr: 15W\n\nPołączone na stałe do sieci Mini Link SR2PA - SR2GDA - SR2GD - SR2VV - SR2EL - SR4OS - SR4MO - SR4DM",
+            "link": "http://przemienniki.net/przemienniki/70cm/SR2GDA",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045809"
         },
@@ -2652,12 +2647,15 @@
             "id": "2120714",
             "hash": "9052f0036f76959bdcef504ab5c06b11",
             "created": "2010-12-26 16:48:23",
-            "updated": "2024-12-21 12:24:03",
+            "updated": "2024-06-11 10:56:33",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2029-04-09",
-            "modeInt": "4",
-            "mode": "FM",
+            "modeInt": "16388",
+            "mode": [
+                "FM",
+                "FMLINK"
+            ],
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -2807,7 +2805,7 @@
             "id": "9045150",
             "hash": null,
             "created": "2020-04-12 10:11:43",
-            "updated": "2024-07-31 17:13:09",
+            "updated": "2020-04-12 10:11:44",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2024-04-04",
@@ -2825,9 +2823,7 @@
             "country": "pl",
             "qth": "Inowrocław",
             "location": {
-                "locator": "JO92DT",
-                "latitude": "52.793850",
-                "longitude": "18.260690"
+                "locator": "JO92DT"
             },
             "activationInt": "16777216",
             "activation": "UNKNOWN",
@@ -2884,7 +2880,7 @@
             "id": "8996897",
             "hash": "91de84a3a12f5e10804be8acf65eef24",
             "created": "2012-01-17 21:15:29",
-            "updated": "2024-11-10 18:30:55",
+            "updated": "2024-03-22 12:38:56",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-03-14",
@@ -2913,7 +2909,7 @@
             },
             "trxPower": "15.00",
             "operator": "SP2GG",
-            "remarks": "Kujawsko-Pomorska Sieć Radiowa",
+            "remarks": "Północna sieć przemienników analogowych FM \"\"MiniLINK\"\nSłużyć ma ona łatwemu nawiązywaniu łączności pomiędzy stacjami w północnej Polsce.\nSieć składa się z grupy przemienników połączonych ze sobą w trwały sposób.\nDzięki temu zawsze każdy korespondent jest słyszany jednocześnie na wszystkich przemiennikach naszej sieci.\nAktualnie sieć składa się z 12 przemienników: SR2PA, SR2GDA, SR2GD, SR2VV, SR2JJ , SR2EL, SR4OS, SR4MO, SR4DM, SR4LU, SR4PA , SR4BA",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR2JJ",
                 "https://www.facebook.com/profile.php?id=100064510003135"
@@ -3043,10 +3039,9 @@
             "id": "9045838",
             "hash": "de0cce0fa53e5018227b78ede389a508",
             "created": "2023-06-29 16:15:03",
-            "updated": "2025-01-06 04:15:39",
+            "updated": "2023-06-29 17:06:04",
             "statusInt": "1",
             "status": "WORKING",
-            "licenseExpiryDate": "2028-05-20",
             "modeInt": "8192",
             "mode": "C4FM",
             "bandInt": "16384",
@@ -3065,12 +3060,12 @@
             },
             "activationInt": "4",
             "activation": "CARRIER",
-            "trxPower": "15.00",
+            "trxPower": "5.00",
             "operator": [
                 "SP2ZFT",
                 "SQ2CDE"
             ],
-            "remarks": "Lokalizacja na dachu Zespołu Szkół Technicznych w Malbork ul. Narutowicza 14 (klub SP2ZFT)\nAntena X-300  na 3m maszcie\nPrzemiennik Yaesu DR-2X + HRI-200\nUrządzenia przemiennika w pomieszczeniu klubu SP2ZFT",
+            "remarks": "Lokalizacja na dachu Zespołu Szkół Technicznych w Malbork ul. Narutowicza 14 (klub SP2ZFT)\nAntena X-300  na 3m maszcie\nPrzemiennik Home-made oparty na TRX Motorola\nUrządzenia przemiennika w pomieszczeniu klubu SP2ZFT",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR2MAL",
                 "https://ot16.pzk.org.pl/index.php/kluby/51-sp2zft"
@@ -3155,7 +3150,7 @@
             "id": "9045783",
             "hash": "b557db9b02e7f46d3e958002f3921df0",
             "created": "2022-12-23 18:40:07",
-            "updated": "2024-09-18 21:34:12",
+            "updated": "2023-08-03 22:58:49",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-01-03",
@@ -3192,14 +3187,11 @@
             "operator": [
                 "SP2PA",
                 "SP4I",
-                "SP4OX"
+                "SQ4OJD"
             ],
             "echolink": "122551",
-            "remarks": "Przemiennik SR2PA w Pasłęku  Rx: 439,300 Tx: 431,700 CTCSS: 94,8Hz\n\nTrx: Motorola MTR-2000\nAntena: Diamond F718\nPwr: 15W\n\n\nPołączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA",
-            "link": [
-                "http://przemienniki.net/przemienniki/70cm/SR2PA",
-                "https://minilink.pl/wp/"
-            ],
+            "remarks": "Przemiennik SR2PA FM-Echolink w Pasłęku  Rx: 439,300 Tx: 431,700 CTCSS: 94,8Hz\n\nTrx: Motorola MTR-2000\nAntena: Diamond F718\nPwr: 15W\n\nPołączone na stałe do sieci Mini Link - SR2PA - SR2GDA - SR2GD - SR2VV - SR2EL - SR4OS - SR4MO - SR4DM",
+            "link": "http://przemienniki.net/przemienniki/70cm/SR2PA",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045783"
         },
@@ -3257,9 +3249,9 @@
             "id": "9044925",
             "hash": null,
             "created": "2017-06-12 07:44:15",
-            "updated": "2024-11-10 18:31:28",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2017-06-12 07:44:16",
+            "statusInt": "32",
+            "status": "PLANNED",
             "licenseExpiryDate": "2022-05-26",
             "modeInt": "4",
             "mode": "FM",
@@ -3677,7 +3669,7 @@
             "id": "9005879",
             "hash": null,
             "created": "2014-12-09 13:56:45",
-            "updated": "2024-11-10 18:46:42",
+            "updated": "2024-06-19 22:19:50",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2025-01-31",
@@ -3705,8 +3697,10 @@
                 "tx": "74.4"
             },
             "trxPower": "15.00",
-            "operator": "SP2GG",
-            "remarks": "Kujawsko-Pomorska Sieć Radiowa",
+            "operator": [
+                "SP2GG",
+                "SP2MMX"
+            ],
             "link": "http://przemienniki.net/przemienniki/70cm/SR2VV",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9005879"
@@ -3716,7 +3710,7 @@
             "id": "9045142",
             "hash": null,
             "created": "2020-02-04 18:42:13",
-            "updated": "2024-11-10 18:26:55",
+            "updated": "2024-02-11 22:20:54",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2025-01-31",
@@ -3750,7 +3744,7 @@
             "trxPower": "10.00",
             "operator": "SP2GG",
             "echolink": "147214",
-            "remarks": "Kujawsko-Pomorska Sieć Radiowa\nPrzemiennik D-Star+DMR+FM",
+            "remarks": "Północna sieć przemienników analogowych FM \"\"MiniLINK\"\nSłużyć ma ona łatwemu nawiązywaniu łączności pomiędzy stacjami w północnej Polsce.\nSieć składa się z grupy przemienników połączonych ze sobą w trwały sposób.\nDzięki temu zawsze każdy korespondent jest słyszany jednocześnie na wszystkich przemiennikach naszej sieci.\nAktualnie sieć składa się z 12 przemienników: SR2PA, SR2GDA, SR2GD, SR2VV, SR2JJ , SR2EL, SR4OS, SR4MO, SR4DM, SR4LU, SR4PA , SR4BA\n-może chwilowo też pracować w D-star i  DMR",
             "link": "http://przemienniki.net/przemienniki/2m/SR2VV-B",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045142"
@@ -3992,44 +3986,6 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1501745"
         },
-        "SR3A": {
-            "qra": "SR3A",
-            "id": "9045908",
-            "hash": "baa2e3263f906d8e91951caec151e93d",
-            "created": "2024-08-21 16:11:34",
-            "updated": "2024-08-21 16:13:07",
-            "statusInt": "32",
-            "status": "PLANNED",
-            "modeInt": "4",
-            "mode": "FM",
-            "bandInt": "4096",
-            "band": "2M",
-            "qrg": {
-                "rx": "145.062500",
-                "tx": "145.662500"
-            },
-            "country": "pl",
-            "qth": "RTCN Jemiołów/Łagów maszt EmiTel",
-            "location": {
-                "locator": "JO72PI",
-                "latitude": "52.346795",
-                "longitude": "15.276266",
-                "altitudeOverSea": "163",
-                "altitudeOverGround": "185"
-            },
-            "activationInt": "256",
-            "activation": "CTCSS",
-            "ctcss": {
-                "rx": "79.7",
-                "tx": "79.7"
-            },
-            "trxPower": "10.00",
-            "operator": "SP3AMO",
-            "remarks": "Urządzenie: Motorola MTR 2000.\nAntena RX/TX X-300N wysokość zawieszenia 185,00 m n.p.t., feeder 7/8\"@200m; Zakres częstotliwości pracy anteny: 144-146 MHz Zysk: VHF 4.35 dBd / 430-440 MHz Zysk: UHF 6.85 dBd Długość: 3,10 cm Złącze: N antena posiada 3 przeciwwagi. Charakterystyka: 2 x 5/8 fali dla 144MHz, 5 x 5/8 fali dla 430MHz. Obiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w Jemiołowie gmina Łagów 66-220 Łagów, maszt o wysokości 316. Centrum zbudowano w latach 1960-1962",
-            "link": "http://przemienniki.net/przemienniki/2m/SR3A",
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9045908"
-        },
         "SR3DGW": {
             "qra": "SR3DGW",
             "id": "9044993",
@@ -4073,10 +4029,9 @@
             "id": "9045692",
             "hash": null,
             "created": "2021-03-11 10:58:04",
-            "updated": "2024-09-13 15:30:42",
-            "statusInt": "1",
-            "status": "WORKING",
-            "licenseExpiryDate": "2029-09-10",
+            "updated": "2021-03-11 10:58:06",
+            "statusInt": "32",
+            "status": "PLANNED",
             "modeInt": "2048",
             "mode": "MOTOTRBO",
             "bandInt": "16384",
@@ -4096,13 +4051,8 @@
             },
             "activationInt": "4",
             "activation": "CARRIER",
-            "trxPower": "15.00",
-            "operator": [
-                "SP3DFR",
-                "SQ6ODL",
-                "SQ4LWO"
-            ],
-            "remarks": "Antena RX/TX X-300N wysokość zawieszenia 185,00 m n.p.t., feeder 7/8\"@200m; Zakres częstotliwości pracy anteny: 144-146 MHz Zysk: VHF 4.35 dBd / 430-440 MHz Zysk: UHF 6.85 dBd Długość: 3,10 cm Złącze: N antena posiada 3 przeciwwagi. Charakterystyka: 2 x 5/8 fali dla 144MHz, 5 x 5/8 fali dla 430MHz.\nUrządzenie: Motorola MTR-2000.\nSieć DMR+\nColor Code: 5.\nSlot 1 TG260\nSlot 2 TG2605, TG8005, TG26057\nObiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w Jemiołowie gmina Łagów 66-220 Łagów, maszt o wysokości 316 metrów. Centrum zbudowano w latach 1960-1962",
+            "operator": "SP3DFR",
+            "remarks": "Antena RX/TX GP9N wysokość zawieszenia 185,00m n.p.t., feeder 7/8\"@200m; Zakres częstotliwości pracy anteny: 144-146 MHz / 430-440 MHz Zysk: UHF 9.75 dBd Długość: 5,15 cm Złącze: N antena posiada 3 przeciwwagi o długości 49 cm każda.\nUrządzenie: Hytera RD985 UHF.\nSieć DMR+\nColor Code: 5.\nSlot 1 TG260\nSlot 2 TG2605, TG8005, TG26057\nObiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w Jemiołowie gmina Łagów 66-220 Łagów, maszt o wysokości 316 metrów i betonowa wieża o wysokości 99 metrów. Centrum zbudowano w latach 1960-1962",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR3DJ",
                 "http://sr3zj.qrz.pl/",
@@ -4110,45 +4060,6 @@
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045692"
-        },
-        "SR3DKA": {
-            "qra": "SR3DKA",
-            "id": "9047360",
-            "hash": "4ccdd73521f648f7b1f73789d463be05",
-            "created": "2024-12-19 22:03:05",
-            "updated": "2024-12-19 22:03:05",
-            "statusInt": "1",
-            "status": "WORKING",
-            "modeInt": "10272",
-            "mode": [
-                "DSTAR",
-                "MOTOTRBO",
-                "C4FM"
-            ],
-            "bandInt": "16384",
-            "band": "70CM",
-            "qrg": {
-                "rx": "430.800000",
-                "tx": "438.400000"
-            },
-            "country": "pl",
-            "qth": "Kalisz",
-            "location": {
-                "locator": "JO91BR",
-                "latitude": "51.742188",
-                "longitude": "18.095833",
-                "altitudeOverSea": "118"
-            },
-            "activationInt": "4",
-            "activation": "CARRIER",
-            "trxPower": "15.00",
-            "operator": [
-                "SP3VZT",
-                "SQ3TCG"
-            ],
-            "link": "http://przemienniki.net/przemienniki/70cm/SR3DKA",
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9047360"
         },
         "SR3DMR": {
             "qra": "SR3DMR",
@@ -4473,10 +4384,9 @@
             "id": "9045690",
             "hash": null,
             "created": "2021-03-10 17:00:43",
-            "updated": "2024-09-13 15:26:15",
-            "statusInt": "1",
-            "status": "WORKING",
-            "licenseExpiryDate": "2029-09-11",
+            "updated": "2021-03-10 17:00:44",
+            "statusInt": "32",
+            "status": "PLANNED",
             "modeInt": "16388",
             "mode": [
                 "FM",
@@ -4503,12 +4413,11 @@
                 "rx": "79.7",
                 "tx": "79.7"
             },
-            "trxPower": "15.00",
             "operator": [
-                "SQ6ODL",
-                "SQ4LWO"
+                "SP3DFR",
+                "SP3AMO"
             ],
-            "remarks": "Połączony na stałe z przemiennikami sieci FM-LINK.\nPracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.\nOtwarcie po 1 sekundzie nośnej z CTCSS.\nUrządzenie: Motorola MTR 2000.\nAntena RX/TX X-300N wysokość zawieszenia 185,00 m n.p.t., feeder 7/8\"@200m; Zakres częstotliwości pracy anteny: 144-146 MHz Zysk: VHF 4.35 dBd / 430-440 MHz Zysk: UHF 6.85 dBd Długość: 3,10 cm Złącze: N antena posiada 3 przeciwwagi. Charakterystyka: 2 x 5/8 fali dla 144MHz, 5 x 5/8 fali dla 430MHz.\nObiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w Jemiołowie gmina Łagów 66-220 Łagów, maszt o wysokości 316. Centrum zbudowano w latach 1960-1962",
+            "remarks": "Połączony na stałe z przemiennikami sieci FM-LINK.\nPracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.\nOtwarcie po 1 sekundzie nośnej z CTCSS.\nUrządzenie: Motorola MTR 2000.\nAntena RX/TX GP9N wysokość zawieszenia 185,00m n.p.t., feeder 7/8\"@200m; Zakres częstotliwości pracy anteny: 144-146 MHz / 430-440 MHz Zysk: UHF 9.75 dBd Długość: 5,15 cm Złącze: N antena posiada 3 przeciwwagi o długości 49 cm każda.\nObiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w Jemiołowie gmina Łagów 66-220 Łagów, maszt o wysokości 316 metrów i betonowa wieża o wysokości 99 metrów. Centrum zbudowano w latach 1960-1962",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR3J",
                 "http://fm-link.pl/"
@@ -4564,45 +4473,6 @@
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/2723037"
-        },
-        "SR3JX": {
-            "qra": "SR3JX",
-            "id": "9045907",
-            "hash": "920f8325c9ea4f0c37f7f7ac80038f64",
-            "created": "2024-08-21 16:08:50",
-            "updated": "2024-09-13 15:31:01",
-            "statusInt": "32",
-            "status": "PLANNED",
-            "licenseExpiryDate": "2029-09-11",
-            "modeInt": "8192",
-            "mode": "C4FM",
-            "bandInt": "16384",
-            "band": "70CM",
-            "qrg": {
-                "rx": "431.650000",
-                "tx": "439.250000"
-            },
-            "country": "pl",
-            "qth": "RTCN Jemiołów/Łagów maszt EmiTel",
-            "location": {
-                "locator": "JO72PI",
-                "latitude": "52.346795",
-                "longitude": "15.276266",
-                "altitudeOverSea": "163",
-                "altitudeOverGround": "185"
-            },
-            "activationInt": "4",
-            "activation": "CARRIER",
-            "trxPower": "15.00",
-            "operator": [
-                "SP3DFR",
-                "SQ6ODL",
-                "SQ4LWO"
-            ],
-            "remarks": "Przemiennik pracuje modulacją C4FM. Podłączony do sieci Wires-X Fusion.\nUrządzenie: 2 x Motorola GM340 + RPi + MMDVM.\nAntena RX/TX X-300N wysokość zawieszenia 185,00 m n.p.t., feeder 7/8\"@200m; Zakres częstotliwości pracy anteny: 144-146 MHz Zysk: VHF 4.35 dBd / 430-440 MHz Zysk: UHF 6.85 dBd Długość: 3,10 cm Złącze: N antena posiada 3 przeciwwagi. Charakterystyka: 2 x 5/8 fali dla 144MHz, 5 x 5/8 fali dla 430MHz.\nObiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w Jemiołowie gmina Łagów 66-220 Łagów, maszt o wysokości 316. Centrum zbudowano w latach 1960-1962",
-            "link": "http://przemienniki.net/przemienniki/70cm/SR3JX",
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9045907"
         },
         "SR3K": {
             "qra": "SR3K",
@@ -5276,11 +5146,11 @@
         "SR3PO": {
             "qra": "SR3PO",
             "id": "8996886",
-            "hash": "0d736d2b1ff75fad1e3ed096f639ea1c",
+            "hash": "52b3a9ac077b1cf28f191be81aa789f0",
             "created": "2011-11-07 20:12:03",
-            "updated": "2024-09-01 23:37:45",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2024-04-14 14:56:05",
+            "statusInt": "2",
+            "status": "DISABLED",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "32768",
@@ -5305,7 +5175,7 @@
                 "SO3Z",
                 "SP3XBS"
             ],
-            "remarks": "By uruchomić przemiennik należy przytrzymać 2 sekundy PTT.\nTX TR-50, RX FT-911, PA 10W, 2 filtry RX + LNA, 1 filtr TX, cyrkulator, sterownik, triplexer, Comet GP93n 10dBi  6x5/8l\nzbudował i zestroił Andrzej SP8XXN",
+            "remarks": "Awaria. Serwis. Zmiana lokalizacji.\nBy uruchomić przemiennik należy przytrzymać 2 sekundy PTT.\nTX TR-50, RX FT-911, PA 10W, 2 filtry RX + LNA, 1 filtr TX, cyrkulator, sterownik, triplexer, Comet GP93n 10dBi  6x5/8l\nzbudował i zestroił Andrzej SP8XXN",
             "link": [
                 "http://przemienniki.net/przemienniki/23cm/SR3PO",
                 "http://sp3yor.net/"
@@ -5316,9 +5186,9 @@
         "SR3PO_2": {
             "qra": "SR3PO",
             "id": "3171206",
-            "hash": "6f06d90389c5e5e70ee5ea289187005b",
+            "hash": "9808d771329ccd818f489b96ca2740de",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-10-04 21:59:56",
+            "updated": "2024-03-26 21:52:36",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "4",
@@ -5349,7 +5219,7 @@
                 "SO3Z",
                 "SP3XBS"
             ],
-            "remarks": "RX: Motorola GM1200 \nTX: Motorola GM1280\nsterownik RPTC, antena Radmor 10dBi, duplekser SGQ-450d, filtr pasmowy odbiorczy LBQ-450D, LNA, czułość RX 0.13uV\n105m npm + 91m npt  = 196m npm\nznamiennik przemiennika - głosu użyczył legendarny polski lektor śp. dr inż. Tomasz Knapik",
+            "remarks": "RX: Motorola GM1200 \nTX: Motorola GM1280\nsterownik RPTC, antena 8dBi, duplekser SGQ-450d, filtr pasmowy odbiorczy LBQ-450D, LNA, czułość RX 0.13uV\n105m npm + 91m npt  = 196m npm\nznamiennik przemiennika - głosu użyczył legendarny polski lektor śp. dr inż. Tomasz Knapik",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR3PO",
                 "http://sp3yor.net"
@@ -5571,10 +5441,9 @@
             "id": "9045691",
             "hash": null,
             "created": "2021-03-11 10:57:50",
-            "updated": "2024-09-13 15:26:26",
-            "statusInt": "1",
-            "status": "WORKING",
-            "licenseExpiryDate": "2029-09-11",
+            "updated": "2021-03-11 10:57:51",
+            "statusInt": "32",
+            "status": "PLANNED",
             "modeInt": "32",
             "mode": "DSTAR",
             "bandInt": "16384",
@@ -5594,9 +5463,8 @@
             },
             "activationInt": "4",
             "activation": "CARRIER",
-            "trxPower": "15.00",
             "operator": "SP3DFR",
-            "remarks": "Antena RX/TX X-300N wysokość zawieszenia 185,00 m n.p.t., feeder 7/8\"@200m; Zakres częstotliwości pracy anteny: 144-146 MHz Zysk: VHF 4.35 dBd / 430-440 MHz Zysk: UHF 6.85 dBd Długość: 3,10 cm Złącze: N antena posiada 3 przeciwwagi. Charakterystyka: 2 x 5/8 fali dla 144MHz, 5 x 5/8 fali dla 430MHz.\nUrządzenie: Przemiennik fabryczny ICOM+DVRPTR1\nObiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w Jemiołowie gmina Łagów 66-220 Łagów, maszt o wysokości 316 metrów. Centrum zbudowano w latach 1960-1962",
+            "remarks": "Antena RX/TX GP9N wysokość zawieszenia 185,00m n.p.t., feeder 7/8\"@200m; Zakres częstotliwości pracy anteny: 144-146 MHz / 430-440 MHz Zysk: UHF 9.75 dBd Długość: 5,15 cm Złącze: N antena posiada 3 przeciwwagi o długości 49 cm każda.\nUrządzenie: Motorola MTR2000+DVRPTR1\nObiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w Jemiołowie gmina Łagów 66-220 Łagów, maszt o wysokości 316 metrów i betonowa wieża o wysokości 99 metrów. Centrum zbudowano w latach 1960-1962",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR3UVJ",
                 "http://sr3zj.qrz.pl/"
@@ -5801,7 +5669,7 @@
             "id": "9043531",
             "hash": "5670e3c1750da04f5ba4b30d84ec3b83",
             "created": "2016-06-28 13:32:56",
-            "updated": "2024-08-17 23:02:47",
+            "updated": "2022-12-22 18:23:34",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2027-06-02",
@@ -5839,7 +5707,7 @@
                 "SP3QFS",
                 "SQ6ODL"
             ],
-            "remarks": "Przemiennik pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.\nOtwarcie po 1 sekundzie nośnej z CTCSS.\nUrządzenie: Motorola MTR2000.\nAntena zawieszona na wysokości 200 m n.p.t. o dużym zysku, pracuje z poziomą polaryzacją.\nObiekt: Otwarcie obiektu nastąpiło w październiku 1963 roku.\nWażący 220 ton maszt o wysokości 288 m wykonany został przez Mostostal Zabrze.",
+            "remarks": "Przemiennik pracuje z wąską dewiacją (NARROW FM) +/- 2,5 kHz.\nOtwarcie po 1 sekundzie nośnej z CTCSS.\nUrządzenie: Motorola MTR2000.\nAntena zawieszona na wysokości 200 m n.p.t. o dużym zysku, pracuje z pionową polaryzacją.\nObiekt: Otwarcie obiektu nastąpiło w październiku 1963 roku.\nWażący 220 ton maszt o wysokości 288 m wykonany został przez Mostostal Zabrze.",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR3XXX",
                 "https://www.fm-link.pl"
@@ -5852,7 +5720,7 @@
             "id": "4174081",
             "hash": "0978dbbc00500a75eabb37ce06aec5cd",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-08-28 00:59:39",
+            "updated": "2017-11-10 20:24:41",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "4",
@@ -5880,7 +5748,10 @@
             "trxPower": "10.00",
             "operator": "SP3AMO",
             "remarks": "GP 3x5/8,\nGM-360 x2 \nSter.Procom",
-            "link": "http://przemienniki.net/przemienniki/2m/SR3Z",
+            "link": [
+                "http://przemienniki.net/przemienniki/2m/SR3Z",
+                "http://www.otpzk32.vgh.pl/readarticle.php?article_id=16"
+            ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4174081"
         },
@@ -6008,10 +5879,9 @@
             "id": "4872524",
             "hash": "6b9e9948bbd4516991fc9be24c8a3384",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-08-17 23:00:49",
+            "updated": "2017-12-28 17:07:28",
             "statusInt": "1",
             "status": "WORKING",
-            "licenseExpiryDate": "2029-02-19",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "16384",
@@ -6021,13 +5891,13 @@
                 "tx": "438.750000"
             },
             "country": "pl",
-            "qth": "RTCN Jemiołów/Łagów maszt EmiTel",
+            "qth": "Jemiołów EMITEL",
             "location": {
                 "locator": "JO72PI",
-                "latitude": "52.346795",
-                "longitude": "15.276266",
-                "altitudeOverSea": "160",
-                "altitudeOverGround": "185"
+                "latitude": "52.346301",
+                "longitude": "15.275602",
+                "altitudeOverSea": "163",
+                "altitudeOverGround": "100"
             },
             "activationInt": "288",
             "activation": [
@@ -6039,12 +5909,8 @@
                 "tx": "79.7"
             },
             "trxPower": "5.00",
-            "operator": [
-                "SP3DFR",
-                "SQ6ODL",
-                "SQ4LWO"
-            ],
-            "remarks": "Antena RX/TX X-300N wysokość zawieszenia 185,00 m n.p.t., feeder 7/8\"@200m; Zakres częstotliwości pracy anteny: 144-146 MHz VHF 6.5 dB / 430-440 MHz Zysk: UHF 9.0 dB Długość: 3,10 cm Złącze: N antena posiada 3 przeciwwagi. Charakterystyka: 2 x 5/8 fali dla 144MHz, 5 x 5/8 fali dla 430MHz.\nObiekt: RTCN Jemiołów – Radiowo-Telewizyjne Centrum Nadawcze w Jemiołowie gmina Łagów 66-220 Łagów, maszt o wysokości 316 metrów. Centrum zbudowano w latach 1960-1962",
+            "operator": "SP3DFR",
+            "remarks": "X-510",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR3ZJ",
                 "http://sr3zj.qrz.pl/"
@@ -6133,9 +5999,9 @@
             "id": "9045870",
             "hash": "f13d9f703f2e07a009ce2420fc963311",
             "created": "2024-01-16 14:15:35",
-            "updated": "2024-07-31 21:46:41",
-            "statusInt": "8",
-            "status": "TESTING",
+            "updated": "2024-01-16 14:15:35",
+            "statusInt": "32",
+            "status": "PLANNED",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "4096",
@@ -6169,7 +6035,7 @@
             "id": "9045804",
             "hash": "0ad2cc6cdc8da3fd80ecb0a10f921e07",
             "created": "2023-02-06 11:42:50",
-            "updated": "2024-09-26 08:32:32",
+            "updated": "2024-06-19 22:19:19",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-11-21",
@@ -6209,10 +6075,7 @@
             ],
             "echolink": "193045",
             "remarks": "Przemiennik SR4BA FM   Kiertyny Małe k/Bartoszyc Rx: 439,5375 Tx: 430.9375 CTCSS: 67Hz, Echolink\n\nRx:Motorola GM-340\nTx: Motorola GM-340\nAntena: Diamond F-718\nPwr: 15W",
-            "link": [
-                "http://przemienniki.net/przemienniki/70cm/SR4BA",
-                "https://wmp.extreme-link.pl"
-            ],
+            "link": "http://przemienniki.net/przemienniki/70cm/SR4BA",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045804"
         },
@@ -6259,14 +6122,15 @@
             "id": "9044985",
             "hash": "587b318ea89fa90c984d974e4183372d",
             "created": "2018-08-27 12:31:37",
-            "updated": "2025-01-06 04:18:26",
-            "statusInt": "1",
-            "status": "WORKING",
-            "licenseExpiryDate": "2028-08-20",
-            "modeInt": "2052",
+            "updated": "2024-06-01 12:09:19",
+            "statusInt": "2",
+            "status": "DISABLED",
+            "licenseExpiryDate": "2023-08-20",
+            "modeInt": "10244",
             "mode": [
                 "FM",
-                "MOTOTRBO"
+                "MOTOTRBO",
+                "C4FM"
             ],
             "bandInt": "16384",
             "band": "70CM",
@@ -6291,7 +6155,7 @@
             },
             "trxPower": "15.00",
             "operator": "SP4FEU",
-            "remarks": "MOTOROLA MTR-2000  , sterownik MMDVM.\nColor Code 4.\nPrzemiennik pracuje w  sieci Brandmeister \n----------------------------------------------------------------------------\noraz Analogowo FM\n\nCTCSS odbiornika:67.0Hz\nCTCSS nadajnika:67.0 Hz\nSzerokość : WIDE\nAntena  Radmor 3284/3\n\nGrupy TG na SR4BI \n\nSLOT 1\n\nTG 260 Wywoławcza - BrandMeister\n\n\n----------------------------------------------\n\nSLOT 2\n\nTG 2604 Okręgowa SP4 do połączeń BrandMeister - DMR PLUS\n\n\nTG 9 Grupa statyczna oraz linkowanie się do reflektorów\n\nTG 260454(SR4BI) Grupa - Lokalna\n\nTG 260099 GPS/RRS/APRS.\n\n260097 Echo (NOTICE: private call, not a TG)",
+            "remarks": "MOTOROLA MTR-2000  , sterownik MMDVM.\nColor Code 4.\nPrzemiennik pracuje w  sieci Brandmeister ,HBLink ,DMR PLUS\n----------------------------------------------------------------------------\nMod C4FM\n\nPL C4FM Poland (YCS260)\n\nDG-ID# 60 Wywoławcza polska grupa rozmówna Fusion II\n\nDG-ID# 84 Okręg 4, woj. warmińsko-mazurskie, podlaskie\n\nDG-ID# 95 Regionalna warmińsko-mazurska\n\nDG-ID# 90 Lokalna C4FM\n\nDG-ID# 97 Grupa odbiorcza alertów METEO - ZAKAZ NADAWANIA!!!\n\n\n\noraz Analogowo FM\n\nCTCSS odbiornika:67.0Hz\nCTCSS nadajnika:67.0 Hz\n\nAntena  Radmor 3284/3\n\nGrupy TG na SR4BI \n\nSLOT 1\n\nTG 260 Wywoławcza - BrandMeister\n\nTG 1260 Wywoławcza - DMR PLUS\n\nTG 26004Grupa Dynamiczna Okręgowa SP4 do połączeń HBLink Polska\n\nTG 4 Grupa do rozmów na reflektorze XLX132-D D-Star/DMR/YSF Dynamiczna (aktywacja PTT 10 min)\n\nTG 5 Grupa do rozmów lokalnych Białystok na XLX260-E Dynamiczna (aktywacja PTT 10 min)\n\nTG 6 Grupa do rozmów na reflektorze XLX260-A Dynamiczna (aktywacja PTT 10 min)\n\nTG 11 EmCom Polska (BM-HBLink)\n\nTG 12 EmCom Podlasie (BM-HBLink)\n\nTG 26000 Grupa Dynamiczna - Techniczna HBLink Polska\n\n----------------------------------------------\n\nSLOT 2\n\nTG 10 Podlaska (BM-HBLink)\n\nTG 260 Wywoławcza - HBLink Polska\n\nTG 8004 Okręgowa SP4 DMR PLUS\n\nTG 2604 Okręgowa SP4 do połączeń BrandMeister - DMR PLUS\n\nTG 7 Grupa - Lokalna HBLink\n\nTG 8 Wywoławcza - HBLink Polska\n\nTG 9 Grupa statyczna oraz linkowanie się do reflektorów\n\nTG 20 Grupa Dynamiczna (aktywacja PTT 10 min) do rozmów na przemienniku SR4X Analog ..:::.. HBLink - Białystok\n\nTG 40 Echolink NODE:ID 438584 SR4BI-R HBLink - Białystok\n\nTG 60 Grupa do rozmów na reflektorze NXDN HBLink PL\n\nTG 61 Grupa do rozmów na reflektorze P25 HBLink PL\n\nTG 260 Grupa Wywoławcza HBLink Polska\n\nTG 260454(SR4BI) Grupa - Lokalna\n\nTG 260453(SR4BIA) Grupa - Lokalna\n\nTG 260099 GPS/RRS/APRS.\n\n260097 Echo (NOTICE: private call, not a TG)\n\nTG 9990 Echo TEST DMR PLUS\n\nTG 9999 Echo TEST HBLink\n\nInformacje na żądanie\n\nAKTYWACJA PTT od 2-5 sekund\n\nLokalny Serwis Informacyjny:Białystok\nTG 50 - Info\nTG 51 - Pogoda\nTG 52 - Pogoda za 12H\nTG 53 - Meteo alerty\nTG 54 - Poziom rzek\nTG 55 - Lokalne info\n\nLokalny Serwis Informacyjny:Giżycko\nTG 70 - Info\nTG 71 - Pogoda\nTG 72 - Pogoda za 12H\nTG 73 - Meteo alerty\nTG 74 - Poziom rzek\nTG 75 - Lokalne info\n\nPogoda w regionie teraz i za 12H\nTG 78/79 - Augustów\nTG 80/81 - Sokółka\nTG 82/83 - Hajnówka\nTG 84/85 - Łomża\nTG 86/87 - Zambrów\nTG 88/89 - Suwałki\nTG 90/91 - Siemiatycze",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR4BI",
                 "https://sr4bi.pl"
@@ -6696,9 +6560,9 @@
             "id": "9045790",
             "hash": "170e04296fa578a7ac9677be70a0652c",
             "created": "2022-12-30 20:14:11",
-            "updated": "2024-09-18 21:38:11",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2024-06-20 21:16:06",
+            "statusInt": "16",
+            "status": "BUILDING",
             "licenseExpiryDate": "2028-01-27",
             "modeInt": "1028",
             "mode": [
@@ -6929,9 +6793,9 @@
             "id": "9045890",
             "hash": "71066adacb6795b44da66dc6cf6e0580",
             "created": "2024-06-20 14:03:47",
-            "updated": "2024-09-18 21:33:03",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2024-06-20 14:03:47",
+            "statusInt": "16",
+            "status": "BUILDING",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "16384",
@@ -7142,9 +7006,9 @@
             "id": "9045863",
             "hash": "a9bb7af4bb7fa1d9ccf4b03296d04e43",
             "created": "2023-11-04 22:41:04",
-            "updated": "2024-08-28 00:55:10",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2023-11-04 22:44:18",
+            "statusInt": "32",
+            "status": "PLANNED",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "16384",
@@ -7177,73 +7041,6 @@
             "link": "http://przemienniki.net/przemienniki/70cm/SR4LG",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045863"
-        },
-        "SR4LIN": {
-            "qra": "SR4LIN",
-            "id": "9047358",
-            "hash": "e4e035cad43c50edfab22c354e5d71e4",
-            "created": "2024-12-19 17:42:20",
-            "updated": "2024-12-19 17:42:20",
-            "statusInt": "1",
-            "status": "WORKING",
-            "modeInt": "8192",
-            "mode": "C4FM",
-            "bandInt": "16384",
-            "band": "70CM",
-            "qrg": {
-                "rx": "431.050000",
-                "tx": "438.650000"
-            },
-            "country": "pl",
-            "qth": "Jerzwałd",
-            "location": {
-                "locator": "JO93SS",
-                "latitude": "53.788600",
-                "longitude": "19.535823",
-                "altitudeOverSea": "115",
-                "altitudeOverGround": "10"
-            },
-            "activationInt": "4",
-            "activation": "CARRIER",
-            "trxPower": "5.00",
-            "operator": "SP4LIN",
-            "remarks": "Przemiennik\nC4FM\npołączony\nz\nSR2MAL",
-            "link": "http://przemienniki.net/przemienniki/70cm/C4FM/Fusion/SR4LIN/9047358",
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9047358"
-        },
-        "SR4LIN_2": {
-            "qra": "SR4LIN",
-            "id": "9047361",
-            "hash": "10e00cd3233a829b01342beea1db142a",
-            "created": "2024-12-19 22:06:44",
-            "updated": "2024-12-19 22:06:44",
-            "statusInt": "1",
-            "status": "WORKING",
-            "modeInt": "8192",
-            "mode": "C4FM",
-            "bandInt": "16384",
-            "band": "70CM",
-            "qrg": {
-                "rx": "431.050000",
-                "tx": "438.650000"
-            },
-            "country": "pl",
-            "qth": "Jerzwałd",
-            "location": {
-                "locator": "JO93SS",
-                "latitude": "53.788600",
-                "longitude": "19.535823",
-                "altitudeOverSea": "102",
-                "altitudeOverGround": "10"
-            },
-            "activationInt": "4",
-            "activation": "CARRIER",
-            "trxPower": "5.00",
-            "operator": "SP4LIN",
-            "link": "http://przemienniki.net/przemienniki/70cm/C4FM/Fusion/SR4LIN/9047361",
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9047361"
         },
         "SR4LM": {
             "qra": "SR4LM",
@@ -7536,7 +7333,7 @@
             "id": "9045811",
             "hash": "8882e0aefe5265022b72987c37b02339",
             "created": "2023-04-05 18:12:04",
-            "updated": "2024-09-18 21:35:08",
+            "updated": "2024-06-19 22:22:11",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "1028",
@@ -7576,11 +7373,8 @@
                 "SP4OX"
             ],
             "echolink": "122434",
-            "remarks": "Przemiennik SR4MO FM-Echolink w Moragu Rx: 438,450 Tx: 430,850 CTCSS: 67Hz\n\nTrx: Motorola GM340\nAntena: Diamond X300\nPwr: 15W\n\nPołączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA",
-            "link": [
-                "http://przemienniki.net/przemienniki/70cm/SR4MO",
-                "https://minilink.pl/wp/"
-            ],
+            "remarks": "Przemiennik SR4MO FM-Echolink w Moragu Rx: 438,450 Tx: 430,850 CTCSS: 67Hz\n\nTrx: Motorola GM340\nAntena: Diamond X300\nPwr: 15W\n\nPołączone na stałe do sieci Mini Link SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR4DM",
+            "link": "http://przemienniki.net/przemienniki/70cm/SR4MO",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045811"
         },
@@ -7589,9 +7383,9 @@
             "id": "8253800",
             "hash": "59c83163056bf791578672762b349f23",
             "created": "2010-11-13 02:11:50",
-            "updated": "2025-01-06 04:14:12",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2023-06-28 10:51:53",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2024-03-11",
             "modeInt": "4",
             "mode": "FM",
@@ -7995,7 +7789,7 @@
             "id": "9045795",
             "hash": "0349f8c07467351592825d46355b9fd7",
             "created": "2023-01-03 18:40:18",
-            "updated": "2024-09-18 21:34:47",
+            "updated": "2024-06-19 22:21:46",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-01-17",
@@ -8032,14 +7826,12 @@
             "operator": [
                 "SP4I",
                 "SP2PA",
+                "SQ4OJD",
                 "SP4OX"
             ],
             "echolink": "123474",
-            "remarks": "Przemiennik SR4OS FM-Echolink w Ostródzie Rx: 438,400 Tx: 430,800 CTCSS: 67Hz\n\nTrx: Motorola MTR-2000\nAntena: Diamond X300\nPwr: 15W\n\nPołączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA",
-            "link": [
-                "http://przemienniki.net/przemienniki/70cm/SR4OS",
-                "https://minilink.pl/wp/"
-            ],
+            "remarks": "Przemiennik SR4OS FM-Echolink w Ostródzie Rx: 438,400 Tx: 430,800 CTCSS: 67Hz\n\nTrx: Motorola MTR-2000\nAntena: Diamond X300\nPwr: 15W\n\nPołączone na stałe do sieci Mini Link SR2PA - SR2GDA  - SR2EL - SR4OS - SR4MO - SR4DM",
+            "link": "http://przemienniki.net/przemienniki/70cm/SR4OS",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045795"
         },
@@ -8123,59 +7915,6 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045866"
         },
-        "SR4PL": {
-            "qra": "SR4PL",
-            "id": "9045906",
-            "hash": "7fcfefe011f178948bbf89f04668c916",
-            "created": "2024-08-21 16:04:52",
-            "updated": "2024-09-26 08:32:43",
-            "statusInt": "1",
-            "status": "WORKING",
-            "licenseExpiryDate": "2029-09-11",
-            "modeInt": "1028",
-            "mode": [
-                "FM",
-                "ECHOLINK"
-            ],
-            "bandInt": "16384",
-            "band": "70CM",
-            "qrg": {
-                "rx": "431.975000",
-                "tx": "439.575000"
-            },
-            "country": "pl",
-            "qth": "Podleśna 66",
-            "location": {
-                "locator": "KO03FW",
-                "latitude": "53.931576",
-                "longitude": "20.498220",
-                "altitudeOverSea": "160",
-                "altitudeOverGround": "10"
-            },
-            "activationInt": "260",
-            "activation": [
-                "CARRIER",
-                "CTCSS"
-            ],
-            "ctcss": {
-                "rx": "67.0",
-                "tx": "67.0"
-            },
-            "trxPower": "15.00",
-            "operator": [
-                "SQ4OJD",
-                "SP4TXI",
-                "HF4OS"
-            ],
-            "echolink": "292457",
-            "remarks": "Antena x300, 171 m npm, rx tx motorola gm 340, 10W",
-            "link": [
-                "http://przemienniki.net/przemienniki/70cm/SR4PL",
-                "https://wmp.extreme-link.pl"
-            ],
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9045906"
-        },
         "SR4RS": {
             "qra": "SR4RS",
             "id": "9045168",
@@ -8218,10 +7957,10 @@
             "id": "9044995",
             "hash": null,
             "created": "2018-11-18 14:53:56",
-            "updated": "2024-12-19 17:34:17",
+            "updated": "2022-10-30 14:04:09",
             "statusInt": "1",
             "status": "WORKING",
-            "licenseExpiryDate": "2028-11-06",
+            "licenseExpiryDate": "2023-10-29",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "4096",
@@ -8250,7 +7989,7 @@
                 "SP4J",
                 "SP4AD"
             ],
-            "remarks": "Antena: Diamond X-300N (2×5/8) 6.5 dB\nPrzemiennik zbudowany na bazie radiotelefonów Motorola GM 340. \n\nSterownik: RPTC Microsat\n\nPracuje bez duplexera, separacja pozioma nadajnika od odbiornika - 2 lokalizacje\n\nUWAGA\nPrzemiennik emituje CTCSS tylko podczas pracy korespondenta. Na podtrzymaniu brak tonu CTCSS.",
+            "remarks": "Antena: Diamond X-300N (2×5/8) 6.5 dB\nPrzemiennik zbudowany na bazie radiotelefonów Motorola GM 340.\n\nUWAGA\nPrzemiennik emituje CTCSS tylko podczas pracy korespondenta. Na podtrzymaniu brak tonu CTCSS.",
             "link": [
                 "http://przemienniki.net/przemienniki/2m/SR4S",
                 "https://sr4bi.pl/info-sr4s/"
@@ -8263,7 +8002,7 @@
             "id": "9045769",
             "hash": "b36ce74bc502b14eef303e276a3d6290",
             "created": "2022-10-31 09:45:38",
-            "updated": "2024-08-24 17:43:19",
+            "updated": "2022-10-31 09:45:38",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2027-07-27",
@@ -8295,51 +8034,13 @@
                 "SP4J",
                 "SP4AD"
             ],
-            "remarks": "2 × Motorola GM 340\nAntena: Diamond X-300N (5×5/8) 9.0 dB\nDuplexer: K&L 6CU-00066\nSterownik: RPTC Microsat\nZasilacz 10/15A \n\nUWAGA\nPrzemiennik emituje CTCSS tylko podczas pracy korespondenta. Na podtrzymaniu brak tonu CTCSS.",
+            "remarks": "2 × Motorola GM 340\nAntena: Diamond X-300N (5×5/8) 9.0 dB\nDuplexer: K&L 6CU-00066\nSterownik: RPTC Microsat\nZasilacz 10/15A\nGłosu do znamiennika przemiennika użyczył SP4AD.",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR4SA",
                 "https://sr4bi.pl/info-sr4sa/"
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045769"
-        },
-        "SR4SK": {
-            "qra": "SR4SK",
-            "id": "9045902",
-            "hash": "750092d5b328be21d54fc200a941fdff",
-            "created": "2024-08-05 13:21:53",
-            "updated": "2024-08-05 13:21:53",
-            "statusInt": "16",
-            "status": "BUILDING",
-            "modeInt": "4",
-            "mode": "FM",
-            "bandInt": "16384",
-            "band": "70CM",
-            "qrg": {
-                "rx": "430.525000",
-                "tx": "438.125000"
-            },
-            "country": "pl",
-            "qth": "Skitławki",
-            "location": {
-                "locator": "JO93TS"
-            },
-            "activationInt": "256",
-            "activation": "CTCSS",
-            "ctcss": {
-                "rx": "67.0",
-                "tx": "67.0"
-            },
-            "trxPower": "15.00",
-            "operator": [
-                "SP4I",
-                "SP2PA",
-                "SP4OX"
-            ],
-            "remarks": "Przemiennik SR4SK FM-Echolink w Ostródzie Rx: 438,125 Tx: 430,525 CTCSS: 67Hz\n\nTrx: 2 x Motorola GM-340\nAntena: Diamond X300\nPwr: 15W\n\nPołączone na stałe do sieci Mini Link SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C",
-            "link": "http://przemienniki.net/przemienniki/70cm/SR4SK",
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9045902"
         },
         "SR4SN": {
             "qra": "SR4SN",
@@ -8436,7 +8137,7 @@
             "id": "9045137",
             "hash": null,
             "created": "2019-11-05 22:31:08",
-            "updated": "2024-12-19 21:41:02",
+            "updated": "2020-02-26 13:47:31",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "4",
@@ -8456,58 +8157,13 @@
                 "altitudeOverSea": "167",
                 "altitudeOverGround": "25"
             },
-            "activationInt": "256",
-            "activation": "CTCSS",
-            "ctcss": {
-                "rx": "67.0"
-            },
+            "activationInt": "4",
+            "activation": "CARRIER",
             "operator": "SP4GJ",
             "remarks": "Diamond X510",
             "link": "http://przemienniki.net/przemienniki/70cm/SR4SUU",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045137"
-        },
-        "SR4SUW": {
-            "qra": "SR4SUW",
-            "id": "9045900",
-            "hash": "c528b8b0a741980c1a80186b4cb65959",
-            "created": "2024-08-05 10:38:19",
-            "updated": "2024-12-19 21:44:46",
-            "statusInt": "1",
-            "status": "WORKING",
-            "licenseExpiryDate": "2029-06-14",
-            "modeInt": "4",
-            "mode": "FM",
-            "bandInt": "16384",
-            "band": "70CM",
-            "qrg": {
-                "rx": "434.700000",
-                "tx": "434.700000"
-            },
-            "country": "pl",
-            "qth": "Suwałki",
-            "location": {
-                "locator": "KO14LC",
-                "latitude": "54.121300",
-                "longitude": "22.947000",
-                "altitudeOverSea": "176",
-                "altitudeOverGround": "12"
-            },
-            "activationInt": "256",
-            "activation": "CTCSS",
-            "ctcss": {
-                "rx": "67.0",
-                "tx": "67.0"
-            },
-            "trxPower": "5.00",
-            "operator": "SP4MN",
-            "remarks": "Hotspot publiczny FM Poland.\nMonitorowane grupy: 112,260,2600,260077,260497,SP1...SP9\nDostępne komendy DTMF:\n1# - lokalne echo (po testach należy rozlinkować komendą #)\n60# - pogoda dla Suwałk i okolic\n61# - ostrzeżenia pogodowe dla Suwałk i okolic\n62# - warunki propagacji\n63# - stopień zagrożenia pożarowego lasów (rejon 1_C Suwałki)\n64# - stan rzeki Czarna Hańcza (stacja Bród Stary)\n*# - identyfikacja przemiennika\n91xxx# - linkowanie grupy xxx\n910# - rozłączenie grupy(grupa 0)\n\nLokalna grupa domyślna: 260497 (po otwarciu hotspota nośną ta grupa zostaje zlinkowana automatycznie)",
-            "link": [
-                "http://przemienniki.net/przemienniki/70cm/SR4SUW",
-                "http://sr4suw.cba.pl"
-            ],
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9045900"
         },
         "SR4SW": {
             "qra": "SR4SW",
@@ -8742,38 +8398,38 @@
             "id": "9045801",
             "hash": "b4f04f6d2111e23785641cd48cf0c886",
             "created": "2023-02-06 11:22:28",
-            "updated": "2024-12-02 10:37:43",
+            "updated": "2023-03-06 19:49:41",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-02-03",
-            "modeInt": "8224",
+            "modeInt": "8196",
             "mode": [
-                "DSTAR",
+                "FM",
                 "C4FM"
             ],
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
-                "rx": "430.550000",
-                "tx": "439.950000"
+                "rx": "431.000000",
+                "tx": "438.600000"
             },
             "country": "pl",
-            "qth": "Pasłęk, pow. elbląski",
+            "qth": "Pasłęk",
             "location": {
                 "locator": "JO94TB",
-                "latitude": "54.073344",
-                "longitude": "19.648709",
+                "latitude": "54.047551",
+                "longitude": "19.621930",
                 "altitudeOverSea": "109",
                 "altitudeOverGround": "10"
             },
-            "activationInt": "4",
-            "activation": "CARRIER",
+            "activationInt": "256",
+            "activation": "CTCSS",
             "ctcss": {
                 "rx": "94.8"
             },
             "trxPower": "15.00",
             "operator": "SP4KDK",
-            "remarks": "Motorola Mtr-2000\nAntena-Comet GP9\nDuplexer-Motorola",
+            "remarks": "Motorola Mtr-2000\nAntena-718\nDuplexer-Motorola",
             "link": "http://przemienniki.net/przemienniki/70cm/SR4UVE",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045801"
@@ -8855,53 +8511,6 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8244694"
         },
-        "SR4WA": {
-            "qra": "SR4WA",
-            "id": "9045903",
-            "hash": "6b079310399a71eb4a1653abd16bdb67",
-            "created": "2024-08-05 13:31:05",
-            "updated": "2024-09-18 22:46:06",
-            "statusInt": "1",
-            "status": "WORKING",
-            "licenseExpiryDate": "2024-09-04",
-            "modeInt": "4",
-            "mode": "FM",
-            "bandInt": "16384",
-            "band": "70CM",
-            "qrg": {
-                "rx": "430.525000",
-                "tx": "438.125000"
-            },
-            "country": "pl",
-            "qth": "Wawrowice",
-            "location": {
-                "locator": "JO93RK",
-                "latitude": "53.446825",
-                "longitude": "19.473418",
-                "altitudeOverSea": "120",
-                "altitudeOverGround": "15"
-            },
-            "activationInt": "256",
-            "activation": "CTCSS",
-            "ctcss": {
-                "rx": "67.0",
-                "tx": "67.0"
-            },
-            "trxPower": "15.00",
-            "operator": [
-                "SP4I",
-                "SP4OX",
-                "SP4DOZ",
-                "SP2PA"
-            ],
-            "remarks": "Przemiennik SR4WA FM-Echolink w Wawrowicach\n Rx: 438,125 Tx: 430,525 CTCSS: 67Hz\n\nTrx i Rx: 2 x Motorola GM-350\nAntena: Diamond X510\nPwr: 15W\n\nPołączone na stałe do sieci Mini Link : SR2PA - SR2GDA - SR2EL - SR4OS - SR4MO - SR2GD-C - SR2GA - SR4WA",
-            "link": [
-                "http://przemienniki.net/przemienniki/70cm/SR4WA",
-                "https://minilink.pl/wp"
-            ],
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9045903"
-        },
         "SR4X": {
             "qra": "SR4X",
             "id": "9045165",
@@ -8955,9 +8564,9 @@
             "id": "9045875",
             "hash": "abb9448f6626ae215f88c96191c5944e",
             "created": "2024-01-25 17:34:27",
-            "updated": "2024-10-26 14:47:20",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2024-01-27 07:54:19",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2028-12-12",
             "modeInt": "32768",
             "mode": "TETRA",
@@ -9439,9 +9048,9 @@
             "id": "9043606",
             "hash": null,
             "created": "2016-11-09 22:58:25",
-            "updated": "2024-10-10 18:08:53",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2023-09-27 22:50:33",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2028-06-19",
             "modeInt": "2048",
             "mode": "MOTOTRBO",
@@ -10072,15 +9681,15 @@
             "id": "2057800",
             "hash": "c3d96065012c53ef860a30a66ed45484",
             "created": "2010-12-27 21:21:11",
-            "updated": "2024-09-03 19:43:50",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2020-09-03 07:55:53",
+            "statusInt": "1",
+            "status": "WORKING",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "4096",
             "band": "2M",
             "qrg": {
-                "rx": "145.125000",
+                "rx": "145.725000",
                 "tx": "145.725000"
             },
             "country": "pl",
@@ -10115,18 +9724,15 @@
             "id": "1388380",
             "hash": "8b2ae01a945a992ac6f1bc7afcf6cc2f",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-10-10 18:08:43",
-            "statusInt": "1",
-            "status": "WORKING",
-            "modeInt": "1028",
-            "mode": [
-                "FM",
-                "ECHOLINK"
-            ],
+            "updated": "2024-06-02 10:01:36",
+            "statusInt": "2",
+            "status": "DISABLED",
+            "modeInt": "4",
+            "mode": "FM",
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
-                "rx": "431.525000",
+                "rx": "439.125000",
                 "tx": "439.125000"
             },
             "country": "pl",
@@ -10141,17 +9747,14 @@
             "activationInt": "256",
             "activation": "CTCSS",
             "ctcss": {
-                "rx": "127.3",
-                "tx": "127.3"
+                "rx": "127.3"
             },
             "trxPower": "12.00",
             "operator": [
-                "SQ5NWH",
-                "SP5DP",
-                "SQ5EBC"
+                "SQ5EKW",
+                "SP5DP"
             ],
-            "echolink": "735269",
-            "remarks": "Antena X-300, SR5PL podłączny do sieci FM-Poland id 260501,  Echolink",
+            "remarks": "X-300 crossband z przemiennikiem SR5P",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR5PL",
                 "http://www.sp5zba.net/"
@@ -10486,7 +10089,7 @@
             "id": "8232959",
             "hash": "8cf7e03443bfd468672da7d5418ea50d",
             "created": "2011-01-03 20:01:27",
-            "updated": "2024-12-02 10:33:02",
+            "updated": "2016-04-14 09:35:58",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "36",
@@ -10520,7 +10123,7 @@
             "remarks": "Comet GH70 , kable 7/8 i 1&5/8\", Motorola MTR2000, D-STAR i FM, DVRPTR + oprogramowanie KI4LKF, Sterownik SQ5DCP",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR5RK",
-                "https://sq5dcp.tomul.net/sr5rk/"
+                "http://sr5rk.tomul.net"
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8232959"
@@ -10530,10 +10133,10 @@
             "id": "8996892",
             "hash": "78b0dc432d9be203864dab7d996ff590",
             "created": "2011-12-15 23:08:07",
-            "updated": "2024-09-29 10:15:13",
-            "statusInt": "1",
-            "status": "WORKING",
-            "licenseExpiryDate": "2025-07-28",
+            "updated": "2024-05-29 14:24:07",
+            "statusInt": "2",
+            "status": "DISABLED",
+            "licenseExpiryDate": "2020-07-28",
             "modeInt": "1028",
             "mode": [
                 "FM",
@@ -10564,11 +10167,10 @@
             "operator": [
                 "SP7VLM",
                 "SP5OSP",
-                "PA3TA",
-                "SP5WA"
+                "SP5PY"
             ],
             "echolink": "569465",
-            "remarks": "Przemiennik już czynny !!! \n\nDziała łącznie z nodem FM-Poland. 26.05.2024 burza zmiotła nam antenę i przypaliła kabel antenowy oraz nadwątliła sprzęt.  \n\nPrzemiennik Motorola MTR2000 UHF\nAntena Diamond X300 około 60 metrów nad poziomem gruntu. \n\nNa przemienniku działają usługi: \n- Głosowa Automatyczna Stacja Pogodowa SR0WX Nadaje ona o godz. 7:00, 10:00, 13:00, 16:00, 19:00. Stacja SR0WX nadaje bez Subtonu.\n\n>>>NIE KLIKAJ NA ŚLEPO DTMF<<<\n\nSiec FM Poland \n(https://fm-poland.pl)\n\nDashboard FM Poland: \nhttp://fm-poland.pl:888/dashboard.php\n\nMapa RPT/Hostpotów w sieci: http://fm-poland.pl:888/map.php\n\nDomyślna grupa rozmowna 26050 (Mazowsze). Otwarcie przemiennika standardowo aktywuje grupę przemienników połączonych/zgrupowanych (tzw. zlinkowanych) w grupie Mazowsze. Przemiennik monitoruje grupy: 26050 (Mazowsze), 26080 (Lubelszczyzna), 260504 (SR5RR), 260 (Ogólnopolska).\nPo aktywności na jednej z monitorowanych grup przez 30 sek. można korzystać z możliwości rozmowy na ostatniej aktywnej grupie.",
+            "remarks": "UWAGA: Przemiennik nieczynny po burzy 26.05.2024\nMożliwa dłuższa przerwa w pracy przemiennika\n\n\nPrzemiennik Motorola MTR2000 UHF\nAntena Diamond X300 ~60m npg\n\nNa przemienniku działają usługi: \n- Głosowa Automatyczna Stacja Pogodowa \"SR0WX\" (nadaje o godz. 7:00, 10:00, 13:00, 16:00, 19:00). Stacja nadaje bez Subtonu).\n\n>>>NIE KLIKAJ NA ŚLEPO DTMF<<<\n\n- Siec FM Poland (http://fm-poland.pl:888)\nDashboard FM Poland: http://fm-poland.pl:888/dashboard.php\nMapa RPT/Hostpotów w sieci: http://fm-poland.pl:888/map.php\n\nDomyślna grupa rozmowna 26050 (Mazowsze). Otwarcie przemiennika standardowo aktywuje grupę przemienników zlinkowanych w grupie Mazowsze. Przemiennik monitoruje grupy: 26050 (Mazowsze), 26080 (Lubelszczyzna), 260504 (SR5RR), 260 (Ogólnopolska).\nPo aktywności na jednej z monitorowanych grup przez 30 sek. można korzystać z możliwości rozmowy na ostatniej aktywnej grupie.",
             "link": "http://przemienniki.net/przemienniki/70cm/SR5RR",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996892"
@@ -11286,38 +10888,6 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045197"
         },
-        "SR5WL": {
-            "qra": "SR5WL",
-            "id": "9047359",
-            "hash": "95f1d893739a18ef6257ab52d59bd8a3",
-            "created": "2024-12-19 21:43:44",
-            "updated": "2024-12-19 21:43:44",
-            "statusInt": "1",
-            "status": "WORKING",
-            "modeInt": "4",
-            "mode": "FM",
-            "bandInt": "4096",
-            "band": "2M",
-            "qrg": {
-                "rx": "145.025000",
-                "tx": "145.625000"
-            },
-            "country": "pl",
-            "qth": "Warszawa, ul. Braci Załuskich 1",
-            "location": {
-                "locator": "KO02LG"
-            },
-            "activationInt": "256",
-            "activation": "CTCSS",
-            "ctcss": {
-                "rx": "127.3"
-            },
-            "trxPower": "15.00",
-            "operator": "SP5ZIP",
-            "link": "http://przemienniki.net/przemienniki/2m/SR5WL",
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9047359"
-        },
         "SR5WP": {
             "qra": "SR5WP",
             "id": "9006129",
@@ -11804,7 +11374,7 @@
             "id": "9044882",
             "hash": null,
             "created": "2017-03-06 15:15:30",
-            "updated": "2024-12-02 10:34:05",
+            "updated": "2024-03-24 12:54:22",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-09-01",
@@ -11828,15 +11398,14 @@
             "activationInt": "256",
             "activation": "CTCSS",
             "ctcss": {
-                "rx": "67.0",
-                "tx": "67.0"
+                "rx": "67.0"
             },
-            "trxPower": "10.00",
+            "trxPower": "15.00",
             "operator": [
                 "SP6AA",
                 "SP6AW"
             ],
-            "remarks": "Nr pozwolenia \nDC.WML.5101.4494.2023.2\nPrzemiennik podłączony do sieci FM-Poland",
+            "remarks": "nr pozwolenia \nDC.WML.5101.4494.2023.2\nPrzemiennik podłączony do sieci FM-Poland z domyślą grupą 260693 Legnica",
             "link": "http://przemienniki.net/przemienniki/70cm/SR6AA",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044882"
@@ -11998,45 +11567,6 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045710"
         },
-        "SR6DJG": {
-            "qra": "SR6DJG",
-            "id": "9045909",
-            "hash": "e86c9be52c462017aa055a527be495f7",
-            "created": "2024-08-21 16:16:45",
-            "updated": "2024-10-26 14:47:44",
-            "statusInt": "1",
-            "status": "WORKING",
-            "licenseExpiryDate": "2029-06-17",
-            "modeInt": "2048",
-            "mode": "MOTOTRBO",
-            "bandInt": "16384",
-            "band": "70CM",
-            "qrg": {
-                "rx": "431.562500",
-                "tx": "439.162500"
-            },
-            "country": "pl",
-            "qth": "Jeżów Sudecki",
-            "location": {
-                "locator": "JO70VW",
-                "latitude": "50.944061",
-                "longitude": "15.762764",
-                "altitudeOverSea": "553",
-                "altitudeOverGround": "6"
-            },
-            "activationInt": "4",
-            "activation": "CARRIER",
-            "trxPower": "15.00",
-            "operator": [
-                "SP6FHU",
-                "SP6DBX",
-                "SP6TKP"
-            ],
-            "remarks": "CC.1 \nRX/TX: MOTOROLA MTR2000\nDuplexer: PROCOM DPF70/6-150\nFider: 7m, H-1000 BELDEN\nAntena: KATHREIN K 7516211, 7dBi\nRaspberry Pi 3b+\nMMDVM repeater kit\nWraz z przemiennikiem zainstalowany został przekaznik APRS - SR6AJG",
-            "link": "http://przemienniki.net/przemienniki/70cm/SR6DJG",
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9045909"
-        },
         "SR6DKB": {
             "qra": "SR6DKB",
             "id": "9045712",
@@ -12147,9 +11677,9 @@
             "id": "9003122",
             "hash": "bc03a4a0503d73828da8f27390ad7fb8",
             "created": "2014-09-24 23:19:26",
-            "updated": "2024-11-10 18:26:43",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2021-06-14 20:07:54",
+            "statusInt": "1",
+            "status": "WORKING",
             "modeInt": "2048",
             "mode": "MOTOTRBO",
             "bandInt": "16384",
@@ -12603,44 +12133,6 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/1917420"
         },
-        "SR6L": {
-            "qra": "SR6L",
-            "id": "9045901",
-            "hash": "a4af190d27818aa86b67d2ff3f758838",
-            "created": "2024-08-05 13:19:09",
-            "updated": "2024-08-05 13:19:09",
-            "statusInt": "1",
-            "status": "WORKING",
-            "licenseExpiryDate": "2029-06-25",
-            "modeInt": "4",
-            "mode": "FM",
-            "bandInt": "16384",
-            "band": "70CM",
-            "qrg": {
-                "rx": "431.600000",
-                "tx": "439.200000"
-            },
-            "country": "pl",
-            "qth": "Legnica",
-            "location": {
-                "locator": "JO81CE",
-                "latitude": "51.200570",
-                "longitude": "16.209077",
-                "altitudeOverSea": "119",
-                "altitudeOverGround": "35"
-            },
-            "activationInt": "256",
-            "activation": "CTCSS",
-            "ctcss": {
-                "rx": "67.0",
-                "tx": "67.0"
-            },
-            "operator": "SP6AW",
-            "remarks": "Przemiennik pracujący w sieci FM-Poland",
-            "link": "http://przemienniki.net/przemienniki/70cm/SR6L",
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9045901"
-        },
         "SR6LWS": {
             "qra": "SR6LWS",
             "id": "9043578",
@@ -12773,7 +12265,7 @@
             "id": "9045874",
             "hash": "c22be9e4a18815824e0dbc43d9e65a87",
             "created": "2024-01-25 17:31:53",
-            "updated": "2024-12-02 10:36:36",
+            "updated": "2024-03-19 22:14:52",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-08-04",
@@ -12797,15 +12289,14 @@
             "activationInt": "256",
             "activation": "CTCSS",
             "ctcss": {
-                "rx": "67.0",
-                "tx": "67.0"
+                "rx": "67.0"
             },
-            "trxPower": "5.00",
+            "trxPower": "10.00",
             "operator": [
                 "SP6AW",
                 "SP6ONA"
             ],
-            "remarks": "Pozwolenie DC.WML.5101.4070.2023.2\nPrzemiennik podłączony do sieci FM-Poland z domyślą grupą 26061 Legnica",
+            "remarks": "Pozwolenie DC.WML.5101.4070.2023.2\nPrzemiennik podłączony do sieci FM-Poland z domyślą grupą 260693 Legnica",
             "link": "http://przemienniki.net/przemienniki/70cm/SR6MI",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045874"
@@ -13100,43 +12591,6 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8475897"
         },
-        "SR6RC": {
-            "qra": "SR6RC",
-            "id": "9045904",
-            "hash": "873189298c9c927b7728351b69721f06",
-            "created": "2024-08-05 13:34:32",
-            "updated": "2024-10-10 18:09:25",
-            "statusInt": "1",
-            "status": "WORKING",
-            "licenseExpiryDate": "2028-10-27",
-            "modeInt": "4",
-            "mode": "FM",
-            "bandInt": "16384",
-            "band": "70CM",
-            "qrg": {
-                "rx": "430.500000",
-                "tx": "438.100000"
-            },
-            "country": "pl",
-            "qth": "Wrocław",
-            "location": {
-                "locator": "JO81LC",
-                "latitude": "51.114720",
-                "longitude": "16.955030",
-                "altitudeOverSea": "119",
-                "altitudeOverGround": "24"
-            },
-            "activationInt": "256",
-            "activation": "CTCSS",
-            "ctcss": {
-                "rx": "103.5",
-                "tx": "103.5"
-            },
-            "operator": "SP6QNH",
-            "link": "http://przemienniki.net/przemienniki/70cm/SR6RC",
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9045904"
-        },
         "SR6RWS": {
             "qra": "SR6RWS",
             "id": "9043709",
@@ -13212,51 +12666,17 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9020258"
         },
-        "SR6SO": {
-            "qra": "SR6SO",
-            "id": "9045905",
-            "hash": "67afc76bc32d7df38f57742f522e7716",
-            "created": "2024-08-12 13:23:45",
-            "updated": "2024-11-11 08:23:51",
-            "statusInt": "1",
-            "status": "WORKING",
-            "modeInt": "2048",
-            "mode": "MOTOTRBO",
-            "bandInt": "16384",
-            "band": "70CM",
-            "qrg": {
-                "rx": "431.812500",
-                "tx": "439.412500"
-            },
-            "country": "pl",
-            "qth": "STRZELCE OPOLSKIE",
-            "location": {
-                "locator": "JO90DM",
-                "latitude": "50.512600",
-                "longitude": "18.293043",
-                "altitudeOverSea": "233"
-            },
-            "activationInt": "4",
-            "activation": "CARRIER",
-            "operator": "SP6PDZ",
-            "link": "http://przemienniki.net/przemienniki/70cm/SR6SO",
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9045905"
-        },
         "SR6TT": {
             "qra": "SR6TT",
             "id": "9044988",
             "hash": null,
             "created": "2018-09-19 23:45:40",
-            "updated": "2024-09-26 08:33:01",
+            "updated": "2024-04-21 11:09:07",
             "statusInt": "1",
             "status": "WORKING",
-            "licenseExpiryDate": "2029-10-10",
-            "modeInt": "1028",
-            "mode": [
-                "FM",
-                "ECHOLINK"
-            ],
+            "licenseExpiryDate": "2022-03-01",
+            "modeInt": "4",
+            "mode": "FM",
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -13286,13 +12706,8 @@
                 "SQ6SFT",
                 "SQ6LAE"
             ],
-            "echolink": "294661",
-            "remarks": "2X GM340 , DUPLEKSER PROCOM , ANTENA SIGMA . Zapraszamy do rozmowy 73'",
-            "link": [
-                "http://przemienniki.net/przemienniki/70cm/SR6TT",
-                "https://fm-poland.pl/",
-                "https://webapp.echolink.org//"
-            ],
+            "remarks": "PROCOM",
+            "link": "http://przemienniki.net/przemienniki/70cm/SR6TT",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9044988"
         },
@@ -13420,9 +12835,9 @@
             "id": "9008058",
             "hash": null,
             "created": "2015-07-11 22:36:09",
-            "updated": "2024-09-12 18:00:20",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2024-01-22 21:07:06",
+            "statusInt": "2",
+            "status": "DISABLED",
             "modeInt": "36",
             "mode": [
                 "FM",
@@ -13767,9 +13182,9 @@
             "id": "9026541",
             "hash": "c72498f10e16dcbf8a82384935c5f3e5",
             "created": "2015-11-08 11:47:03",
-            "updated": "2024-08-05 13:35:04",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2023-03-17 09:01:21",
+            "statusInt": "2",
+            "status": "DISABLED",
             "licenseExpiryDate": "2025-10-31",
             "modeInt": "4",
             "mode": "FM",
@@ -13794,7 +13209,7 @@
             },
             "trxPower": "15.00",
             "operator": "SP6SMC",
-            "remarks": "Antennas:\n4m - 5/8 G-P\n70cm - X-300 Diamond",
+            "remarks": "Antennas:\n4m - 5/8 G-P\n70cm - X-200 Diamond\n\nPrzemiennik tymczasowo wyłączony.",
             "link": "http://przemienniki.net/przemienniki/crossband/SR6WRC",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9026541"
@@ -14338,7 +13753,7 @@
             "id": "9045779",
             "hash": "901ed4053290df59db0d032456574e68",
             "created": "2022-11-29 09:52:48",
-            "updated": "2024-12-19 17:34:59",
+            "updated": "2022-11-29 09:52:48",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2027-09-21",
@@ -14504,9 +13919,9 @@
             "id": "6631891",
             "hash": "a052392654074e108a5a9b2e67a9afbb",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-10-27 19:32:32",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2024-06-01 12:08:59",
+            "statusInt": "2",
+            "status": "DISABLED",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "16384",
@@ -14531,7 +13946,7 @@
                 "tx": "88.5"
             },
             "operator": "SP7UDB",
-            "remarks": "Ponownie działa.",
+            "remarks": "Od kilku tygodni nie działa.",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR7KP",
                 "http://sp7pki.iq24.pl/default.asp?grupa=96478&temat=43583"
@@ -15279,9 +14694,9 @@
             "id": "8766255",
             "hash": "a8f884fdeb6c68364cb6419670612756",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-08-21 01:24:45",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2024-06-04 21:24:12",
+            "statusInt": "2",
+            "status": "DISABLED",
             "modeInt": "1028",
             "mode": [
                 "FM",
@@ -15311,7 +14726,7 @@
             "trxPower": "10.00",
             "operator": "SQ7EHO",
             "echolink": "607422",
-            "remarks": "Antena KATHREIN 7dBi.\nDuplekser Airtech 2x5 pasmowo-przepustowych filtrów ćwierćfalowych.\nPrzemiennik 2x Motorola GM340.",
+            "remarks": "Antena KATHREIN 7dBi.\nDuplekser Airtech 2x5 pasmowo-przepustowych filtrów ćwierćfalowych.\nPrzemiennik Motorola MTR2000.",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR7SC",
                 "http://www.sp5qwk.sp5kvw.com/krotkofal/Repeater/sr7sc.html",
@@ -15415,7 +14830,7 @@
             "id": "9044949",
             "hash": null,
             "created": "2018-01-02 13:47:30",
-            "updated": "2024-12-19 17:35:19",
+            "updated": "2018-03-14 09:25:17",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2023-12-15",
@@ -15449,7 +14864,7 @@
             "id": "9044989",
             "hash": null,
             "created": "2018-10-01 12:59:54",
-            "updated": "2024-12-19 17:35:08",
+            "updated": "2022-11-28 20:48:43",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-07-09",
@@ -15926,9 +15341,9 @@
             "id": "5726728",
             "hash": "27bb61665df5c231e0085ae6a3f32945",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-10-26 14:48:19",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2023-06-09 18:03:58",
+            "statusInt": "4",
+            "status": "UNKNOWN",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "4096",
@@ -15951,12 +15366,10 @@
                 "tx": "77.0"
             },
             "trxPower": "10.00",
-            "operator": "SP7KED",
             "link": [
                 "http://przemienniki.net/przemienniki/2m/SR7W",
                 "http://mnenz5pjlr7m.az.pl/sp7ked/07/07-1.html",
-                "http://mnenz5pjlr7m.az.pl/sp7ked/00/mapka.html",
-                "https://sp7ked.pl/przemienniki/"
+                "http://mnenz5pjlr7m.az.pl/sp7ked/00/mapka.html"
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/5726728"
@@ -15966,7 +15379,7 @@
             "id": "3426973",
             "hash": "37701ef53f48b32d83452ba8b19109e1",
             "created": "2010-11-13 02:11:50",
-            "updated": "2025-01-06 04:16:53",
+            "updated": "2024-05-21 18:51:45",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "4",
@@ -15986,11 +15399,8 @@
                 "altitudeOverSea": "210",
                 "altitudeOverGround": "95"
             },
-            "activationInt": "256",
-            "activation": "CTCSS",
-            "ctcss": {
-                "rx": "77.0"
-            },
+            "activationInt": "4",
+            "activation": "CARRIER",
             "trxPower": "10.00",
             "operator": [
                 "SQ7NHY",
@@ -16500,9 +15910,9 @@
             "id": "3341611",
             "hash": "e8c80542553e153848fc4d25e04838b0",
             "created": "2010-12-26 16:48:24",
-            "updated": "2024-11-07 15:08:55",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2020-01-16 14:28:09",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2023-08-16",
             "modeInt": "1028",
             "mode": [
@@ -16815,9 +16225,9 @@
             "id": "3671308",
             "hash": "9bdba10f9213eeb79d540f08661695f0",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-07-27 09:45:25",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2023-06-21 10:13:32",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2016-08-15",
             "modeInt": "8196",
             "mode": [
@@ -17045,7 +16455,7 @@
             "id": "4942781",
             "hash": "fe54705fcb50f2a4300f51e1052bff97",
             "created": "2010-11-13 02:11:50",
-            "updated": "2025-01-06 04:12:41",
+            "updated": "2024-06-19 22:19:01",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2027-02-09",
@@ -17071,8 +16481,8 @@
                 "tx": "67.0"
             },
             "trxPower": "15.00",
-            "operator": "SQ8PDY",
-            "remarks": "Przemiennik w sieci FM POLAND !!!\nDomyślna grupa: 26081 Małopolska\n\nAntena: Diamond X-300",
+            "operator": "SQ8HPD",
+            "remarks": "Przemiennik w sieci FM POLAND !!!\nDomyślna grupa: 26090 Małopolska\n\nAntena: Diamond X-300\n\n!!! Przemiennik w trakcie modernizacji,  działa testowo z okolic Rzeszowa  !!!",
             "link": "http://przemienniki.net/przemienniki/70cm/SR8JR",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/4942781"
@@ -17122,7 +16532,7 @@
             "id": "2954002",
             "hash": "2971d1bed5d4a824df10642c7f0c94b5",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-12-02 10:37:09",
+            "updated": "2017-05-04 08:16:27",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2016-08-15",
@@ -17211,9 +16621,9 @@
             "id": "9045677",
             "hash": "e6246c5ba650525ba7dee31f3023831d",
             "created": "2021-02-24 18:53:58",
-            "updated": "2024-12-19 17:33:20",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2024-02-07 23:13:31",
+            "statusInt": "2",
+            "status": "DISABLED",
             "licenseExpiryDate": "2026-01-15",
             "modeInt": "16388",
             "mode": [
@@ -17257,9 +16667,9 @@
             "id": "9002848",
             "hash": "8865b338e49b39136fc4dd715a9b1c64",
             "created": "2014-01-08 15:04:51",
-            "updated": "2024-07-27 09:45:51",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2024-06-01 12:10:49",
+            "statusInt": "16",
+            "status": "BUILDING",
             "licenseExpiryDate": "2029-05-16",
             "modeInt": "8196",
             "mode": [
@@ -17437,9 +16847,9 @@
             "id": "9045167",
             "hash": null,
             "created": "2020-08-22 19:47:43",
-            "updated": "2025-01-06 16:09:36",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2020-09-09 18:41:56",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2023-03-07",
             "modeInt": "4",
             "mode": "FM",
@@ -17598,48 +17008,6 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006143"
         },
-        "SR8LN": {
-            "qra": "SR8LN",
-            "id": "9045911",
-            "hash": "49aca62e3296756fd765bd6e57925a73",
-            "created": "2024-09-05 17:06:07",
-            "updated": "2024-09-05 17:06:07",
-            "statusInt": "1",
-            "status": "WORKING",
-            "modeInt": "4",
-            "mode": "FM",
-            "bandInt": "16384",
-            "band": "70CM",
-            "qrg": {
-                "rx": "431.075000",
-                "tx": "438.675000"
-            },
-            "country": "pl",
-            "qth": "Lublin",
-            "location": {
-                "locator": "KO11GF",
-                "latitude": "51.241382",
-                "longitude": "22.509543",
-                "altitudeOverSea": "227",
-                "altitudeOverGround": "42"
-            },
-            "activationInt": "256",
-            "activation": "CTCSS",
-            "ctcss": {
-                "rx": "67.0",
-                "tx": "67.0"
-            },
-            "trxPower": "15.00",
-            "operator": [
-                "SP8OK",
-                "SP8AZL",
-                "SP8GPB"
-            ],
-            "remarks": "Antena: Radmor 3284/3, 8dBd (10,15dBi)",
-            "link": "http://przemienniki.net/przemienniki/70cm/SR8LN",
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9045911"
-        },
         "SR8LSW": {
             "qra": "SR8LSW",
             "id": "9045716",
@@ -17733,45 +17101,6 @@
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/6804430"
-        },
-        "SR8LUB": {
-            "qra": "SR8LUB",
-            "id": "9045918",
-            "hash": "2df93103891bfd7e5fc6cd980876d77c",
-            "created": "2024-10-10 18:06:10",
-            "updated": "2024-10-10 18:09:41",
-            "statusInt": "8",
-            "status": "TESTING",
-            "licenseExpiryDate": "2029-06-12",
-            "modeInt": "4",
-            "mode": "FM",
-            "bandInt": "16384",
-            "band": "70CM",
-            "qrg": {
-                "rx": "431.800000",
-                "tx": "439.400000"
-            },
-            "country": "pl",
-            "qth": "Lublin",
-            "location": {
-                "locator": "KO11GF",
-                "latitude": "51.234756",
-                "longitude": "22.523127",
-                "altitudeOverSea": "209",
-                "altitudeOverGround": "35"
-            },
-            "activationInt": "256",
-            "activation": "CTCSS",
-            "ctcss": {
-                "rx": "77.0",
-                "tx": "77.0"
-            },
-            "trxPower": "15.00",
-            "operator": "SQ8MXP",
-            "remarks": "-2 x Motorola GM350\n-sterownik konstrukcji własnej, opartej o oprogramowanie SVXLINK, z możliwością przyszłego podłączenia do sieci FMPOLAND.\n-duplekser fabryczny 6 wnękowy SGQ450D\n-antena Diamond X50",
-            "link": "http://przemienniki.net/przemienniki/70cm/SR8LUB",
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9045918"
         },
         "SR8LUF": {
             "qra": "SR8LUF",
@@ -18128,9 +17457,9 @@
             "id": "2604638",
             "hash": "61ad1fd2427ead60150692f028845058",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-10-26 14:47:56",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2022-07-29 18:59:58",
+            "statusInt": "1",
+            "status": "WORKING",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "4096",
@@ -18546,9 +17875,9 @@
             "id": "9045887",
             "hash": "079bb488791c9fb26cc35e3c948cea44",
             "created": "2024-05-23 10:57:51",
-            "updated": "2024-08-05 13:31:36",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2024-05-23 10:57:51",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2029-05-17",
             "modeInt": "4",
             "mode": "FM",
@@ -19039,9 +18368,9 @@
             "id": "6612250",
             "hash": "eaac0786d5d2e64151b7ce5d684df839",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-12-02 10:33:44",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2022-01-19 11:37:29",
+            "statusInt": "1",
+            "status": "WORKING",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "4096",
@@ -19389,12 +18718,15 @@
             "id": "5394986",
             "hash": "b0fce910b876a89184a906a0fac7487c",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-09-12 18:00:39",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2023-04-10 12:25:31",
+            "statusInt": "2",
+            "status": "DISABLED",
             "licenseExpiryDate": "2019-11-16",
-            "modeInt": "4",
-            "mode": "FM",
+            "modeInt": "8196",
+            "mode": [
+                "FM",
+                "C4FM"
+            ],
             "bandInt": "4096",
             "band": "2M",
             "qrg": {
@@ -19410,14 +18742,16 @@
                 "altitudeOverSea": "1249",
                 "altitudeOverGround": "40"
             },
-            "activationInt": "256",
-            "activation": "CTCSS",
+            "activationInt": "288",
+            "activation": [
+                "1750",
+                "CTCSS"
+            ],
             "ctcss": {
-                "rx": "67.0",
-                "tx": "67.0"
+                "rx": "67.0"
             },
             "trxPower": "10.00",
-            "operator": "SP9YKD",
+            "operator": "SP9CSW",
             "link": [
                 "http://przemienniki.net/przemienniki/2m/SR9B",
                 "http://www.skzd.pl"
@@ -19700,15 +19034,12 @@
             "id": "5495623",
             "hash": "8592dfa0cd7fd6bd467fcfc9915ef111",
             "created": "2010-11-13 02:11:50",
-            "updated": "2024-08-05 07:44:32",
+            "updated": "2017-09-05 13:16:27",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2019-12-16",
-            "modeInt": "8196",
-            "mode": [
-                "FM",
-                "C4FM"
-            ],
+            "modeInt": "8192",
+            "mode": "C4FM",
             "bandInt": "4096",
             "band": "2M",
             "qrg": {
@@ -19727,12 +19058,11 @@
             "activationInt": "256",
             "activation": "CTCSS",
             "ctcss": {
-                "rx": "71.9",
-                "tx": "71.9"
+                "rx": "71.9"
             },
             "trxPower": "10.00",
             "operator": "SP9CSW",
-            "remarks": "Przemiennik FM/C4FM",
+            "remarks": "Przemiennik FM - C4FM",
             "link": [
                 "http://przemienniki.net/przemienniki/2m/SR9D",
                 "http://www.skzd.pl"
@@ -19845,44 +19175,6 @@
             "link": "http://przemienniki.net/przemienniki/70cm/SR9DDP",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045097"
-        },
-        "SR9DJC-C": {
-            "qra": "SR9DJC-C",
-            "id": "8996810",
-            "hash": "23ffb2d966dd9b7884fb5e7d43955c5b",
-            "created": "2011-01-18 23:39:22",
-            "updated": "2025-01-06 04:14:50",
-            "statusInt": "1",
-            "status": "WORKING",
-            "modeInt": "32",
-            "mode": "DSTAR",
-            "bandInt": "4096",
-            "band": "2M",
-            "qrg": {
-                "rx": "145.187500",
-                "tx": "145.787500"
-            },
-            "country": "pl",
-            "qth": "Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)",
-            "location": {
-                "locator": "KN09KK",
-                "latitude": "49.417864",
-                "longitude": "20.895578",
-                "altitudeOverSea": "1114",
-                "altitudeOverGround": "12"
-            },
-            "activationInt": "16777216",
-            "activation": "UNKNOWN",
-            "trxPower": "10.00",
-            "operator": "SP9WTC",
-            "remarks": "Ant: Tagra KAD150 1 x Tait TB8110 - 2m ( duosimplex)",
-            "link": [
-                "http://przemienniki.net/przemienniki/2m/SR9DJC-C",
-                "http://www.sr9uvj.pl",
-                "http://www.ircddb.net/"
-            ],
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/8996810"
         },
         "SR9DJK": {
             "qra": "SR9DJK",
@@ -20114,9 +19406,9 @@
             "id": "9044984",
             "hash": "0b2c19a981340f617e4fd13d3608682a",
             "created": "2018-08-27 12:25:58",
-            "updated": "2024-12-19 21:41:14",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2024-01-05 17:17:50",
+            "statusInt": "4",
+            "status": "UNKNOWN",
             "licenseExpiryDate": "2021-07-12",
             "modeInt": "10276",
             "mode": [
@@ -20148,6 +19440,7 @@
             "trxPower": "10.00",
             "operator": [
                 "SQ9GOL",
+                "SQ9JDO",
                 "SQ9WDZ",
                 "SQ9MYX"
             ],
@@ -20411,10 +19704,9 @@
             "id": "8997041",
             "hash": null,
             "created": "2013-01-11 22:20:59",
-            "updated": "2024-07-23 21:58:27",
-            "statusInt": "16",
-            "status": "BUILDING",
-            "licenseExpiryDate": "2026-08-17",
+            "updated": "2024-01-16 14:11:34",
+            "statusInt": "1",
+            "status": "WORKING",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "16384",
@@ -20435,13 +19727,12 @@
             "trxPower": "10.00",
             "operator": [
                 "SP9ENO",
-                "SQ9KEF",
-                "SP9DFH"
+                "SQ9KEF"
             ],
-            "remarks": "Uwaga!!!\nKonserwacja Przemiennika - Wyłączony\n\nZmiana Lokalizacji - W Trakcie",
+            "remarks": "Uwaga!!!\nUszkodzone TX Przemiennika. (Ok. 2W)\nRX Działa Bez Problemu.\n\nNowa lokalizacja (przybliżona)",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR9GC",
-                "https://amator.uke.gov.pl/pl/club_devices/102"
+                "https://www.facebook.com/SP9PDF/?ref=page_internal"
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997041"
@@ -21800,9 +21091,9 @@
             "id": "9045077",
             "hash": null,
             "created": "2019-02-18 18:32:46",
-            "updated": "2024-07-27 09:46:00",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2019-02-18 18:32:47",
+            "statusInt": "1",
+            "status": "WORKING",
             "modeInt": "2048",
             "mode": "MOTOTRBO",
             "bandInt": "16384",
@@ -21832,9 +21123,9 @@
             "id": "9045793",
             "hash": "b2288cc08c617e6368c1ec869a65d12f",
             "created": "2022-12-30 20:37:54",
-            "updated": "2024-12-19 17:33:33",
-            "statusInt": "1",
-            "status": "WORKING",
+            "updated": "2024-04-05 12:14:54",
+            "statusInt": "2",
+            "status": "DISABLED",
             "licenseExpiryDate": "2027-12-13",
             "modeInt": "4",
             "mode": "FM",
@@ -21864,7 +21155,7 @@
             },
             "trxPower": "15.00",
             "operator": "SP9FUN",
-            "remarks": "13 listopada 2014 roku na Łysej Górze (781 m n.p.m.) w pobliżu Limanowej zainstalowano radioprzemiennik SR9RT, działający w pasmach amatorskich oraz sieci FM Poland. Urządzenie zostało uruchomione i jest już słyszalne w eterze, choć obecnie nie działa jeszcze w pełni sprawnie. Dalsza modernizacja obecnej wersji (2.01) została uznana za nieopłacalną. \n\nNa przyszły rok planowane jest wprowadzenie wersji 3.0, która ma zrewolucjonizować funkcjonowanie przemiennika i zastąpić jego dotychczasowe rozwiązania.\n\nMultiband RPT:\n\n438,6375 MHz (-7,6 MHz)\n145,6375 MHz (-0,6 MHz)\n51,990 MHz (-0,6 MHz)\n29,660 MHz (-0,1 MHz)\nFM Poland (TG: 260902)",
+            "remarks": "Radioprzemiennik SR9RT v.2.01 jest QRT. Trwają prace modernizacyjne (podłączanie modułu sieci FM Poland).\n\nPlanowane QRV- maj 2024 r.\n\nMultiband RPT:\n\n438,6375 MHz (-7,6 MHz)\n145,6375 MHz (-0,6 MHz)\n51,990 MHz (-0,6 MHz)\n29,660 MHz (-0,1 MHz)\nFM Poland (TG: 26090)",
             "link": [
                 "http://przemienniki.net/przemienniki/crossband/SR9RT",
                 "http://radioteam.pl/sr9rt"
@@ -22014,9 +21305,9 @@
             "id": "9043615",
             "hash": null,
             "created": "2016-11-15 18:27:25",
-            "updated": "2025-01-06 04:16:06",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "updated": "2023-07-25 11:46:32",
+            "statusInt": "1",
+            "status": "WORKING",
             "modeInt": "2052",
             "mode": [
                 "FM",
@@ -22044,7 +21335,10 @@
                 "tx": "67.0"
             },
             "trxPower": "15.00",
-            "operator": "SQ9NOO",
+            "operator": [
+                "SQ9NOO",
+                "SP9WZO"
+            ],
             "remarks": "Kathrein 720-880",
             "link": "http://przemienniki.net/przemienniki/70cm/SR9SC",
             "source": "przemienniki.net",
@@ -22192,12 +21486,15 @@
             "id": "9043517",
             "hash": "175e9a6a90b8fedcddcac459ca88c128",
             "created": "2016-05-15 21:07:04",
-            "updated": "2024-12-19 17:33:07",
+            "updated": "2021-03-09 22:19:22",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2021-06-05",
-            "modeInt": "4",
-            "mode": "FM",
+            "modeInt": "16388",
+            "mode": [
+                "FM",
+                "FMLINK"
+            ],
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -22760,6 +22057,44 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996811"
         },
+        "SR9UVJ-C": {
+            "qra": "SR9UVJ-C",
+            "id": "8996810",
+            "hash": "23ffb2d966dd9b7884fb5e7d43955c5b",
+            "created": "2011-01-18 23:39:22",
+            "updated": "2012-03-18 12:31:31",
+            "statusInt": "1",
+            "status": "WORKING",
+            "modeInt": "32",
+            "mode": "DSTAR",
+            "bandInt": "4096",
+            "band": "2M",
+            "qrg": {
+                "rx": "145.187500",
+                "tx": "145.787500"
+            },
+            "country": "pl",
+            "qth": "Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)",
+            "location": {
+                "locator": "KN09KK",
+                "latitude": "49.417864",
+                "longitude": "20.895578",
+                "altitudeOverSea": "1114",
+                "altitudeOverGround": "12"
+            },
+            "activationInt": "16777216",
+            "activation": "UNKNOWN",
+            "trxPower": "10.00",
+            "operator": "SQ9ATC",
+            "remarks": "Ant: Diamond X-50 2 x Motorola GM340 - 70cm 1 x Motorola CM140 - 2m",
+            "link": [
+                "http://przemienniki.net/przemienniki/2m/SR9UVJ-C",
+                "http://www.sr9uvj.pl",
+                "http://www.ircddb.net/"
+            ],
+            "source": "przemienniki.net",
+            "feedback": "http://przemienniki.net/zglos/8996810"
+        },
         "SR9UVL": {
             "qra": "SR9UVL",
             "id": "9043658",
@@ -22927,12 +22262,11 @@
             "id": "9006113",
             "hash": "0b4b562454f9d6426119f287bac20ae4",
             "created": "2015-02-09 18:10:04",
-            "updated": "2024-08-04 20:22:51",
-            "statusInt": "1",
-            "status": "WORKING",
-            "licenseExpiryDate": "2024-11-05",
-            "modeInt": "4",
-            "mode": "FM",
+            "updated": "2024-01-09 19:43:04",
+            "statusInt": "2",
+            "status": "DISABLED",
+            "modeInt": "2048",
+            "mode": "MOTOTRBO",
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -22940,22 +22274,26 @@
                 "tx": "439.300000"
             },
             "country": "pl",
-            "qth": "OSP Gliczarów górny",
+            "qth": "Kraków - Centrum",
             "location": {
-                "locator": "KN09AI",
-                "latitude": "49.349684",
-                "longitude": "20.053013",
-                "altitudeOverSea": "986",
+                "locator": "JO90XB",
+                "latitude": "50.065500",
+                "longitude": "19.940600",
+                "altitudeOverSea": "250",
                 "altitudeOverGround": "40"
             },
-            "activationInt": "256",
-            "activation": "CTCSS",
-            "ctcss": {
-                "rx": "94.8"
-            },
-            "trxPower": "10.00",
-            "operator": "SQ9JDZ",
-            "remarks": "FM-Poland TG 260",
+            "activationInt": "16777220",
+            "activation": [
+                "CARRIER",
+                "UNKNOWN"
+            ],
+            "trxPower": "15.00",
+            "operator": [
+                "SP9SVH",
+                "SP9SVE",
+                "SP9ZAY"
+            ],
+            "remarks": "DMR ID: 260910 CC9 - BM TS1: TG260, TS2: TG26093;",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR9UVR",
                 "http://www.kpgk.pl"
@@ -23048,7 +22386,7 @@
             "id": "8997012",
             "hash": "302737e97495f4b9b751fc21290f3c31",
             "created": "2012-05-24 16:37:04",
-            "updated": "2024-08-01 22:01:13",
+            "updated": "2024-05-03 08:25:45",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "8224",
@@ -23063,20 +22401,24 @@
                 "tx": "439.200000"
             },
             "country": "pl",
-            "qth": "OSP Gliczarów górny",
+            "qth": "Góra Gubałówka EMITEL",
             "location": {
-                "locator": "KN09AI",
-                "latitude": "49.349678",
-                "longitude": "20.053080",
-                "altitudeOverSea": "986"
+                "locator": "JN99XH",
+                "latitude": "49.307959",
+                "longitude": "19.936232",
+                "altitudeOverSea": "1123"
             },
             "activationInt": "4",
             "activation": "CARRIER",
             "trxPower": "15.00",
-            "operator": "SQ9JDZ",
+            "operator": [
+                "SQ9OZE",
+                "SP9SVH"
+            ],
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/SR9UVZ",
-                "http://www.kpgk.pl/sr9uvz-gubalowka/"
+                "http://www.kpgk.pl/sr9uvz-gubalowka/",
+                "https://sr9uvz.emitel.pl"
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8997012"
@@ -23962,45 +23304,6 @@
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/8996847"
         },
-        "DB0BS": {
-            "qra": "DB0BS",
-            "id": "9047357",
-            "hash": "2930a229349ed784dcd1d2a6d802f538",
-            "created": "2024-12-19 17:39:13",
-            "updated": "2024-12-19 17:39:13",
-            "statusInt": "1",
-            "status": "WORKING",
-            "modeInt": "4",
-            "mode": "FM",
-            "bandInt": "16384",
-            "band": "70CM",
-            "qrg": {
-                "rx": "431.225000",
-                "tx": "438.825000"
-            },
-            "country": "de",
-            "qth": "Bochum",
-            "location": {
-                "locator": "JO31OL",
-                "latitude": "51.473255",
-                "longitude": "7.225879",
-                "altitudeOverSea": "102",
-                "altitudeOverGround": "89"
-            },
-            "activationInt": "256",
-            "activation": "CTCSS",
-            "ctcss": {
-                "rx": "67.0",
-                "tx": "67.0"
-            },
-            "operator": "DL1YBL",
-            "link": [
-                "http://przemienniki.net/przemienniki/70cm/DB0BS",
-                "https://www.relaisgruppe-ruhr.de/index.php/db0bs/"
-            ],
-            "source": "przemienniki.net",
-            "feedback": "http://przemienniki.net/zglos/9047357"
-        },
         "DB0CAL": {
             "qra": "DB0CAL",
             "id": "9045148",
@@ -24234,7 +23537,7 @@
             "id": "9006124",
             "hash": null,
             "created": "2015-03-03 11:45:40",
-            "updated": "2024-11-08 22:56:53",
+            "updated": "2015-03-03 11:45:55",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "4",
@@ -24248,11 +23551,7 @@
             "country": "de",
             "qth": "Dortmund",
             "location": {
-                "locator": "JO31SL",
-                "latitude": "51.462067",
-                "longitude": "7.543422",
-                "altitudeOverSea": "210",
-                "altitudeOverGround": "130"
+                "locator": "JO31SL"
             },
             "activationInt": "256",
             "activation": "CTCSS",
@@ -24262,13 +23561,7 @@
             },
             "trxPower": "9.00",
             "operator": "DF1VB",
-            "remarks": "TV Tower",
-            "link": [
-                "http://przemienniki.net/przemienniki/2m/DB0DO",
-                "https://www.relaisgruppe-ruhr.de/index.php/db0do-fm-relais/",
-                "https://db0tt.radioreference.de/index.html",
-                "https://de.wikipedia.org/wiki/Fernmeldeturm_Schwerte"
-            ],
+            "link": "http://przemienniki.net/przemienniki/2m/DB0DO",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006124"
         },
@@ -26527,7 +25820,7 @@
             "id": "9006123",
             "hash": null,
             "created": "2015-03-03 11:44:59",
-            "updated": "2024-11-07 21:24:37",
+            "updated": "2015-03-03 11:45:15",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "4",
@@ -26542,9 +25835,7 @@
             "qth": "Dortmund",
             "location": {
                 "locator": "JO31SL",
-                "latitude": "51.462067",
-                "longitude": "7.543422",
-                "altitudeOverSea": "210",
+                "altitudeOverSea": "340",
                 "altitudeOverGround": "130"
             },
             "activationInt": "256",
@@ -26558,8 +25849,7 @@
             "remarks": "TV Tower",
             "link": [
                 "http://przemienniki.net/przemienniki/70cm/DB0TT",
-                "http://www.db0tt.de",
-                "https://www.relaisgruppe-ruhr.de/index.php/db0tt-fm-relais/"
+                "http://www.db0tt.de"
             ],
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9006123"
@@ -28741,7 +28031,7 @@
             },
             "trxPower": "8.50",
             "operator": "GM8IOA",
-            "link": "http://przemienniki.net/przemienniki/70cm/GB3SA",
+            "link": "http://przemienniki.net/przemienniki/70cm/FM/GB3SA",
             "source": "przemienniki.net",
             "feedback": "http://przemienniki.net/zglos/9045166"
         },
@@ -39522,7 +38812,7 @@
             "id": "9045717",
             "hash": null,
             "created": "2021-09-06 10:40:08",
-            "updated": "2024-09-29 07:51:46",
+            "updated": "2024-03-07 10:42:48",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2025-09-29",
@@ -39534,8 +38824,8 @@
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
-                "rx": "431.300000",
-                "tx": "438.900000"
+                "rx": "431.100000",
+                "tx": "438.700000"
             },
             "country": "ua",
             "qth": "Uzhhorod",
