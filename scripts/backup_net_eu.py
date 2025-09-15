@@ -8,7 +8,7 @@ timestamp_file_path = './backup/przemienniki-net/timestamp.xml'
 
 # Defining filenames along with the export links
 export_links_1 = {
-    "Native XML Format": {"url": "https://przemienniki.net/export/rxf.xml", "file_name": "rxf.xml"},
+    "Native XML Format": {"url": "https://przemienniki.net/export/przemienniki.xls?country=pl", "file_name": "rxf.xml"},
     "RT Systems ADMS": {"url": "https://przemienniki.net/export/adms.csv", "file_name": "adms.csv"},
     "Excel": {"url": "https://przemienniki.net/export/przemienniki.xls", "file_name": "przemienniki.xls"},
     "GPX Format": {"url": "https://przemienniki.net/export/przemienniki.gpx", "file_name": "przemienniki.gpx"},
