@@ -1,11 +1,10 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 
 <rxf version="1.0">
 	<link rel="self" href="http://przemienniki.net/export/rxf.xml" type="appliction/xml"/>
 	<link>http://przemienniki.net</link>
 	<updated>2024-06-21 01:08:12</updated>
-	<generated>2025-05-24 14:22:25</generated>
+	<generated>2025-09-15 20:52:41</generated>
 	<generator>przemienniki.net v.2.12.0 (2019/02/04)</generator>
 	<dictionary>
 		<item>
@@ -162,6 +161,13 @@
 			<value>32768</value>
 			<description><![CDATA[Tetra]]></description>
 			<preferedColor>#0000ff</preferedColor>
+		</item>
+		<item>
+			<type>mode</type>
+			<name>M17</name>
+			<value>33554432</value>
+			<description><![CDATA[M17]]></description>
+			<preferedColor>#fc353b</preferedColor>
 		</item>
 		<item>
 			<type>status</type>

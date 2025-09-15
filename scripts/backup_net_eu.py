@@ -94,28 +94,9 @@ def compare_files(new_content, existing_file_path):
 def main():
     print("Checking timestamp...")
     current_timestamp = check_timestamp(timestamp_url_1)
-    
-    if current_timestamp:
-        print("Timestamp fetched successfully.")
-        if os.path.exists(timestamp_file_path):
-            with open(timestamp_file_path, 'r') as file:
-                saved_timestamp = file.read()
-            if saved_timestamp == current_timestamp:
-                print("Timestamp has not changed. No further downloads needed for .net exports.")
-            else:
-                print("Timestamp has changed. Downloading .net exports...")
-                os.makedirs(os.path.dirname(timestamp_file_path), exist_ok=True)
-                with open(timestamp_file_path, 'w') as file:
-                    file.write(current_timestamp)
-                for name, info in export_links_1.items():
-                    download_export(name, info, backup_dir_1)
-        else:
-            print("No previous timestamp found. Downloading .net exports...")
-            os.makedirs(os.path.dirname(timestamp_file_path), exist_ok=True)
-            with open(timestamp_file_path, 'w') as file:
-                file.write(current_timestamp)
-            for name, info in export_links_1.items():
-                download_export(name, info, backup_dir_1)
+
+    for name, info in export_links_1.items():
+        download_export(name, info, backup_dir_1)
 
     print("Downloading .eu exports...")
     for name, info in export_links_2.items():
