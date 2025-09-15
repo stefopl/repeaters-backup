@@ -8,7 +8,7 @@ timestamp_file_path = './backup/przemienniki-net/timestamp.xml'
 
 # Defining filenames along with the export links
 export_links_1 = {
-    "Native XML Format": {"url": "https://przemienniki.net/export/przemienniki.xls?country=pl", "file_name": "rxf.xml"},
+    "Native XML Format": {"url": "https://przemienniki.net/export/rxf.xml", "file_name": "rxf.xml"},
     "RT Systems ADMS": {"url": "https://przemienniki.net/export/adms.csv", "file_name": "adms.csv"},
     "Excel": {"url": "https://przemienniki.net/export/przemienniki.xls", "file_name": "przemienniki.xls"},
     "GPX Format": {"url": "https://przemienniki.net/export/przemienniki.gpx", "file_name": "przemienniki.gpx"},
@@ -45,11 +45,25 @@ def download_export(link_name, link_info, backup_dir, update_readme=True):
         os.makedirs(export_path, exist_ok=True)
 
         file_name = link_info['file_name']
-        with open(os.path.join(export_path, file_name), 'wb') as file:
-            file.write(response.content)
+        file_path = os.path.join(export_path, file_name)
+
+        content = response.content
+
+        if file_name.lower().endswith(".xml"):
+            try:
+                text = content.decode("utf-8-sig", errors="ignore")
+                idx = text.find("<?xml")
+                if idx > 0:
+                    text = text[idx:]
+                content = text.encode("utf-8")
+            except Exception as e:
+                print(f"Warning: failed to clean XML for {file_name}: {e}")
+
+        with open(file_path, 'wb') as file:
+            file.write(content)
 
         if update_readme:
-            with open(os.path.join(export_path, 'README.md'), 'w') as readme:
+            with open(os.path.join(export_path, 'README.md'), 'w', encoding='utf-8') as readme:
                 readme.write(f"# Backup of: {link_name}\n\n")
                 readme.write(f"**Backup Date**: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
                 readme.write(f"**Link**: [{link_name}]({link_info['url']})\n")
