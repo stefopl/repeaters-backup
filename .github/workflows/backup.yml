@@ -33,8 +33,8 @@ jobs:
     - name: Merge sources
       run: python scripts/merge_sources.py
 
-#    - name: Generate JSON from przemienniki.net
-#      run: python scripts/net_to_json.py
+    - name: Generate JSON from przemienniki.net
+      run: python scripts/net_to_json.py
 
     - name: Generate JSON from przemienniki.eu
       run: python scripts/eu_to_json.py
