@@ -53,13 +53,13 @@ def save_to_json(data, output_file):
     print(f"Data has been saved to {output_file}.")
 
 file_paths = [
-#     {
-#         "file_path": 'backup/przemienniki-net/Native_XML_Format/rxf.xml',
-#         "key_field": 'qra',
-#         "source_name": 'przemienniki_net',
-#         "delimiter": None,
-#         "encoding": 'utf-8'
-#     },
+    {
+        "file_path": 'backup/przemienniki-net/Native_XML_Format/rxf.xml',
+        "key_field": 'qra',
+        "source_name": 'przemienniki_net',
+        "delimiter": None,
+        "encoding": 'utf-8'
+    },
     {
         "file_path": 'backup/przemienniki-eu/CSV_Export/przemienniki-eu.csv',
         "key_field": 'Callsign',
