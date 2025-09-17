@@ -6844,19 +6844,19 @@
         },
         "przemienniki_eu": {
             "Callsign": "SR3KH",
-            "Modes": "fm",
-            "TX Frequency": "438.8",
+            "Modes": "c4fm",
+            "TX Frequency": "438.3125",
             "TX CTCSS": "",
-            "RX Frequency": "431.2",
+            "RX Frequency": "430.7125",
             "RX CTCSS": "",
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "7.6",
             "Status": "working",
-            "Latitude": "52.208723",
-            "Longitude": "18.629383",
-            "QTH": "Kolo - ZST",
-            "Locator": "JO92HF"
+            "Latitude": "0",
+            "Longitude": "0",
+            "QTH": "Kolo",
+            "Locator": "jo92he"
         },
         "UKE_club_devices": {
             "number": "DC.WML.5101.1138.2022.2",
@@ -8106,9 +8106,9 @@
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "7.6",
-            "Status": "off",
-            "Latitude": "52.346795",
-            "Longitude": "15.276266",
+            "Status": "working",
+            "Latitude": "0",
+            "Longitude": "0",
             "QTH": "RTCN Jemiolow/Lagow maszt EmiTel",
             "Locator": "JO72PI"
         },
@@ -49516,6 +49516,36 @@
             "lng": ""
         }
     },
+    "SR8ALA": {
+        "przemienniki_eu": {
+            "Callsign": "SR8ALA",
+            "Modes": "dmr",
+            "TX Frequency": "439.475",
+            "TX CTCSS": "",
+            "RX Frequency": "431.875",
+            "RX CTCSS": "",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "testing",
+            "Latitude": "49.814923",
+            "Longitude": "21.99281",
+            "QTH": "Domaradz",
+            "Locator": "KN09XT"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.2569.2025.2",
+            "valid_to": "2030-04-16",
+            "call_sign": "SR8ALA",
+            "category": "Kategoria5",
+            "transmitter_power": "10",
+            "name_type_station": "CyfrowyPrzemiennik",
+            "emission": "",
+            "input_frequency": "431.875",
+            "output_frequency": "439.475",
+            "station_location": "Domaradz"
+        }
+    },
     "SR8FM": {
         "przemienniki_eu": {
             "Callsign": "SR8FM",
@@ -49544,6 +49574,36 @@
             "input_frequency": "434.4",
             "output_frequency": "434.4",
             "station_location": "Zawierzbie"
+        }
+    },
+    "SR8GA": {
+        "przemienniki_eu": {
+            "Callsign": "SR8GA",
+            "Modes": "fm",
+            "TX Frequency": "145.725",
+            "TX CTCSS": "77",
+            "RX Frequency": "145.125",
+            "RX CTCSS": "77",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "0.6",
+            "Status": "testing",
+            "Latitude": "0",
+            "Longitude": "0",
+            "QTH": "Pulawy",
+            "Locator": "KO11XK"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.2905.2025.2",
+            "valid_to": "2030-05-05",
+            "call_sign": "SR8GA",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "145.125",
+            "output_frequency": "145.725",
+            "station_location": "Pu³awy"
         }
     },
     "SR8LBT": {
@@ -49723,10 +49783,10 @@
             "Duplex": "-",
             "Offset": "7.6",
             "Status": "planned",
-            "Latitude": "49.755244",
-            "Longitude": "19.002927",
-            "QTH": "Schroniska PTTK Szyndzielnia",
-            "Locator": "JN99MS"
+            "Latitude": "49.685562",
+            "Longitude": "19.031298",
+            "QTH": "Platforma widokowa na Skrzycznem",
+            "Locator": "JN99MQ"
         }
     },
     "SR9NKU": {
@@ -55855,20 +55915,6 @@
             "station_location": "Pobiedziska"
         }
     },
-    "SR8ALA": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.2569.2025.2",
-            "valid_to": "2030-04-16",
-            "call_sign": "SR8ALA",
-            "category": "Kategoria5",
-            "transmitter_power": "10",
-            "name_type_station": "CyfrowyPrzemiennik",
-            "emission": "",
-            "input_frequency": "431.875",
-            "output_frequency": "439.475",
-            "station_location": "Domaradz"
-        }
-    },
     "SR9KFZ": {
         "UKE_individual_devices": {
             "number": "DC.WML.5101.2727.2025.2",
@@ -55881,20 +55927,6 @@
             "input_frequency": "432.5, 144.8",
             "output_frequency": "432.5, 144.8",
             "station_location": "Czêstochowa"
-        }
-    },
-    "SR8GA": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.2905.2025.2",
-            "valid_to": "2030-05-05",
-            "call_sign": "SR8GA",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "AnalogowyPrzemiennikFM",
-            "emission": "",
-            "input_frequency": "145.125",
-            "output_frequency": "145.725",
-            "station_location": "Pu³awy"
         }
     },
     "SR5TM": {
