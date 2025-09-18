@@ -485,6 +485,26 @@
         "locator": "JO73GK"
     },
     {
+        "callsign": "SR1UVS",
+        "modes": [
+            "dstar"
+        ],
+        "tx_frequency": 1298.8,
+        "tx_ctcss": false,
+        "rx_frequency": 1270.8,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 28,
+        "status": "working",
+        "coordinates": [
+            0,
+            0
+        ],
+        "qth": "",
+        "locator": ""
+    },
+    {
         "callsign": "SR1UVX",
         "modes": [
             "dmr"
@@ -2690,7 +2710,7 @@
             "fm"
         ],
         "tx_frequency": 439.05,
-        "tx_ctcss": 67,
+        "tx_ctcss": false,
         "rx_frequency": 431.45,
         "rx_ctcss": 67,
         "rx_1750": false,
@@ -6753,6 +6773,24 @@
         ],
         "qth": "Wielka Sowa",
         "locator": "JO80FQ"
+    },
+    {
+        "callsign": "SR6SO",
+        "modes": [],
+        "tx_frequency": 439.4125,
+        "tx_ctcss": false,
+        "rx_frequency": 431.8125,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            50.502906,
+            18.292613
+        ],
+        "qth": "Strzelce Opolskie",
+        "locator": "JO90dm50"
     },
     {
         "callsign": "SR6TT",

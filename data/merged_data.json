@@ -1541,18 +1541,18 @@
         "przemienniki_eu": {
             "Callsign": "SR1UVS",
             "Modes": "dstar",
-            "TX Frequency": "439.4125",
+            "TX Frequency": "1298.8",
             "TX CTCSS": "",
-            "RX Frequency": "431.8125",
+            "RX Frequency": "1270.8",
             "RX CTCSS": "",
             "RX 1750": "",
             "Duplex": "-",
-            "Offset": "7.6",
+            "Offset": "28",
             "Status": "working",
-            "Latitude": "53.435441",
-            "Longitude": "14.539579",
-            "QTH": "Szczecin",
-            "Locator": "JO73GK"
+            "Latitude": "0",
+            "Longitude": "0",
+            "QTH": "",
+            "Locator": ""
         },
         "UKE_club_devices": {
             "number": "DC.WML.5101.443.2021.3",
@@ -7695,7 +7695,7 @@
             "Callsign": "SR3PI",
             "Modes": "fm",
             "TX Frequency": "439.05",
-            "TX CTCSS": "67",
+            "TX CTCSS": "",
             "RX Frequency": "431.45",
             "RX CTCSS": "67",
             "RX 1750": "",
@@ -49411,6 +49411,51 @@
             "station_location": "Wroc³aw"
         }
     },
+    "SR6SO": {
+        "przemienniki_eu": {
+            "Callsign": "SR6SO",
+            "Modes": "",
+            "TX Frequency": "439.4125",
+            "TX CTCSS": "",
+            "RX Frequency": "431.8125",
+            "RX CTCSS": "",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "working",
+            "Latitude": "50.502906",
+            "Longitude": "18.292613",
+            "QTH": "Strzelce Opolskie",
+            "Locator": "JO90dm50"
+        },
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.4861.2023.2",
+            "valid_to": "2028-09-26",
+            "call_sign": "SR6SO",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowyPrzemiennik",
+            "emission": "",
+            "input_frequency": "439.4125",
+            "output_frequency": "431.8125",
+            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
+            "applicant_city": "Warszawa",
+            "applicant_street": "ul. Augustyna Kordeckiego",
+            "applicant_house": "66",
+            "applicant_number": "U1",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Strzelce Opolskie",
+            "station_street": "ul. Opolska",
+            "station_house": "32",
+            "station_number": "7",
+            "lat": "",
+            "lng": ""
+        }
+    },
     "SR7KFX": {
         "przemienniki_eu": {
             "Callsign": "SR7KFX",
@@ -51809,35 +51854,6 @@
             "station_street": "",
             "station_house": "",
             "station_number": "",
-            "lat": "",
-            "lng": ""
-        }
-    },
-    "SR6SO": {
-        "UKE_club_devices": {
-            "number": "DC.WML.5101.4861.2023.2",
-            "valid_to": "2028-09-26",
-            "call_sign": "SR6SO",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "CyfrowyPrzemiennik",
-            "emission": "",
-            "input_frequency": "439.4125",
-            "output_frequency": "431.8125",
-            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
-            "applicant_city": "Warszawa",
-            "applicant_street": "ul. Augustyna Kordeckiego",
-            "applicant_house": "66",
-            "applicant_number": "U1",
-            "enduser_name": "",
-            "enduser_city": "",
-            "enduser_street": "",
-            "enduser_house": "",
-            "enduser_number": "",
-            "station_city": "Strzelce Opolskie",
-            "station_street": "ul. Opolska",
-            "station_house": "32",
-            "station_number": "7",
             "lat": "",
             "lng": ""
         }
