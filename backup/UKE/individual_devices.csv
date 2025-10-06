@@ -1,8 +1,4 @@
 number;valid_to;call_sign;category;transmitter_power;name_type_station;emission;input_frequency;output_frequency;station_location
-DC.WML.5101.2122.2020.2;2025-08-24;SR5WXGL;Kategoria5;15;StacjaPogodowa;"";144.95;144.95;Garbatka D³uga
-DC.WML.5101.2248.2020.2;2025-09-04;SR5RK;Kategoria5;15;PrzemiennikFMDV;"";431.15;438.75;Koz³owiec  - RTNC EMITEL
-DC.WML.5101.2342.2020.2;2025-09-22;SR1ASR;Kategoria5;15;CyfrowyPrzemiennik;"";431.025;438.625;Szczecin
-DC.WML.5101.2349.2020.3;2025-09-22;SR8DGN;Kategoria5;15;CyfrowaStacjaWezlowa;"";10.1493, 50.7, 144.8, 144.825, 144.85, 144.925, 430.475, 432.5, 433.425, 2362, 2397, 5675, 5745, 5805;10.1493, 50.7, 144.8, 144.825, 144.85, 144.925, 430.475, 432.5, 433.425, 2362, 2397, 5675, 5745, 5805;Lublin
 DC.WML.5101.2407.2020.2;2025-09-30;SR9DCH;Kategoria5;15;PrzemiennikFMDV;"";431.825;439.425;Orzesze
 DC.WML.5101.2439.2020.2;2025-10-01;SR3DMR;Kategoria5;15;CyfrowyPrzemiennik;"";145.0125;145.6125;Poznañ
 DC.WML.5101.2456.2020.2;2025-10-05;SR9WXA;Kategoria5;15;StacjaPogodowaAPRS;"";144.8;144.8;Sopotnia Wielka
@@ -191,7 +187,6 @@ DC.WML.5101.1264.2023.2;2028-03-14;SR6GA;Kategoria5;15;AnalogowyPrzemiennikFM;""
 DC.WML.5101.1265.2023.3;2028-03-14;SR6V;Kategoria5;15;AnalogowyPrzemiennikFM;"";145.1625;145.7625;Szczyt Góry Wielka Sowa
 DC.WML.5101.1439.2023.2;2028-03-21;SR1WXN;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Chojna
 DC.WML.5101.1441.2023.2;2028-03-21;SR1APRE;Kategoria5;5;PrzekaznikAPRS;"";144.8;144.8;Polanów
-DC.WML.5101.1497.2023.2;2025-09-16;SR4X;Kategoria5;15;AnalogowyPrzemiennikFM;"";145;145.6;Juchnowiec Górny
 DC.WML.5101.1501.2023.2;2028-03-23;SR2SWR;Kategoria5;10;AnalogowyPrzemiennikFM;"";431.175;438.775;Toruñ
 DC.WML.5101.1516.2023.2;2028-03-24;SR5SQ;Kategoria5;15;PrzemiennikFMDV;"";431.3875;438.9875;Krze Du¿e
 DC.WML.5101.1537.2023.3;2028-03-27;SR9VJK;Kategoria5;15;CyfrowyPrzemiennik;"";430.7125;438.3125;Muszyna - Jaworzyna Krynicka
@@ -309,7 +304,6 @@ DC.WML.5101.3228.2024.2;3029-06-05;SR8RK;Kategoria5;15;PrzekaznikAPRS;"";434.855
 DC.WML.5101.3405.2024.2;2029-06-14;SR4JLT;Kategoria5;15;CyfrowyPrzekaznik;"";432.5, 144.95, 144.8;432.5, 144.95, 144.8;Narewka
 DC.WML.5101.3406.2024.2;2029-06-14;SR4WX;Kategoria5;15;CyfrowyPrzekaznik;"";432.5, 144.95, 144.8;432.5, 144.95, 144.8;Bia³ystok
 DC.WML.5101.3455.2024.2;2029-06-12;SR8LUB;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.8;439.4;Lublin
-DC.WML.5101.3478.2024.2;2025-09-03;SR8WXL;Kategoria5;15;StacjaPogodowaAPRS;"";434.855, 144.8;434.855, 144.8;Lubatowa
 DC.WML.5101.3514.2024.2;2029-06-14;SR9DKA;Kategoria5;15;PrzemiennikFMDV;"";430.9;438.5;Siemianowice Œl¹skie
 DC.WML.5101.3515.2024.2;2029-06-14;SR4SUW;Kategoria5;15;CyfrowyPrzekaznik;"";434.7;434.7;Suwa³ki
 DC.WML.5101.3516.2024.2;2029-06-14;SR3X;Kategoria5;15;PrzemiennikFMDV;"";431.4375, 145.1625;439.0375, 145.7625;Poznañ
@@ -433,3 +427,8 @@ DC.WML.5101.4934.2025.3;2030-07-21;SR4ROBI;Kategoria5;15;AnalogowyPrzemiennikFM;
 DC.WML.5101.5408.2025.2;2030-08-14;SR1B;Kategoria5;10;CyfrowyPrzemiennik;"";145.0125;145.6125;Broczyno
 DC.WML.5101.5410.2025.2;2030-08-14;SR4X;Kategoria5;15;AnalogowyPrzemiennikFM;"";145;145.6;Juchnowiec Górny
 DC.WML.5101.5691.2025.3;2035-08-25;SR4ROBI;Kategoria5;15;AnalogowyPrzemiennikATV;"";430.7625;438.3625;Moñki
+DC.WML.5101.5400.2025.4;2030-08-29;SR9SE;Kategoria5;15;PrzemiennikFMDV;"";431.6;439.2;Bêdzin
+DC.WML.5101.6086.2025.2;2030-09-09;SR2PP;Kategoria5;15;PrzemiennikFMDV;"";431.2125, 145.1;438.8125, 145.7;Piechcin
+DC.WML.5101.6212.2025.2;2030-09-12;SR6T;Kategoria5;15;CyfrowyPrzemiennik;"";438.55;430.95;Stare Rochowice
+DC.WML.5101.6423.2025.2;2030-09-23;SR2OX;Kategoria5;15;CyfrowyPrzekaznik;"";433.65;433.65;Gdynia
+DC.WML.5101.6424.2025.2;2030-09-23;SR2DDU;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Przyjma

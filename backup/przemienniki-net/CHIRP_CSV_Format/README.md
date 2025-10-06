@@ -1,4 +1,4 @@
 # Backup of: CHIRP CSV Format
 
-**Backup Date**: 2025-09-29 12:37:59
+**Backup Date**: 2025-10-06 12:37:59
 **Link**: [CHIRP CSV Format](https://przemienniki.net/export/chirp.csv?band=2m,70cm&country=pl&onlyworking=true)
