@@ -17086,19 +17086,19 @@
         },
         "przemienniki_eu": {
             "Callsign": "SR5ZQ",
-            "Modes": "dstar",
-            "TX Frequency": "438.8625",
+            "Modes": "c4fm, dstar",
+            "TX Frequency": "439.25",
             "TX CTCSS": "",
-            "RX Frequency": "431.2625",
+            "RX Frequency": "431.65",
             "RX CTCSS": "",
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "7.6",
-            "Status": "inprogress",
+            "Status": "working",
             "Latitude": "52.007496",
             "Longitude": "20.589476",
             "QTH": "Skierniewice",
-            "Locator": "KO02HA"
+            "Locator": "Krze Duze"
         },
         "UKE_individual_devices": {
             "number": "DC.WML.5101.5118.2023.2",
@@ -48958,6 +48958,24 @@
             "feedback": "http://przemienniki.net/zglos/9022983"
         }
     },
+    "SR0GOL": {
+        "przemienniki_eu": {
+            "Callsign": "SR0GOL",
+            "Modes": "fm",
+            "TX Frequency": "439.1375",
+            "TX CTCSS": "",
+            "RX Frequency": "431.5375",
+            "RX CTCSS": "",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "working",
+            "Latitude": "50.177279",
+            "Longitude": "20.570335",
+            "QTH": "",
+            "Locator": "KO00GE81"
+        }
+    },
     "SR1BAR": {
         "przemienniki_eu": {
             "Callsign": "SR1BAR",
@@ -49067,16 +49085,16 @@
         "przemienniki_eu": {
             "Callsign": "SR2KW",
             "Modes": "fm, fmpoland",
-            "TX Frequency": "145.7",
+            "TX Frequency": "145.3375",
             "TX CTCSS": "100",
-            "RX Frequency": "145.7",
+            "RX Frequency": "145.3375",
             "RX CTCSS": "100",
             "RX 1750": "",
             "Duplex": "",
             "Offset": "0",
-            "Status": "planned",
-            "Latitude": "52.67251043",
-            "Longitude": "19.03243258",
+            "Status": "working",
+            "Latitude": "52.67275307",
+            "Longitude": "19.03257292",
             "QTH": "Wloclawek",
             "Locator": "JO92MQ"
         }
