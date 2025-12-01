@@ -1,4 +1,4 @@
 # Backup of: RT Systems ADMS
 
-**Backup Date**: 2025-11-24 12:39:48
+**Backup Date**: 2025-12-01 12:40:47
 **Link**: [RT Systems ADMS](https://przemienniki.net/export/adms.csv)
