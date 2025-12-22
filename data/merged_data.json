@@ -1295,19 +1295,19 @@
         },
         "przemienniki_eu": {
             "Callsign": "SR1S",
-            "Modes": "fm",
-            "TX Frequency": "145.775",
+            "Modes": "fm, dmr, c4fm",
+            "TX Frequency": "145.77",
             "TX CTCSS": "82.5",
-            "RX Frequency": "145.175",
+            "RX Frequency": "145.17",
             "RX CTCSS": "82.5",
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "0.6",
-            "Status": "off",
-            "Latitude": "53.458827",
-            "Longitude": "14.535034",
+            "Status": "planned",
+            "Latitude": "53.40396",
+            "Longitude": "14.52215",
             "QTH": "Szczecin",
-            "Locator": "JO73GL"
+            "Locator": "JO73GJ"
         }
     },
     "SR1SZ": {
@@ -11215,7 +11215,7 @@
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "7.6",
-            "Status": "working",
+            "Status": "off",
             "Latitude": "53.864468",
             "Longitude": "21.296859",
             "QTH": "Mragowo - wieza cisnien wodociagow",
@@ -48979,6 +48979,60 @@
             "station_location": "Rymañ"
         }
     },
+    "SR1ZS": {
+        "przemienniki_eu": {
+            "Callsign": "SR1ZS",
+            "Modes": "fm, dmr, c4fm",
+            "TX Frequency": "439",
+            "TX CTCSS": "82.5",
+            "RX Frequency": "431.4",
+            "RX CTCSS": "82.5",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "planned",
+            "Latitude": "53.40396",
+            "Longitude": "14.52215",
+            "QTH": "Szczecin",
+            "Locator": "JO73GJ"
+        }
+    },
+    "SR2CDE": {
+        "przemienniki_eu": {
+            "Callsign": "SR2CDE",
+            "Modes": "dstar",
+            "TX Frequency": "439.1875",
+            "TX CTCSS": "",
+            "RX Frequency": "431.5875",
+            "RX CTCSS": "",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "working",
+            "Latitude": "54.34082",
+            "Longitude": "18.555667",
+            "QTH": "Gdansk",
+            "Locator": "JO94GI"
+        }
+    },
+    "SR2DV": {
+        "przemienniki_eu": {
+            "Callsign": "SR2DV",
+            "Modes": "dstar",
+            "TX Frequency": "439.1875",
+            "TX CTCSS": "",
+            "RX Frequency": "431.5875",
+            "RX CTCSS": "",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "testing",
+            "Latitude": "54.340465",
+            "Longitude": "18.555603",
+            "QTH": "GDANSK",
+            "Locator": "JO94GI"
+        }
+    },
     "SR2KW": {
         "przemienniki_eu": {
             "Callsign": "SR2KW",
@@ -50129,6 +50183,96 @@
             "input_frequency": "431.3375",
             "output_frequency": "438.9375",
             "station_location": "Cieszyn"
+        }
+    },
+    "SR9RP": {
+        "przemienniki_eu": {
+            "Callsign": "SR9RP",
+            "Modes": "fm, dmr",
+            "TX Frequency": "439.25",
+            "TX CTCSS": "107.2",
+            "RX Frequency": "431.65",
+            "RX CTCSS": "107.2",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "inprogress",
+            "Latitude": "49.652776",
+            "Longitude": "20.547884",
+            "QTH": "Wysokie",
+            "Locator": "KN09GP"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.4100.2025.2",
+            "valid_to": "2030-06-20",
+            "call_sign": "SR9RP",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "431.65",
+            "output_frequency": "439.25",
+            "station_location": "Wysokie"
+        }
+    },
+    "SR9RS": {
+        "przemienniki_eu": {
+            "Callsign": "SR9RS",
+            "Modes": "fm, dmr",
+            "TX Frequency": "439.325",
+            "TX CTCSS": "107.2",
+            "RX Frequency": "431.725",
+            "RX CTCSS": "107.2",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "inprogress",
+            "Latitude": "49.527601",
+            "Longitude": "20.821271",
+            "QTH": "",
+            "Locator": ""
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.4101.2025.2",
+            "valid_to": "2030-06-20",
+            "call_sign": "SR9RS",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "431.725",
+            "output_frequency": "439.325",
+            "station_location": "Maciejowa"
+        }
+    },
+    "SR9RU": {
+        "przemienniki_eu": {
+            "Callsign": "SR9RU",
+            "Modes": "fm, dmr",
+            "TX Frequency": "439.35",
+            "TX CTCSS": "107.2",
+            "RX Frequency": "431.75",
+            "RX CTCSS": "107.2",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "inprogress",
+            "Latitude": "49.467286",
+            "Longitude": "20.554214",
+            "QTH": "",
+            "Locator": ""
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.4102.2025.2",
+            "valid_to": "2030-06-20",
+            "call_sign": "SR9RU",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "431.75",
+            "output_frequency": "439.35",
+            "station_location": "Przehyba"
         }
     },
     "SR9SR": {
@@ -56449,48 +56593,6 @@
             "input_frequency": "144.9, 144.8",
             "output_frequency": "144.9, 144.8",
             "station_location": "Kraków"
-        }
-    },
-    "SR9RP": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.4100.2025.2",
-            "valid_to": "2030-06-20",
-            "call_sign": "SR9RP",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "PrzemiennikFMDV",
-            "emission": "",
-            "input_frequency": "431.65",
-            "output_frequency": "439.25",
-            "station_location": "Wysokie"
-        }
-    },
-    "SR9RS": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.4101.2025.2",
-            "valid_to": "2030-06-20",
-            "call_sign": "SR9RS",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "PrzemiennikFMDV",
-            "emission": "",
-            "input_frequency": "431.725",
-            "output_frequency": "439.325",
-            "station_location": "Maciejowa"
-        }
-    },
-    "SR9RU": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.4102.2025.2",
-            "valid_to": "2030-06-20",
-            "call_sign": "SR9RU",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "PrzemiennikFMDV",
-            "emission": "",
-            "input_frequency": "431.75",
-            "output_frequency": "439.35",
-            "station_location": "Przehyba"
         }
     },
     "SR5WRX": {
