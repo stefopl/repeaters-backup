@@ -81,7 +81,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,DtcsCode,DtcsPola
 79,SR2WE,439.225000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Wejherowo,,,,
 80,SR2Z,145.650000,-,0.600000,Tone,94.8,94.8,023,NN,023,Tone->Tone,FM,5.00,,50W,"Gdynia-Oksywie EMITEL",,,,
 81,SR3DAB,439.575000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Zalesie,,,,
-82,SR3DAB,439.575000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Zalesie,,,,
+82,SR3DAB,438.575000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Zalesie,,,,
 83,SR3DAB,439.050000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Zalesie,,,,
 84,SR3DGW,438.550000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,"Gorzow Wielkopolski",,,,
 85,SR3DKA,438.400000,-,7.600000,,88.5,88.5,023,NN,023,Tone->Tone,DV,5.00,,50W,Kalisz,,,,
