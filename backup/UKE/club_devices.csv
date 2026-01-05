@@ -1,5 +1,4 @@
 number;valid_to;call_sign;category;transmitter_power;name_type_station;emission;input_frequency;output_frequency;applicant_name;applicant_city;applicant_street;applicant_house;applicant_number;enduser_name;enduser_city;enduser_street;enduser_house;enduser_number;station_city;station_street;station_house;station_number;lat;lng
-DC.WML.5101.2532.2020.2;2025-11-24;SR9BSR;Kategoria5;15;PrzemiennikFMDV;"";430.65;438.25;Centrum Integracji i Rozwoju Regionalnego;Wola;ul. Przemys³owa;6;412;"";"";"";"";"";Szyndzielnia;"";"";"";;
 DC.WML.5101.18.2021.2;2026-01-07;SR3DOS;Kategoria5;15;CyfrowyPrzemiennik;"";430.6875;438.2875;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Ostrów Wielkopolski;ul. Poznañska;43;"";;
 DC.WML.5101.44.2021.2;2026-01-12;SR6NKB;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Polski Zwi¹zek Krótkofalowców Oddzia³ Terenowy nr 11 w Opolu;Opole;ul. Skautów Opolskich;15;XI P;"";"";"";"";"";Biskupia Kopa;"";"";"";;
 DC.WML.5101.125.2021.2;2026-03-18;SR2WX;Kategoria5;15;StacjaPogodowa;"";144.95;144.95;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Bydgoszcz;ul. Seminaryjna;3;"";;
@@ -60,7 +59,6 @@ DC.WML.5101.354.2022.2;2027-01-31;SR7KI;Kategoria5;10;AnalogowyPrzemiennikFM;"";
 DC.WML.5101.355.2022.2;2027-01-31;SR7V;Kategoria5;10;AnalogowyPrzemiennikFM;"";145.025;145.625;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Œwiêty Krzy¿ - RTCN;"";"";"";;
 DC.WML.5101.505.2022.2;2027-02-09;SR8JR;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.65;439.25;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Jaros³aw;ul. Rynek;6;33;;
 DC.WML.5101.506.2022.2;2027-02-09;SR2C;Kategoria5;10;AnalogowyPrzemiennikFM;"";145;145.6;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Chwaszczyno;ul. Telewizyjna;9;"";;
-DC.WML.5101.2057.2024.2;2029-04-09;SR2NDF;Kategoria5;15;CyfrowyPrzemiennik;"";144.8;144.8;Liga Obrony Kraju;Warszawa;ul. Chocimska;14;"";"";"";"";"";"";Grudzi¹dz;ul. Cegielniana;3;"";;
 DC.WML.5101.507.2022.2;2027-02-09;SR2GS;Kategoria5;10;AnalogowyPrzemiennikFM;"";430.95;438.55;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Chwaszczyno;ul. Telewizyjna;9;"";;
 DC.WML.5101.508.2022.2;2027-02-09;SR2GT;Kategoria5;10;AnalogowyPrzemiennikFM;"";431.425;439.025;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Chwaszczyno;ul. Telewizyjna;9;"";;
 DC.WML.5101.509.2022.2;2027-02-09;SR2UVG;Kategoria5;10;CyfrowyPrzemiennik;"";431.2375, 431.0875;438.8375, 438.6875;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Chwaszczyno;ul. Telewizyjna;9;"";;
@@ -237,6 +235,7 @@ DC.WML.5101.1963.2024.2;2029-04-04;SR5UOS;Kategoria5;15;PrzemiennikFMDV;"";431.3
 DC.WML.5101.1964.2024.2;2029-04-04;SR9SMD;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Góra Palenica;"";"";"";;
 DC.WML.5101.1965.2024.2;2029-04-04;SR9DDP;Kategoria5;15;CyfrowyPrzemiennik;"";430.95;438.55;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Góra Kicarz;"";"";"";;
 DC.WML.5101.2056.2024.2;2029-04-09;SR2GR;Kategoria5;15;CyfrowyPrzemiennik;"";431.6;439.2;Liga Obrony Kraju;Warszawa;ul. Chocimska;14;"";"";"";"";"";"";Grudzi¹dz;ul. Cegielniana;3;"";;
+DC.WML.5101.2057.2024.2;2029-04-09;SR2NDF;Kategoria5;15;CyfrowyPrzemiennik;"";144.8;144.8;Liga Obrony Kraju;Warszawa;ul. Chocimska;14;"";"";"";"";"";"";Grudzi¹dz;ul. Cegielniana;3;"";;
 DC.WML.5101.2058.2024.2;2039-04-09;SR2GRU;Kategoria5;15;CyfrowyPrzemiennik;"";145.6875;145.0875;Liga Obrony Kraju;Warszawa;ul. Chocimska;14;"";"";"";"";"";"";Grudzi¹dz;ul. Cegielniana;3;"";;
 DC.WML.5101.2172.2024.2;2029-04-12;SR9LHK;Kategoria5;5;Radiolatarnia;"";1296.925;1296.925;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Siemianowice Œl¹skie;ul. Wróblewskiego;73;"";;
 DC.WML.5101.2173.2024.2;2029-04-12;SR9UHK;Kategoria5;5;Radiolatarnia;"";432.425;432.425;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Siemianowice Œl¹skie;ul. Wróblewskiego;73;"";;
@@ -341,3 +340,4 @@ DC.WML.5101.7064.2025.2;2030-10-23;SR6R;Kategoria5;15;AnalogowyPrzemiennikFM;"";
 DC.WML.5101.7065.2025.2;2030-10-23;SR1BAR;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.95;439.55;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Okunie;Wie¿a dostrzegalni przecipo¿arowej Lasów Pañstwowych;"";"";;
 DC.WML.5101.7195.2025.2;2030-11-09;SR5W;Kategoria5;15;PrzemiennikFMDV;"";145.15;145.75;Warszawski Oddzia³ Terenowy Polskiego Zwi¹zku Krótkofalowców;Warszawa;ul. Eugeniusza Lokajskiego;22;42;"";"";"";"";"";Warszawa;ul. Che³m¿yñska;180;"";;
 DC.WML.5101.7196.2025.2;2030-11-09;SR5WA;Kategoria5;15;PrzemiennikFMDV;"";431.75;439.35;Warszawski Oddzia³ Terenowy Polskiego Zwi¹zku Krótkofalowców;Warszawa;ul. Eugeniusza Lokajskiego;22;42;"";"";"";"";"";Warszawa;ul. Che³m¿yñska;180;"";;
+DC.WML.5101.7700.2025.3;2035-11-25;SR3DRW;Kategoria5;10;CyfrowyPrzekaznik;"";430.7375;438.3375;Polski Zwi¹zek Krótkofalowców;Warszawa;ul. Augustyna Kordeckiego;66;U1;"";"";"";"";"";Rawicz;ul. Targowa;1;"";;
