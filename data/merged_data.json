@@ -711,7 +711,7 @@
         },
         "przemienniki_eu": {
             "Callsign": "SR1K",
-            "Modes": "fm",
+            "Modes": "fm, dmr",
             "TX Frequency": "145.7",
             "TX CTCSS": "82.5",
             "RX Frequency": "145.1",
@@ -720,8 +720,8 @@
             "Duplex": "-",
             "Offset": "0.6",
             "Status": "working",
-            "Latitude": "53.342431",
-            "Longitude": "15.024889",
+            "Latitude": "53.3395",
+            "Longitude": "15.009",
             "QTH": "Stargard",
             "Locator": "JO73MI"
         },
@@ -1995,17 +1995,17 @@
         },
         "przemienniki_eu": {
             "Callsign": "SR1YWX",
-            "Modes": "c4fm",
+            "Modes": "fm, c4fm",
             "TX Frequency": "439.2625",
-            "TX CTCSS": "",
+            "TX CTCSS": "82.5",
             "RX Frequency": "431.6625",
-            "RX CTCSS": "",
+            "RX CTCSS": "82.5",
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "7.6",
             "Status": "working",
-            "Latitude": "53.339449",
-            "Longitude": "15.008799",
+            "Latitude": "53.3395",
+            "Longitude": "15.009",
             "QTH": "Stargard",
             "Locator": "JO73MI"
         },
@@ -48904,6 +48904,36 @@
             "station_location": "Stargard"
         }
     },
+    "SR1TSZ": {
+        "przemienniki_eu": {
+            "Callsign": "SR1TSZ",
+            "Modes": "tetra",
+            "TX Frequency": "430.075",
+            "TX CTCSS": "",
+            "RX Frequency": "430.075",
+            "RX CTCSS": "",
+            "RX 1750": "",
+            "Duplex": "",
+            "Offset": "0",
+            "Status": "working",
+            "Latitude": "53.4747",
+            "Longitude": "14.5472",
+            "QTH": "Szczecin",
+            "Locator": "JO73GL"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.7982.2025.3",
+            "valid_to": "2030-12-12",
+            "call_sign": "SR1TSZ",
+            "category": "Kategoria5",
+            "transmitter_power": "10",
+            "name_type_station": "CyfrowyPrzemiennik",
+            "emission": "",
+            "input_frequency": "430.075",
+            "output_frequency": "430.075",
+            "station_location": "Szczecin"
+        }
+    },
     "SR1WR": {
         "przemienniki_eu": {
             "Callsign": "SR1WR",
@@ -49910,6 +49940,54 @@
             "input_frequency": "431.8",
             "output_frequency": "439.4",
             "station_location": "Lublin"
+        }
+    },
+    "SR8NA": {
+        "przemienniki_eu": {
+            "Callsign": "SR8NA",
+            "Modes": "fm, dmr, c4fm, dstar",
+            "TX Frequency": "438.825",
+            "TX CTCSS": "71.9",
+            "RX Frequency": "431.225",
+            "RX CTCSS": "71.9",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "working",
+            "Latitude": "49.841",
+            "Longitude": "22.434",
+            "QTH": "Dubiecko",
+            "Locator": "KN19FU"
+        }
+    },
+    "SR8RW": {
+        "przemienniki_eu": {
+            "Callsign": "SR8RW",
+            "Modes": "fm, fmpoland",
+            "TX Frequency": "433.5375",
+            "TX CTCSS": "",
+            "RX Frequency": "433.5375",
+            "RX CTCSS": "77",
+            "RX 1750": "",
+            "Duplex": "",
+            "Offset": "0",
+            "Status": "working",
+            "Latitude": "50.1980964",
+            "Longitude": "21.2675941",
+            "QTH": "Radomysl Wielki",
+            "Locator": "KO00PE"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.8269.2025.3",
+            "valid_to": "2030-12-31",
+            "call_sign": "SR8RW",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowyPrzemiennik",
+            "emission": "",
+            "input_frequency": "433.5375",
+            "output_frequency": "433.5375",
+            "station_location": "Radomyl Wielki"
         }
     },
     "SR8RZE": {
@@ -56703,20 +56781,6 @@
             "station_location": "Che³m"
         }
     },
-    "SR1TSZ": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.7982.2025.3",
-            "valid_to": "2030-12-12",
-            "call_sign": "SR1TSZ",
-            "category": "Kategoria5",
-            "transmitter_power": "10",
-            "name_type_station": "CyfrowyPrzemiennik",
-            "emission": "",
-            "input_frequency": "430.075",
-            "output_frequency": "430.075",
-            "station_location": "Szczecin"
-        }
-    },
     "SR6ML": {
         "UKE_individual_devices": {
             "number": "DC.WML.5101.7984.2025.2",
@@ -56743,20 +56807,6 @@
             "input_frequency": "430.125",
             "output_frequency": "430.125",
             "station_location": "Szczecin"
-        }
-    },
-    "SR8RW": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.8269.2025.3",
-            "valid_to": "2030-12-31",
-            "call_sign": "SR8RW",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "CyfrowyPrzemiennik",
-            "emission": "",
-            "input_frequency": "433.5375",
-            "output_frequency": "433.5375",
-            "station_location": "Radomyl Wielki"
         }
     }
 }
