@@ -23,30 +23,6 @@
         "output_frequency": "438.925",
         "station_location": "Kutno"
     },
-    "SR2FM": {
-        "number": "DC.WML.5101.283.2021.3",
-        "valid_to": "2026-02-03",
-        "call_sign": "SR2FM",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "AnalogowyPrzemiennikFM",
-        "emission": "",
-        "input_frequency": "431.2125",
-        "output_frequency": "438.8125",
-        "station_location": "Jabłowo Pałuckie"
-    },
-    "SR2BYD": {
-        "number": "DC.WML.5101.284.2021.2",
-        "valid_to": "2026-02-03",
-        "call_sign": "SR2BYD",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "CyfrowyPrzemiennik",
-        "emission": "",
-        "input_frequency": "145.1875",
-        "output_frequency": "145.7875",
-        "station_location": "Bydgoszcz"
-    },
     "SR5DOT": {
         "number": "DC.WML.5101.429.2021.2",
         "valid_to": "2026-02-17",
@@ -58,18 +34,6 @@
         "input_frequency": "432.5",
         "output_frequency": "432.5",
         "station_location": "Otwock"
-    },
-    "SR7LDA": {
-        "number": "DC.WML.5101.450.2021.2",
-        "valid_to": "2026-02-18",
-        "call_sign": "SR7LDA",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "CyfrowyPrzemiennik",
-        "emission": "",
-        "input_frequency": "430.85",
-        "output_frequency": "438.45",
-        "station_location": "Łódź"
     },
     "SR2BB": {
         "number": "DC.WML.5101.536.2021.2",
@@ -646,18 +610,6 @@
         "input_frequency": "3.61, 7.078, 433.875",
         "output_frequency": "3.61, 7.078, 433.875",
         "station_location": "Rumianek"
-    },
-    "SR9AMS": {
-        "number": "DC.WML.5101.288.2021.4",
-        "valid_to": "2026-02-03",
-        "call_sign": "SR9AMS",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "PrzemiennikFMDV",
-        "emission": "",
-        "input_frequency": "145.2375",
-        "output_frequency": "145.2375",
-        "station_location": "Mordarka"
     },
     "SR7LDZ": {
         "number": "DC.WML.5101.3859.2021.2",
@@ -3995,6 +3947,18 @@
         "output_frequency": "144.8, 431.335, 438.935, 144.735, 145.335",
         "station_location": "Filipy"
     },
+    "SR2GRO": {
+        "number": "DC.WML.5101.2532.2025.2",
+        "valid_to": "2030-04-15",
+        "call_sign": "SR2GRO",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "Radiolatarnia",
+        "emission": "",
+        "input_frequency": "1296.875",
+        "output_frequency": "1296.875",
+        "station_location": "Bydgoszcz"
+    },
     "SR7FX": {
         "number": "DC.WML.5101.6871.2024.2",
         "valid_to": "2029-12-16",
@@ -4138,18 +4102,6 @@
         "input_frequency": "431.575",
         "output_frequency": "439.175",
         "station_location": "Łódź"
-    },
-    "SR9POL": {
-        "number": "DC.WML.5101.580.2025.2",
-        "valid_to": "2026-02-03",
-        "call_sign": "SR9POL",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "AnalogowyPrzemiennikFM",
-        "emission": "",
-        "input_frequency": "50.53",
-        "output_frequency": "50.53",
-        "station_location": "Stary Sącz - Góra Przehyba"
     },
     "SR2DCH": {
         "number": "DC.WML.5101.600.2025.2",
@@ -4558,18 +4510,6 @@
         "input_frequency": "144.8",
         "output_frequency": "144.8",
         "station_location": "Pobiedziska"
-    },
-    "SR2GRO": {
-        "number": "DC.WML.5101.2532.2025.2",
-        "valid_to": "2030-04-15",
-        "call_sign": "SR2GRO",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "Radiolatarnia",
-        "emission": "",
-        "input_frequency": "1296.875",
-        "output_frequency": "1296.875",
-        "station_location": "Bydgoszcz"
     },
     "SR8ALA": {
         "number": "DC.WML.5101.2569.2025.2",
@@ -5278,5 +5218,17 @@
         "input_frequency": "431.025",
         "output_frequency": "438.625",
         "station_location": "Oława"
+    },
+    "SR9DBN": {
+        "number": "DC.WML.5101.252.2026.3",
+        "valid_to": "2031-01-19",
+        "call_sign": "SR9DBN",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzemiennikFMDV",
+        "emission": "",
+        "input_frequency": "430.875",
+        "output_frequency": "438.475",
+        "station_location": "Mysłowice"
     }
 }
