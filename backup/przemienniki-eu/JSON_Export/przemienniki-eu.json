@@ -127,19 +127,19 @@
             "fm"
         ],
         "tx_frequency": 439.55,
-        "tx_ctcss": 82.5,
+        "tx_ctcss": false,
         "rx_frequency": 431.95,
         "rx_ctcss": 82.5,
         "rx_1750": false,
         "duplex": "-",
         "offset": 7.6,
-        "status": "testing",
+        "status": "working",
         "coordinates": [
-            52.97359,
-            15.23134
+            52.973367,
+            15.230974
         ],
         "qth": "Barlinek",
-        "locator": "JO72OX"
+        "locator": "JO72OX73"
     },
     {
         "callsign": "SR1CH",
@@ -1593,19 +1593,20 @@
         "callsign": "SR2KW",
         "modes": [
             "fm",
+            "echolink",
             "fmpoland"
         ],
         "tx_frequency": 145.3375,
         "tx_ctcss": 100,
-        "rx_frequency": 145.3375,
+        "rx_frequency": 431.025,
         "rx_ctcss": 100,
         "rx_1750": false,
-        "duplex": false,
-        "offset": 0,
+        "duplex": "+",
+        "offset": 285.6875,
         "status": "working",
         "coordinates": [
-            52.67275306724774,
-            19.032572923539977
+            52.672693,
+            19.032652
         ],
         "qth": "Wloclawek",
         "locator": "JO92MQ"
@@ -6308,6 +6309,26 @@
         ],
         "qth": "Krapkowice",
         "locator": "JO80XL"
+    },
+    {
+        "callsign": "SR6DKL",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 431.875,
+        "tx_ctcss": 94.8,
+        "rx_frequency": 439.475,
+        "rx_ctcss": 94.8,
+        "rx_1750": false,
+        "duplex": "+",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            50.444097,
+            16.666667
+        ],
+        "qth": "Klodzko",
+        "locator": "JO80IK"
     },
     {
         "callsign": "SR6DL",

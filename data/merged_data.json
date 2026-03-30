@@ -48798,17 +48798,17 @@
             "Callsign": "SR1BAR",
             "Modes": "fm",
             "TX Frequency": "439.55",
-            "TX CTCSS": "82.5",
+            "TX CTCSS": "",
             "RX Frequency": "431.95",
             "RX CTCSS": "82.5",
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "7.6",
-            "Status": "testing",
-            "Latitude": "52.97359",
-            "Longitude": "15.23134",
+            "Status": "working",
+            "Latitude": "52.973367",
+            "Longitude": "15.230974",
             "QTH": "Barlinek",
-            "Locator": "JO72OX"
+            "Locator": "JO72OX73"
         },
         "UKE_club_devices": {
             "number": "DC.WML.5101.7065.2025.2",
@@ -48997,17 +48997,17 @@
     "SR2KW": {
         "przemienniki_eu": {
             "Callsign": "SR2KW",
-            "Modes": "fm, fmpoland",
+            "Modes": "fm, echolink, fmpoland",
             "TX Frequency": "145.3375",
             "TX CTCSS": "100",
-            "RX Frequency": "145.3375",
+            "RX Frequency": "431.025",
             "RX CTCSS": "100",
             "RX 1750": "",
-            "Duplex": "",
-            "Offset": "0",
+            "Duplex": "+",
+            "Offset": "285.6875",
             "Status": "working",
-            "Latitude": "52.67275307",
-            "Longitude": "19.03257292",
+            "Latitude": "52.672693",
+            "Longitude": "19.032652",
             "QTH": "Wloclawek",
             "Locator": "JO92MQ"
         },
@@ -49466,6 +49466,24 @@
             "station_number": "",
             "lat": "",
             "lng": ""
+        }
+    },
+    "SR6DKL": {
+        "przemienniki_eu": {
+            "Callsign": "SR6DKL",
+            "Modes": "fm",
+            "TX Frequency": "431.875",
+            "TX CTCSS": "94.8",
+            "RX Frequency": "439.475",
+            "RX CTCSS": "94.8",
+            "RX 1750": "",
+            "Duplex": "+",
+            "Offset": "7.6",
+            "Status": "working",
+            "Latitude": "50.444097",
+            "Longitude": "16.666667",
+            "QTH": "Klodzko",
+            "Locator": "JO80IK"
         }
     },
     "SR6L": {
