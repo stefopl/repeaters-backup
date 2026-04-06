@@ -1,4 +1,4 @@
 # Backup of: Repeater Radar XML
 
-**Backup Date**: 2026-03-30 13:17:06
+**Backup Date**: 2026-04-06 13:07:25
 **Link**: [Repeater Radar XML](https://przemienniki.net/export/radar.xml)
