@@ -5944,6 +5944,27 @@
         "locator": "KO02IE"
     },
     {
+        "callsign": "SR5WRX",
+        "modes": [
+            "fm",
+            "dstar"
+        ],
+        "tx_frequency": 1287.575,
+        "tx_ctcss": 127.3,
+        "rx_frequency": 1270.575,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 17,
+        "status": "working",
+        "coordinates": [
+            52.27,
+            21
+        ],
+        "qth": "Warszawa",
+        "locator": "ko02lg"
+    },
+    {
         "callsign": "SR5WU",
         "modes": [
             "dmr"
@@ -6471,6 +6492,26 @@
         ],
         "qth": "Wysoka k. Gory sw. Anny EMITEL",
         "locator": "JO90BL"
+    },
+    {
+        "callsign": "SR6F",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 145.75,
+        "tx_ctcss": 94.8,
+        "rx_frequency": 145.15,
+        "rx_ctcss": 94.8,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 0.6,
+        "status": "working",
+        "coordinates": [
+            50.25701331893165,
+            17.428869861609616
+        ],
+        "qth": "Biskupia Kopa",
+        "locator": "JO80rg"
     },
     {
         "callsign": "SR6FG",
@@ -9041,6 +9082,27 @@
         ],
         "qth": "Pulawy",
         "locator": "KO11XK"
+    },
+    {
+        "callsign": "SR8GDM",
+        "modes": [
+            "fm",
+            "fmpoland"
+        ],
+        "tx_frequency": 439.375,
+        "tx_ctcss": 77,
+        "rx_frequency": 431.775,
+        "rx_ctcss": 77,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            51.370577,
+            22.322384
+        ],
+        "qth": "Garbow",
+        "locator": "KO11DI"
     },
     {
         "callsign": "SR8J",

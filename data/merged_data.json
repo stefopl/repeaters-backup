@@ -18082,17 +18082,17 @@
             "Callsign": "SR6F",
             "Modes": "fm",
             "TX Frequency": "145.75",
-            "TX CTCSS": "71.9",
+            "TX CTCSS": "94.8",
             "RX Frequency": "145.15",
-            "RX CTCSS": "71.9",
+            "RX CTCSS": "94.8",
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "0.6",
-            "Status": "off",
-            "Latitude": "50.465278",
-            "Longitude": "18.154444",
-            "QTH": "Wysoka k. Gory sw. Anny EMITEL",
-            "Locator": "JO90BL"
+            "Status": "working",
+            "Latitude": "50.25701332",
+            "Longitude": "17.42886986",
+            "QTH": "Biskupia Kopa",
+            "Locator": "JO80rg"
         },
         "UKE_club_devices": {
             "number": "DC.WML.5101.5554.2023.2",
@@ -49495,6 +49495,36 @@
             "station_location": "Warszawa"
         }
     },
+    "SR5WRX": {
+        "przemienniki_eu": {
+            "Callsign": "SR5WRX",
+            "Modes": "fm, dstar",
+            "TX Frequency": "1287.575",
+            "TX CTCSS": "127.3",
+            "RX Frequency": "1270.575",
+            "RX CTCSS": "",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "17",
+            "Status": "working",
+            "Latitude": "52.27",
+            "Longitude": "21",
+            "QTH": "Warszawa",
+            "Locator": "ko02lg"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.4421.2025.2",
+            "valid_to": "2030-07-04",
+            "call_sign": "SR5WRX",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "1270.575",
+            "output_frequency": "1298.575",
+            "station_location": "Warszawa"
+        }
+    },
     "SR5ZOC": {
         "przemienniki_eu": {
             "Callsign": "SR5ZOC",
@@ -49945,6 +49975,36 @@
             "emission": "",
             "input_frequency": "145.125",
             "output_frequency": "145.725",
+            "station_location": "Wola Przybys³awska"
+        }
+    },
+    "SR8GDM": {
+        "przemienniki_eu": {
+            "Callsign": "SR8GDM",
+            "Modes": "fm, fmpoland",
+            "TX Frequency": "439.375",
+            "TX CTCSS": "77",
+            "RX Frequency": "431.775",
+            "RX CTCSS": "77",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "working",
+            "Latitude": "51.370577",
+            "Longitude": "22.322384",
+            "QTH": "Garbow",
+            "Locator": "KO11DI"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.6091.2025.2",
+            "valid_to": "2030-09-09",
+            "call_sign": "SR8GDM",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikATV",
+            "emission": "",
+            "input_frequency": "431.775",
+            "output_frequency": "439.375",
             "station_location": "Wola Przybys³awska"
         }
     },
@@ -56570,20 +56630,6 @@
             "station_location": "Kraków"
         }
     },
-    "SR5WRX": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.4421.2025.2",
-            "valid_to": "2030-07-04",
-            "call_sign": "SR5WRX",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "PrzemiennikFMDV",
-            "emission": "",
-            "input_frequency": "1270.575",
-            "output_frequency": "1298.575",
-            "station_location": "Warszawa"
-        }
-    },
     "SR2ALL": {
         "UKE_individual_devices": {
             "number": "DC.WML.5101.4827.2025.2",
@@ -56624,20 +56670,6 @@
             "input_frequency": "145.0125",
             "output_frequency": "145.6125",
             "station_location": "Broczyno"
-        }
-    },
-    "SR8GDM": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.6091.2025.2",
-            "valid_to": "2030-09-09",
-            "call_sign": "SR8GDM",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "AnalogowyPrzemiennikATV",
-            "emission": "",
-            "input_frequency": "431.775",
-            "output_frequency": "439.375",
-            "station_location": "Wola Przybys³awska"
         }
     },
     "SR2PP": {
