@@ -1303,7 +1303,7 @@
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "0.6",
-            "Status": "planned",
+            "Status": "inprogress",
             "Latitude": "53.40396",
             "Longitude": "14.52215",
             "QTH": "Szczecin",
@@ -29141,11 +29141,11 @@
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "0.6",
-            "Status": "off",
-            "Latitude": "50.066357",
-            "Longitude": "19.940202",
-            "QTH": "Krakow",
-            "Locator": "JO90XB"
+            "Status": "working",
+            "Latitude": "50.044058",
+            "Longitude": "20.174012",
+            "QTH": "Niepolomice",
+            "Locator": "Ko00cb"
         },
         "UKE_club_devices": {
             "number": "DC.WML.5101.1480.2026.3",
@@ -48802,6 +48802,24 @@
             "lng": ""
         }
     },
+    "SR1GL": {
+        "przemienniki_eu": {
+            "Callsign": "SR1GL",
+            "Modes": "fm, fmpoland",
+            "TX Frequency": "145.28",
+            "TX CTCSS": "82.5",
+            "RX Frequency": "145.28",
+            "RX CTCSS": "82.5",
+            "RX 1750": "",
+            "Duplex": "",
+            "Offset": "0",
+            "Status": "working",
+            "Latitude": "53.56298321",
+            "Longitude": "14.81756581",
+            "QTH": "Goleniow",
+            "Locator": "JO73JN"
+        }
+    },
     "SR1TET": {
         "przemienniki_eu": {
             "Callsign": "SR1TET",
@@ -48903,7 +48921,7 @@
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "7.6",
-            "Status": "planned",
+            "Status": "testing",
             "Latitude": "53.40396",
             "Longitude": "14.52215",
             "QTH": "Szczecin",
@@ -49169,6 +49187,24 @@
             "Longitude": "19.460143",
             "QTH": "Zabrowo",
             "Locator": "JO93RP"
+        }
+    },
+    "SR4BF": {
+        "przemienniki_eu": {
+            "Callsign": "SR4BF",
+            "Modes": "dmr",
+            "TX Frequency": "438.8",
+            "TX CTCSS": "",
+            "RX Frequency": "431.2",
+            "RX CTCSS": "",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "working",
+            "Latitude": "52.91684138",
+            "Longitude": "22.53923793",
+            "QTH": "",
+            "Locator": "KO12GW"
         }
     },
     "SR4LIN": {
@@ -49845,11 +49881,11 @@
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "0.6",
-            "Status": "testing",
-            "Latitude": "0",
-            "Longitude": "0",
-            "QTH": "Pulawy",
-            "Locator": "KO11XK"
+            "Status": "off",
+            "Latitude": "51.370764",
+            "Longitude": "22.322395",
+            "QTH": "Garbow",
+            "Locator": "KO11DI"
         },
         "UKE_individual_devices": {
             "number": "DC.WML.5101.6092.2025.2",
