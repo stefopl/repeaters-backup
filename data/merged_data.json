@@ -1065,7 +1065,7 @@
         },
         "przemienniki_eu": {
             "Callsign": "SR1P",
-            "Modes": "fm, echolink",
+            "Modes": "fm",
             "TX Frequency": "145.725",
             "TX CTCSS": "",
             "RX Frequency": "145.125",
@@ -1073,11 +1073,11 @@
             "RX 1750": "",
             "Duplex": "-",
             "Offset": "0.6",
-            "Status": "off",
-            "Latitude": "0",
-            "Longitude": "0",
-            "QTH": "Postomino",
-            "Locator": "JO84IL"
+            "Status": "working",
+            "Latitude": "54.45905556",
+            "Longitude": "16.48406502",
+            "QTH": "Kopnica",
+            "Locator": "JO84FL"
         },
         "UKE_club_devices": {
             "number": "DC.WML.5101.2919.2022.2",
@@ -49171,6 +49171,36 @@
             "station_location": "Ostrów Wielkopolski"
         }
     },
+    "SR3SR": {
+        "przemienniki_eu": {
+            "Callsign": "SR3SR",
+            "Modes": "fm",
+            "TX Frequency": "439.1",
+            "TX CTCSS": "110.9",
+            "RX Frequency": "431.1",
+            "RX CTCSS": "110.9",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "8",
+            "Status": "testing",
+            "Latitude": "52.1448",
+            "Longitude": "17.309",
+            "QTH": "Sulecinek",
+            "Locator": "JO82PD"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.1730.2026.2",
+            "valid_to": "2031-03-25",
+            "call_sign": "SR3SR",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "431.5",
+            "output_frequency": "439.1",
+            "station_location": "Sulêcinek"
+        }
+    },
     "SR4ALL": {
         "przemienniki_eu": {
             "Callsign": "SR4ALL",
@@ -56670,20 +56700,6 @@
             "input_frequency": "431.1",
             "output_frequency": "438.7",
             "station_location": "D¹browa Bia³ostocka"
-        }
-    },
-    "SR3SR": {
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.1730.2026.2",
-            "valid_to": "2031-03-25",
-            "call_sign": "SR3SR",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "AnalogowyPrzemiennikFM",
-            "emission": "",
-            "input_frequency": "431.5",
-            "output_frequency": "439.1",
-            "station_location": "Sulêcinek"
         }
     },
     "SR2I": {

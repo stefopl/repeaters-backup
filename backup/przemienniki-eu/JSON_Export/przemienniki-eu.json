@@ -387,6 +387,26 @@
         "locator": "JO84IL"
     },
     {
+        "callsign": "SR1P",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 145.725,
+        "tx_ctcss": false,
+        "rx_frequency": 145.125,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 0.6,
+        "status": "working",
+        "coordinates": [
+            54.45905556394906,
+            16.484065022467984
+        ],
+        "qth": "Kopnica",
+        "locator": "JO84FL"
+    },
+    {
         "callsign": "SR1RE",
         "modes": [
             "fm"
@@ -2994,6 +3014,26 @@
         ],
         "qth": "Swiebodzin",
         "locator": "JO72RF"
+    },
+    {
+        "callsign": "SR3SR",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 439.1,
+        "tx_ctcss": 110.9,
+        "rx_frequency": 431.1,
+        "rx_ctcss": 110.9,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 8,
+        "status": "testing",
+        "coordinates": [
+            52.1448,
+            17.309
+        ],
+        "qth": "Sulecinek",
+        "locator": "JO82PD"
     },
     {
         "callsign": "SR3T",
