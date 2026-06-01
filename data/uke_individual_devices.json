@@ -11,54 +11,6 @@
         "output_frequency": "438.65",
         "station_location": "Łódź"
     },
-    "SR2BD": {
-        "number": "DC.WML.5101.1433.2021.2",
-        "valid_to": "2026-05-06",
-        "call_sign": "SR2BD",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "PrzemiennikFMDV",
-        "emission": "",
-        "input_frequency": "431.4",
-        "output_frequency": "439",
-        "station_location": "Bydgoszcz"
-    },
-    "SR9KS": {
-        "number": "DC.WML.5101.1440.2021.3",
-        "valid_to": "2026-05-06",
-        "call_sign": "SR9KS",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "AnalogowyPrzemiennikFM",
-        "emission": "",
-        "input_frequency": "431.3",
-        "output_frequency": "438.9",
-        "station_location": "Siercza"
-    },
-    "SR9K": {
-        "number": "DC.WML.5101.1441.2021.2",
-        "valid_to": "2026-05-06",
-        "call_sign": "SR9K",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "AnalogowyPrzemiennikFM",
-        "emission": "",
-        "input_frequency": "145.15",
-        "output_frequency": "145.75",
-        "station_location": "Siercza - MPWiK Zbiorniki Siercza"
-    },
-    "SR2BG": {
-        "number": "DC.WML.5101.1525.2021.2",
-        "valid_to": "2026-05-11",
-        "call_sign": "SR2BG",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "PrzemiennikFMDV",
-        "emission": "",
-        "input_frequency": "145.125",
-        "output_frequency": "145.725",
-        "station_location": "Bydgoszcz"
-    },
     "SR6WB": {
         "number": "DC.WML.5101.1594.2021.2",
         "valid_to": "2026-05-17",
@@ -1018,18 +970,6 @@
         "input_frequency": "430.9375, 144.8",
         "output_frequency": "438.5375, 144.8",
         "station_location": "Ruda"
-    },
-    "SR0DZ": {
-        "number": "DC.WML.5101.3902.2022.2",
-        "valid_to": "2026-05-06",
-        "call_sign": "SR0DZ",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "CyfrowyPrzemiennik",
-        "emission": "",
-        "input_frequency": "144.8, 431.9375, 431.625",
-        "output_frequency": "144.8, 439.5375, 430.025",
-        "station_location": "Serock"
     },
     "SR9NFB": {
         "number": "DC.WML.5101.3956.2022.2",
@@ -4570,18 +4510,6 @@
         "input_frequency": "430.7625",
         "output_frequency": "438.3625",
         "station_location": "Mońki"
-    },
-    "SR4SN": {
-        "number": "DC.WML.5101.4995.2025.2",
-        "valid_to": "2030-07-23",
-        "call_sign": "SR4SN",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "PrzemiennikFMDV",
-        "emission": "",
-        "input_frequency": "431.275",
-        "output_frequency": "438.875",
-        "station_location": "Szczytno"
     },
     "SR1B": {
         "number": "DC.WML.5101.5408.2025.2",

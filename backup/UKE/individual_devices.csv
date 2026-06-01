@@ -1,9 +1,5 @@
 number;valid_to;call_sign;category;transmitter_power;name_type_station;emission;input_frequency;output_frequency;station_location
 DC.WML.5101.2914.2020.2;2030-12-01;SR9UAL;Kategoria5;15;PrzemiennikFMDV;"";431.05;438.65;£ódŸ
-DC.WML.5101.1433.2021.2;2026-05-06;SR2BD;Kategoria5;15;PrzemiennikFMDV;"";431.4;439;Bydgoszcz
-DC.WML.5101.1440.2021.3;2026-05-06;SR9KS;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.3;438.9;Siercza
-DC.WML.5101.1441.2021.2;2026-05-06;SR9K;Kategoria5;15;AnalogowyPrzemiennikFM;"";145.15;145.75;Siercza - MPWiK Zbiorniki Siercza
-DC.WML.5101.1525.2021.2;2026-05-11;SR2BG;Kategoria5;15;PrzemiennikFMDV;"";145.125;145.725;Bydgoszcz
 DC.WML.5101.1594.2021.2;2026-05-17;SR6WB;Kategoria5;15;PrzemiennikFMDV;"";431.7625;439.3625;Wa³brzych
 DC.WML.5101.1670.2021.2;2026-05-25;SR9WXL;Kategoria5;5;StacjaPogodowaAPRS;"";144.8;144.8;Leskowiec - szczyt w Beskidzie Ma³ym
 DC.WML.5101.1539.2021.2;2026-06-04;SR9UVC;Kategoria5;15;PrzemiennikFMDV;"";431.025;438.625;Lusina
@@ -84,7 +80,6 @@ DC.WML.5101.3805.2022.2;2027-06-02;SR4DIG;Kategoria5;10;CyfrowyPrzekaznik;"";144
 DC.WML.5101.3822.2022.2;2027-09-08;SR5LW;Kategoria5;15;AnalogowyPrzemiennikFM;"";1270.1;1298.1;Pruszków
 DC.WML.5101.3823.2022.2;2027-09-08;SR4C4FM;Kategoria5;10;CyfrowyPrzemiennik;"";432.575;432.575;Bia³ystok
 DC.WML.5101.3899.2022.2;2027-09-13;SR4RD;Kategoria5;15;AnalogowyPrzemiennikFM, PrzekaznikAPRS;"";430.9375, 144.8;438.5375, 144.8;Ruda
-DC.WML.5101.3902.2022.2;2026-05-06;SR0DZ;Kategoria5;15;CyfrowyPrzemiennik;"";144.8, 431.9375, 431.625;144.8, 439.5375, 430.025;Serock
 DC.WML.5101.3956.2022.2;2027-09-19;SR9NFB;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Góra Przehyba
 DC.WML.5101.3957.2022.2;2027-09-19;SR5ND;Kategoria5;15;PrzemiennikFMDV;"";431.825;439.425;Nowy Dwór Maz.
 DC.WML.5101.3958.2022.2;2027-09-19;SR9ZAC;Kategoria5;15;AnalogowyPrzemiennikFM;"";145.2875;145.2875;Koœcielisko
@@ -381,7 +376,6 @@ DC.WML.5101.4102.2025.2;2030-06-20;SR9RU;Kategoria5;15;PrzemiennikFMDV;"";431.75
 DC.WML.5101.4421.2025.2;2030-07-04;SR5WRX;Kategoria5;15;PrzemiennikFMDV;"";1270.575;1298.575;Warszawa
 DC.WML.5101.4827.2025.2;2030-07-17;SR2ALL;Kategoria5;15;CyfrowyPrzekaznik;"";145.45;145.45;Gdynia
 DC.WML.5101.4934.2025.3;2030-07-21;SR4ROBI;Kategoria5;15;AnalogowyPrzemiennikFM;"";430.7625;438.3626;Moñki
-DC.WML.5101.4995.2025.2;2030-07-23;SR4SN;Kategoria5;15;PrzemiennikFMDV;"";431.275;438.875;Szczytno
 DC.WML.5101.5408.2025.2;2030-08-14;SR1B;Kategoria5;10;CyfrowyPrzemiennik;"";145.0125;145.6125;Broczyno
 DC.WML.5101.5410.2025.2;2030-08-14;SR4X;Kategoria5;15;AnalogowyPrzemiennikFM;"";145;145.6;Juchnowiec Górny
 DC.WML.5101.5691.2025.3;2035-08-25;SR4ROBI;Kategoria5;15;AnalogowyPrzemiennikATV;"";430.7625;438.3625;Moñki

@@ -174,18 +174,6 @@
             "Longitude": "21.060421",
             "QTH": "Serock",
             "Locator": "KO02MM"
-        },
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.3902.2022.2",
-            "valid_to": "2026-05-06",
-            "call_sign": "SR0DZ",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "CyfrowyPrzemiennik",
-            "emission": "",
-            "input_frequency": "144.8, 431.9375, 431.625",
-            "output_frequency": "144.8, 439.5375, 430.025",
-            "station_location": "Serock"
         }
     },
     "SR0LU": {
@@ -2508,18 +2496,6 @@
             "Longitude": "18.038706",
             "QTH": "Bydgoszcz",
             "Locator": "JO93AC"
-        },
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.1433.2021.2",
-            "valid_to": "2026-05-06",
-            "call_sign": "SR2BD",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "PrzemiennikFMDV",
-            "emission": "",
-            "input_frequency": "431.4",
-            "output_frequency": "439",
-            "station_location": "Bydgoszcz"
         }
     },
     "SR2BG": {
@@ -2571,18 +2547,6 @@
             "Longitude": "18.038022",
             "QTH": "Bydgoszcz",
             "Locator": "JO93AC"
-        },
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.1525.2021.2",
-            "valid_to": "2026-05-11",
-            "call_sign": "SR2BG",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "PrzemiennikFMDV",
-            "emission": "",
-            "input_frequency": "145.125",
-            "output_frequency": "145.725",
-            "station_location": "Bydgoszcz"
         }
     },
     "SR2BT": {
@@ -12175,18 +12139,6 @@
             "Longitude": "21.00016",
             "QTH": "Szczytno",
             "Locator": "KO03MN"
-        },
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.4995.2025.2",
-            "valid_to": "2030-07-23",
-            "call_sign": "SR4SN",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "PrzemiennikFMDV",
-            "emission": "",
-            "input_frequency": "431.275",
-            "output_frequency": "438.875",
-            "station_location": "Szczytno"
         }
     },
     "SR4SU": {
@@ -13086,8 +13038,8 @@
             "output_frequency": "438.4375",
             "applicant_name": "Ciechanowskie Stowarzyszenie Krótkofalowców",
             "applicant_city": "Ciechanów",
-            "applicant_street": "ul. 17-go Stycznia",
-            "applicant_house": "60 B",
+            "applicant_street": "ul. Wyspiañskiego",
+            "applicant_house": "5",
             "applicant_number": "",
             "enduser_name": "",
             "enduser_city": "",
@@ -30989,18 +30941,6 @@
             "Longitude": "20.033849",
             "QTH": "Siercza k/Wieliczki",
             "Locator": "KN09AX"
-        },
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.1441.2021.2",
-            "valid_to": "2026-05-06",
-            "call_sign": "SR9K",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "AnalogowyPrzemiennikFM",
-            "emission": "",
-            "input_frequency": "145.15",
-            "output_frequency": "145.75",
-            "station_location": "Siercza - MPWiK Zbiorniki Siercza"
         }
     },
     "SR9KAO": {
@@ -31306,18 +31246,6 @@
             "Longitude": "20.033849",
             "QTH": "Siercza k/Wieliczki",
             "Locator": "KN09AX"
-        },
-        "UKE_individual_devices": {
-            "number": "DC.WML.5101.1440.2021.3",
-            "valid_to": "2026-05-06",
-            "call_sign": "SR9KS",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "AnalogowyPrzemiennikFM",
-            "emission": "",
-            "input_frequency": "431.3",
-            "output_frequency": "438.9",
-            "station_location": "Siercza"
         }
     },
     "SR9KW": {
@@ -54038,11 +53966,11 @@
             "emission": "",
             "input_frequency": "24048830, 10368830, 129883",
             "output_frequency": "24048830, 10368830, 129683",
-            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
-            "applicant_city": "Warszawa",
-            "applicant_street": "ul. Augustyna Kordeckiego",
-            "applicant_house": "66",
-            "applicant_number": "U1",
+            "applicant_name": "Polski Zwi¹zek Krótkofalowców Sudecki Oddzia³ Terenowy",
+            "applicant_city": "Kamienna Góra",
+            "applicant_street": "ul. Zielona",
+            "applicant_house": "8",
+            "applicant_number": "",
             "enduser_name": "",
             "enduser_city": "",
             "enduser_street": "",
