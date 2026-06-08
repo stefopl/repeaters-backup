@@ -6777,6 +6777,26 @@
         "locator": "JO81BF"
     },
     {
+        "callsign": "SR6LWB",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 1298.6,
+        "tx_ctcss": false,
+        "rx_frequency": 1270.6,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 28,
+        "status": "working",
+        "coordinates": [
+            50.822722,
+            16.275748
+        ],
+        "qth": "Walbrzych",
+        "locator": "JO80CS"
+    },
+    {
         "callsign": "SR6LWS",
         "modes": [
             "fm",
@@ -7986,6 +8006,26 @@
         "locator": "JO91SS"
     },
     {
+        "callsign": "SR7LK",
+        "modes": [
+            "fm"
+        ],
+        "tx_frequency": 1270.7,
+        "tx_ctcss": false,
+        "rx_frequency": 1298.7,
+        "rx_ctcss": false,
+        "rx_1750": false,
+        "duplex": "+",
+        "offset": 28,
+        "status": "working",
+        "coordinates": [
+            51.213796,
+            19.435295
+        ],
+        "qth": "GORA KAMIENSK",
+        "locator": "JO91RE"
+    },
+    {
         "callsign": "SR7LL",
         "modes": [
             "dmr"
@@ -8595,6 +8635,27 @@
         ],
         "qth": "Dzialoszyn",
         "locator": "JO91LC"
+    },
+    {
+        "callsign": "SR7WU",
+        "modes": [
+            "fm",
+            "fmpoland"
+        ],
+        "tx_frequency": 439.55,
+        "tx_ctcss": 123,
+        "rx_frequency": 431.95,
+        "rx_ctcss": 123,
+        "rx_1750": false,
+        "duplex": "-",
+        "offset": 7.6,
+        "status": "working",
+        "coordinates": [
+            51.1758,
+            18.125
+        ],
+        "qth": "Wieruszow",
+        "locator": "JO91BH"
     },
     {
         "callsign": "SR7Z",

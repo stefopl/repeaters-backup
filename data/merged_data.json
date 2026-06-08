@@ -49558,6 +49558,24 @@
             "station_location": "Legnica"
         }
     },
+    "SR6LWB": {
+        "przemienniki_eu": {
+            "Callsign": "SR6LWB",
+            "Modes": "fm",
+            "TX Frequency": "1298.6",
+            "TX CTCSS": "",
+            "RX Frequency": "1270.6",
+            "RX CTCSS": "",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "28",
+            "Status": "working",
+            "Latitude": "50.822722",
+            "Longitude": "16.275748",
+            "QTH": "Walbrzych",
+            "Locator": "JO80CS"
+        }
+    },
     "SR6RC": {
         "przemienniki_eu": {
             "Callsign": "SR6RC",
@@ -49693,6 +49711,51 @@
             "station_location": "Wielenin-Kolonia"
         }
     },
+    "SR7LK": {
+        "przemienniki_eu": {
+            "Callsign": "SR7LK",
+            "Modes": "fm",
+            "TX Frequency": "1270.7",
+            "TX CTCSS": "",
+            "RX Frequency": "1298.7",
+            "RX CTCSS": "",
+            "RX 1750": "",
+            "Duplex": "+",
+            "Offset": "28",
+            "Status": "working",
+            "Latitude": "51.213796",
+            "Longitude": "19.435295",
+            "QTH": "GORA KAMIENSK",
+            "Locator": "JO91RE"
+        },
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.8057.2025.3",
+            "valid_to": "2030-12-16",
+            "call_sign": "SR7LK",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "1270.75",
+            "output_frequency": "1298.75",
+            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
+            "applicant_city": "Warszawa",
+            "applicant_street": "ul. Augustyna Kordeckiego",
+            "applicant_house": "66",
+            "applicant_number": "U1",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Góra Kamieñsk",
+            "station_street": "obiekt Emitel",
+            "station_house": "",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
+        }
+    },
     "SR7SZ": {
         "przemienniki_eu": {
             "Callsign": "SR7SZ",
@@ -49766,6 +49829,24 @@
             "station_number": "",
             "lat": "",
             "lng": ""
+        }
+    },
+    "SR7WU": {
+        "przemienniki_eu": {
+            "Callsign": "SR7WU",
+            "Modes": "fm, fmpoland",
+            "TX Frequency": "439.55",
+            "TX CTCSS": "123",
+            "RX Frequency": "431.95",
+            "RX CTCSS": "123",
+            "RX 1750": "",
+            "Duplex": "-",
+            "Offset": "7.6",
+            "Status": "working",
+            "Latitude": "51.1758",
+            "Longitude": "18.125",
+            "QTH": "Wieruszow",
+            "Locator": "JO91BH"
         }
     },
     "SR8ALA": {
@@ -53863,35 +53944,6 @@
             "station_city": "Leszno",
             "station_street": "ul. Armii Krajowej",
             "station_house": "4",
-            "station_number": "",
-            "lat": "",
-            "lng": ""
-        }
-    },
-    "SR7LK": {
-        "UKE_club_devices": {
-            "number": "DC.WML.5101.8057.2025.3",
-            "valid_to": "2030-12-16",
-            "call_sign": "SR7LK",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "AnalogowyPrzemiennikFM",
-            "emission": "",
-            "input_frequency": "1270.75",
-            "output_frequency": "1298.75",
-            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
-            "applicant_city": "Warszawa",
-            "applicant_street": "ul. Augustyna Kordeckiego",
-            "applicant_house": "66",
-            "applicant_number": "U1",
-            "enduser_name": "",
-            "enduser_city": "",
-            "enduser_street": "",
-            "enduser_house": "",
-            "enduser_number": "",
-            "station_city": "Góra Kamieñsk",
-            "station_street": "obiekt Emitel",
-            "station_house": "",
             "station_number": "",
             "lat": "",
             "lng": ""
