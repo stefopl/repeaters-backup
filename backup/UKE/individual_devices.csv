@@ -1,11 +1,6 @@
 number;valid_to;call_sign;category;transmitter_power;name_type_station;emission;input_frequency;output_frequency;station_location
 DC.WML.5101.2914.2020.2;2030-12-01;SR9UAL;Kategoria5;15;PrzemiennikFMDV;"";431.05;438.65;£ódŸ
-DC.WML.5101.1594.2021.2;2026-05-17;SR6WB;Kategoria5;15;PrzemiennikFMDV;"";431.7625;439.3625;Wa³brzych
-DC.WML.5101.1670.2021.2;2026-05-25;SR9WXL;Kategoria5;5;StacjaPogodowaAPRS;"";144.8;144.8;Leskowiec - szczyt w Beskidzie Ma³ym
 DC.WML.5101.1539.2021.2;2026-06-04;SR9UVC;Kategoria5;15;PrzemiennikFMDV;"";431.025;438.625;Lusina
-DC.WML.5101.1868.2021.3;2026-06-10;SR6DL;Kategoria5;15;AnalogowyPrzemiennikFM;"";144.975;144.975;Dalachów
-DC.WML.5101.1924.2021.2;2026-06-16;SR3JA;Kategoria5;10;AnalogowyPrzemiennikFM;"";431.375;438.975;Jarocin
-DC.WML.5101.2063.2021.2;2026-06-25;SR7ZG;Kategoria5;15;AnalogowyPrzemiennikFM;"";144.775, 431.35;144.775, 438.95;Zgierz
 DC.WML.5101.2155.2021.2;2026-07-02;SR9AE;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.225;438.825;Wêglówka - Góra Lubomir
 DC.WML.5101.2156.2021.2;2026-07-02;SR9LK;Kategoria5;15;AnalogowyPrzemiennikFM;"";1270.5;1298.5;Siercza
 DC.WML.5101.1880.2021.2;2026-07-13;SR9PS;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.65;439.25;Pszów
@@ -97,7 +92,6 @@ DC.WML.5101.4654.2022.2;2027-11-14;SR0M;Kategoria5;5;StacjaPogodowaAPRS;"";144.8
 DC.WML.5101.4655.2022.2;2027-11-14;SR0L;Kategoria5;5;StacjaPogodowaAPRS;"";144.8;144.8;Koœcielisko - Litworowy Kocio³
 DC.WML.5101.4797.2022.2;2027-11-28;SR6ACZ;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.35;438.95;Wroc³aw
 DC.WML.5101.4812.2022.2;2027-12-15;SR5PR;Kategoria5;10;AnalogowyPrzemiennikFM;"";431.575;439.175;Pruszków
-DC.WML.5101.4850.2022.3;2026-06-10;SR6DA;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.5375;439.1375;Dalachów
 DC.WML.5101.4852.2022.2;2027-11-28;SR9LC;Kategoria5;15;PrzekaznikAPRS, PrzemiennikFMDV;"";144.8, 145, 431.1;144.8, 145.6, 438.7;Lubecko
 DC.WML.5101.4864.2022.2;2027-11-28;SR5LOM;Kategoria5;15;AnalogowyPrzemiennikFM;"";1270.4;1298.4;£omianki
 DC.WML.5101.4869.2022.2;2027-11-29;SR5WBR;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;Falêcice
@@ -187,7 +181,6 @@ DC.WML.5101.5205.2023.2;2028-10-19;SR5DLA;Kategoria5;15;PrzekaznikAPRS;"";144.8;
 DC.WML.5101.5306.2023.2;2028-10-27;SR6RC;Kategoria5;15;CyfrowyPrzemiennik;"";430.5;430.5, 438.1;Wroc³aw
 DC.WML.5101.5310.2023.2;2028-10-27;SR6NC;Kategoria5;15;CyfrowyPrzemiennik;"";433.8;433.8;Nowogrodziec
 DC.WML.5101.5399.2023.2;2028-11-06;SR4S;Kategoria5;15;AnalogowyPrzemiennikFM;"";144.975;145.575;Sokó³ka
-DC.WML.5101.5717.2023.2;2028-11-21;SR4BA;Kategoria5;15;AnalogowyPrzemiennikFM;"";430.9375;438.5375;Kiertyny Ma³e
 DC.WML.5101.5743.2023.2;2028-09-01;SR4LG;Kategoria5;15;PrzekaznikAPRS, AnalogowyPrzemiennikFM;"";144.8, 433.755, 434.855, 438.725;144.8, 433.755, 434.855, 431.125;Gie³czyn
 DC.WML.5101.5785.2023.2;2028-12-31;SR8BCH;Kategoria5;10;PrzekaznikAPRS;"";144.8;144.8;Che³m
 DC.WML.5101.5808.2023.3;2028-11-30;SR5ML;Kategoria5;15;PrzekaznikAPRS;"";144.8;144.8;M³awa
@@ -422,6 +415,7 @@ DC.WML.5101.252.2026.3;2031-01-19;SR9DBN;Kategoria5;15;PrzemiennikFMDV;"";430.87
 DC.WML.5101.425.2026.2;2031-02-10;SR6DKL;Kategoria5;15;AnalogowyPrzemiennikFM;F3E;431.875;439.475;K³odzko
 DC.WML.5101.753.2026.2;2031-02-13;SR2BYD;Kategoria5;15;CyfrowyPrzemiennik;"";145.1875;145.7875;Nowaczkowo
 DC.WML.5101.764.2026.2;2031-02-19;SR7LL;Kategoria5;15;CyfrowyPrzemiennik;"";145.112;145.712;£ódŸ
+DC.WML.5101.939.2026.2;2028-11-21;SR4BA;Kategoria5;15;AnalogowyPrzemiennikATV;"";430.9375;438.5375;Kiertyny Ma³e
 DC.WML.5101.946.2026.4;2031-02-23;SR7LO;Kategoria5;15;CyfrowyPrzemiennik;"";1270.7;1298.7;£ódŸ
 DC.WML.5101.1107.2026.2;2031-03-03;SR3MDV;Kategoria5;15;CyfrowyPrzemiennik;"";431.975;439.575;Leszno
 DC.WML.5101.1591.2026.2;2030-10-17;SR2KW;Kategoria5;15;AnalogowyPrzemiennikFM;"";431.025;145.3375;W³oc³awek

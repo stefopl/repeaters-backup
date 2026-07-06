@@ -11,30 +11,6 @@
         "output_frequency": "438.65",
         "station_location": "Łódź"
     },
-    "SR6WB": {
-        "number": "DC.WML.5101.1594.2021.2",
-        "valid_to": "2026-05-17",
-        "call_sign": "SR6WB",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "PrzemiennikFMDV",
-        "emission": "",
-        "input_frequency": "431.7625",
-        "output_frequency": "439.3625",
-        "station_location": "Wałbrzych"
-    },
-    "SR9WXL": {
-        "number": "DC.WML.5101.1670.2021.2",
-        "valid_to": "2026-05-25",
-        "call_sign": "SR9WXL",
-        "category": "Kategoria5",
-        "transmitter_power": "5",
-        "name_type_station": "StacjaPogodowaAPRS",
-        "emission": "",
-        "input_frequency": "144.8",
-        "output_frequency": "144.8",
-        "station_location": "Leskowiec - szczyt w Beskidzie Małym"
-    },
     "SR9UVC": {
         "number": "DC.WML.5101.1539.2021.2",
         "valid_to": "2026-06-04",
@@ -46,42 +22,6 @@
         "input_frequency": "431.025",
         "output_frequency": "438.625",
         "station_location": "Lusina"
-    },
-    "SR6DL": {
-        "number": "DC.WML.5101.1868.2021.3",
-        "valid_to": "2026-06-10",
-        "call_sign": "SR6DL",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "AnalogowyPrzemiennikFM",
-        "emission": "",
-        "input_frequency": "144.975",
-        "output_frequency": "144.975",
-        "station_location": "Dalachów"
-    },
-    "SR3JA": {
-        "number": "DC.WML.5101.1924.2021.2",
-        "valid_to": "2026-06-16",
-        "call_sign": "SR3JA",
-        "category": "Kategoria5",
-        "transmitter_power": "10",
-        "name_type_station": "AnalogowyPrzemiennikFM",
-        "emission": "",
-        "input_frequency": "431.375",
-        "output_frequency": "438.975",
-        "station_location": "Jarocin"
-    },
-    "SR7ZG": {
-        "number": "DC.WML.5101.7983.2025.2",
-        "valid_to": "2031-06-25",
-        "call_sign": "SR7ZG",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "PrzemiennikFMDV",
-        "emission": "",
-        "input_frequency": "431.35, 144.775",
-        "output_frequency": "438.85, 144.775",
-        "station_location": "Zgierz"
     },
     "SR9AE": {
         "number": "DC.WML.5101.2155.2021.2",
@@ -1175,18 +1115,6 @@
         "output_frequency": "439.175",
         "station_location": "Pruszków"
     },
-    "SR6DA": {
-        "number": "DC.WML.5101.4850.2022.3",
-        "valid_to": "2026-06-10",
-        "call_sign": "SR6DA",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "AnalogowyPrzemiennikFM",
-        "emission": "",
-        "input_frequency": "431.5375",
-        "output_frequency": "439.1375",
-        "station_location": "Dalachów"
-    },
     "SR9LC": {
         "number": "DC.WML.5101.4852.2022.2",
         "valid_to": "2027-11-28",
@@ -2254,18 +2182,6 @@
         "input_frequency": "144.975",
         "output_frequency": "145.575",
         "station_location": "Sokółka"
-    },
-    "SR4BA": {
-        "number": "DC.WML.5101.5717.2023.2",
-        "valid_to": "2028-11-21",
-        "call_sign": "SR4BA",
-        "category": "Kategoria5",
-        "transmitter_power": "15",
-        "name_type_station": "AnalogowyPrzemiennikFM",
-        "emission": "",
-        "input_frequency": "430.9375",
-        "output_frequency": "438.5375",
-        "station_location": "Kiertyny Małe"
     },
     "SR4LG": {
         "number": "DC.WML.5101.5743.2023.2",
@@ -4895,6 +4811,18 @@
         "output_frequency": "430.075",
         "station_location": "Szczecin"
     },
+    "SR7ZG": {
+        "number": "DC.WML.5101.7983.2025.2",
+        "valid_to": "2031-06-25",
+        "call_sign": "SR7ZG",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzemiennikFMDV",
+        "emission": "",
+        "input_frequency": "431.35, 144.775",
+        "output_frequency": "438.85, 144.775",
+        "station_location": "Zgierz"
+    },
     "SR6ML": {
         "number": "DC.WML.5101.7984.2025.2",
         "valid_to": "2030-12-12",
@@ -5038,6 +4966,18 @@
         "input_frequency": "145.112",
         "output_frequency": "145.712",
         "station_location": "Łódź"
+    },
+    "SR4BA": {
+        "number": "DC.WML.5101.939.2026.2",
+        "valid_to": "2028-11-21",
+        "call_sign": "SR4BA",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "AnalogowyPrzemiennikATV",
+        "emission": "",
+        "input_frequency": "430.9375",
+        "output_frequency": "438.5375",
+        "station_location": "Kiertyny Małe"
     },
     "SR7LO": {
         "number": "DC.WML.5101.946.2026.4",
