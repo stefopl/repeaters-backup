@@ -515,14 +515,14 @@ More information: https://przemienniki.net/przemienniki/70cm/DB0FUL</desc>
  </wpt>
  <wpt lat="51.171739" lon="14.979255">
   <name>DB0GRZ</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Goerlitz
 Frequency: TX: 439.4000 MHz, RX: 431.8000 MHz
 Activation: ton 1750Hz
 More information: https://przemienniki.net/przemienniki/70cm/DB0GRZ</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Goerlitz
@@ -579,13 +579,13 @@ More information: https://przemienniki.net/przemienniki/70cm/DB0HEL</desc>
  </wpt>
  <wpt lat="53.770833" lon="10.041667">
   <name>DB0HHN</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Goetzberg
 Frequency: TX: 438.3750 MHz, RX: 430.7750 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/DB0HHN</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Goetzberg
 Frequency: TX: 438.3750 MHz, RX: 430.7750 MHz
@@ -887,14 +887,14 @@ More information: https://przemienniki.net/przemienniki/70cm/DB0OAL</desc>
  </wpt>
  <wpt lat="51.091346" lon="14.692207">
   <name>DB0OLL</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Löbauer Berg
 Frequency: TX: 438.5500 MHz, RX: 430.9500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/DB0OLL</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Löbauer Berg
@@ -983,14 +983,14 @@ More information: https://przemienniki.net/przemienniki/2m/DB0PIB-2M</desc>
  </wpt>
  <wpt lat="51.108765" lon="14.354182">
   <name>DB0PIB-70CM</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Großen Picho bei Wilthen
 Frequency: TX: 439.2000 MHz, RX: 431.6000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/DB0PIB-70CM</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Großen Picho bei Wilthen
@@ -1808,14 +1808,14 @@ More information: https://przemienniki.net/przemienniki/70cm/DM0BGH</desc>
  </wpt>
  <wpt lat="51.337320" lon="12.412460">
   <name>DM0LC</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Leipzig
 Frequency: TX: 439.3875 MHz, RX: 431.7875 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/DM0LC</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Leipzig
@@ -14413,14 +14413,14 @@ More information: https://przemienniki.net/przemienniki/70cm/LZ0DBS</desc>
  </wpt>
  <wpt lat="43.133355" lon="23.118725">
   <name>LZ0DDA</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Петрохан
 Frequency: TX: 438.4500 MHz, RX: 430.8500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/LZ0DDA</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Петрохан
@@ -17671,14 +17671,14 @@ More information: https://przemienniki.net/przemienniki/70cm/OK0DBZ</desc>
  </wpt>
  <wpt lat="50.651483" lon="15.630356">
   <name>OK0DFR</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Strazne - Krkonose
 Frequency: TX: 438.3750 MHz, RX: 430.7750 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/OK0DFR</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Strazne - Krkonose
@@ -21567,13 +21567,13 @@ More information: https://przemienniki.net/przemienniki/70cm/PI2DFT</desc>
  </wpt>
  <wpt lat="51.453776" lon="5.402144">
   <name>PI2EHV</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Eindhoven
 Frequency: TX: 430.1000 MHz, RX: 431.7000 MHz
 Activation: CTCSS (71.9 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/PI2EHV</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Eindhoven
 Frequency: TX: 430.1000 MHz, RX: 431.7000 MHz
@@ -22796,14 +22796,14 @@ More information: https://przemienniki.net/przemienniki/70cm/S55DCS</desc>
  </wpt>
  <wpt lat="45.969145" lon="13.670911">
   <name>S55DGO</name>
-  <cmt>70cm FM+DSTAR/DV+APCO-25 repeater
+  <cmt>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Nova Gorica (pod Skabrijelom)
 Frequency: TX: 439.2500 MHz, RX: 431.6500 MHz
 Activation: CTCSS (123.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/S55DGO</cmt>
-  <desc>70cm FM+DSTAR/DV+APCO-25 repeater
+  <desc>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Nova Gorica (pod Skabrijelom)
@@ -22932,14 +22932,14 @@ More information: https://przemienniki.net/przemienniki/70cm/S55DKN</desc>
  </wpt>
  <wpt lat="45.772150" lon="14.050250">
   <name>S55DKP</name>
-  <cmt>70cm FM+DSTAR/DV+APCO-25 repeater
+  <cmt>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Nanos
 Frequency: TX: 438.7000 MHz, RX: 431.1000 MHz
 Activation: CTCSS (123.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/S55DKP</cmt>
-  <desc>70cm FM+DSTAR/DV+APCO-25 repeater
+  <desc>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Nanos
@@ -22966,14 +22966,14 @@ More information: https://przemienniki.net/przemienniki/70cm/S55DKV</desc>
  </wpt>
  <wpt lat="45.928904" lon="14.469749">
   <name>S55DLJ</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Krim
 Frequency: TX: 438.2000 MHz, RX: 430.6000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/S55DLJ</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Krim
@@ -23034,14 +23034,14 @@ More information: https://przemienniki.net/przemienniki/70cm/S55DMR</desc>
  </wpt>
  <wpt lat="46.512564" lon="15.569210">
   <name>S55DMX</name>
-  <cmt>70cm FM+DSTAR/DV+APCO-25 repeater
+  <cmt>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Pohorje (Maribor)
 Frequency: TX: 438.3500 MHz, RX: 430.7500 MHz
 Activation: CTCSS (123.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/S55DMX</cmt>
-  <desc>70cm FM+DSTAR/DV+APCO-25 repeater
+  <desc>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Pohorje (Maribor)
@@ -23221,14 +23221,14 @@ More information: https://przemienniki.net/przemienniki/70cm/S55DTR</desc>
  </wpt>
  <wpt lat="46.187619" lon="15.104229">
   <name>S55DZA</name>
-  <cmt>70cm FM+DSTAR/DV+APCO-25 repeater
+  <cmt>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Mrzlica
 Frequency: TX: 438.3000 MHz, RX: 430.7000 MHz
 Activation: ton 1750Hz
 More information: https://przemienniki.net/przemienniki/70cm/S55DZA</cmt>
-  <desc>70cm FM+DSTAR/DV+APCO-25 repeater
+  <desc>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Mrzlica
@@ -23351,14 +23351,14 @@ More information: https://przemienniki.net/przemienniki/70cm/S55UCE</desc>
  </wpt>
  <wpt lat="45.857664" lon="13.703827">
   <name>S55UGO</name>
-  <cmt>70cm FM+DSTAR/DV+APCO-25 repeater
+  <cmt>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Trstelj (NG)
 Frequency: TX: 438.7500 MHz, RX: 431.1500 MHz
 Activation: CTCSS (123.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/S55UGO</cmt>
-  <desc>70cm FM+DSTAR/DV+APCO-25 repeater
+  <desc>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Trstelj (NG)
@@ -23483,13 +23483,13 @@ More information: https://przemienniki.net/przemienniki/70cm/S55UKK</desc>
  </wpt>
  <wpt lat="46.513746" lon="15.188850">
   <name>S55UKO</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Mala Kopa
 Frequency: TX: 439.1500 MHz, RX: 431.5500 MHz
 Activation: CTCSS (123.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/S55UKO</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Mala Kopa
 Frequency: TX: 439.1500 MHz, RX: 431.5500 MHz
@@ -23756,34 +23756,17 @@ More information: https://przemienniki.net/przemienniki/70cm/S55USX</desc>
  </wpt>
  <wpt lat="46.602162" lon="16.033341">
   <name>S55UTB</name>
-  <cmt>70cm FM+DSTAR/DV repeater
+  <cmt>70cm FM+DSTAR/DV+DMR+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Zg.Kocjan (Radenci)
 Frequency: TX: 438.7250 MHz, RX: 431.1250 MHz
 Activation: CTCSS (123.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/S55UTB</cmt>
-  <desc>70cm FM+DSTAR/DV repeater
+  <desc>70cm FM+DSTAR/DV+DMR+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Zg.Kocjan (Radenci)
-Frequency: TX: 438.7250 MHz, RX: 431.1250 MHz
-Activation: CTCSS (123.0 Hz)
-More information: https://przemienniki.net/przemienniki/70cm/S55UTB</desc>
- </wpt>
- <wpt lat="46.601336" lon="16.028105">
-  <name>S55UTB</name>
-  <cmt>70cm FM+DSTAR/DV+APCO-25 repeater
-
-Network: Echolink
-QTH: Zg. Kocjan (Radenci)
-Frequency: TX: 438.7250 MHz, RX: 431.1250 MHz
-Activation: CTCSS (123.0 Hz)
-More information: https://przemienniki.net/przemienniki/70cm/S55UTB</cmt>
-  <desc>70cm FM+DSTAR/DV+APCO-25 repeater
-
-Network: Echolink
-QTH: Zg. Kocjan (Radenci)
 Frequency: TX: 438.7250 MHz, RX: 431.1250 MHz
 Activation: CTCSS (123.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/S55UTB</desc>
@@ -29103,14 +29086,14 @@ More information: https://przemienniki.net/przemienniki/2m/SR1G</desc>
   <name>SR1GL</name>
   <cmt>2m FM repeater
 
-Network: FM-Poland
+Network: SQLink
 QTH: Goleniow
 Frequency: TX: 145.2800 MHz, RX: 145.2800 MHz
 Activation: CTCSS (82.5 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR1GL</cmt>
   <desc>2m FM repeater
 
-Network: FM-Poland
+Network: SQLink
 QTH: Goleniow
 Frequency: TX: 145.2800 MHz, RX: 145.2800 MHz
 Activation: CTCSS (82.5 Hz)
@@ -29135,14 +29118,14 @@ More information: https://przemienniki.net/przemienniki/2m/SR1K</desc>
  </wpt>
  <wpt lat="54.178284" lon="15.553207">
   <name>SR1KG</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Kolobrzeg
 Frequency: TX: 439.2250 MHz, RX: 431.6250 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR1KG</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Kolobrzeg
@@ -29242,14 +29225,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR1RG</desc>
  </wpt>
  <wpt lat="53.403960" lon="14.522150">
   <name>SR1S</name>
-  <cmt>2m FM+APCO-25 repeater
+  <cmt>2m FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Szczecin
 Frequency: TX: 145.7700 MHz, RX: 145.1700 MHz
 Activation: CTCSS (82.5 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR1S</cmt>
-  <desc>2m FM+APCO-25 repeater
+  <desc>2m FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Szczecin
@@ -29274,13 +29257,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR1SZ</desc>
  </wpt>
  <wpt lat="53.342500" lon="15.025200">
   <name>SR1TET</name>
-  <cmt>70cm C4FM/Fusion repeater
+  <cmt>70cm Tetra repeater
 
 QTH: Stargard
 Frequency: TX: 431.6250 MHz, RX: 430.0250 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR1TET</cmt>
-  <desc>70cm C4FM/Fusion repeater
+  <desc>70cm Tetra repeater
 
 QTH: Stargard
 Frequency: TX: 431.6250 MHz, RX: 430.0250 MHz
@@ -29304,13 +29287,13 @@ More information: https://przemienniki.net/przemienniki/10m/SR1TS</desc>
  </wpt>
  <wpt lat="53.474700" lon="14.547200">
   <name>SR1TSZ</name>
-  <cmt>70cm C4FM/Fusion repeater
+  <cmt>70cm Tetra repeater
 
 QTH: Szczecin
 Frequency: TX: 430.0750 MHz, RX: 430.0750 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR1TSZ</cmt>
-  <desc>70cm C4FM/Fusion repeater
+  <desc>70cm Tetra repeater
 
 QTH: Szczecin
 Frequency: TX: 430.0750 MHz, RX: 430.0750 MHz
@@ -29366,34 +29349,17 @@ More information: https://przemienniki.net/przemienniki/70cm/SR1UVX</desc>
  </wpt>
  <wpt lat="53.909511" lon="14.254612">
   <name>SR1W</name>
-  <cmt>2m FM+APCO-25 repeater
+  <cmt>2m FM+C4FM/Fusion repeater
 
 QTH: Świnoujście
 Frequency: TX: 145.6125 MHz, RX: 145.0125 MHz
 Activation: nośną,CTCSS (82.5 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR1W</cmt>
-  <desc>2m FM+APCO-25 repeater
+  <desc>2m FM+C4FM/Fusion repeater
 
 QTH: Świnoujście
 Frequency: TX: 145.6125 MHz, RX: 145.0125 MHz
 Activation: nośną,CTCSS (82.5 Hz)
-More information: https://przemienniki.net/przemienniki/2m/SR1W</desc>
- </wpt>
- <wpt lat="53.909336" lon="14.254650">
-  <name>SR1W</name>
-  <cmt>2m APCO-25 repeater
-
-Network: Echolink
-QTH: Swinoujscie
-Frequency: TX: 145.6125 MHz, RX: 145.0125 MHz
-Activation: nośną
-More information: https://przemienniki.net/przemienniki/2m/SR1W</cmt>
-  <desc>2m APCO-25 repeater
-
-Network: Echolink
-QTH: Swinoujscie
-Frequency: TX: 145.6125 MHz, RX: 145.0125 MHz
-Activation: nośną
 More information: https://przemienniki.net/przemienniki/2m/SR1W</desc>
  </wpt>
  <wpt lat="53.278012" lon="16.483460">
@@ -29413,14 +29379,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR1WA</desc>
  </wpt>
  <wpt lat="53.278132" lon="16.483364">
   <name>SR1WAD</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Walcz
 Frequency: TX: 438.6500 MHz, RX: 431.0500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR1WAD</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Walcz
@@ -29430,13 +29396,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR1WAD</desc>
  </wpt>
  <wpt lat="54.179524" lon="15.569130">
   <name>SR1WOY</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Dworcowa 10, Kolobrzeg, Polska
 Frequency: TX: 438.6250 MHz, RX: 431.0250 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR1WOY</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Dworcowa 10, Kolobrzeg, Polska
 Frequency: TX: 438.6250 MHz, RX: 431.0250 MHz
@@ -29457,21 +29423,6 @@ More information: https://przemienniki.net/przemienniki/70cm/SR1WR</cmt>
 Network: Echolink
 QTH: Ryman
 Frequency: TX: 439.0500 MHz, RX: 431.4500 MHz
-Activation: nośną
-More information: https://przemienniki.net/przemienniki/70cm/SR1WR</desc>
- </wpt>
- <wpt lat="53.947183" lon="15.533540">
-  <name>SR1WR</name>
-  <cmt>70cm APCO-25 repeater
-
-QTH: Ryman
-Frequency: TX: 438.6875 MHz, RX: 431.0875 MHz
-Activation: nośną
-More information: https://przemienniki.net/przemienniki/70cm/SR1WR</cmt>
-  <desc>70cm APCO-25 repeater
-
-QTH: Ryman
-Frequency: TX: 438.6875 MHz, RX: 431.0875 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR1WR</desc>
  </wpt>
@@ -29507,13 +29458,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR1WX</desc>
  </wpt>
  <wpt lat="53.339500" lon="15.009000">
   <name>SR1YWX</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Stargard
 Frequency: TX: 439.2625 MHz, RX: 431.6625 MHz
 Activation: CTCSS (82.5 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR1YWX</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Stargard
 Frequency: TX: 439.2625 MHz, RX: 431.6625 MHz
@@ -29569,14 +29520,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR1ZK-B</desc>
  </wpt>
  <wpt lat="53.403960" lon="14.522150">
   <name>SR1ZS</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Szczecin
 Frequency: TX: 439.0000 MHz, RX: 431.4000 MHz
 Activation: CTCSS (82.5 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR1ZS</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Szczecin
@@ -29586,14 +29537,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR1ZS</desc>
  </wpt>
  <wpt lat="53.909511" lon="14.254612">
   <name>SR1ZW</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Swinoujscie
 Frequency: TX: 438.8375 MHz, RX: 431.2375 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR1ZW</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Swinoujscie
@@ -29633,14 +29584,14 @@ More information: https://przemienniki.net/przemienniki/23cm/SR23CM</desc>
  </wpt>
  <wpt lat="53.130098" lon="17.945776">
   <name>SR2BC</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Bydgoszcz
 Frequency: TX: 439.2875 MHz, RX: 431.6875 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR2BC</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Bydgoszcz
@@ -29650,13 +29601,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR2BC</desc>
  </wpt>
  <wpt lat="53.112533" lon="18.038706">
   <name>SR2BD</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Bydgoszcz
 Frequency: TX: 439.0000 MHz, RX: 431.4000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR2BD</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Bydgoszcz
 Frequency: TX: 439.0000 MHz, RX: 431.4000 MHz
@@ -29806,13 +29757,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR2DMR</desc>
  </wpt>
  <wpt lat="52.919733" lon="17.836519">
   <name>SR2DMR-C</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Szubin - Jablowo Paluckie / wieza p.poz
 Frequency: TX: 439.5625 MHz, RX: 431.9625 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR2DMR-C</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Szubin - Jablowo Paluckie / wieza p.poz
 Frequency: TX: 439.5625 MHz, RX: 431.9625 MHz
@@ -29870,13 +29821,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR2FM</desc>
  </wpt>
  <wpt lat="54.347040" lon="18.665793">
   <name>SR2G</name>
-  <cmt>2m APCO-25 repeater
+  <cmt>2m C4FM/Fusion repeater
 
 QTH: Gdansk
 Frequency: TX: 145.7000 MHz, RX: 145.1000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/2m/SR2G</cmt>
-  <desc>2m APCO-25 repeater
+  <desc>2m C4FM/Fusion repeater
 
 QTH: Gdansk
 Frequency: TX: 145.7000 MHz, RX: 145.1000 MHz
@@ -29979,6 +29930,83 @@ Frequency: TX: 438.2875 MHz, RX: 430.6875 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR2GDD</desc>
  </wpt>
+ <wpt lat="53.016054" lon="17.762658">
+  <name>SR2GG</name>
+  <cmt>2m FM repeater
+
+QTH: Szubin
+Frequency: TX: 145.7500 MHz, RX: 145.1500 MHz
+Activation: CTCSS (74.4 Hz)
+More information: https://przemienniki.net/przemienniki/2m/SR2GG</cmt>
+  <desc>2m FM repeater
+
+QTH: Szubin
+Frequency: TX: 145.7500 MHz, RX: 145.1500 MHz
+Activation: CTCSS (74.4 Hz)
+More information: https://przemienniki.net/przemienniki/2m/SR2GG</desc>
+ </wpt>
+ <wpt lat="53.016124" lon="17.762767">
+  <name>SR2GG-B</name>
+  <cmt>70cm FM repeater
+
+QTH: Szubin
+Frequency: TX: 439.1375 MHz, RX: 431.5375 MHz
+Activation: CTCSS (74.4 Hz)
+More information: https://przemienniki.net/przemienniki/70cm/SR2GG-B</cmt>
+  <desc>70cm FM repeater
+
+QTH: Szubin
+Frequency: TX: 439.1375 MHz, RX: 431.5375 MHz
+Activation: CTCSS (74.4 Hz)
+More information: https://przemienniki.net/przemienniki/70cm/SR2GG-B</desc>
+ </wpt>
+ <wpt lat="53.016054" lon="17.762658">
+  <name>SR2GG-C</name>
+  <cmt>70cm FM+DSTAR/DV repeater
+
+Network: SQLink
+QTH: Szubin
+Frequency: TX: 439.3375 MHz, RX: 431.7375 MHz
+Activation: nośną,CTCSS (74.4 Hz)
+More information: https://przemienniki.net/przemienniki/70cm/SR2GG-C</cmt>
+  <desc>70cm FM+DSTAR/DV repeater
+
+Network: SQLink
+QTH: Szubin
+Frequency: TX: 439.3375 MHz, RX: 431.7375 MHz
+Activation: nośną,CTCSS (74.4 Hz)
+More information: https://przemienniki.net/przemienniki/70cm/SR2GG-C</desc>
+ </wpt>
+ <wpt lat="53.016054" lon="17.762658">
+  <name>SR2GG-D</name>
+  <cmt>70cm DSTAR/DV repeater
+
+QTH: Szubin
+Frequency: TX: 439.9000 MHz, RX: 430.5000 MHz
+Activation: nośną
+More information: https://przemienniki.net/przemienniki/70cm/SR2GG-D</cmt>
+  <desc>70cm DSTAR/DV repeater
+
+QTH: Szubin
+Frequency: TX: 439.9000 MHz, RX: 430.5000 MHz
+Activation: nośną
+More information: https://przemienniki.net/przemienniki/70cm/SR2GG-D</desc>
+ </wpt>
+ <wpt lat="53.016054" lon="17.762658">
+  <name>SR2GG-E</name>
+  <cmt>70cm DMR repeater
+
+QTH: SZUBIN
+Frequency: TX: 439.5625 MHz, RX: 431.9625 MHz
+Activation: 
+More information: https://przemienniki.net/przemienniki/70cm/SR2GG-E</cmt>
+  <desc>70cm DMR repeater
+
+QTH: SZUBIN
+Frequency: TX: 439.5625 MHz, RX: 431.9625 MHz
+Activation: 
+More information: https://przemienniki.net/przemienniki/70cm/SR2GG-E</desc>
+ </wpt>
  <wpt lat="54.718116" lon="18.052215">
   <name>SR2GN</name>
   <cmt>70cm FM repeater
@@ -30075,14 +30103,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR2I</desc>
  </wpt>
  <wpt lat="52.794000" lon="18.260816">
   <name>SR2IN</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Inowroclaw
 Frequency: TX: 438.2375 MHz, RX: 430.6375 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR2IN</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Inowroclaw
@@ -30156,14 +30184,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR2KU</desc>
   <name>SR2KW</name>
   <cmt>2m FM repeater
 
-Network: Echolink
+Network: FM-Poland
 QTH: Wloclawek
 Frequency: TX: 145.3375 MHz, RX: 431.0250 MHz
 Activation: CTCSS (100.0 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR2KW</cmt>
   <desc>2m FM repeater
 
-Network: Echolink
+Network: FM-Poland
 QTH: Wloclawek
 Frequency: TX: 145.3375 MHz, RX: 431.0250 MHz
 Activation: CTCSS (100.0 Hz)
@@ -30201,13 +30229,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR2MAL</desc>
  </wpt>
  <wpt lat="54.545013" lon="18.535907">
   <name>SR2OK</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Gdynia-Oksywie EMITEL
 Frequency: TX: 438.8750 MHz, RX: 431.2750 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR2OK</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Gdynia-Oksywie EMITEL
 Frequency: TX: 438.8750 MHz, RX: 431.2750 MHz
@@ -30262,6 +30290,21 @@ QTH: Brodnica
 Frequency: TX: 145.7375 MHz, RX: 145.1375 MHz
 Activation: CTCSS (88.5 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR2PB</desc>
+ </wpt>
+ <wpt lat="52.820841" lon="18.043177">
+  <name>SR2PP</name>
+  <cmt>2m FM repeater
+
+QTH: PIECHCIN
+Frequency: TX: 145.7000 MHz, RX: 145.1000 MHz
+Activation: CTCSS (74.4 Hz)
+More information: https://przemienniki.net/przemienniki/2m/SR2PP</cmt>
+  <desc>2m FM repeater
+
+QTH: PIECHCIN
+Frequency: TX: 145.7000 MHz, RX: 145.1000 MHz
+Activation: CTCSS (74.4 Hz)
+More information: https://przemienniki.net/przemienniki/2m/SR2PP</desc>
  </wpt>
  <wpt lat="52.812500" lon="18.291667">
   <name>SR2R</name>
@@ -30346,16 +30389,14 @@ More information: https://przemienniki.net/przemienniki/2m/SR2T</desc>
  </wpt>
  <wpt lat="53.142333" lon="18.134742">
   <name>SR2UVF</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+DMR+C4FM/Fusion repeater
 
-Network: Echolink
 QTH: Bydgoszcz
 Frequency: TX: 438.9375 MHz, RX: 431.3375 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR2UVF</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+DMR+C4FM/Fusion repeater
 
-Network: Echolink
 QTH: Bydgoszcz
 Frequency: TX: 438.9375 MHz, RX: 431.3375 MHz
 Activation: nośną
@@ -30440,68 +30481,6 @@ Frequency: TX: 439.3625 MHz, RX: 431.7625 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR2UVV-B</desc>
  </wpt>
- <wpt lat="53.016124" lon="17.762767">
-  <name>SR2VV</name>
-  <cmt>70cm FM repeater
-
-QTH: Szubin
-Frequency: TX: 439.1375 MHz, RX: 431.5375 MHz
-Activation: CTCSS (74.4 Hz)
-More information: https://przemienniki.net/przemienniki/70cm/SR2VV</cmt>
-  <desc>70cm FM repeater
-
-QTH: Szubin
-Frequency: TX: 439.1375 MHz, RX: 431.5375 MHz
-Activation: CTCSS (74.4 Hz)
-More information: https://przemienniki.net/przemienniki/70cm/SR2VV</desc>
- </wpt>
- <wpt lat="53.016054" lon="17.762658">
-  <name>SR2VV-B</name>
-  <cmt>2m DSTAR/DV repeater
-
-QTH: Szubin
-Frequency: TX: 145.7500 MHz, RX: 145.1500 MHz
-Activation: nośną
-More information: https://przemienniki.net/przemienniki/2m/SR2VV-B</cmt>
-  <desc>2m DSTAR/DV repeater
-
-QTH: Szubin
-Frequency: TX: 145.7500 MHz, RX: 145.1500 MHz
-Activation: nośną
-More information: https://przemienniki.net/przemienniki/2m/SR2VV-B</desc>
- </wpt>
- <wpt lat="53.016054" lon="17.762658">
-  <name>SR2VVV</name>
-  <cmt>70cm DSTAR/DV repeater
-
-Network: Echolink
-QTH: Szubin
-Frequency: TX: 439.3375 MHz, RX: 431.7375 MHz
-Activation: nośną
-More information: https://przemienniki.net/przemienniki/70cm/SR2VVV</cmt>
-  <desc>70cm DSTAR/DV repeater
-
-Network: Echolink
-QTH: Szubin
-Frequency: TX: 439.3375 MHz, RX: 431.7375 MHz
-Activation: nośną
-More information: https://przemienniki.net/przemienniki/70cm/SR2VVV</desc>
- </wpt>
- <wpt lat="53.016054" lon="17.762658">
-  <name>SR2VVV-B</name>
-  <cmt>70cm DSTAR/DV repeater
-
-QTH: Szubin
-Frequency: TX: 438.8125 MHz, RX: 431.2125 MHz
-Activation: nośną
-More information: https://przemienniki.net/przemienniki/70cm/SR2VVV-B</cmt>
-  <desc>70cm DSTAR/DV repeater
-
-QTH: Szubin
-Frequency: TX: 438.8125 MHz, RX: 431.2125 MHz
-Activation: nośną
-More information: https://przemienniki.net/przemienniki/70cm/SR2VVV-B</desc>
- </wpt>
  <wpt lat="52.672746" lon="19.084411">
   <name>SR2W</name>
   <cmt>70cm FM repeater
@@ -30519,13 +30498,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR2W</desc>
  </wpt>
  <wpt lat="54.590756" lon="18.229030">
   <name>SR2WE</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Wejherowo
 Frequency: TX: 439.2250 MHz, RX: 431.6250 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR2WE</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Wejherowo
 Frequency: TX: 439.2250 MHz, RX: 431.6250 MHz
@@ -30579,13 +30558,13 @@ More information: https://przemienniki.net/przemienniki/2m/SR3A</desc>
  </wpt>
  <wpt lat="52.126100" lon="18.856200">
   <name>SR3DAB</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Zalesie
 Frequency: TX: 439.0500 MHz, RX: 431.4500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR3DAB</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Zalesie
 Frequency: TX: 439.0500 MHz, RX: 431.4500 MHz
@@ -30660,14 +30639,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR3DJ</desc>
  </wpt>
  <wpt lat="51.742300" lon="18.095900">
   <name>SR3DKA</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Kalisz
 Frequency: TX: 438.4000 MHz, RX: 430.8000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR3DKA</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Kalisz
@@ -30707,14 +30686,14 @@ More information: https://przemienniki.net/przemienniki/2m/SR3DMR</desc>
  </wpt>
  <wpt lat="51.659738" lon="17.797780">
   <name>SR3DOS</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Ostrow Wielkopolski
 Frequency: TX: 438.2875 MHz, RX: 430.6875 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR3DOS</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Ostrow Wielkopolski
@@ -30854,13 +30833,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR3JA</desc>
  </wpt>
  <wpt lat="52.346795" lon="15.276266">
   <name>SR3JX</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: RTCN Jemiolow/Lagow maszt EmiTel
 Frequency: TX: 439.1500 MHz, RX: 431.5500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR3JX</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: RTCN Jemiolow/Lagow maszt EmiTel
 Frequency: TX: 439.1500 MHz, RX: 431.5500 MHz
@@ -30901,14 +30880,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR3KA</desc>
  </wpt>
  <wpt lat="51.297605" lon="18.003350">
   <name>SR3KEP</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Kepno
 Frequency: TX: 438.4375 MHz, RX: 430.8375 MHz
 Activation: CTCSS (103.5 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR3KEP</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Kepno
@@ -30933,13 +30912,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR3KH</desc>
  </wpt>
  <wpt lat="52.187500" lon="18.625000">
   <name>SR3KHA</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: 62-600 Koło, ul. Dąbrowskiego 7
 Frequency: TX: 438.3125 MHz, RX: 430.7125 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR3KHA</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: 62-600 Koło, ul. Dąbrowskiego 7
 Frequency: TX: 438.3125 MHz, RX: 430.7125 MHz
@@ -31333,13 +31312,13 @@ More information: https://przemienniki.net/przemienniki/2m/SR3X</desc>
  </wpt>
  <wpt lat="52.459156" lon="16.905933">
   <name>SR3XX</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Poznan
 Frequency: TX: 439.0250 MHz, RX: 431.4250 MHz
 Activation: CTCSS (110.9 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR3XX</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Poznan
 Frequency: TX: 439.0250 MHz, RX: 431.4250 MHz
@@ -31380,14 +31359,14 @@ More information: https://przemienniki.net/przemienniki/2m/SR3Z</desc>
  </wpt>
  <wpt lat="52.998288" lon="16.906704">
   <name>SR3ZBZ</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Chodziez
 Frequency: TX: 438.3625 MHz, RX: 430.7625 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR3ZBZ</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Chodziez
@@ -31442,13 +31421,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR3ZJ</desc>
  </wpt>
  <wpt lat="51.935511" lon="15.527107">
   <name>SR3ZX</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
 QTH: Zielona Gora
 Frequency: TX: 439.3500 MHz, RX: 431.7500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR3ZX</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
 QTH: Zielona Gora
 Frequency: TX: 439.3500 MHz, RX: 431.7500 MHz
@@ -31617,13 +31596,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR4BL</desc>
  </wpt>
  <wpt lat="53.132887" lon="23.138298">
   <name>SR4BS</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Bialystok
 Frequency: TX: 439.0250 MHz, RX: 431.4250 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR4BS</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Bialystok
 Frequency: TX: 439.0250 MHz, RX: 431.4250 MHz
@@ -31649,13 +31628,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR4BSK</desc>
  </wpt>
  <wpt lat="53.145833" lon="23.125000">
   <name>SR4C4FM</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Białystok
 Frequency: TX: 432.5750 MHz, RX: 432.5750 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR4C4FM</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Białystok
 Frequency: TX: 432.5750 MHz, RX: 432.5750 MHz
@@ -31681,13 +31660,13 @@ More information: https://przemienniki.net/przemienniki/2m/SR4D</desc>
  </wpt>
  <wpt lat="53.549375" lon="19.940454">
   <name>SR4DG</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Gora Dylewska EMITEL
 Frequency: TX: 438.8625 MHz, RX: 431.2625 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR4DG</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Gora Dylewska EMITEL
 Frequency: TX: 438.8625 MHz, RX: 431.2625 MHz
@@ -31796,14 +31775,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR4EL</desc>
  </wpt>
  <wpt lat="53.635713" lon="22.467744">
   <name>SR4FSK</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Grajewo
 Frequency: TX: 439.5250 MHz, RX: 431.9250 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR4FSK</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Grajewo
@@ -31813,13 +31792,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR4FSK</desc>
  </wpt>
  <wpt lat="52.770833" lon="23.625000">
   <name>SR4H</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Hajnówka
 Frequency: TX: 439.2375 MHz, RX: 431.6375 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR4H</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Hajnówka
 Frequency: TX: 439.2375 MHz, RX: 431.6375 MHz
@@ -31877,14 +31856,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR4KT</desc>
  </wpt>
  <wpt lat="53.183005" lon="22.052192">
   <name>SR4L</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Lomza
 Frequency: TX: 438.1000 MHz, RX: 430.5000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR4L</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Lomza
@@ -31926,13 +31905,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR4LG</desc>
  </wpt>
  <wpt lat="53.790664" lon="19.536485">
   <name>SR4LIN</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Jerzwald
 Frequency: TX: 438.6500 MHz, RX: 431.0500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR4LIN</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Jerzwald
 Frequency: TX: 438.6500 MHz, RX: 431.0500 MHz
@@ -32039,13 +32018,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR4MID</desc>
  </wpt>
  <wpt lat="53.937727" lon="21.844764">
   <name>SR4MIT</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Milki k/Gizycka EMITEL
 Frequency: TX: 438.5250 MHz, RX: 430.9250 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR4MIT</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Milki k/Gizycka EMITEL
 Frequency: TX: 438.5250 MHz, RX: 430.9250 MHz
@@ -32086,14 +32065,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR4MR</desc>
  </wpt>
  <wpt lat="53.866333" lon="21.285911">
   <name>SR4MWO</name>
-  <cmt>70cm FM+DSTAR/DV+APCO-25 repeater
+  <cmt>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Mragowo
 Frequency: TX: 438.1500 MHz, RX: 430.5500 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR4MWO</cmt>
-  <desc>70cm FM+DSTAR/DV+APCO-25 repeater
+  <desc>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Mragowo
@@ -32118,14 +32097,14 @@ More information: https://przemienniki.net/przemienniki/2m/SR4O</desc>
  </wpt>
  <wpt lat="54.035498" lon="22.500114">
   <name>SR4OE</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Olecko
 Frequency: TX: 439.4000 MHz, RX: 431.8000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR4OE</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Olecko
@@ -32231,13 +32210,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR4ONT</desc>
  </wpt>
  <wpt lat="53.773118" lon="20.513320">
   <name>SR4ONX</name>
-  <cmt>70cm FM+DSTAR/DV+APCO-25 repeater
+  <cmt>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 QTH: Olsztyn
 Frequency: TX: 438.9500 MHz, RX: 431.3500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR4ONX</cmt>
-  <desc>70cm FM+DSTAR/DV+APCO-25 repeater
+  <desc>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 QTH: Olsztyn
 Frequency: TX: 438.9500 MHz, RX: 431.3500 MHz
@@ -32355,14 +32334,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR4SA</desc>
  </wpt>
  <wpt lat="53.564684" lon="21.000160">
   <name>SR4SN</name>
-  <cmt>70cm FM+DSTAR/DV+APCO-25 repeater
+  <cmt>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Szczytno
 Frequency: TX: 438.8750 MHz, RX: 431.2750 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR4SN</cmt>
-  <desc>70cm FM+DSTAR/DV+APCO-25 repeater
+  <desc>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Szczytno
@@ -32517,14 +32496,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR4UBI</desc>
  </wpt>
  <wpt lat="54.020833" lon="23.375000">
   <name>SR4UG</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Giby
 Frequency: TX: 438.7750 MHz, RX: 431.1750 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR4UG</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Giby
@@ -32549,13 +32528,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR4UVD</desc>
  </wpt>
  <wpt lat="54.047551" lon="19.621930">
   <name>SR4UVE</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Paslek
 Frequency: TX: 438.6000 MHz, RX: 431.0000 MHz
 Activation: CTCSS (94.8 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR4UVE</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Paslek
 Frequency: TX: 438.6000 MHz, RX: 431.0000 MHz
@@ -32579,13 +32558,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR4UVM</desc>
  </wpt>
  <wpt lat="53.770592" lon="20.490134">
   <name>SR4UVN</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
 QTH: Olsztyn
 Frequency: TX: 439.4625 MHz, RX: 431.8625 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR4UVN</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
 QTH: Olsztyn
 Frequency: TX: 439.4625 MHz, RX: 431.8625 MHz
@@ -32628,16 +32607,16 @@ More information: https://przemienniki.net/przemienniki/2m/SR4X</desc>
  </wpt>
  <wpt lat="52.131170" lon="21.055902">
   <name>SR5AWK</name>
-  <cmt>70cm C4FM/Fusion repeater
+  <cmt>70cm Tetra repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Warszawa
 Frequency: TX: 431.6125 MHz, RX: 431.6125 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR5AWK</cmt>
-  <desc>70cm C4FM/Fusion repeater
+  <desc>70cm Tetra repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Warszawa
 Frequency: TX: 431.6125 MHz, RX: 431.6125 MHz
 Activation: nośną
@@ -32694,14 +32673,14 @@ More information: https://przemienniki.net/przemienniki/2m/SR5DMRC</desc>
  </wpt>
  <wpt lat="52.152627" lon="21.564994">
   <name>SR5DV</name>
-  <cmt>2m FM+APCO-25 repeater
+  <cmt>2m FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: 
 Frequency: TX: 145.5875 MHz, RX: 144.9875 MHz
 Activation: CTCSS (127.3 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR5DV</cmt>
-  <desc>2m FM+APCO-25 repeater
+  <desc>2m FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: 
@@ -32775,13 +32754,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR5ECHO</desc>
  </wpt>
  <wpt lat="51.421913" lon="21.163807">
   <name>SR5FUS</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Radom
 Frequency: TX: 438.1500 MHz, RX: 430.5500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR5FUS</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Radom
 Frequency: TX: 438.1500 MHz, RX: 430.5500 MHz
@@ -32790,13 +32769,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR5FUS</desc>
  </wpt>
  <wpt lat="51.901273" lon="21.614472">
   <name>SR5FWG</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Garwolin
 Frequency: TX: 438.2500 MHz, RX: 430.6500 MHz
 Activation: CTCSS (127.3 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR5FWG</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Garwolin
 Frequency: TX: 438.2500 MHz, RX: 430.6500 MHz
@@ -32916,20 +32895,20 @@ More information: https://przemienniki.net/przemienniki/10m/SR5KP</desc>
  </wpt>
  <wpt lat="52.298630" lon="20.530593">
   <name>SR5KPN</name>
-  <cmt>10m FM repeater
+  <cmt>70cm FM repeater
 
 Network: Echolink
 QTH: Zamczysko
 Frequency: TX: 438.2000 MHz, RX: 430.6000 MHz
 Activation: CTCSS (127.3 Hz)
-More information: https://przemienniki.net/przemienniki/10m/SR5KPN</cmt>
-  <desc>10m FM repeater
+More information: https://przemienniki.net/przemienniki/70cm/SR5KPN</cmt>
+  <desc>70cm FM repeater
 
 Network: Echolink
 QTH: Zamczysko
 Frequency: TX: 438.2000 MHz, RX: 430.6000 MHz
 Activation: CTCSS (127.3 Hz)
-More information: https://przemienniki.net/przemienniki/10m/SR5KPN</desc>
+More information: https://przemienniki.net/przemienniki/70cm/SR5KPN</desc>
  </wpt>
  <wpt lat="52.298630" lon="20.530593">
   <name>SR5KPN</name>
@@ -33014,13 +32993,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR5MM</desc>
  </wpt>
  <wpt lat="52.425343" lon="20.751385">
   <name>SR5MS</name>
-  <cmt>70cm  repeater
+  <cmt>70cm M17 repeater
 
 QTH: Nowy Dwor Mazowiecki
 Frequency: TX: 438.8125 MHz, RX: 431.2125 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR5MS</cmt>
-  <desc>70cm  repeater
+  <desc>70cm M17 repeater
 
 QTH: Nowy Dwor Mazowiecki
 Frequency: TX: 438.8125 MHz, RX: 431.2125 MHz
@@ -33042,45 +33021,15 @@ Frequency: TX: 439.4250 MHz, RX: 431.8250 MHz
 Activation: CTCSS (127.3 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR5ND</desc>
  </wpt>
- <wpt lat="52.480013" lon="20.061837">
-  <name>SR5NRD</name>
-  <cmt>70cm FM repeater
-
-QTH: Cybulin
-Frequency: TX: 438.9750 MHz, RX: 431.3750 MHz
-Activation: CTCSS (127.3 Hz)
-More information: https://przemienniki.net/przemienniki/70cm/SR5NRD</cmt>
-  <desc>70cm FM repeater
-
-QTH: Cybulin
-Frequency: TX: 438.9750 MHz, RX: 431.3750 MHz
-Activation: CTCSS (127.3 Hz)
-More information: https://przemienniki.net/przemienniki/70cm/SR5NRD</desc>
- </wpt>
- <wpt lat="52.480013" lon="20.061837">
-  <name>SR5NRD</name>
-  <cmt>Crossband FM repeater
-
-QTH: Cybulin
-Frequency: RX/TX: 431.375 + 438.975 MHz
-Activation: CTCSS (127.3 Hz)
-More information: https://przemienniki.net/przemienniki//SR5NRD</cmt>
-  <desc>Crossband FM repeater
-
-QTH: Cybulin
-Frequency: RX/TX: 431.375 + 438.975 MHz
-Activation: CTCSS (127.3 Hz)
-More information: https://przemienniki.net/przemienniki//SR5NRD</desc>
- </wpt>
  <wpt lat="53.080352" lon="21.569352">
   <name>SR5O</name>
-  <cmt>2m FM+APCO-25 repeater
+  <cmt>2m FM+C4FM/Fusion repeater
 
 QTH: Ostroleka
 Frequency: TX: 145.6750 MHz, RX: 145.0750 MHz
 Activation: CTCSS (127.3 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR5O</cmt>
-  <desc>2m FM+APCO-25 repeater
+  <desc>2m FM+C4FM/Fusion repeater
 
 QTH: Ostroleka
 Frequency: TX: 145.6750 MHz, RX: 145.0750 MHz
@@ -33089,16 +33038,16 @@ More information: https://przemienniki.net/przemienniki/2m/SR5O</desc>
  </wpt>
  <wpt lat="53.234690" lon="21.456630">
   <name>SR5OK</name>
-  <cmt>70cm FM+DSTAR/DV+APCO-25 repeater
+  <cmt>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
-Network: Echolink
+Network: SQLink
 QTH: Kadzidlo
 Frequency: TX: 439.2625 MHz, RX: 431.6625 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR5OK</cmt>
-  <desc>70cm FM+DSTAR/DV+APCO-25 repeater
+  <desc>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
-Network: Echolink
+Network: SQLink
 QTH: Kadzidlo
 Frequency: TX: 439.2625 MHz, RX: 431.6625 MHz
 Activation: nośną
@@ -33157,14 +33106,12 @@ More information: https://przemienniki.net/przemienniki/2m/SR5P</desc>
   <name>SR5PL</name>
   <cmt>70cm FM repeater
 
-Network: FM-Link
 QTH: Plock
 Frequency: TX: 439.1250 MHz, RX: 431.5250 MHz
 Activation: CTCSS (127.3 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR5PL</cmt>
   <desc>70cm FM repeater
 
-Network: FM-Link
 QTH: Plock
 Frequency: TX: 439.1250 MHz, RX: 431.5250 MHz
 Activation: CTCSS (127.3 Hz)
@@ -33285,14 +33232,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR5RA</desc>
   <name>SR5RAD</name>
   <cmt>2m FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: RADOM - maszt Emitel
 Frequency: TX: 145.7875 MHz, RX: 145.1875 MHz
 Activation: CTCSS (118.8 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR5RAD</cmt>
   <desc>2m FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: RADOM - maszt Emitel
 Frequency: TX: 145.7875 MHz, RX: 145.1875 MHz
 Activation: CTCSS (118.8 Hz)
@@ -33349,13 +33296,13 @@ More information: https://przemienniki.net/przemienniki/2m/SR5S</desc>
  </wpt>
  <wpt lat="52.178818" lon="22.271183">
   <name>SR5SE</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Siedlce
 Frequency: TX: 438.7500 MHz, RX: 431.1500 MHz
 Activation: CTCSS (127.3 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR5SE</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Siedlce
 Frequency: TX: 438.7500 MHz, RX: 431.1500 MHz
@@ -33426,13 +33373,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR5UR</desc>
  </wpt>
  <wpt lat="52.268254" lon="21.128688">
   <name>SR5UVA</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Warszawa - komin EC Kaweczyn
 Frequency: TX: 439.4375 MHz, RX: 431.8375 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR5UVA</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Warszawa - komin EC Kaweczyn
 Frequency: TX: 439.4375 MHz, RX: 431.8375 MHz
@@ -33488,14 +33435,12 @@ More information: https://przemienniki.net/przemienniki/70cm/SR5VW</desc>
   <name>SR5W</name>
   <cmt>2m FM repeater
 
-Network: Echolink
 QTH: Warszawa - komin EC Kaweczyn
 Frequency: TX: 145.7500 MHz, RX: 145.1500 MHz
 Activation: CTCSS (127.3 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR5W</cmt>
   <desc>2m FM repeater
 
-Network: Echolink
 QTH: Warszawa - komin EC Kaweczyn
 Frequency: TX: 145.7500 MHz, RX: 145.1500 MHz
 Activation: CTCSS (127.3 Hz)
@@ -33518,19 +33463,17 @@ More information: https://przemienniki.net/przemienniki/70cm/SR5WA</desc>
  </wpt>
  <wpt lat="52.268254" lon="21.128688">
   <name>SR5WAD</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm DMR repeater
 
-Network: Echolink
 QTH: Warszawa - komin EC Kaweczyn
 Frequency: TX: 438.3375 MHz, RX: 430.7375 MHz
-Activation: CTCSS (127.3 Hz)
+Activation: 
 More information: https://przemienniki.net/przemienniki/70cm/SR5WAD</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm DMR repeater
 
-Network: Echolink
 QTH: Warszawa - komin EC Kaweczyn
 Frequency: TX: 438.3375 MHz, RX: 430.7375 MHz
-Activation: CTCSS (127.3 Hz)
+Activation: 
 More information: https://przemienniki.net/przemienniki/70cm/SR5WAD</desc>
  </wpt>
  <wpt lat="52.175313" lon="20.742929">
@@ -33565,14 +33508,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR5WC</desc>
  </wpt>
  <wpt lat="52.175313" lon="20.742929">
   <name>SR5WD</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Moszna-Parcela
 Frequency: TX: 438.4000 MHz, RX: 430.8000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR5WD</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Moszna-Parcela
@@ -33708,14 +33651,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR5WZ</desc>
  </wpt>
  <wpt lat="52.146074" lon="20.815292">
   <name>SR5YAM</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Komorow
 Frequency: TX: 430.5375 MHz, RX: 430.5375 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR5YAM</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Komorow
@@ -33725,13 +33668,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR5YAM</desc>
  </wpt>
  <wpt lat="52.146074" lon="20.815292">
   <name>SR5YM</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
 QTH: Komorow
 Frequency: TX: 438.3000 MHz, RX: 430.7000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR5YM</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
 QTH: Komorow
 Frequency: TX: 438.3000 MHz, RX: 430.7000 MHz
@@ -33819,20 +33762,20 @@ More information: https://przemienniki.net/przemienniki/2m/SR6A</desc>
   <name>SR6AA</name>
   <cmt>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Legnica
 Frequency: TX: 439.4000 MHz, RX: 431.8000 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR6AA</cmt>
   <desc>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Legnica
 Frequency: TX: 439.4000 MHz, RX: 431.8000 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR6AA</desc>
  </wpt>
- <wpt lat="51.111545" lon="17.060299">
+ <wpt lat="51.303195" lon="17.035010">
   <name>SR6ACZ</name>
   <cmt>70cm FM repeater
 
@@ -33956,21 +33899,19 @@ Frequency: TX: 144.9750 MHz, RX: 144.9750 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/2m/SR6DL</desc>
  </wpt>
- <wpt lat="50.937500" lon="17.291667">
+ <wpt lat="50.937516" lon="17.291676">
   <name>SR6DMO</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
-Network: Echolink
 QTH: Oława
 Frequency: TX: 438.6250 MHz, RX: 431.0250 MHz
-Activation: nośną,CTCSS (94.8 Hz)
+Activation: CTCSS (94.8 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR6DMO</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
 
-Network: Echolink
 QTH: Oława
 Frequency: TX: 438.6250 MHz, RX: 431.0250 MHz
-Activation: nośną,CTCSS (94.8 Hz)
+Activation: CTCSS (94.8 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR6DMO</desc>
  </wpt>
  <wpt lat="51.114774" lon="17.067787">
@@ -34039,19 +33980,19 @@ Frequency: TX: 438.6375 MHz, RX: 431.0375 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR6DZM</desc>
  </wpt>
- <wpt lat="50.256943" lon="17.428882">
+ <wpt lat="50.256960" lon="17.428860">
   <name>SR6F</name>
   <cmt>2m FM repeater
 
-QTH: BISKUPIA KOPA
-Frequency: TX: 145.7500 MHz, RX: 145.1500 MHz
-Activation: CTCSS (71.9 Hz)
+QTH: Biskupia Kopa
+Frequency: TX: 145.1500 MHz, RX: 145.7500 MHz
+Activation: CTCSS (94.8 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR6F</cmt>
   <desc>2m FM repeater
 
-QTH: BISKUPIA KOPA
-Frequency: TX: 145.7500 MHz, RX: 145.1500 MHz
-Activation: CTCSS (71.9 Hz)
+QTH: Biskupia Kopa
+Frequency: TX: 145.1500 MHz, RX: 145.7500 MHz
+Activation: CTCSS (94.8 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR6F</desc>
  </wpt>
  <wpt lat="51.306110" lon="17.033005">
@@ -34178,19 +34119,17 @@ Frequency: TX: 439.1250 MHz, RX: 431.5250 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR6L</desc>
  </wpt>
- <wpt lat="51.212460" lon="16.163592">
+ <wpt lat="51.256347" lon="16.055585">
   <name>SR6LDV</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm DMR+C4FM/Fusion repeater
 
-Network: Echolink
-QTH: Legnica
+QTH: Miłkowice
 Frequency: TX: 438.2500 MHz, RX: 430.6500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR6LDV</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm DMR+C4FM/Fusion repeater
 
-Network: Echolink
-QTH: Legnica
+QTH: Miłkowice
 Frequency: TX: 438.2500 MHz, RX: 430.6500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR6LDV</desc>
@@ -34263,14 +34202,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR6MA</desc>
   <name>SR6MI</name>
   <cmt>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Milkowice
 Frequency: TX: 439.3375 MHz, RX: 431.7375 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR6MI</cmt>
   <desc>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Milkowice
 Frequency: TX: 439.3375 MHz, RX: 431.7375 MHz
 Activation: CTCSS (67.0 Hz)
@@ -34278,13 +34217,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR6MI</desc>
  </wpt>
  <wpt lat="51.141371" lon="17.030831">
   <name>SR6MRU</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Wroclaw
 Frequency: TX: 439.3000 MHz, RX: 431.7000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR6MRU</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Wroclaw
 Frequency: TX: 439.3000 MHz, RX: 431.7000 MHz
@@ -34342,14 +34281,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR6OO</desc>
  </wpt>
  <wpt lat="50.675862" lon="17.956617">
   <name>SR6OP</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
 Network: Echolink
 QTH: Opole
 Frequency: TX: 439.3250 MHz, RX: 431.7250 MHz
 Activation: CTCSS (94.8 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR6OP</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
 
 Network: Echolink
 QTH: Opole
@@ -34374,7 +34313,7 @@ Frequency: TX: 438.8000 MHz, RX: 431.2000 MHz
 Activation: CTCSS (94.8 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR6PS</desc>
  </wpt>
- <wpt lat="51.106164" lon="17.043040">
+ <wpt lat="51.108925" lon="16.984885">
   <name>SR6R</name>
   <cmt>2m FM repeater
 
@@ -34455,14 +34394,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR6SO</desc>
  </wpt>
  <wpt lat="50.914357" lon="16.014392">
   <name>SR6T</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Bolkow
 Frequency: TX: 438.5500 MHz, RX: 430.9500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR6T</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Bolkow
@@ -34489,16 +34428,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR6TT</desc>
  </wpt>
  <wpt lat="51.345552" lon="17.497358">
   <name>SR6TW</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+DMR+C4FM/Fusion repeater
 
-Network: Echolink
 QTH: Chelstow
 Frequency: TX: 438.7500 MHz, RX: 431.1500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR6TW</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+DMR+C4FM/Fusion repeater
 
-Network: Echolink
 QTH: Chelstow
 Frequency: TX: 438.7500 MHz, RX: 431.1500 MHz
 Activation: nośną
@@ -34647,20 +34584,20 @@ More information: https://przemienniki.net/przemienniki/70cm/SR6WB</desc>
  </wpt>
  <wpt lat="51.187500" lon="16.791667">
   <name>SR6WF</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Mrozów
 Frequency: TX: 438.4000 MHz, RX: 430.8000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR6WF</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Mrozów
 Frequency: TX: 438.4000 MHz, RX: 430.8000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR6WF</desc>
  </wpt>
- <wpt lat="51.114462" lon="16.958219">
+ <wpt lat="51.108938" lon="16.984842">
   <name>SR6WR</name>
   <cmt>70cm FM repeater
 
@@ -34722,13 +34659,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR6WY</desc>
  </wpt>
  <wpt lat="50.680321" lon="16.485667">
   <name>SR6XWS</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Wielka Sowa
 Frequency: TX: 439.5625 MHz, RX: 431.9625 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR6XWS</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Wielka Sowa
 Frequency: TX: 439.5625 MHz, RX: 431.9625 MHz
@@ -34801,18 +34738,16 @@ Frequency: TX: 145.5750 MHz, RX: 144.9750 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/2m/SR7CKD</desc>
  </wpt>
- <wpt lat="50.479167" lon="20.708333">
+ <wpt lat="50.479000" lon="20.708000">
   <name>SR7DBZ</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
-Network: Echolink
 QTH: Busko-Zdroj
 Frequency: TX: 438.5625 MHz, RX: 430.9625 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR7DBZ</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
 
-Network: Echolink
 QTH: Busko-Zdroj
 Frequency: TX: 438.5625 MHz, RX: 430.9625 MHz
 Activation: nośną
@@ -34903,13 +34838,13 @@ More information: https://przemienniki.net/przemienniki/2m/SR7E</desc>
  </wpt>
  <wpt lat="51.205645" lon="19.435416">
   <name>SR7FUS</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Gora Kamiensk wieza EmiTel
 Frequency: TX: 438.6125 MHz, RX: 431.0125 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR7FUS</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Gora Kamiensk wieza EmiTel
 Frequency: TX: 438.6125 MHz, RX: 431.0125 MHz
@@ -34918,13 +34853,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR7FUS</desc>
  </wpt>
  <wpt lat="50.382386" lon="20.592706">
   <name>SR7G</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Zlota
 Frequency: TX: 439.0625 MHz, RX: 431.4625 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR7G</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Zlota
 Frequency: TX: 439.0625 MHz, RX: 431.4625 MHz
@@ -35146,13 +35081,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR7LDQ</desc>
  </wpt>
  <wpt lat="51.814756" lon="19.619306">
   <name>SR7LDY</name>
-  <cmt>2m APCO-25 repeater
+  <cmt>2m C4FM/Fusion repeater
 
 QTH: Plichtow
 Frequency: TX: 145.7375 MHz, RX: 145.1375 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/2m/SR7LDY</cmt>
-  <desc>2m APCO-25 repeater
+  <desc>2m C4FM/Fusion repeater
 
 QTH: Plichtow
 Frequency: TX: 145.7375 MHz, RX: 145.1375 MHz
@@ -35240,17 +35175,17 @@ More information: https://przemienniki.net/przemienniki//SR7LLX</desc>
  </wpt>
  <wpt lat="51.761471" lon="19.539368">
   <name>SR7LM</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
 Network: Echolink
-QTH: Lodz
+QTH: Łódź
 Frequency: TX: 439.2000 MHz, RX: 431.6000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR7LM</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
 
 Network: Echolink
-QTH: Lodz
+QTH: Łódź
 Frequency: TX: 439.2000 MHz, RX: 431.6000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR7LM</desc>
@@ -35272,13 +35207,13 @@ More information: https://przemienniki.net/przemienniki/23cm/SR7LO</desc>
  </wpt>
  <wpt lat="50.860322" lon="21.048573">
   <name>SR7MK</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Lysa Gora/Nowa Slupia - RTCN Swiety Krzyz EmiTel
 Frequency: TX: 438.4750 MHz, RX: 430.8750 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR7MK</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Lysa Gora/Nowa Slupia - RTCN Swiety Krzyz EmiTel
 Frequency: TX: 438.4750 MHz, RX: 430.8750 MHz
@@ -35336,14 +35271,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR7PA</desc>
  </wpt>
  <wpt lat="51.012532" lon="21.545069">
   <name>SR7PB</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Baltow
 Frequency: TX: 438.6500 MHz, RX: 431.0500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR7PB</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Baltow
@@ -35483,13 +35418,13 @@ More information: https://przemienniki.net/przemienniki//SR7TCW</desc>
  </wpt>
  <wpt lat="51.548173" lon="20.045956">
   <name>SR7TM</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Tomaszow Mazowiecki
 Frequency: TX: 438.6750 MHz, RX: 431.0750 MHz
 Activation: CTCSS (118.8 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR7TM</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Tomaszow Mazowiecki
 Frequency: TX: 438.6750 MHz, RX: 431.0750 MHz
@@ -35528,17 +35463,17 @@ More information: https://przemienniki.net/przemienniki/70cm/SR7ULD</desc>
  </wpt>
  <wpt lat="51.746115" lon="19.450216">
   <name>SR7ULM</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Lodz
-Frequency: TX: 439.5000 MHz, RX: 431.9000 MHz
-Activation: CTCSS (74.4 Hz)
+Frequency: TX: 439.4000 MHz, RX: 431.8000 MHz
+Activation: 
 More information: https://przemienniki.net/przemienniki/70cm/SR7ULM</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Lodz
-Frequency: TX: 439.5000 MHz, RX: 431.9000 MHz
-Activation: CTCSS (74.4 Hz)
+Frequency: TX: 439.4000 MHz, RX: 431.8000 MHz
+Activation: 
 More information: https://przemienniki.net/przemienniki/70cm/SR7ULM</desc>
  </wpt>
  <wpt lat="51.598889" lon="18.697243">
@@ -35618,14 +35553,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR7UVV</desc>
  </wpt>
  <wpt lat="51.259814" lon="18.322125">
   <name>SR7UWI</name>
-  <cmt>70cm DSTAR/DV repeater
+  <cmt>70cm DSTAR/DV+DMR repeater
 
 Network: Echolink
 QTH: Czastary
 Frequency: TX: 438.5250 MHz, RX: 430.9250 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR7UWI</cmt>
-  <desc>70cm DSTAR/DV repeater
+  <desc>70cm DSTAR/DV+DMR repeater
 
 Network: Echolink
 QTH: Czastary
@@ -35699,14 +35634,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR7WI</desc>
   <name>SR7WU</name>
   <cmt>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Wieruszow
 Frequency: TX: 439.5500 MHz, RX: 431.9500 MHz
 Activation: CTCSS (123.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR7WU</cmt>
   <desc>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Wieruszow
 Frequency: TX: 439.5500 MHz, RX: 431.9500 MHz
 Activation: CTCSS (123.0 Hz)
@@ -35840,14 +35775,14 @@ More information: https://przemienniki.net/przemienniki/10m/SR8AR</desc>
  </wpt>
  <wpt lat="52.030614" lon="23.147055">
   <name>SR8AVB</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Biala Podlaska
 Frequency: TX: 439.0125 MHz, RX: 431.4125 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR8AVB</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Biala Podlaska
@@ -35979,13 +35914,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR8DE</desc>
  </wpt>
  <wpt lat="50.059358" lon="21.397837">
   <name>SR8DEF</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Debica
 Frequency: TX: 438.4250 MHz, RX: 430.8250 MHz
 Activation: CTCSS (103.5 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR8DEF</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Debica
 Frequency: TX: 438.4250 MHz, RX: 430.8250 MHz
@@ -36062,13 +35997,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR8DRL</desc>
  </wpt>
  <wpt lat="49.885216" lon="22.389420">
   <name>SR8DU</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Drohobyczka-Dubiecko
 Frequency: TX: 439.0000 MHz, RX: 431.4000 MHz
 Activation: CTCSS (71.9 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR8DU</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Drohobyczka-Dubiecko
 Frequency: TX: 439.0000 MHz, RX: 431.4000 MHz
@@ -36077,13 +36012,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR8DU</desc>
  </wpt>
  <wpt lat="49.756122" lon="21.812941">
   <name>SR8DV</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: RTCN Sucha Gora/Krosno EmiTel-Czarnorzeki 90
 Frequency: TX: 439.4000 MHz, RX: 430.8000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR8DV</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: RTCN Sucha Gora/Krosno EmiTel-Czarnorzeki 90
 Frequency: TX: 439.4000 MHz, RX: 430.8000 MHz
@@ -36141,13 +36076,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR8FM</desc>
  </wpt>
  <wpt lat="51.558118" lon="23.553329">
   <name>SR8FWD</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Wlodawa
 Frequency: TX: 438.7125 MHz, RX: 431.1125 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR8FWD</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Wlodawa
 Frequency: TX: 438.7125 MHz, RX: 431.1125 MHz
@@ -36235,13 +36170,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR8JS</desc>
  </wpt>
  <wpt lat="49.885216" lon="22.389420">
   <name>SR8K</name>
-  <cmt>2m FM+APCO-25 repeater
+  <cmt>2m FM+C4FM/Fusion repeater
 
 QTH: Drohobyczka-Dubiecko
 Frequency: TX: 145.6000 MHz, RX: 145.0000 MHz
 Activation: CTCSS (71.9 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR8K</cmt>
-  <desc>2m FM+APCO-25 repeater
+  <desc>2m FM+C4FM/Fusion repeater
 
 QTH: Drohobyczka-Dubiecko
 Frequency: TX: 145.6000 MHz, RX: 145.0000 MHz
@@ -36282,13 +36217,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR8KR</desc>
  </wpt>
  <wpt lat="49.697373" lon="21.752431">
   <name>SR8KSR</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Krosno
 Frequency: TX: 438.9250 MHz, RX: 431.3250 MHz
 Activation: CTCSS (103.5 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR8KSR</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Krosno
 Frequency: TX: 438.9250 MHz, RX: 431.3250 MHz
@@ -36357,13 +36292,13 @@ More information: https://przemienniki.net/przemienniki/10m/SR8LBL</desc>
  </wpt>
  <wpt lat="51.241034" lon="22.550550">
   <name>SR8LBT</name>
-  <cmt>70cm C4FM/Fusion repeater
+  <cmt>70cm Tetra repeater
 
 QTH: Lublin
 Frequency: TX: 430.1000 MHz, RX: 431.7000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR8LBT</cmt>
-  <desc>70cm C4FM/Fusion repeater
+  <desc>70cm Tetra repeater
 
 QTH: Lublin
 Frequency: TX: 430.1000 MHz, RX: 431.7000 MHz
@@ -36436,14 +36371,12 @@ More information: https://przemienniki.net/przemienniki/70cm/SR8LN</desc>
   <name>SR8LSW</name>
   <cmt>70cm FM repeater
 
-Network: FM-Link
 QTH: Swidnik
 Frequency: TX: 439.0250 MHz, RX: 431.4250 MHz
 Activation: CTCSS (110.9 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR8LSW</cmt>
   <desc>70cm FM repeater
 
-Network: FM-Link
 QTH: Swidnik
 Frequency: TX: 439.0250 MHz, RX: 431.4250 MHz
 Activation: CTCSS (110.9 Hz)
@@ -36481,13 +36414,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR8LUB</desc>
  </wpt>
  <wpt lat="51.225671" lon="22.623193">
   <name>SR8LUF</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Lublin
 Frequency: TX: 439.5250 MHz, RX: 431.9250 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR8LUF</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Lublin
 Frequency: TX: 439.5250 MHz, RX: 431.9250 MHz
@@ -36562,16 +36495,14 @@ More information: https://przemienniki.net/przemienniki/6m/SR8MBR</desc>
  </wpt>
  <wpt lat="49.841000" lon="22.434000">
   <name>SR8NA</name>
-  <cmt>70cm FM+DSTAR/DV+APCO-25 repeater
+  <cmt>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
-Network: Echolink
 QTH: Dubiecko
 Frequency: TX: 438.8250 MHz, RX: 431.2250 MHz
 Activation: CTCSS (71.9 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR8NA</cmt>
-  <desc>70cm FM+DSTAR/DV+APCO-25 repeater
+  <desc>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
-Network: Echolink
 QTH: Dubiecko
 Frequency: TX: 438.8250 MHz, RX: 431.2250 MHz
 Activation: CTCSS (71.9 Hz)
@@ -36677,14 +36608,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR8RD</desc>
  </wpt>
  <wpt lat="49.813220" lon="21.350967">
   <name>SR8RJS</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
 Network: Echolink
 QTH: Opacie
 Frequency: TX: 438.5000 MHz, RX: 430.9000 MHz
 Activation: CTCSS (103.5 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR8RJS</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
 
 Network: Echolink
 QTH: Opacie
@@ -36694,14 +36625,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR8RJS</desc>
  </wpt>
  <wpt lat="49.813220" lon="21.350967">
   <name>SR8RJS</name>
-  <cmt>6m FM repeater
+  <cmt>6m FM+DMR repeater
 
 Network: Echolink
 QTH: Opacie
 Frequency: TX: 51.750 MHz, RX: 51.250 MHz
 Activation: CTCSS (103.5 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR8RJS</cmt>
-  <desc>6m FM repeater
+  <desc>6m FM+DMR repeater
 
 Network: Echolink
 QTH: Opacie
@@ -36991,14 +36922,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR8UVS</desc>
  </wpt>
  <wpt lat="51.558078" lon="23.553710">
   <name>SR8UWD</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Wlodawa
 Frequency: TX: 438.5125 MHz, RX: 430.9125 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR8UWD</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Wlodawa
@@ -37128,32 +37059,17 @@ More information: https://przemienniki.net/przemienniki/6m/SR9ABC</desc>
  </wpt>
  <wpt lat="50.027327" lon="19.923507">
   <name>SR9AD</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Kraków
 Frequency: TX: 439.0000 MHz, RX: 431.4000 MHz
 Activation: b.d.
 More information: https://przemienniki.net/przemienniki/70cm/SR9AD</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Kraków
 Frequency: TX: 439.0000 MHz, RX: 431.4000 MHz
 Activation: b.d.
-More information: https://przemienniki.net/przemienniki/70cm/SR9AD</desc>
- </wpt>
- <wpt lat="50.027327" lon="19.923507">
-  <name>SR9AD</name>
-  <cmt>70cm APCO-25 repeater
-
-QTH: Krakow
-Frequency: TX: 439.0000 MHz, RX: 431.4000 MHz
-Activation: nośną
-More information: https://przemienniki.net/przemienniki/70cm/SR9AD</cmt>
-  <desc>70cm APCO-25 repeater
-
-QTH: Krakow
-Frequency: TX: 439.0000 MHz, RX: 431.4000 MHz
-Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR9AD</desc>
  </wpt>
  <wpt lat="49.766749" lon="20.059544">
@@ -37173,14 +37089,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9AE</desc>
  </wpt>
  <wpt lat="49.719340" lon="20.454850">
   <name>SR9AMS</name>
-  <cmt>2m FM+APCO-25 repeater
+  <cmt>2m FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: (zmiana lokalizacji)
 Frequency: TX: 145.2375 MHz, RX: 145.2375 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/2m/SR9AMS</cmt>
-  <desc>2m FM+APCO-25 repeater
+  <desc>2m FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: (zmiana lokalizacji)
@@ -37190,16 +37106,14 @@ More information: https://przemienniki.net/przemienniki/2m/SR9AMS</desc>
  </wpt>
  <wpt lat="49.787232" lon="19.224770">
   <name>SR9ASR</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
-Network: Echolink
 QTH: Gora Zar
 Frequency: TX: 438.3000 MHz, RX: 430.7000 MHz
 Activation: CTCSS (74.4 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9ASR</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
 
-Network: Echolink
 QTH: Gora Zar
 Frequency: TX: 438.3000 MHz, RX: 430.7000 MHz
 Activation: CTCSS (74.4 Hz)
@@ -37207,13 +37121,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9ASR</desc>
  </wpt>
  <wpt lat="49.685223" lon="19.029843">
   <name>SR9B</name>
-  <cmt>2m FM+APCO-25 repeater
+  <cmt>2m FM+C4FM/Fusion repeater
 
 QTH: Skrzyczne
 Frequency: TX: 145.7125 MHz, RX: 145.1125 MHz
 Activation: ton 1750Hz,CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR9B</cmt>
-  <desc>2m FM+APCO-25 repeater
+  <desc>2m FM+C4FM/Fusion repeater
 
 QTH: Skrzyczne
 Frequency: TX: 145.7125 MHz, RX: 145.1125 MHz
@@ -37273,14 +37187,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9BN</desc>
  </wpt>
  <wpt lat="49.760053" lon="19.001327">
   <name>SR9BSR</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
 Network: Echolink
 QTH: Gora Szyndzielnia
 Frequency: TX: 438.2500 MHz, RX: 430.6500 MHz
 Activation: CTCSS (74.4 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9BSR</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
 
 Network: Echolink
 QTH: Gora Szyndzielnia
@@ -37288,17 +37202,17 @@ Frequency: TX: 438.2500 MHz, RX: 430.6500 MHz
 Activation: CTCSS (74.4 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9BSR</desc>
  </wpt>
- <wpt lat="50.044058" lon="20.174012">
+ <wpt lat="50.043873" lon="20.173739">
   <name>SR9C</name>
   <cmt>2m FM repeater
 
-QTH: Niepolomice
+QTH: Niepołomice
 Frequency: TX: 145.6000 MHz, RX: 145.0000 MHz
 Activation: CTCSS (103.5 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR9C</cmt>
   <desc>2m FM repeater
 
-QTH: Niepolomice
+QTH: Niepołomice
 Frequency: TX: 145.6000 MHz, RX: 145.0000 MHz
 Activation: CTCSS (103.5 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR9C</desc>
@@ -37369,13 +37283,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9CZE</desc>
  </wpt>
  <wpt lat="50.307652" lon="19.122050">
   <name>SR9D</name>
-  <cmt>2m FM+APCO-25 repeater
+  <cmt>2m FM+C4FM/Fusion repeater
 
 QTH: Bedzin
 Frequency: TX: 145.6750 MHz, RX: 145.0750 MHz
 Activation: CTCSS (71.9 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR9D</cmt>
-  <desc>2m FM+APCO-25 repeater
+  <desc>2m FM+C4FM/Fusion repeater
 
 QTH: Bedzin
 Frequency: TX: 145.6750 MHz, RX: 145.0750 MHz
@@ -37552,14 +37466,14 @@ More information: https://przemienniki.net/przemienniki/2m/SR9DSR</desc>
  </wpt>
  <wpt lat="50.116012" lon="19.969213">
   <name>SR9DV</name>
-  <cmt>70cm FM+DSTAR/DV+APCO-25 repeater
+  <cmt>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Wegrzce
 Frequency: TX: 438.3250 MHz, RX: 430.7250 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9DV</cmt>
-  <desc>70cm FM+DSTAR/DV+APCO-25 repeater
+  <desc>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Wegrzce
@@ -37569,13 +37483,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9DV</desc>
  </wpt>
  <wpt lat="50.354167" lon="18.875000">
   <name>SR9DX</name>
-  <cmt>2m FM+APCO-25 repeater
+  <cmt>2m FM+C4FM/Fusion repeater
 
 QTH: Bytom
 Frequency: TX: 145.5750 MHz, RX: 144.9750 MHz
 Activation: nośną,CTCSS (71.9 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR9DX</cmt>
-  <desc>2m FM+APCO-25 repeater
+  <desc>2m FM+C4FM/Fusion repeater
 
 QTH: Bytom
 Frequency: TX: 145.5750 MHz, RX: 144.9750 MHz
@@ -37729,14 +37643,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9GP</desc>
  </wpt>
  <wpt lat="49.664762" lon="21.152389">
   <name>SR9GR</name>
-  <cmt>70cm FM+DSTAR/DV+APCO-25 repeater
+  <cmt>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Gorlice, maszt Emitel na Gorze Cmentarnej
 Frequency: TX: 438.5375 MHz, RX: 430.9375 MHz
 Activation: CTCSS (162.2 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9GR</cmt>
-  <desc>70cm FM+DSTAR/DV+APCO-25 repeater
+  <desc>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Gorlice, maszt Emitel na Gorze Cmentarnej
@@ -37844,14 +37758,14 @@ More information: https://przemienniki.net/przemienniki/2m/SR9K</desc>
  </wpt>
  <wpt lat="50.033140" lon="20.998133">
   <name>SR9KAO</name>
-  <cmt>70cm FM+DSTAR/DV+APCO-25 repeater
+  <cmt>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Tarnow
 Frequency: TX: 439.2125 MHz, RX: 431.6125 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR9KAO</cmt>
-  <desc>70cm FM+DSTAR/DV+APCO-25 repeater
+  <desc>70cm FM+DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Tarnow
@@ -37861,13 +37775,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9KAO</desc>
  </wpt>
  <wpt lat="50.312352" lon="19.198926">
   <name>SR9KD</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Sosnowiec
 Frequency: TX: 438.9500 MHz, RX: 431.3500 MHz
 Activation: CTCSS (71.9 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9KD</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Sosnowiec
 Frequency: TX: 438.9500 MHz, RX: 431.3500 MHz
@@ -37951,28 +37865,13 @@ More information: https://przemienniki.net/przemienniki/2m/SR9L</desc>
  </wpt>
  <wpt lat="50.698776" lon="18.642656">
   <name>SR9LC</name>
-  <cmt>2m FM+APCO-25 repeater
-
-QTH: Lubecko
-Frequency: TX: 145.0000 MHz, RX: 145.0000 MHz
-Activation: CTCSS (71.9 Hz)
-More information: https://przemienniki.net/przemienniki/2m/SR9LC</cmt>
-  <desc>2m FM+APCO-25 repeater
-
-QTH: Lubecko
-Frequency: TX: 145.0000 MHz, RX: 145.0000 MHz
-Activation: CTCSS (71.9 Hz)
-More information: https://przemienniki.net/przemienniki/2m/SR9LC</desc>
- </wpt>
- <wpt lat="50.698776" lon="18.642656">
-  <name>SR9LC</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: LUBECKO
 Frequency: TX: 438.7000 MHz, RX: 431.1000 MHz
 Activation: CTCSS (71.9 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9LC</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: LUBECKO
 Frequency: TX: 438.7000 MHz, RX: 431.1000 MHz
@@ -38065,27 +37964,27 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9NKU</desc>
   <cmt>70cm FM repeater
 
 Network: FM-Link
-QTH: Prehyba
+QTH: Przehyba
 Frequency: TX: 438.9375 MHz, RX: 431.3375 MHz
 Activation: CTCSS (107.2 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9NP</cmt>
   <desc>70cm FM repeater
 
 Network: FM-Link
-QTH: Prehyba
+QTH: Przehyba
 Frequency: TX: 438.9375 MHz, RX: 431.3375 MHz
 Activation: CTCSS (107.2 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9NP</desc>
  </wpt>
  <wpt lat="49.633351" lon="20.737875">
   <name>SR9NS</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Nowy Sacz
 Frequency: TX: 439.2250 MHz, RX: 431.6250 MHz
 Activation: CTCSS (107.2 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9NS</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Nowy Sacz
 Frequency: TX: 439.2250 MHz, RX: 431.6250 MHz
@@ -38158,14 +38057,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9OKO</desc>
  </wpt>
  <wpt lat="49.736501" lon="18.634977">
   <name>SR9OMP</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
 Network: Echolink
 QTH: Cieszyn
 Frequency: TX: 438.9375 MHz, RX: 431.3375 MHz
 Activation: CTCSS (77.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9OMP</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
 
 Network: Echolink
 QTH: Cieszyn
@@ -38207,14 +38106,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9PC</desc>
  </wpt>
  <wpt lat="50.312500" lon="18.625000">
   <name>SR9PJD</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Gliwice
 Frequency: TX: 431.8000 MHz, RX: 439.4000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR9PJD</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: Gliwice
@@ -38273,44 +38172,44 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9RAC</desc>
  </wpt>
  <wpt lat="50.062500" lon="18.291667">
   <name>SR9RC</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Pogrzebień
 Frequency: TX: 438.6750 MHz, RX: 431.0750 MHz
-Activation: CTCSS (67.0 Hz)
+Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR9RC</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Pogrzebień
 Frequency: TX: 438.6750 MHz, RX: 431.0750 MHz
-Activation: CTCSS (67.0 Hz)
+Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR9RC</desc>
  </wpt>
  <wpt lat="49.652776" lon="20.547884">
   <name>SR9RP</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
 QTH: Wysokie
 Frequency: TX: 439.2500 MHz, RX: 431.6500 MHz
 Activation: CTCSS (107.2 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9RP</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
 
 QTH: Wysokie
 Frequency: TX: 439.2500 MHz, RX: 431.6500 MHz
 Activation: CTCSS (107.2 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9RP</desc>
  </wpt>
- <wpt lat="49.520833" lon="20.791667">
+ <wpt lat="0.000000" lon="0.000000">
   <name>SR9RR</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
 Network: Echolink
 QTH: 
 Frequency: TX: 439.1000 MHz, RX: 431.5000 MHz
 Activation: nośną,CTCSS (107.2 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9RR</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
 
 Network: Echolink
 QTH: 
@@ -38320,16 +38219,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9RR</desc>
  </wpt>
  <wpt lat="49.527601" lon="20.821271">
   <name>SR9RS</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
-Network: Echolink
 QTH: 
 Frequency: TX: 439.3250 MHz, RX: 431.7250 MHz
 Activation: CTCSS (107.2 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9RS</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
 
-Network: Echolink
 QTH: 
 Frequency: TX: 439.3250 MHz, RX: 431.7250 MHz
 Activation: CTCSS (107.2 Hz)
@@ -38437,16 +38334,14 @@ More information: https://przemienniki.net/przemienniki//SR9RT</desc>
  </wpt>
  <wpt lat="49.467286" lon="20.554214">
   <name>SR9RU</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
-Network: Echolink
 QTH: 
 Frequency: TX: 439.3500 MHz, RX: 431.7500 MHz
 Activation: CTCSS (107.2 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9RU</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
 
-Network: Echolink
 QTH: 
 Frequency: TX: 439.3500 MHz, RX: 431.7500 MHz
 Activation: CTCSS (107.2 Hz)
@@ -38471,16 +38366,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9SA</desc>
  </wpt>
  <wpt lat="49.736501" lon="18.634977">
   <name>SR9SC</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
-Network: Echolink
 QTH: Cieszyn
 Frequency: TX: 438.9625 MHz, RX: 431.3625 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9SC</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
 
-Network: Echolink
 QTH: Cieszyn
 Frequency: TX: 438.9625 MHz, RX: 431.3625 MHz
 Activation: CTCSS (67.0 Hz)
@@ -38520,13 +38413,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9SIM</desc>
  </wpt>
  <wpt lat="49.685223" lon="19.029843">
   <name>SR9SK</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Skrzyczne
 Frequency: TX: 439.3750 MHz, RX: 431.7750 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9SK</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Skrzyczne
 Frequency: TX: 439.3750 MHz, RX: 431.7750 MHz
@@ -38569,13 +38462,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9SS</desc>
  </wpt>
  <wpt lat="50.298203" lon="19.005029">
   <name>SR9SZ</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Siemianowice Slaskie
 Frequency: TX: 439.1500 MHz, RX: 431.5500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR9SZ</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Siemianowice Slaskie
 Frequency: TX: 439.1500 MHz, RX: 431.5500 MHz
@@ -38729,13 +38622,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9UV</desc>
  </wpt>
  <wpt lat="49.969967" lon="19.934092">
   <name>SR9UVC</name>
-  <cmt>70cm APCO-25 repeater
+  <cmt>70cm C4FM/Fusion repeater
 
 QTH: Krakow
 Frequency: TX: 438.6250 MHz, RX: 431.0250 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR9UVC</cmt>
-  <desc>70cm APCO-25 repeater
+  <desc>70cm C4FM/Fusion repeater
 
 QTH: Krakow
 Frequency: TX: 438.6250 MHz, RX: 431.0250 MHz
@@ -38744,30 +38637,15 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9UVC</desc>
  </wpt>
  <wpt lat="49.437500" lon="20.875000">
   <name>SR9UVJ</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
 QTH: Jaworzyna Krynicka
 Frequency: TX: 439.5000 MHz, RX: 431.9000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR9UVJ</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
 QTH: Jaworzyna Krynicka
-Frequency: TX: 439.5000 MHz, RX: 431.9000 MHz
-Activation: nośną
-More information: https://przemienniki.net/przemienniki/70cm/SR9UVJ</desc>
- </wpt>
- <wpt lat="49.437500" lon="20.875000">
-  <name>SR9UVJ</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
-
-QTH: Jaworzyna krynicka
-Frequency: TX: 439.5000 MHz, RX: 431.9000 MHz
-Activation: nośną
-More information: https://przemienniki.net/przemienniki/70cm/SR9UVJ</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
-
-QTH: Jaworzyna krynicka
 Frequency: TX: 439.5000 MHz, RX: 431.9000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR9UVJ</desc>
@@ -38917,13 +38795,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9UVU</desc>
  </wpt>
  <wpt lat="49.349622" lon="20.053072">
   <name>SR9UVZ</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
 QTH: Gliczarow Gorny Maszt OSP
 Frequency: TX: 439.2000 MHz, RX: 431.6000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR9UVZ</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
 QTH: Gliczarow Gorny Maszt OSP
 Frequency: TX: 439.2000 MHz, RX: 431.6000 MHz
@@ -38983,14 +38861,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9VJK</desc>
  </wpt>
  <wpt lat="49.354167" lon="20.958333">
   <name>SR9VJP</name>
-  <cmt>70cm DSTAR/DV+APCO-25 repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: MUSZYNA
 Frequency: TX: 438.5875 MHz, RX: 430.9875 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR9VJP</cmt>
-  <desc>70cm DSTAR/DV+APCO-25 repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
 Network: Echolink
 QTH: MUSZYNA
@@ -39316,13 +39194,13 @@ More information: https://przemienniki.net/przemienniki/70cm/UR0DUJ</desc>
  </wpt>
  <wpt lat="48.634745" lon="22.290637">
   <name>UR0DUM</name>
-  <cmt>70cm FM+APCO-25 repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Uzhhorod
 Frequency: TX: 438.7000 MHz, RX: 431.1000 MHz
 Activation: CTCSS (79.7 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/UR0DUM</cmt>
-  <desc>70cm FM+APCO-25 repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Uzhhorod
 Frequency: TX: 438.7000 MHz, RX: 431.1000 MHz
@@ -39600,20 +39478,20 @@ Frequency: TX: 438.8000 MHz, RX: 431.2000 MHz
 Activation: DCS (074)
 More information: https://przemienniki.net/przemienniki/70cm/UR5WLA</desc>
  </wpt>
- <wpt lat="0.000000" lon="0.000000">
-  <name>XSSTEST</name>
-  <cmt> FM repeater
+ <wpt lat="25.758911" lon="-80.191741">
+  <name>WY4P</name>
+  <cmt>10m FM repeater
 
-QTH: 
-Frequency: TX: 145.6000 MHz, RX: 145.0000 MHz
+QTH: Miami
+Frequency: TX: 29.660 MHz, RX: 29.560 MHz
 Activation: 
-More information: https://przemienniki.net/przemienniki//XSSTEST</cmt>
-  <desc> FM repeater
+More information: https://przemienniki.net/przemienniki/10m/WY4P</cmt>
+  <desc>10m FM repeater
 
-QTH: 
-Frequency: TX: 145.6000 MHz, RX: 145.0000 MHz
+QTH: Miami
+Frequency: TX: 29.660 MHz, RX: 29.560 MHz
 Activation: 
-More information: https://przemienniki.net/przemienniki//XSSTEST</desc>
+More information: https://przemienniki.net/przemienniki/10m/WY4P</desc>
  </wpt>
  <wpt lat="56.520833" lon="27.291667">
   <name>YL2EM/R</name>

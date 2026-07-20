@@ -172,7 +172,7 @@
      <Point>
       <coordinates>14.979255,51.171739</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />Network: Echolink<br />QTH: Goerlitz<br />Activation: ton 1750Hz<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/DB0GRZ'>https://przemienniki.net/przemienniki/70cm/DB0GRZ</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Goerlitz<br />Activation: ton 1750Hz<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/DB0GRZ'>https://przemienniki.net/przemienniki/70cm/DB0GRZ</a>]]></description>
     </Placemark>
     <Placemark>
      <name>DB0HEL</name>
@@ -186,7 +186,7 @@
      <Point>
       <coordinates>10.041667,53.770833</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Goetzberg<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/DB0HHN'>https://przemienniki.net/przemienniki/70cm/DB0HHN</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Goetzberg<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/DB0HHN'>https://przemienniki.net/przemienniki/70cm/DB0HHN</a>]]></description>
     </Placemark>
     <Placemark>
      <name>DB0HRM</name>
@@ -277,7 +277,7 @@
      <Point>
       <coordinates>14.692207,51.091346</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />Network: Echolink<br />QTH: Löbauer Berg<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/DB0OLL'>https://przemienniki.net/przemienniki/70cm/DB0OLL</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Löbauer Berg<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/DB0OLL'>https://przemienniki.net/przemienniki/70cm/DB0OLL</a>]]></description>
     </Placemark>
     <Placemark>
      <name>DB0PBS</name>
@@ -298,7 +298,7 @@
      <Point>
       <coordinates>14.354182,51.108765</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />Network: Echolink<br />QTH: Großen Picho bei Wilthen<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/DB0PIB-70CM'>https://przemienniki.net/przemienniki/70cm/DB0PIB-70CM</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Großen Picho bei Wilthen<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/DB0PIB-70CM'>https://przemienniki.net/przemienniki/70cm/DB0PIB-70CM</a>]]></description>
     </Placemark>
     <Placemark>
      <name>DB0QG</name>
@@ -543,7 +543,7 @@
      <Point>
       <coordinates>12.412460,51.337320</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />Network: Echolink<br />QTH: Leipzig<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/DM0LC'>https://przemienniki.net/przemienniki/70cm/DM0LC</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Leipzig<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/DM0LC'>https://przemienniki.net/przemienniki/70cm/DM0LC</a>]]></description>
     </Placemark>
     <Placemark>
      <name>DM0LUE B</name>
@@ -5468,7 +5468,7 @@
      <Point>
       <coordinates>15.553207,54.178284</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />Network: Echolink<br />QTH: Kolobrzeg<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1KG'>https://przemienniki.net/przemienniki/70cm/SR1KG</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Kolobrzeg<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1KG'>https://przemienniki.net/przemienniki/70cm/SR1KG</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR1KN</name>
@@ -5503,14 +5503,14 @@
      <Point>
       <coordinates>15.025200,53.342500</coordinates>
      </Point>
-     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Stargard<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1TET'>https://przemienniki.net/przemienniki/70cm/SR1TET</a>]]></description>
+     <description><![CDATA[70cm Tetra repeater<br />QTH: Stargard<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1TET'>https://przemienniki.net/przemienniki/70cm/SR1TET</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR1TSZ</name>
      <Point>
       <coordinates>14.547200,53.474700</coordinates>
      </Point>
-     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Szczecin<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1TSZ'>https://przemienniki.net/przemienniki/70cm/SR1TSZ</a>]]></description>
+     <description><![CDATA[70cm Tetra repeater<br />QTH: Szczecin<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1TSZ'>https://przemienniki.net/przemienniki/70cm/SR1TSZ</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR1UVH</name>
@@ -5545,14 +5545,14 @@
      <Point>
       <coordinates>16.483364,53.278132</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />Network: Echolink<br />QTH: Walcz<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1WAD'>https://przemienniki.net/przemienniki/70cm/SR1WAD</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Walcz<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1WAD'>https://przemienniki.net/przemienniki/70cm/SR1WAD</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR1WOY</name>
      <Point>
       <coordinates>15.569130,54.179524</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Dworcowa 10, Kolobrzeg, Polska<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1WOY'>https://przemienniki.net/przemienniki/70cm/SR1WOY</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Dworcowa 10, Kolobrzeg, Polska<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1WOY'>https://przemienniki.net/przemienniki/70cm/SR1WOY</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR1WR</name>
@@ -5560,13 +5560,6 @@
       <coordinates>15.533540,53.947183</coordinates>
      </Point>
      <description><![CDATA[70cm DMR repeater<br />Network: Echolink<br />QTH: Ryman<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1WR'>https://przemienniki.net/przemienniki/70cm/SR1WR</a>]]></description>
-    </Placemark>
-    <Placemark>
-     <name>SR1WR</name>
-     <Point>
-      <coordinates>15.533540,53.947183</coordinates>
-     </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Ryman<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1WR'>https://przemienniki.net/przemienniki/70cm/SR1WR</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR1WU</name>
@@ -5587,7 +5580,7 @@
      <Point>
       <coordinates>15.009000,53.339500</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Stargard<br />Activation: CTCSS (82.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1YWX'>https://przemienniki.net/przemienniki/70cm/SR1YWX</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Stargard<br />Activation: CTCSS (82.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1YWX'>https://przemienniki.net/przemienniki/70cm/SR1YWX</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR1ZDR</name>
@@ -5608,28 +5601,28 @@
      <Point>
       <coordinates>14.522150,53.403960</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />Network: Echolink<br />QTH: Szczecin<br />Activation: CTCSS (82.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1ZS'>https://przemienniki.net/przemienniki/70cm/SR1ZS</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Szczecin<br />Activation: CTCSS (82.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1ZS'>https://przemienniki.net/przemienniki/70cm/SR1ZS</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR1ZW</name>
      <Point>
       <coordinates>14.254612,53.909511</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />Network: Echolink<br />QTH: Swinoujscie<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1ZW'>https://przemienniki.net/przemienniki/70cm/SR1ZW</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Swinoujscie<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1ZW'>https://przemienniki.net/przemienniki/70cm/SR1ZW</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR2BC</name>
      <Point>
       <coordinates>17.945776,53.130098</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />Network: Echolink<br />QTH: Bydgoszcz<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2BC'>https://przemienniki.net/przemienniki/70cm/SR2BC</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Bydgoszcz<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2BC'>https://przemienniki.net/przemienniki/70cm/SR2BC</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR2BD</name>
      <Point>
       <coordinates>18.038706,53.112533</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Bydgoszcz<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2BD'>https://przemienniki.net/przemienniki/70cm/SR2BD</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Bydgoszcz<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2BD'>https://przemienniki.net/przemienniki/70cm/SR2BD</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR2BT</name>
@@ -5678,7 +5671,7 @@
      <Point>
       <coordinates>17.836519,52.919733</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Szubin - Jablowo Paluckie / wieza p.poz<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2DMR-C'>https://przemienniki.net/przemienniki/70cm/SR2DMR-C</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Szubin - Jablowo Paluckie / wieza p.poz<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2DMR-C'>https://przemienniki.net/przemienniki/70cm/SR2DMR-C</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR2DV</name>
@@ -5744,6 +5737,34 @@
      <description><![CDATA[70cm DMR repeater<br />Network: Echolink<br />QTH: Gdansk<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2GDD'>https://przemienniki.net/przemienniki/70cm/SR2GDD</a>]]></description>
     </Placemark>
     <Placemark>
+     <name>SR2GG-B</name>
+     <Point>
+      <coordinates>17.762767,53.016124</coordinates>
+     </Point>
+     <description><![CDATA[70cm FM repeater<br />QTH: Szubin<br />Activation: CTCSS (74.4 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2GG-B'>https://przemienniki.net/przemienniki/70cm/SR2GG-B</a>]]></description>
+    </Placemark>
+    <Placemark>
+     <name>SR2GG-C</name>
+     <Point>
+      <coordinates>17.762658,53.016054</coordinates>
+     </Point>
+     <description><![CDATA[70cm FM+DSTAR/DV repeater<br />Network: SQLink<br />QTH: Szubin<br />Activation: nośną,CTCSS (74.4 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2GG-C'>https://przemienniki.net/przemienniki/70cm/SR2GG-C</a>]]></description>
+    </Placemark>
+    <Placemark>
+     <name>SR2GG-D</name>
+     <Point>
+      <coordinates>17.762658,53.016054</coordinates>
+     </Point>
+     <description><![CDATA[70cm DSTAR/DV repeater<br />QTH: Szubin<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2GG-D'>https://przemienniki.net/przemienniki/70cm/SR2GG-D</a>]]></description>
+    </Placemark>
+    <Placemark>
+     <name>SR2GG-E</name>
+     <Point>
+      <coordinates>17.762658,53.016054</coordinates>
+     </Point>
+     <description><![CDATA[70cm DMR repeater<br />QTH: SZUBIN<br />Activation: <br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2GG-E'>https://przemienniki.net/przemienniki/70cm/SR2GG-E</a>]]></description>
+    </Placemark>
+    <Placemark>
      <name>SR2GN</name>
      <Point>
       <coordinates>18.052215,54.718116</coordinates>
@@ -5783,7 +5804,7 @@
      <Point>
       <coordinates>18.260816,52.794000</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />Network: Echolink<br />QTH: Inowroclaw<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2IN'>https://przemienniki.net/przemienniki/70cm/SR2IN</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Inowroclaw<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2IN'>https://przemienniki.net/przemienniki/70cm/SR2IN</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR2JJ</name>
@@ -5818,7 +5839,7 @@
      <Point>
       <coordinates>18.535907,54.545013</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Gdynia-Oksywie EMITEL<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2OK'>https://przemienniki.net/przemienniki/70cm/SR2OK</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Gdynia-Oksywie EMITEL<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2OK'>https://przemienniki.net/przemienniki/70cm/SR2OK</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR2OX</name>
@@ -5860,7 +5881,7 @@
      <Point>
       <coordinates>18.134742,53.142333</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Bydgoszcz<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2UVF'>https://przemienniki.net/przemienniki/70cm/SR2UVF</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+DMR+C4FM/Fusion repeater<br />QTH: Bydgoszcz<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2UVF'>https://przemienniki.net/przemienniki/70cm/SR2UVF</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR2UVG</name>
@@ -5891,27 +5912,6 @@
      <description><![CDATA[70cm DSTAR/DV repeater<br />QTH: Szubin - Jablowo Paluckie / wieza p.poz<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2UVV-B'>https://przemienniki.net/przemienniki/70cm/SR2UVV-B</a>]]></description>
     </Placemark>
     <Placemark>
-     <name>SR2VV</name>
-     <Point>
-      <coordinates>17.762767,53.016124</coordinates>
-     </Point>
-     <description><![CDATA[70cm FM repeater<br />QTH: Szubin<br />Activation: CTCSS (74.4 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2VV'>https://przemienniki.net/przemienniki/70cm/SR2VV</a>]]></description>
-    </Placemark>
-    <Placemark>
-     <name>SR2VVV</name>
-     <Point>
-      <coordinates>17.762658,53.016054</coordinates>
-     </Point>
-     <description><![CDATA[70cm DSTAR/DV repeater<br />Network: Echolink<br />QTH: Szubin<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2VVV'>https://przemienniki.net/przemienniki/70cm/SR2VVV</a>]]></description>
-    </Placemark>
-    <Placemark>
-     <name>SR2VVV-B</name>
-     <Point>
-      <coordinates>17.762658,53.016054</coordinates>
-     </Point>
-     <description><![CDATA[70cm DSTAR/DV repeater<br />QTH: Szubin<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2VVV-B'>https://przemienniki.net/przemienniki/70cm/SR2VVV-B</a>]]></description>
-    </Placemark>
-    <Placemark>
      <name>SR2W</name>
      <Point>
       <coordinates>19.084411,52.672746</coordinates>
@@ -5923,7 +5923,7 @@
      <Point>
       <coordinates>18.229030,54.590756</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Wejherowo<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2WE'>https://przemienniki.net/przemienniki/70cm/SR2WE</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Wejherowo<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2WE'>https://przemienniki.net/przemienniki/70cm/SR2WE</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR2WL</name>
@@ -5937,7 +5937,7 @@
      <Point>
       <coordinates>18.856200,52.126100</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Zalesie<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3DAB'>https://przemienniki.net/przemienniki/70cm/SR3DAB</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Zalesie<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3DAB'>https://przemienniki.net/przemienniki/70cm/SR3DAB</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR3DAB</name>
@@ -5972,7 +5972,7 @@
      <Point>
       <coordinates>18.095900,51.742300</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Kalisz<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3DKA'>https://przemienniki.net/przemienniki/70cm/SR3DKA</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Kalisz<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3DKA'>https://przemienniki.net/przemienniki/70cm/SR3DKA</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR3DLS</name>
@@ -5986,7 +5986,7 @@
      <Point>
       <coordinates>17.797780,51.659738</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Ostrow Wielkopolski<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3DOS'>https://przemienniki.net/przemienniki/70cm/SR3DOS</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Ostrow Wielkopolski<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3DOS'>https://przemienniki.net/przemienniki/70cm/SR3DOS</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR3DRW</name>
@@ -6042,7 +6042,7 @@
      <Point>
       <coordinates>15.276266,52.346795</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: RTCN Jemiolow/Lagow maszt EmiTel<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3JX'>https://przemienniki.net/przemienniki/70cm/SR3JX</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: RTCN Jemiolow/Lagow maszt EmiTel<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3JX'>https://przemienniki.net/przemienniki/70cm/SR3JX</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR3KA</name>
@@ -6056,7 +6056,7 @@
      <Point>
       <coordinates>18.003350,51.297605</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />Network: Echolink<br />QTH: Kepno<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3KEP'>https://przemienniki.net/przemienniki/70cm/SR3KEP</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Kepno<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3KEP'>https://przemienniki.net/przemienniki/70cm/SR3KEP</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR3KH</name>
@@ -6070,7 +6070,7 @@
      <Point>
       <coordinates>18.625000,52.187500</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: 62-600 Koło, ul. Dąbrowskiego 7<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3KHA'>https://przemienniki.net/przemienniki/70cm/SR3KHA</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: 62-600 Koło, ul. Dąbrowskiego 7<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3KHA'>https://przemienniki.net/przemienniki/70cm/SR3KHA</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR3KRZ</name>
@@ -6203,7 +6203,7 @@
      <Point>
       <coordinates>16.905933,52.459156</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Poznan<br />Activation: CTCSS (110.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3XX'>https://przemienniki.net/przemienniki/70cm/SR3XX</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Poznan<br />Activation: CTCSS (110.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3XX'>https://przemienniki.net/przemienniki/70cm/SR3XX</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR3XXX</name>
@@ -6217,7 +6217,7 @@
      <Point>
       <coordinates>16.906704,52.998288</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />Network: Echolink<br />QTH: Chodziez<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3ZBZ'>https://przemienniki.net/przemienniki/70cm/SR3ZBZ</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Chodziez<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3ZBZ'>https://przemienniki.net/przemienniki/70cm/SR3ZBZ</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR3ZG</name>
@@ -6238,7 +6238,7 @@
      <Point>
       <coordinates>15.527107,51.935511</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />QTH: Zielona Gora<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3ZX'>https://przemienniki.net/przemienniki/70cm/SR3ZX</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />QTH: Zielona Gora<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR3ZX'>https://przemienniki.net/przemienniki/70cm/SR3ZX</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4ALL</name>
@@ -6308,7 +6308,7 @@
      <Point>
       <coordinates>23.138298,53.132887</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Bialystok<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4BS'>https://przemienniki.net/przemienniki/70cm/SR4BS</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Bialystok<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4BS'>https://przemienniki.net/przemienniki/70cm/SR4BS</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4BSK</name>
@@ -6322,14 +6322,14 @@
      <Point>
       <coordinates>23.125000,53.145833</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Białystok<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4C4FM'>https://przemienniki.net/przemienniki/70cm/SR4C4FM</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Białystok<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4C4FM'>https://przemienniki.net/przemienniki/70cm/SR4C4FM</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4DG</name>
      <Point>
       <coordinates>19.940454,53.549375</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Gora Dylewska EMITEL<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4DG'>https://przemienniki.net/przemienniki/70cm/SR4DG</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Gora Dylewska EMITEL<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4DG'>https://przemienniki.net/przemienniki/70cm/SR4DG</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4DGD</name>
@@ -6378,14 +6378,14 @@
      <Point>
       <coordinates>22.467744,53.635713</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />Network: Echolink<br />QTH: Grajewo<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4FSK'>https://przemienniki.net/przemienniki/70cm/SR4FSK</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Grajewo<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4FSK'>https://przemienniki.net/przemienniki/70cm/SR4FSK</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4H</name>
      <Point>
       <coordinates>23.625000,52.770833</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Hajnówka<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4H'>https://przemienniki.net/przemienniki/70cm/SR4H</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Hajnówka<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4H'>https://przemienniki.net/przemienniki/70cm/SR4H</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4IL</name>
@@ -6406,7 +6406,7 @@
      <Point>
       <coordinates>22.052192,53.183005</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Lomza<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4L'>https://przemienniki.net/przemienniki/70cm/SR4L</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Lomza<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4L'>https://przemienniki.net/przemienniki/70cm/SR4L</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4LG</name>
@@ -6420,7 +6420,7 @@
      <Point>
       <coordinates>19.536485,53.790664</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Jerzwald<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4LIN'>https://przemienniki.net/przemienniki/70cm/SR4LIN</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Jerzwald<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4LIN'>https://przemienniki.net/przemienniki/70cm/SR4LIN</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4LO</name>
@@ -6455,7 +6455,7 @@
      <Point>
       <coordinates>21.844764,53.937727</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Milki k/Gizycka EMITEL<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4MIT'>https://przemienniki.net/przemienniki/70cm/SR4MIT</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Milki k/Gizycka EMITEL<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4MIT'>https://przemienniki.net/przemienniki/70cm/SR4MIT</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4MO</name>
@@ -6476,14 +6476,14 @@
      <Point>
       <coordinates>21.285911,53.866333</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Mragowo<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4MWO'>https://przemienniki.net/przemienniki/70cm/SR4MWO</a>]]></description>
+     <description><![CDATA[70cm FM+DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Mragowo<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4MWO'>https://przemienniki.net/przemienniki/70cm/SR4MWO</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4OE</name>
      <Point>
       <coordinates>22.500114,54.035498</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />Network: Echolink<br />QTH: Olecko<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4OE'>https://przemienniki.net/przemienniki/70cm/SR4OE</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Olecko<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4OE'>https://przemienniki.net/przemienniki/70cm/SR4OE</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4OL</name>
@@ -6518,7 +6518,7 @@
      <Point>
       <coordinates>20.513320,53.773118</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+DSTAR/DV+APCO-25 repeater<br />QTH: Olsztyn<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4ONX'>https://przemienniki.net/przemienniki/70cm/SR4ONX</a>]]></description>
+     <description><![CDATA[70cm FM+DSTAR/DV+C4FM/Fusion repeater<br />QTH: Olsztyn<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4ONX'>https://przemienniki.net/przemienniki/70cm/SR4ONX</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4OS</name>
@@ -6553,7 +6553,7 @@
      <Point>
       <coordinates>21.000160,53.564684</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Szczytno<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4SN'>https://przemienniki.net/przemienniki/70cm/SR4SN</a>]]></description>
+     <description><![CDATA[70cm FM+DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Szczytno<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4SN'>https://przemienniki.net/przemienniki/70cm/SR4SN</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4ST</name>
@@ -6609,7 +6609,7 @@
      <Point>
       <coordinates>23.375000,54.020833</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Giby<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4UG'>https://przemienniki.net/przemienniki/70cm/SR4UG</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Giby<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4UG'>https://przemienniki.net/przemienniki/70cm/SR4UG</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4UVD</name>
@@ -6623,7 +6623,7 @@
      <Point>
       <coordinates>19.621930,54.047551</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Paslek<br />Activation: CTCSS (94.8 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4UVE'>https://przemienniki.net/przemienniki/70cm/SR4UVE</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Paslek<br />Activation: CTCSS (94.8 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4UVE'>https://przemienniki.net/przemienniki/70cm/SR4UVE</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4UVM</name>
@@ -6637,7 +6637,7 @@
      <Point>
       <coordinates>20.490134,53.770592</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />QTH: Olsztyn<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4UVN'>https://przemienniki.net/przemienniki/70cm/SR4UVN</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />QTH: Olsztyn<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4UVN'>https://przemienniki.net/przemienniki/70cm/SR4UVN</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4WA</name>
@@ -6651,7 +6651,7 @@
      <Point>
       <coordinates>21.055902,52.131170</coordinates>
      </Point>
-     <description><![CDATA[70cm C4FM/Fusion repeater<br />Network: FM-Link<br />QTH: Warszawa<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5AWK'>https://przemienniki.net/przemienniki/70cm/SR5AWK</a>]]></description>
+     <description><![CDATA[70cm Tetra repeater<br />Network: FM-Poland<br />QTH: Warszawa<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5AWK'>https://przemienniki.net/przemienniki/70cm/SR5AWK</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5CI</name>
@@ -6693,14 +6693,14 @@
      <Point>
       <coordinates>21.163807,51.421913</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Radom<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5FUS'>https://przemienniki.net/przemienniki/70cm/SR5FUS</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Radom<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5FUS'>https://przemienniki.net/przemienniki/70cm/SR5FUS</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5FWG</name>
      <Point>
       <coordinates>21.614472,51.901273</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Garwolin<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5FWG'>https://przemienniki.net/przemienniki/70cm/SR5FWG</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Garwolin<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5FWG'>https://przemienniki.net/przemienniki/70cm/SR5FWG</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5GM</name>
@@ -6745,6 +6745,13 @@
      <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: Zamczysko<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5KPN'>https://przemienniki.net/przemienniki/70cm/SR5KPN</a>]]></description>
     </Placemark>
     <Placemark>
+     <name>SR5KPN</name>
+     <Point>
+      <coordinates>20.530593,52.298630</coordinates>
+     </Point>
+     <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: Zamczysko<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5KPN'>https://przemienniki.net/przemienniki/70cm/SR5KPN</a>]]></description>
+    </Placemark>
+    <Placemark>
      <name>SR5MDV</name>
      <Point>
       <coordinates>21.552627,52.177192</coordinates>
@@ -6763,7 +6770,7 @@
      <Point>
       <coordinates>20.751385,52.425343</coordinates>
      </Point>
-     <description><![CDATA[70cm  repeater<br />QTH: Nowy Dwor Mazowiecki<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5MS'>https://przemienniki.net/przemienniki/70cm/SR5MS</a>]]></description>
+     <description><![CDATA[70cm M17 repeater<br />QTH: Nowy Dwor Mazowiecki<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5MS'>https://przemienniki.net/przemienniki/70cm/SR5MS</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5ND</name>
@@ -6773,18 +6780,11 @@
      <description><![CDATA[70cm FM repeater<br />QTH: Nowy Dwor Mazowiecki<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5ND'>https://przemienniki.net/przemienniki/70cm/SR5ND</a>]]></description>
     </Placemark>
     <Placemark>
-     <name>SR5NRD</name>
-     <Point>
-      <coordinates>20.061837,52.480013</coordinates>
-     </Point>
-     <description><![CDATA[70cm FM repeater<br />QTH: Cybulin<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5NRD'>https://przemienniki.net/przemienniki/70cm/SR5NRD</a>]]></description>
-    </Placemark>
-    <Placemark>
      <name>SR5OK</name>
      <Point>
       <coordinates>21.456630,53.234690</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Kadzidlo<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5OK'>https://przemienniki.net/przemienniki/70cm/SR5OK</a>]]></description>
+     <description><![CDATA[70cm FM+DSTAR/DV+C4FM/Fusion repeater<br />Network: SQLink<br />QTH: Kadzidlo<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5OK'>https://przemienniki.net/przemienniki/70cm/SR5OK</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5OS</name>
@@ -6798,7 +6798,7 @@
      <Point>
       <coordinates>19.719648,52.544455</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: FM-Link<br />QTH: Plock<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5PL'>https://przemienniki.net/przemienniki/70cm/SR5PL</a>]]></description>
+     <description><![CDATA[70cm FM repeater<br />QTH: Plock<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5PL'>https://przemienniki.net/przemienniki/70cm/SR5PL</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5PLZ</name>
@@ -6854,7 +6854,7 @@
      <Point>
       <coordinates>22.271183,52.178818</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Siedlce<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5SE'>https://przemienniki.net/przemienniki/70cm/SR5SE</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Siedlce<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5SE'>https://przemienniki.net/przemienniki/70cm/SR5SE</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5SQ</name>
@@ -6882,7 +6882,7 @@
      <Point>
       <coordinates>21.128688,52.268254</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Warszawa - komin EC Kaweczyn<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5UVA'>https://przemienniki.net/przemienniki/70cm/SR5UVA</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Warszawa - komin EC Kaweczyn<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5UVA'>https://przemienniki.net/przemienniki/70cm/SR5UVA</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5UVR</name>
@@ -6917,7 +6917,7 @@
      <Point>
       <coordinates>21.128688,52.268254</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: Warszawa - komin EC Kaweczyn<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5WAD'>https://przemienniki.net/przemienniki/70cm/SR5WAD</a>]]></description>
+     <description><![CDATA[70cm DMR repeater<br />QTH: Warszawa - komin EC Kaweczyn<br />Activation: <br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5WAD'>https://przemienniki.net/przemienniki/70cm/SR5WAD</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5WB</name>
@@ -6938,7 +6938,7 @@
      <Point>
       <coordinates>20.742929,52.175313</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />Network: Echolink<br />QTH: Moszna-Parcela<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5WD'>https://przemienniki.net/przemienniki/70cm/SR5WD</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Moszna-Parcela<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5WD'>https://przemienniki.net/przemienniki/70cm/SR5WD</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5WF</name>
@@ -6994,14 +6994,14 @@
      <Point>
       <coordinates>20.815292,52.146074</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Komorow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5YAM'>https://przemienniki.net/przemienniki/70cm/SR5YAM</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Komorow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5YAM'>https://przemienniki.net/przemienniki/70cm/SR5YAM</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5YM</name>
      <Point>
       <coordinates>20.815292,52.146074</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />QTH: Komorow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5YM'>https://przemienniki.net/przemienniki/70cm/SR5YM</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />QTH: Komorow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5YM'>https://przemienniki.net/przemienniki/70cm/SR5YM</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5ZIP</name>
@@ -7029,12 +7029,12 @@
      <Point>
       <coordinates>16.165898,51.205828</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: FM-Link<br />QTH: Legnica<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6AA'>https://przemienniki.net/przemienniki/70cm/SR6AA</a>]]></description>
+     <description><![CDATA[70cm FM repeater<br />Network: FM-Poland<br />QTH: Legnica<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6AA'>https://przemienniki.net/przemienniki/70cm/SR6AA</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR6ACZ</name>
      <Point>
-      <coordinates>17.060299,51.111545</coordinates>
+      <coordinates>17.035010,51.303195</coordinates>
      </Point>
      <description><![CDATA[70cm FM repeater<br />QTH: Wroclaw<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6ACZ'>https://przemienniki.net/przemienniki/70cm/SR6ACZ</a>]]></description>
     </Placemark>
@@ -7076,9 +7076,9 @@
     <Placemark>
      <name>SR6DMO</name>
      <Point>
-      <coordinates>17.291667,50.937500</coordinates>
+      <coordinates>17.291676,50.937516</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: Oława<br />Activation: nośną,CTCSS (94.8 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6DMO'>https://przemienniki.net/przemienniki/70cm/SR6DMO</a>]]></description>
+     <description><![CDATA[70cm FM+DMR repeater<br />QTH: Oława<br />Activation: CTCSS (94.8 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6DMO'>https://przemienniki.net/przemienniki/70cm/SR6DMO</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR6DMR</name>
@@ -7139,9 +7139,9 @@
     <Placemark>
      <name>SR6LDV</name>
      <Point>
-      <coordinates>16.163592,51.212460</coordinates>
+      <coordinates>16.055585,51.256347</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />Network: Echolink<br />QTH: Legnica<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6LDV'>https://przemienniki.net/przemienniki/70cm/SR6LDV</a>]]></description>
+     <description><![CDATA[70cm DMR+C4FM/Fusion repeater<br />QTH: Miłkowice<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6LDV'>https://przemienniki.net/przemienniki/70cm/SR6LDV</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR6LWS</name>
@@ -7169,14 +7169,14 @@
      <Point>
       <coordinates>16.055585,51.256347</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: FM-Link<br />QTH: Milkowice<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6MI'>https://przemienniki.net/przemienniki/70cm/SR6MI</a>]]></description>
+     <description><![CDATA[70cm FM repeater<br />Network: FM-Poland<br />QTH: Milkowice<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6MI'>https://przemienniki.net/przemienniki/70cm/SR6MI</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR6MRU</name>
      <Point>
       <coordinates>17.030831,51.141371</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Wroclaw<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6MRU'>https://przemienniki.net/przemienniki/70cm/SR6MRU</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Wroclaw<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6MRU'>https://przemienniki.net/przemienniki/70cm/SR6MRU</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR6NR</name>
@@ -7204,7 +7204,7 @@
      <Point>
       <coordinates>17.956617,50.675862</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: Opole<br />Activation: CTCSS (94.8 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6OP'>https://przemienniki.net/przemienniki/70cm/SR6OP</a>]]></description>
+     <description><![CDATA[70cm FM+DMR repeater<br />Network: Echolink<br />QTH: Opole<br />Activation: CTCSS (94.8 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6OP'>https://przemienniki.net/przemienniki/70cm/SR6OP</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR6PS</name>
@@ -7239,7 +7239,7 @@
      <Point>
       <coordinates>16.014392,50.914357</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />Network: Echolink<br />QTH: Bolkow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6T'>https://przemienniki.net/przemienniki/70cm/SR6T</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Bolkow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6T'>https://przemienniki.net/przemienniki/70cm/SR6T</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR6TT</name>
@@ -7253,7 +7253,7 @@
      <Point>
       <coordinates>17.497358,51.345552</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Chelstow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6TW'>https://przemienniki.net/przemienniki/70cm/SR6TW</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+DMR+C4FM/Fusion repeater<br />QTH: Chelstow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6TW'>https://przemienniki.net/przemienniki/70cm/SR6TW</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR6UKB</name>
@@ -7316,12 +7316,12 @@
      <Point>
       <coordinates>16.791667,51.187500</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Mrozów<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6WF'>https://przemienniki.net/przemienniki/70cm/SR6WF</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Mrozów<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6WF'>https://przemienniki.net/przemienniki/70cm/SR6WF</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR6WR</name>
      <Point>
-      <coordinates>16.958219,51.114462</coordinates>
+      <coordinates>16.984842,51.108938</coordinates>
      </Point>
      <description><![CDATA[70cm FM repeater<br />QTH: Wroclaw<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6WR'>https://przemienniki.net/przemienniki/70cm/SR6WR</a>]]></description>
     </Placemark>
@@ -7344,14 +7344,14 @@
      <Point>
       <coordinates>16.485667,50.680321</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Wielka Sowa<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6XWS'>https://przemienniki.net/przemienniki/70cm/SR6XWS</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Wielka Sowa<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR6XWS'>https://przemienniki.net/przemienniki/70cm/SR6XWS</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR7DBZ</name>
      <Point>
-      <coordinates>20.708333,50.479167</coordinates>
+      <coordinates>20.708000,50.479000</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: Busko-Zdroj<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7DBZ'>https://przemienniki.net/przemienniki/70cm/SR7DBZ</a>]]></description>
+     <description><![CDATA[70cm FM+DMR repeater<br />QTH: Busko-Zdroj<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7DBZ'>https://przemienniki.net/przemienniki/70cm/SR7DBZ</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR7DMK</name>
@@ -7386,14 +7386,14 @@
      <Point>
       <coordinates>19.435416,51.205645</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Gora Kamiensk wieza EmiTel<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7FUS'>https://przemienniki.net/przemienniki/70cm/SR7FUS</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Gora Kamiensk wieza EmiTel<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7FUS'>https://przemienniki.net/przemienniki/70cm/SR7FUS</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR7G</name>
      <Point>
       <coordinates>20.592706,50.382386</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Zlota<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7G'>https://przemienniki.net/przemienniki/70cm/SR7G</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Zlota<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7G'>https://przemienniki.net/przemienniki/70cm/SR7G</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR7KFX</name>
@@ -7477,14 +7477,14 @@
      <Point>
       <coordinates>19.539368,51.761471</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: Lodz<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7LM'>https://przemienniki.net/przemienniki/70cm/SR7LM</a>]]></description>
+     <description><![CDATA[70cm FM+DMR repeater<br />Network: Echolink<br />QTH: Łódź<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7LM'>https://przemienniki.net/przemienniki/70cm/SR7LM</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR7MK</name>
      <Point>
       <coordinates>21.048573,50.860322</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Lysa Gora/Nowa Slupia - RTCN Swiety Krzyz EmiTel<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7MK'>https://przemienniki.net/przemienniki/70cm/SR7MK</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Lysa Gora/Nowa Slupia - RTCN Swiety Krzyz EmiTel<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7MK'>https://przemienniki.net/przemienniki/70cm/SR7MK</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR7OS</name>
@@ -7505,7 +7505,7 @@
      <Point>
       <coordinates>21.545069,51.012532</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />Network: Echolink<br />QTH: Baltow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7PB'>https://przemienniki.net/przemienniki/70cm/SR7PB</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Baltow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7PB'>https://przemienniki.net/przemienniki/70cm/SR7PB</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR7SAN</name>
@@ -7561,7 +7561,7 @@
      <Point>
       <coordinates>20.045956,51.548173</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Tomaszow Mazowiecki<br />Activation: CTCSS (118.8 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7TM'>https://przemienniki.net/przemienniki/70cm/SR7TM</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Tomaszow Mazowiecki<br />Activation: CTCSS (118.8 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7TM'>https://przemienniki.net/przemienniki/70cm/SR7TM</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR7UAL</name>
@@ -7582,7 +7582,7 @@
      <Point>
       <coordinates>19.450216,51.746115</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Lodz<br />Activation: CTCSS (74.4 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7ULM'>https://przemienniki.net/przemienniki/70cm/SR7ULM</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Lodz<br />Activation: <br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7ULM'>https://przemienniki.net/przemienniki/70cm/SR7ULM</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR7USI</name>
@@ -7624,7 +7624,7 @@
      <Point>
       <coordinates>18.322125,51.259814</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV repeater<br />Network: Echolink<br />QTH: Czastary<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7UWI'>https://przemienniki.net/przemienniki/70cm/SR7UWI</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+DMR repeater<br />Network: Echolink<br />QTH: Czastary<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7UWI'>https://przemienniki.net/przemienniki/70cm/SR7UWI</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR7VV</name>
@@ -7645,7 +7645,7 @@
      <Point>
       <coordinates>18.160199,51.294463</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: FM-Link<br />QTH: Wieruszow<br />Activation: CTCSS (123.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7WU'>https://przemienniki.net/przemienniki/70cm/SR7WU</a>]]></description>
+     <description><![CDATA[70cm FM repeater<br />Network: FM-Poland<br />QTH: Wieruszow<br />Activation: CTCSS (123.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR7WU'>https://przemienniki.net/przemienniki/70cm/SR7WU</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR7ZD</name>
@@ -7680,7 +7680,7 @@
      <Point>
       <coordinates>23.147055,52.030614</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Biala Podlaska<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8AVB'>https://przemienniki.net/przemienniki/70cm/SR8AVB</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Biala Podlaska<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8AVB'>https://przemienniki.net/przemienniki/70cm/SR8AVB</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR8BB</name>
@@ -7729,7 +7729,7 @@
      <Point>
       <coordinates>21.397837,50.059358</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Debica<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8DEF'>https://przemienniki.net/przemienniki/70cm/SR8DEF</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Debica<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8DEF'>https://przemienniki.net/przemienniki/70cm/SR8DEF</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR8DMB</name>
@@ -7764,14 +7764,14 @@
      <Point>
       <coordinates>22.389420,49.885216</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Drohobyczka-Dubiecko<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8DU'>https://przemienniki.net/przemienniki/70cm/SR8DU</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Drohobyczka-Dubiecko<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8DU'>https://przemienniki.net/przemienniki/70cm/SR8DU</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR8DV</name>
      <Point>
       <coordinates>21.812941,49.756122</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: RTCN Sucha Gora/Krosno EmiTel-Czarnorzeki 90<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8DV'>https://przemienniki.net/przemienniki/70cm/SR8DV</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: RTCN Sucha Gora/Krosno EmiTel-Czarnorzeki 90<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8DV'>https://przemienniki.net/przemienniki/70cm/SR8DV</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR8DVP</name>
@@ -7799,7 +7799,7 @@
      <Point>
       <coordinates>23.553329,51.558118</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Wlodawa<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8FWD'>https://przemienniki.net/przemienniki/70cm/SR8FWD</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Wlodawa<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8FWD'>https://przemienniki.net/przemienniki/70cm/SR8FWD</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR8GDM</name>
@@ -7841,7 +7841,7 @@
      <Point>
       <coordinates>21.752431,49.697373</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Krosno<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8KSR'>https://przemienniki.net/przemienniki/70cm/SR8KSR</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Krosno<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8KSR'>https://przemienniki.net/przemienniki/70cm/SR8KSR</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR8LBD</name>
@@ -7855,7 +7855,7 @@
      <Point>
       <coordinates>22.550550,51.241034</coordinates>
      </Point>
-     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Lublin<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8LBT'>https://przemienniki.net/przemienniki/70cm/SR8LBT</a>]]></description>
+     <description><![CDATA[70cm Tetra repeater<br />QTH: Lublin<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8LBT'>https://przemienniki.net/przemienniki/70cm/SR8LBT</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR8LKR</name>
@@ -7883,7 +7883,7 @@
      <Point>
       <coordinates>22.694369,51.221537</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: FM-Link<br />QTH: Swidnik<br />Activation: CTCSS (110.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8LSW'>https://przemienniki.net/przemienniki/70cm/SR8LSW</a>]]></description>
+     <description><![CDATA[70cm FM repeater<br />QTH: Swidnik<br />Activation: CTCSS (110.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8LSW'>https://przemienniki.net/przemienniki/70cm/SR8LSW</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR8LU</name>
@@ -7904,7 +7904,7 @@
      <Point>
       <coordinates>22.623193,51.225671</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Lublin<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8LUF'>https://przemienniki.net/przemienniki/70cm/SR8LUF</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Lublin<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8LUF'>https://przemienniki.net/przemienniki/70cm/SR8LUF</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR8LW</name>
@@ -7925,7 +7925,7 @@
      <Point>
       <coordinates>22.434000,49.841000</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Dubiecko<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8NA'>https://przemienniki.net/przemienniki/70cm/SR8NA</a>]]></description>
+     <description><![CDATA[70cm FM+DSTAR/DV+C4FM/Fusion repeater<br />QTH: Dubiecko<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8NA'>https://przemienniki.net/przemienniki/70cm/SR8NA</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR8PL</name>
@@ -7960,7 +7960,7 @@
      <Point>
       <coordinates>21.350967,49.813220</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: Opacie<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8RJS'>https://przemienniki.net/przemienniki/70cm/SR8RJS</a>]]></description>
+     <description><![CDATA[70cm FM+DMR repeater<br />Network: Echolink<br />QTH: Opacie<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8RJS'>https://przemienniki.net/przemienniki/70cm/SR8RJS</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR8RW</name>
@@ -8051,7 +8051,7 @@
      <Point>
       <coordinates>23.553710,51.558078</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Wlodawa<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8UWD'>https://przemienniki.net/przemienniki/70cm/SR8UWD</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Wlodawa<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8UWD'>https://przemienniki.net/przemienniki/70cm/SR8UWD</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR8WD</name>
@@ -8072,14 +8072,7 @@
      <Point>
       <coordinates>19.923507,50.027327</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Kraków<br />Activation: b.d.<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9AD'>https://przemienniki.net/przemienniki/70cm/SR9AD</a>]]></description>
-    </Placemark>
-    <Placemark>
-     <name>SR9AD</name>
-     <Point>
-      <coordinates>19.923507,50.027327</coordinates>
-     </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Krakow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9AD'>https://przemienniki.net/przemienniki/70cm/SR9AD</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Kraków<br />Activation: b.d.<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9AD'>https://przemienniki.net/przemienniki/70cm/SR9AD</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9AE</name>
@@ -8093,7 +8086,7 @@
      <Point>
       <coordinates>19.224770,49.787232</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: Gora Zar<br />Activation: CTCSS (74.4 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9ASR'>https://przemienniki.net/przemienniki/70cm/SR9ASR</a>]]></description>
+     <description><![CDATA[70cm FM+DMR repeater<br />QTH: Gora Zar<br />Activation: CTCSS (74.4 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9ASR'>https://przemienniki.net/przemienniki/70cm/SR9ASR</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9BB</name>
@@ -8121,7 +8114,7 @@
      <Point>
       <coordinates>19.001327,49.760053</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: Gora Szyndzielnia<br />Activation: CTCSS (74.4 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9BSR'>https://przemienniki.net/przemienniki/70cm/SR9BSR</a>]]></description>
+     <description><![CDATA[70cm FM+DMR repeater<br />Network: Echolink<br />QTH: Gora Szyndzielnia<br />Activation: CTCSS (74.4 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9BSR'>https://przemienniki.net/przemienniki/70cm/SR9BSR</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9CSR</name>
@@ -8205,7 +8198,7 @@
      <Point>
       <coordinates>19.969213,50.116012</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Wegrzce<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9DV'>https://przemienniki.net/przemienniki/70cm/SR9DV</a>]]></description>
+     <description><![CDATA[70cm FM+DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Wegrzce<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9DV'>https://przemienniki.net/przemienniki/70cm/SR9DV</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9DXK</name>
@@ -8247,7 +8240,7 @@
      <Point>
       <coordinates>21.152389,49.664762</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Gorlice, maszt Emitel na Gorze Cmentarnej<br />Activation: CTCSS (162.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9GR'>https://przemienniki.net/przemienniki/70cm/SR9GR</a>]]></description>
+     <description><![CDATA[70cm FM+DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Gorlice, maszt Emitel na Gorze Cmentarnej<br />Activation: CTCSS (162.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9GR'>https://przemienniki.net/przemienniki/70cm/SR9GR</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9JG</name>
@@ -8275,14 +8268,14 @@
      <Point>
       <coordinates>20.998133,50.033140</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Tarnow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9KAO'>https://przemienniki.net/przemienniki/70cm/SR9KAO</a>]]></description>
+     <description><![CDATA[70cm FM+DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Tarnow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9KAO'>https://przemienniki.net/przemienniki/70cm/SR9KAO</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9KD</name>
      <Point>
       <coordinates>19.198926,50.312352</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Sosnowiec<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9KD'>https://przemienniki.net/przemienniki/70cm/SR9KD</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Sosnowiec<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9KD'>https://przemienniki.net/przemienniki/70cm/SR9KD</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9KM</name>
@@ -8317,7 +8310,7 @@
      <Point>
       <coordinates>18.642656,50.698776</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: LUBECKO<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9LC'>https://przemienniki.net/przemienniki/70cm/SR9LC</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: LUBECKO<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9LC'>https://przemienniki.net/przemienniki/70cm/SR9LC</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9LI</name>
@@ -8345,14 +8338,14 @@
      <Point>
       <coordinates>20.554353,49.467423</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: FM-Link<br />QTH: Prehyba<br />Activation: CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9NP'>https://przemienniki.net/przemienniki/70cm/SR9NP</a>]]></description>
+     <description><![CDATA[70cm FM repeater<br />Network: FM-Link<br />QTH: Przehyba<br />Activation: CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9NP'>https://przemienniki.net/przemienniki/70cm/SR9NP</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9NS</name>
      <Point>
       <coordinates>20.737875,49.633351</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Nowy Sacz<br />Activation: CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9NS'>https://przemienniki.net/przemienniki/70cm/SR9NS</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Nowy Sacz<br />Activation: CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9NS'>https://przemienniki.net/przemienniki/70cm/SR9NS</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9NSK</name>
@@ -8380,7 +8373,7 @@
      <Point>
       <coordinates>18.634977,49.736501</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: Cieszyn<br />Activation: CTCSS (77.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9OMP'>https://przemienniki.net/przemienniki/70cm/SR9OMP</a>]]></description>
+     <description><![CDATA[70cm FM+DMR repeater<br />Network: Echolink<br />QTH: Cieszyn<br />Activation: CTCSS (77.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9OMP'>https://przemienniki.net/przemienniki/70cm/SR9OMP</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9PC</name>
@@ -8394,7 +8387,7 @@
      <Point>
       <coordinates>18.625000,50.312500</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />Network: Echolink<br />QTH: Gliwice<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9PJD'>https://przemienniki.net/przemienniki/70cm/SR9PJD</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Gliwice<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9PJD'>https://przemienniki.net/przemienniki/70cm/SR9PJD</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9PS</name>
@@ -8415,28 +8408,28 @@
      <Point>
       <coordinates>18.291667,50.062500</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Pogrzebień<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9RC'>https://przemienniki.net/przemienniki/70cm/SR9RC</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Pogrzebień<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9RC'>https://przemienniki.net/przemienniki/70cm/SR9RC</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9RP</name>
      <Point>
       <coordinates>20.547884,49.652776</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />QTH: Wysokie<br />Activation: CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9RP'>https://przemienniki.net/przemienniki/70cm/SR9RP</a>]]></description>
+     <description><![CDATA[70cm FM+DMR repeater<br />QTH: Wysokie<br />Activation: CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9RP'>https://przemienniki.net/przemienniki/70cm/SR9RP</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9RR</name>
      <Point>
-      <coordinates>20.791667,49.520833</coordinates>
+      <coordinates>0.000000,0.000000</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: <br />Activation: nośną,CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9RR'>https://przemienniki.net/przemienniki/70cm/SR9RR</a>]]></description>
+     <description><![CDATA[70cm FM+DMR repeater<br />Network: Echolink<br />QTH: <br />Activation: nośną,CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9RR'>https://przemienniki.net/przemienniki/70cm/SR9RR</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9RS</name>
      <Point>
       <coordinates>20.821271,49.527601</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: <br />Activation: CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9RS'>https://przemienniki.net/przemienniki/70cm/SR9RS</a>]]></description>
+     <description><![CDATA[70cm FM+DMR repeater<br />QTH: <br />Activation: CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9RS'>https://przemienniki.net/przemienniki/70cm/SR9RS</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9RSR</name>
@@ -8457,7 +8450,7 @@
      <Point>
       <coordinates>20.554214,49.467286</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: <br />Activation: CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9RU'>https://przemienniki.net/przemienniki/70cm/SR9RU</a>]]></description>
+     <description><![CDATA[70cm FM+DMR repeater<br />QTH: <br />Activation: CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9RU'>https://przemienniki.net/przemienniki/70cm/SR9RU</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9SA</name>
@@ -8471,7 +8464,7 @@
      <Point>
       <coordinates>18.634977,49.736501</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: Cieszyn<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9SC'>https://przemienniki.net/przemienniki/70cm/SR9SC</a>]]></description>
+     <description><![CDATA[70cm FM+DMR repeater<br />QTH: Cieszyn<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9SC'>https://przemienniki.net/przemienniki/70cm/SR9SC</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9SE</name>
@@ -8492,7 +8485,7 @@
      <Point>
       <coordinates>19.029843,49.685223</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Skrzyczne<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9SK'>https://przemienniki.net/przemienniki/70cm/SR9SK</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Skrzyczne<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9SK'>https://przemienniki.net/przemienniki/70cm/SR9SK</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9SR</name>
@@ -8513,7 +8506,7 @@
      <Point>
       <coordinates>19.005029,50.298203</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Siemianowice Slaskie<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9SZ'>https://przemienniki.net/przemienniki/70cm/SR9SZ</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Siemianowice Slaskie<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9SZ'>https://przemienniki.net/przemienniki/70cm/SR9SZ</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9TB</name>
@@ -8576,21 +8569,14 @@
      <Point>
       <coordinates>19.934092,49.969967</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />QTH: Krakow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9UVC'>https://przemienniki.net/przemienniki/70cm/SR9UVC</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Krakow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9UVC'>https://przemienniki.net/przemienniki/70cm/SR9UVC</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9UVJ</name>
      <Point>
       <coordinates>20.875000,49.437500</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />QTH: Jaworzyna Krynicka<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9UVJ'>https://przemienniki.net/przemienniki/70cm/SR9UVJ</a>]]></description>
-    </Placemark>
-    <Placemark>
-     <name>SR9UVJ</name>
-     <Point>
-      <coordinates>20.875000,49.437500</coordinates>
-     </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />QTH: Jaworzyna krynicka<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9UVJ'>https://przemienniki.net/przemienniki/70cm/SR9UVJ</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />QTH: Jaworzyna Krynicka<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9UVJ'>https://przemienniki.net/przemienniki/70cm/SR9UVJ</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9UVJ-B</name>
@@ -8653,7 +8639,7 @@
      <Point>
       <coordinates>20.053072,49.349622</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />QTH: Gliczarow Gorny Maszt OSP<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9UVZ'>https://przemienniki.net/przemienniki/70cm/SR9UVZ</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />QTH: Gliczarow Gorny Maszt OSP<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9UVZ'>https://przemienniki.net/przemienniki/70cm/SR9UVZ</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9UW</name>
@@ -8681,7 +8667,7 @@
      <Point>
       <coordinates>20.958333,49.354167</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: MUSZYNA<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9VJP'>https://przemienniki.net/przemienniki/70cm/SR9VJP</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: MUSZYNA<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9VJP'>https://przemienniki.net/przemienniki/70cm/SR9VJP</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9VO</name>
@@ -8754,7 +8740,7 @@
      <Point>
       <coordinates>14.817566,53.562983</coordinates>
      </Point>
-     <description><![CDATA[2m FM repeater<br />Network: FM-Poland<br />QTH: Goleniow<br />Activation: CTCSS (82.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR1GL'>https://przemienniki.net/przemienniki/2m/SR1GL</a>]]></description>
+     <description><![CDATA[2m FM repeater<br />Network: SQLink<br />QTH: Goleniow<br />Activation: CTCSS (82.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR1GL'>https://przemienniki.net/przemienniki/2m/SR1GL</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR1K</name>
@@ -8782,21 +8768,14 @@
      <Point>
       <coordinates>14.522150,53.403960</coordinates>
      </Point>
-     <description><![CDATA[2m FM+APCO-25 repeater<br />Network: Echolink<br />QTH: Szczecin<br />Activation: CTCSS (82.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR1S'>https://przemienniki.net/przemienniki/2m/SR1S</a>]]></description>
+     <description><![CDATA[2m FM+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Szczecin<br />Activation: CTCSS (82.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR1S'>https://przemienniki.net/przemienniki/2m/SR1S</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR1W</name>
      <Point>
       <coordinates>14.254612,53.909511</coordinates>
      </Point>
-     <description><![CDATA[2m FM+APCO-25 repeater<br />QTH: Świnoujście<br />Activation: nośną,CTCSS (82.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR1W'>https://przemienniki.net/przemienniki/2m/SR1W</a>]]></description>
-    </Placemark>
-    <Placemark>
-     <name>SR1W</name>
-     <Point>
-      <coordinates>14.254650,53.909336</coordinates>
-     </Point>
-     <description><![CDATA[2m APCO-25 repeater<br />Network: Echolink<br />QTH: Swinoujscie<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR1W'>https://przemienniki.net/przemienniki/2m/SR1W</a>]]></description>
+     <description><![CDATA[2m FM+C4FM/Fusion repeater<br />QTH: Świnoujście<br />Activation: nośną,CTCSS (82.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR1W'>https://przemienniki.net/przemienniki/2m/SR1W</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR1Z</name>
@@ -8831,7 +8810,14 @@
      <Point>
       <coordinates>18.665793,54.347040</coordinates>
      </Point>
-     <description><![CDATA[2m APCO-25 repeater<br />QTH: Gdansk<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR2G'>https://przemienniki.net/przemienniki/2m/SR2G</a>]]></description>
+     <description><![CDATA[2m C4FM/Fusion repeater<br />QTH: Gdansk<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR2G'>https://przemienniki.net/przemienniki/2m/SR2G</a>]]></description>
+    </Placemark>
+    <Placemark>
+     <name>SR2GG</name>
+     <Point>
+      <coordinates>17.762658,53.016054</coordinates>
+     </Point>
+     <description><![CDATA[2m FM repeater<br />QTH: Szubin<br />Activation: CTCSS (74.4 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR2GG'>https://przemienniki.net/przemienniki/2m/SR2GG</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR2GRU</name>
@@ -8859,7 +8845,7 @@
      <Point>
       <coordinates>19.032652,52.672693</coordinates>
      </Point>
-     <description><![CDATA[2m FM repeater<br />Network: Echolink<br />QTH: Wloclawek<br />Activation: CTCSS (100.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR2KW'>https://przemienniki.net/przemienniki/2m/SR2KW</a>]]></description>
+     <description><![CDATA[2m FM repeater<br />Network: FM-Poland<br />QTH: Wloclawek<br />Activation: CTCSS (100.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR2KW'>https://przemienniki.net/przemienniki/2m/SR2KW</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR2PB</name>
@@ -8867,6 +8853,13 @@
       <coordinates>19.394201,53.242992</coordinates>
      </Point>
      <description><![CDATA[2m FM repeater<br />Network: Echolink<br />QTH: Brodnica<br />Activation: CTCSS (88.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR2PB'>https://przemienniki.net/przemienniki/2m/SR2PB</a>]]></description>
+    </Placemark>
+    <Placemark>
+     <name>SR2PP</name>
+     <Point>
+      <coordinates>18.043177,52.820841</coordinates>
+     </Point>
+     <description><![CDATA[2m FM repeater<br />QTH: PIECHCIN<br />Activation: CTCSS (74.4 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR2PP'>https://przemienniki.net/przemienniki/2m/SR2PP</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR2R</name>
@@ -8888,13 +8881,6 @@
       <coordinates>17.875000,53.604167</coordinates>
      </Point>
      <description><![CDATA[2m DSTAR/DV repeater<br />QTH: Tuchola<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR2UVT-C'>https://przemienniki.net/przemienniki/2m/SR2UVT-C</a>]]></description>
-    </Placemark>
-    <Placemark>
-     <name>SR2VV-B</name>
-     <Point>
-      <coordinates>17.762658,53.016054</coordinates>
-     </Point>
-     <description><![CDATA[2m DSTAR/DV repeater<br />QTH: Szubin<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR2VV-B'>https://przemienniki.net/przemienniki/2m/SR2VV-B</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR2Z</name>
@@ -9076,7 +9062,7 @@
      <Point>
       <coordinates>21.564994,52.152627</coordinates>
      </Point>
-     <description><![CDATA[2m FM+APCO-25 repeater<br />Network: Echolink<br />QTH: <br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR5DV'>https://przemienniki.net/przemienniki/2m/SR5DV</a>]]></description>
+     <description><![CDATA[2m FM+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: <br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR5DV'>https://przemienniki.net/przemienniki/2m/SR5DV</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5ECHO</name>
@@ -9090,7 +9076,7 @@
      <Point>
       <coordinates>21.569352,53.080352</coordinates>
      </Point>
-     <description><![CDATA[2m FM+APCO-25 repeater<br />QTH: Ostroleka<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR5O'>https://przemienniki.net/przemienniki/2m/SR5O</a>]]></description>
+     <description><![CDATA[2m FM+C4FM/Fusion repeater<br />QTH: Ostroleka<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR5O'>https://przemienniki.net/przemienniki/2m/SR5O</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5OMZ</name>
@@ -9125,7 +9111,7 @@
      <Point>
       <coordinates>21.114788,51.408958</coordinates>
      </Point>
-     <description><![CDATA[2m FM repeater<br />Network: FM-Link<br />QTH: RADOM - maszt Emitel<br />Activation: CTCSS (118.8 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR5RAD'>https://przemienniki.net/przemienniki/2m/SR5RAD</a>]]></description>
+     <description><![CDATA[2m FM repeater<br />Network: FM-Poland<br />QTH: RADOM - maszt Emitel<br />Activation: CTCSS (118.8 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR5RAD'>https://przemienniki.net/przemienniki/2m/SR5RAD</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5S</name>
@@ -9146,7 +9132,7 @@
      <Point>
       <coordinates>21.128688,52.268254</coordinates>
      </Point>
-     <description><![CDATA[2m FM repeater<br />Network: Echolink<br />QTH: Warszawa - komin EC Kaweczyn<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR5W'>https://przemienniki.net/przemienniki/2m/SR5W</a>]]></description>
+     <description><![CDATA[2m FM repeater<br />QTH: Warszawa - komin EC Kaweczyn<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR5W'>https://przemienniki.net/przemienniki/2m/SR5W</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5ZOC</name>
@@ -9186,9 +9172,9 @@
     <Placemark>
      <name>SR6F</name>
      <Point>
-      <coordinates>17.428882,50.256943</coordinates>
+      <coordinates>17.428860,50.256960</coordinates>
      </Point>
-     <description><![CDATA[2m FM repeater<br />QTH: BISKUPIA KOPA<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR6F'>https://przemienniki.net/przemienniki/2m/SR6F</a>]]></description>
+     <description><![CDATA[2m FM repeater<br />QTH: Biskupia Kopa<br />Activation: CTCSS (94.8 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR6F'>https://przemienniki.net/przemienniki/2m/SR6F</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR6G</name>
@@ -9214,7 +9200,7 @@
     <Placemark>
      <name>SR6R</name>
      <Point>
-      <coordinates>17.043040,51.106164</coordinates>
+      <coordinates>16.984885,51.108925</coordinates>
      </Point>
      <description><![CDATA[2m FM repeater<br />QTH: Wroclaw<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR6R'>https://przemienniki.net/przemienniki/2m/SR6R</a>]]></description>
     </Placemark>
@@ -9293,7 +9279,7 @@
      <Point>
       <coordinates>19.619306,51.814756</coordinates>
      </Point>
-     <description><![CDATA[2m APCO-25 repeater<br />QTH: Plichtow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR7LDY'>https://przemienniki.net/przemienniki/2m/SR7LDY</a>]]></description>
+     <description><![CDATA[2m C4FM/Fusion repeater<br />QTH: Plichtow<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR7LDY'>https://przemienniki.net/przemienniki/2m/SR7LDY</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR7LL</name>
@@ -9363,7 +9349,7 @@
      <Point>
       <coordinates>22.389420,49.885216</coordinates>
      </Point>
-     <description><![CDATA[2m FM+APCO-25 repeater<br />QTH: Drohobyczka-Dubiecko<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR8K'>https://przemienniki.net/przemienniki/2m/SR8K</a>]]></description>
+     <description><![CDATA[2m FM+C4FM/Fusion repeater<br />QTH: Drohobyczka-Dubiecko<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR8K'>https://przemienniki.net/przemienniki/2m/SR8K</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR8L</name>
@@ -9461,21 +9447,21 @@
      <Point>
       <coordinates>20.454850,49.719340</coordinates>
      </Point>
-     <description><![CDATA[2m FM+APCO-25 repeater<br />Network: Echolink<br />QTH: (zmiana lokalizacji)<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR9AMS'>https://przemienniki.net/przemienniki/2m/SR9AMS</a>]]></description>
+     <description><![CDATA[2m FM+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: (zmiana lokalizacji)<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR9AMS'>https://przemienniki.net/przemienniki/2m/SR9AMS</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9B</name>
      <Point>
       <coordinates>19.029843,49.685223</coordinates>
      </Point>
-     <description><![CDATA[2m FM+APCO-25 repeater<br />QTH: Skrzyczne<br />Activation: ton 1750Hz,CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR9B'>https://przemienniki.net/przemienniki/2m/SR9B</a>]]></description>
+     <description><![CDATA[2m FM+C4FM/Fusion repeater<br />QTH: Skrzyczne<br />Activation: ton 1750Hz,CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR9B'>https://przemienniki.net/przemienniki/2m/SR9B</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9C</name>
      <Point>
-      <coordinates>20.174012,50.044058</coordinates>
+      <coordinates>20.173739,50.043873</coordinates>
      </Point>
-     <description><![CDATA[2m FM repeater<br />QTH: Niepolomice<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR9C'>https://przemienniki.net/przemienniki/2m/SR9C</a>]]></description>
+     <description><![CDATA[2m FM repeater<br />QTH: Niepołomice<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR9C'>https://przemienniki.net/przemienniki/2m/SR9C</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9CZC</name>
@@ -9489,7 +9475,7 @@
      <Point>
       <coordinates>19.122050,50.307652</coordinates>
      </Point>
-     <description><![CDATA[2m FM+APCO-25 repeater<br />QTH: Bedzin<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR9D'>https://przemienniki.net/przemienniki/2m/SR9D</a>]]></description>
+     <description><![CDATA[2m FM+C4FM/Fusion repeater<br />QTH: Bedzin<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR9D'>https://przemienniki.net/przemienniki/2m/SR9D</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9DJC</name>
@@ -9510,7 +9496,7 @@
      <Point>
       <coordinates>18.875000,50.354167</coordinates>
      </Point>
-     <description><![CDATA[2m FM+APCO-25 repeater<br />QTH: Bytom<br />Activation: nośną,CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR9DX'>https://przemienniki.net/przemienniki/2m/SR9DX</a>]]></description>
+     <description><![CDATA[2m FM+C4FM/Fusion repeater<br />QTH: Bytom<br />Activation: nośną,CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR9DX'>https://przemienniki.net/przemienniki/2m/SR9DX</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9E</name>
@@ -9546,13 +9532,6 @@
       <coordinates>20.402898,49.704911</coordinates>
      </Point>
      <description><![CDATA[2m FM repeater<br />QTH: Limanowa Lipowe<br />Activation: CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR9L'>https://przemienniki.net/przemienniki/2m/SR9L</a>]]></description>
-    </Placemark>
-    <Placemark>
-     <name>SR9LC</name>
-     <Point>
-      <coordinates>18.642656,50.698776</coordinates>
-     </Point>
-     <description><![CDATA[2m FM+APCO-25 repeater<br />QTH: Lubecko<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR9LC'>https://przemienniki.net/przemienniki/2m/SR9LC</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9NSC</name>
@@ -9649,13 +9628,6 @@
      <description><![CDATA[Crossband FM repeater<br />QTH: Moszna-Parcela komin Elektrociepłowni Pruszków II<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki//SR5KP'>https://przemienniki.net/przemienniki//SR5KP</a>]]></description>
     </Placemark>
     <Placemark>
-     <name>SR5NRD</name>
-     <Point>
-      <coordinates>20.061837,52.480013</coordinates>
-     </Point>
-     <description><![CDATA[Crossband FM repeater<br />QTH: Cybulin<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki//SR5NRD'>https://przemienniki.net/przemienniki//SR5NRD</a>]]></description>
-    </Placemark>
-    <Placemark>
      <name>SR6WRC</name>
      <Point>
       <coordinates>16.875000,51.062500</coordinates>
@@ -9703,13 +9675,6 @@
       <coordinates>20.454852,49.719344</coordinates>
      </Point>
      <description><![CDATA[Crossband FM repeater<br />QTH: Mordarka - Łysa Góra 781 m n.p.m. (k. Limanowej)<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki//SR9RT'>https://przemienniki.net/przemienniki//SR9RT</a>]]></description>
-    </Placemark>
-    <Placemark>
-     <name>XSSTEST</name>
-     <Point>
-      <coordinates>0.000000,0.000000</coordinates>
-     </Point>
-     <description><![CDATA[ FM repeater<br />QTH: <br />Activation: <br /><br />More info: <a href='https://przemienniki.net/przemienniki//XSSTEST'>https://przemienniki.net/przemienniki//XSSTEST</a>]]></description>
     </Placemark>
    </Folder>
    <Folder>
@@ -9844,13 +9809,6 @@
      <description><![CDATA[10m FM repeater<br />QTH: Moszna-Parcela komin Elektrocieplowni Pruszkow II<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/10m/SR5KP'>https://przemienniki.net/przemienniki/10m/SR5KP</a>]]></description>
     </Placemark>
     <Placemark>
-     <name>SR5KPN</name>
-     <Point>
-      <coordinates>20.530593,52.298630</coordinates>
-     </Point>
-     <description><![CDATA[10m FM repeater<br />Network: Echolink<br />QTH: Zamczysko<br />Activation: CTCSS (127.3 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/10m/SR5KPN'>https://przemienniki.net/przemienniki/10m/SR5KPN</a>]]></description>
-    </Placemark>
-    <Placemark>
      <name>SR8AR</name>
      <Point>
       <coordinates>21.752673,49.697472</coordinates>
@@ -9921,7 +9879,7 @@
      <Point>
       <coordinates>21.350967,49.813220</coordinates>
      </Point>
-     <description><![CDATA[6m FM repeater<br />Network: Echolink<br />QTH: Opacie<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8RJS'>https://przemienniki.net/przemienniki/70cm/SR8RJS</a>]]></description>
+     <description><![CDATA[6m FM+DMR repeater<br />Network: Echolink<br />QTH: Opacie<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8RJS'>https://przemienniki.net/przemienniki/70cm/SR8RJS</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9ABC</name>
@@ -11313,7 +11271,7 @@
      <Point>
       <coordinates>23.118725,43.133355</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Петрохан<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/LZ0DDA'>https://przemienniki.net/przemienniki/70cm/LZ0DDA</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Петрохан<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/LZ0DDA'>https://przemienniki.net/przemienniki/70cm/LZ0DDA</a>]]></description>
     </Placemark>
     <Placemark>
      <name>LZ0DMR</name>
@@ -13028,7 +12986,7 @@
      <Point>
       <coordinates>15.630356,50.651483</coordinates>
      </Point>
-     <description><![CDATA[70cm APCO-25 repeater<br />Network: Echolink<br />QTH: Strazne - Krkonose<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/OK0DFR'>https://przemienniki.net/przemienniki/70cm/OK0DFR</a>]]></description>
+     <description><![CDATA[70cm C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Strazne - Krkonose<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/OK0DFR'>https://przemienniki.net/przemienniki/70cm/OK0DFR</a>]]></description>
     </Placemark>
     <Placemark>
      <name>OK0DHD</name>
@@ -14050,7 +14008,7 @@
      <Point>
       <coordinates>5.402144,51.453776</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Eindhoven<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/PI2EHV'>https://przemienniki.net/przemienniki/70cm/PI2EHV</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Eindhoven<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/PI2EHV'>https://przemienniki.net/przemienniki/70cm/PI2EHV</a>]]></description>
     </Placemark>
     <Placemark>
      <name>PI2FLD</name>
@@ -15305,7 +15263,7 @@
      <Point>
       <coordinates>13.670911,45.969145</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Nova Gorica (pod Skabrijelom)<br />Activation: CTCSS (123.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55DGO'>https://przemienniki.net/przemienniki/70cm/S55DGO</a>]]></description>
+     <description><![CDATA[70cm FM+DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Nova Gorica (pod Skabrijelom)<br />Activation: CTCSS (123.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55DGO'>https://przemienniki.net/przemienniki/70cm/S55DGO</a>]]></description>
     </Placemark>
     <Placemark>
      <name>S55DGV</name>
@@ -15361,7 +15319,7 @@
      <Point>
       <coordinates>14.050250,45.772150</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Nanos<br />Activation: CTCSS (123.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55DKP'>https://przemienniki.net/przemienniki/70cm/S55DKP</a>]]></description>
+     <description><![CDATA[70cm FM+DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Nanos<br />Activation: CTCSS (123.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55DKP'>https://przemienniki.net/przemienniki/70cm/S55DKP</a>]]></description>
     </Placemark>
     <Placemark>
      <name>S55DKV</name>
@@ -15375,7 +15333,7 @@
      <Point>
       <coordinates>14.469749,45.928904</coordinates>
      </Point>
-     <description><![CDATA[70cm DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Krim<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55DLJ'>https://przemienniki.net/przemienniki/70cm/S55DLJ</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Krim<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55DLJ'>https://przemienniki.net/przemienniki/70cm/S55DLJ</a>]]></description>
     </Placemark>
     <Placemark>
      <name>S55DLM</name>
@@ -15403,7 +15361,7 @@
      <Point>
       <coordinates>15.569210,46.512564</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Pohorje (Maribor)<br />Activation: CTCSS (123.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55DMX'>https://przemienniki.net/przemienniki/70cm/S55DMX</a>]]></description>
+     <description><![CDATA[70cm FM+DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Pohorje (Maribor)<br />Activation: CTCSS (123.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55DMX'>https://przemienniki.net/przemienniki/70cm/S55DMX</a>]]></description>
     </Placemark>
     <Placemark>
      <name>S55DNM</name>
@@ -15480,7 +15438,7 @@
      <Point>
       <coordinates>15.104229,46.187619</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Mrzlica<br />Activation: ton 1750Hz<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55DZA'>https://przemienniki.net/przemienniki/70cm/S55DZA</a>]]></description>
+     <description><![CDATA[70cm FM+DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Mrzlica<br />Activation: ton 1750Hz<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55DZA'>https://przemienniki.net/przemienniki/70cm/S55DZA</a>]]></description>
     </Placemark>
     <Placemark>
      <name>S55DZV</name>
@@ -15522,7 +15480,7 @@
      <Point>
       <coordinates>13.703827,45.857664</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Trstelj (NG)<br />Activation: CTCSS (123.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55UGO'>https://przemienniki.net/przemienniki/70cm/S55UGO</a>]]></description>
+     <description><![CDATA[70cm FM+DSTAR/DV+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Trstelj (NG)<br />Activation: CTCSS (123.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55UGO'>https://przemienniki.net/przemienniki/70cm/S55UGO</a>]]></description>
     </Placemark>
     <Placemark>
      <name>S55UGO</name>
@@ -15578,7 +15536,7 @@
      <Point>
       <coordinates>15.188850,46.513746</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Mala Kopa<br />Activation: CTCSS (123.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55UKO'>https://przemienniki.net/przemienniki/70cm/S55UKO</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Mala Kopa<br />Activation: CTCSS (123.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55UKO'>https://przemienniki.net/przemienniki/70cm/S55UKO</a>]]></description>
     </Placemark>
     <Placemark>
      <name>S55UKP</name>
@@ -15676,14 +15634,7 @@
      <Point>
       <coordinates>16.033341,46.602162</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+DSTAR/DV repeater<br />Network: Echolink<br />QTH: Zg.Kocjan (Radenci)<br />Activation: CTCSS (123.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55UTB'>https://przemienniki.net/przemienniki/70cm/S55UTB</a>]]></description>
-    </Placemark>
-    <Placemark>
-     <name>S55UTB</name>
-     <Point>
-      <coordinates>16.028105,46.601336</coordinates>
-     </Point>
-     <description><![CDATA[70cm FM+DSTAR/DV+APCO-25 repeater<br />Network: Echolink<br />QTH: Zg. Kocjan (Radenci)<br />Activation: CTCSS (123.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55UTB'>https://przemienniki.net/przemienniki/70cm/S55UTB</a>]]></description>
+     <description><![CDATA[70cm FM+DSTAR/DV+DMR+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Zg.Kocjan (Radenci)<br />Activation: CTCSS (123.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/S55UTB'>https://przemienniki.net/przemienniki/70cm/S55UTB</a>]]></description>
     </Placemark>
     <Placemark>
      <name>S55UTR</name>
@@ -18210,7 +18161,7 @@
      <Point>
       <coordinates>22.290637,48.634745</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+APCO-25 repeater<br />QTH: Uzhhorod<br />Activation: CTCSS (79.7 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/UR0DUM'>https://przemienniki.net/przemienniki/70cm/UR0DUM</a>]]></description>
+     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Uzhhorod<br />Activation: CTCSS (79.7 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/UR0DUM'>https://przemienniki.net/przemienniki/70cm/UR0DUM</a>]]></description>
     </Placemark>
     <Placemark>
      <name>UR0KUA</name>
@@ -18333,6 +18284,19 @@
       <coordinates>24.026164,49.836097</coordinates>
      </Point>
      <description><![CDATA[2m FM repeater<br />QTH: Lviv<br />Activation: ton 1750Hz,CTCSS (85.4 Hz),b.d.<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/UR0WVC'>https://przemienniki.net/przemienniki/2m/UR0WVC</a>]]></description>
+    </Placemark>
+   </Folder>
+  </Folder>
+  <Folder>
+   <name>US</name>
+   <Folder>
+    <name>10m band</name>
+    <Placemark>
+     <name>WY4P</name>
+     <Point>
+      <coordinates>-80.191741,25.758911</coordinates>
+     </Point>
+     <description><![CDATA[10m FM repeater<br />QTH: Miami<br />Activation: <br /><br />More info: <a href='https://przemienniki.net/przemienniki/10m/WY4P'>https://przemienniki.net/przemienniki/10m/WY4P</a>]]></description>
     </Placemark>
    </Folder>
   </Folder>
