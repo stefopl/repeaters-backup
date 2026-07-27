@@ -252,7 +252,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,Mode,TStep,Commen
 334,SR6JG,438.675,-,7.600000,Tone,67.0,67.0,FM,12.5,"Gora Kopa/Karpacz"
 335,SR6K,145.7375,-,0.600000,,88.5,88.5,FM,12.5,Jugow
 336,SR6L,439.125,-,7.600000,Tone,67.0,67.0,FM,12.5,Legnica
-338,SR6LWB,1298.6,-,28.000000,,88.5,88.5,FM,12.5,Walbrzych
+338,SR6LWB,1298.6,-,28.000000,,88.5,88.5,FM,12.5,"Góra Chełmiec"
 339,SR6LWS,439.2875,-,7.600000,Tone,94.8,94.8,FM,12.5,"Wielka Sowa"
 340,SR6LZM,438.6,-,7.600000,Tone,103.5,103.5,FM,12.5,Zmigrod
 341,SR6MA,438.725,-,7.600000,Tone,94.8,88.5,FM,12.5,"Gora Sleza EMITEL"
@@ -276,7 +276,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,Mode,TStep,Commen
 362,SR6UVX,439.4125,-,7.600000,Tone,103.5,88.5,FM,12.5,Zmigrod
 363,SR6UVY,439.2125,-,7.600000,,88.5,88.5,FM,12.5,Oława
 364,SR6W,145.6625,-,0.600000,Tone,94.8,94.8,FM,12.5,"Gora Chelmiec"
-365,SR6WB,439.3625,-,7.600000,Tone,94.8,88.5,FM,12.5,"Gora Chelmiec"
+365,SR6WB,439.3625,-,7.600000,Tone,94.8,94.8,FM,12.5,"Gora Chelmiec"
 367,SR6WR,438.85,-,7.600000,Tone,103.5,103.5,FM,12.5,Wroclaw
 368,SR6WRC,430.175,-,359.915000,Tone,103.5,88.5,FM,12.5,"Mokronos Gorny"
 369,SR6WS,438.925,-,7.600000,Tone,94.8,94.8,FM,12.5,"Wielka Sowa"

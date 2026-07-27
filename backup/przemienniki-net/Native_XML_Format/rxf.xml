@@ -2,8 +2,8 @@
 <rxf version="1.0">
     <link rel="self" href="https://przemienniki.net/export/rxf.xml" type="application/xml"/>
     <link>https://przemienniki.net</link>
-    <updated>2026-07-19 23:44:00</updated>
-    <generated>2026-07-20 14:01:25</generated>
+    <updated>2026-07-25 17:50:21</updated>
+    <generated>2026-07-27 14:29:24</generated>
     <generator>przemienniki.net v.0.1.0</generator>
     <dictionary>
         <item>
@@ -54475,10 +54475,10 @@
         <repeater>
             <qra>SR4LG</qra>
             <id>9045863</id>
-            <hash>ba81e0642638846701a9fea45c1cc73b</hash>
-            <updated>2026-07-05 20:47:24</updated>
-            <statusInt>1</statusInt>
-            <status>WORKING</status>
+            <hash>a5c15000906cd48cc40f5eb817782a47</hash>
+            <updated>2026-07-25 17:49:37</updated>
+            <statusInt>2</statusInt>
+            <status>DISABLED</status>
             <licenseExpiryDate>2028-09-01</licenseExpiryDate>
             <modeInt>4</modeInt>
             <mode>FM</mode>
@@ -54843,12 +54843,13 @@
         <repeater>
             <qra>SR4OE</qra>
             <id>4658875</id>
-            <hash>92c5f73eb219878ac5f1b849e387264c</hash>
-            <updated>2026-07-08 01:00:41</updated>
+            <hash>58944e7006f367428d2b9c5eaa01edea</hash>
+            <updated>2026-07-24 09:46:41</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2028-01-11</licenseExpiryDate>
-            <modeInt>4096</modeInt>
+            <modeInt>5120</modeInt>
+            <mode>MOTOTRBO</mode>
             <mode>C4FM</mode>
             <bandInt>16384</bandInt>
             <band>70CM</band>
@@ -57776,7 +57777,7 @@
             <qra>SR6AA</qra>
             <id>9044882</id>
             <hash>4c7ca7c7f7982d81b76c1172aea1674f</hash>
-            <updated>2026-07-19 23:43:01</updated>
+            <updated>2026-07-21 08:05:26</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2028-09-01</licenseExpiryDate>
@@ -58415,7 +58416,7 @@
             <qra>SR6LDV</qra>
             <id>9100050</id>
             <hash>5175f44bc0e75a935a543f1397d9d1fb</hash>
-            <updated>2026-07-19 23:44:00</updated>
+            <updated>2026-07-21 08:07:05</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2029-11-08</licenseExpiryDate>
@@ -58443,9 +58444,10 @@
             <qra>SR6LWB</qra>
             <id>9100004</id>
             <hash>6fd5fc448136c1b2ee1ab835bd0c38f9</hash>
-            <updated>2026-06-17 00:37:21</updated>
+            <updated>2026-07-23 20:38:35</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
+            <licenseExpiryDate>2036-05-12</licenseExpiryDate>
             <modeInt>4</modeInt>
             <mode>FM</mode>
             <bandInt>32768</bandInt>
@@ -58453,14 +58455,15 @@
             <qrg type="rx">1270.6</qrg>
             <qrg type="tx">1298.6</qrg>
             <country>pl</country>
-            <qth><![CDATA[Walbrzych]]></qth>
+            <qth><![CDATA[Góra Chełmiec]]></qth>
             <location>
                 <locator>JO80CS</locator>
-                <latitude>50.822722</latitude>
-                <longitude>16.275748</longitude>
+                <latitude>50.779241</latitude>
+                <longitude>16.211014</longitude>
             </location>
             <activationInt>4</activationInt>
             <activation>CARRIER</activation>
+            <trxPower>10</trxPower>
             <link>https://przemienniki.net/przemienniki/23cm/SR6LWB</link>
             <source>manual</source>
         </repeater>
@@ -58553,7 +58556,7 @@
             <qra>SR6MI</qra>
             <id>9045874</id>
             <hash>2ea768f067abc26d5af190e06f68feac</hash>
-            <updated>2026-07-19 23:43:15</updated>
+            <updated>2026-07-21 08:06:24</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2028-08-04</licenseExpiryDate>
@@ -59207,11 +59210,11 @@
         <repeater>
             <qra>SR6WB</qra>
             <id>9045707</id>
-            <hash>7823c834be5408cd206f1d678dbdfdb8</hash>
-            <updated>2026-07-05 20:47:24</updated>
+            <hash>e96fcde20562b57670c774efa148045a</hash>
+            <updated>2026-07-23 19:34:48</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
-            <licenseExpiryDate>2026-05-17</licenseExpiryDate>
+            <licenseExpiryDate>2036-05-12</licenseExpiryDate>
             <modeInt>4</modeInt>
             <mode>FM</mode>
             <bandInt>16384</bandInt>
@@ -59221,14 +59224,15 @@
             <country>pl</country>
             <qth><![CDATA[Gora Chelmiec]]></qth>
             <location>
-                <locator>JO80DT</locator>
+                <locator>JO80CS</locator>
                 <latitude>50.779349</latitude>
                 <longitude>16.210994</longitude>
             </location>
             <activationInt>256</activationInt>
             <activation>CTCSS</activation>
             <ctcss type="rx">94.8</ctcss>
-            <trxPower>10</trxPower>
+            <ctcss type="tx">94.8</ctcss>
+            <trxPower>15</trxPower>
             <link>https://przemienniki.net/przemienniki/70cm/SR6WB</link>
             <source>manual</source>
         </repeater>
@@ -59487,8 +59491,8 @@
         <repeater>
             <qra>SR7CKD</qra>
             <id>9045141</id>
-            <hash>1428cb1e5cb703a34182f25199f28b7b</hash>
-            <updated>2026-07-06 00:31:36</updated>
+            <hash>201bc1961ab99e999f390d000e6bb58d</hash>
+            <updated>2026-07-21 22:45:35</updated>
             <statusInt>8</statusInt>
             <status>TESTING</status>
             <licenseExpiryDate>2030-01-07</licenseExpiryDate>
@@ -59499,7 +59503,7 @@
             <qrg type="rx">144.975</qrg>
             <qrg type="tx">145.575</qrg>
             <country>pl</country>
-            <qth><![CDATA[Lodz]]></qth>
+            <qth><![CDATA[Łódź]]></qth>
             <location>
                 <locator>JO91SS</locator>
                 <latitude>51.774038</latitude>
@@ -60019,10 +60023,11 @@
         <repeater>
             <qra>SR7LDA</qra>
             <id>9045679</id>
-            <hash>59619c753b75c256060b735f22f8467e</hash>
-            <updated>2026-07-06 00:31:36</updated>
+            <hash>13dbdc9e4a2a5c532a4ca9b44248fbe2</hash>
+            <updated>2026-07-21 22:45:23</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
+            <licenseExpiryDate>2031-02-27</licenseExpiryDate>
             <modeInt>1024</modeInt>
             <mode>MOTOTRBO</mode>
             <bandInt>16384</bandInt>
@@ -60030,7 +60035,7 @@
             <qrg type="rx">430.85</qrg>
             <qrg type="tx">438.45</qrg>
             <country>pl</country>
-            <qth><![CDATA[Lodz]]></qth>
+            <qth><![CDATA[Łódź]]></qth>
             <location>
                 <locator>JO91SS</locator>
                 <latitude>51.780793</latitude>
@@ -60181,8 +60186,8 @@
         <repeater>
             <qra>SR7LL</qra>
             <id>9045678</id>
-            <hash>e3d06a72e92e07de81854ea5c7d98648</hash>
-            <updated>2026-07-06 00:31:36</updated>
+            <hash>68043d708fa2dab42683e09a1369fa74</hash>
+            <updated>2026-07-21 22:45:52</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2031-02-19</licenseExpiryDate>
@@ -60193,7 +60198,7 @@
             <qrg type="rx">145.1125</qrg>
             <qrg type="tx">145.7125</qrg>
             <country>pl</country>
-            <qth><![CDATA[Lodz]]></qth>
+            <qth><![CDATA[Łódź]]></qth>
             <location>
                 <locator>JO91SS</locator>
                 <latitude>51.780793</latitude>
@@ -60763,7 +60768,7 @@
             <qra>SR7ULM</qra>
             <id>9006132</id>
             <hash>fcf8cfe6ec54f877d5f6df41d0c63106</hash>
-            <updated>2026-07-08 11:16:23</updated>
+            <updated>2026-07-21 22:44:43</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2030-05-06</licenseExpiryDate>
@@ -60774,14 +60779,13 @@
             <qrg type="rx">431.8</qrg>
             <qrg type="tx">439.4</qrg>
             <country>pl</country>
-            <qth><![CDATA[Lodz]]></qth>
+            <qth><![CDATA[Łódź]]></qth>
             <location>
                 <locator>JO91RR</locator>
                 <latitude>51.746115</latitude>
                 <longitude>19.450216</longitude>
             </location>
             <activationInt>0</activationInt>
-            <ctcss type="rx">74.4</ctcss>
             <trxPower>10</trxPower>
             <link>https://przemienniki.net/przemienniki/70cm/SR7ULM</link>
             <source>manual</source>
@@ -64253,8 +64257,8 @@
         <repeater>
             <qra>SR9DSK</qra>
             <id>9045126</id>
-            <hash>88a996bb1db866bc7ffa50b7cd6091fb</hash>
-            <updated>2026-07-06 00:31:36</updated>
+            <hash>7505cca370ebccc20ee1b1de01681a12</hash>
+            <updated>2026-07-25 17:50:21</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2029-11-08</licenseExpiryDate>
@@ -65609,10 +65613,10 @@
         <repeater>
             <qra>SR9RR</qra>
             <id>9045880</id>
-            <hash>7a150abc592eb51e349a7fa04c27e784</hash>
-            <updated>2026-07-08 09:03:18</updated>
-            <statusInt>16</statusInt>
-            <status>BUILDING</status>
+            <hash>a560e0ffd885d77c0804995c66422518</hash>
+            <updated>2026-07-25 17:49:49</updated>
+            <statusInt>8</statusInt>
+            <status>TESTING</status>
             <licenseExpiryDate>2028-12-19</licenseExpiryDate>
             <modeInt>1028</modeInt>
             <mode>FM</mode>
@@ -65628,8 +65632,7 @@
                 <latitude>0.000000</latitude>
                 <longitude>0.000000</longitude>
             </location>
-            <activationInt>260</activationInt>
-            <activation>CARRIER</activation>
+            <activationInt>256</activationInt>
             <activation>CTCSS</activation>
             <ctcss type="rx">107.2</ctcss>
             <ctcss type="tx">107.2</ctcss>
@@ -66907,13 +66910,14 @@
         <repeater>
             <qra>SR9Z</qra>
             <id>9043538</id>
-            <hash>67113193b48b4a971fcbc49a03585405</hash>
-            <updated>2026-06-17 00:37:21</updated>
+            <hash>a8f85a7e706a2c19a17dc1d9ae8b2881</hash>
+            <updated>2026-07-25 17:50:09</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2026-06-17</licenseExpiryDate>
-            <modeInt>4</modeInt>
+            <modeInt>1028</modeInt>
             <mode>FM</mode>
+            <mode>MOTOTRBO</mode>
             <bandInt>4096</bandInt>
             <band>2M</band>
             <qrg type="rx">145.1375</qrg>
@@ -67172,10 +67176,10 @@
         <repeater>
             <qra>UR0DMU</qra>
             <id>9045125</id>
-            <hash>84d3497a9f9187fec85a57f9fa0ed7d8</hash>
-            <updated>2026-07-06 00:31:36</updated>
-            <statusInt>1</statusInt>
-            <status>WORKING</status>
+            <hash>eb1440356fc48f8f6a275fd86676b8ce</hash>
+            <updated>2026-07-23 19:35:41</updated>
+            <statusInt>2</statusInt>
+            <status>DISABLED</status>
             <modeInt>1024</modeInt>
             <mode>MOTOTRBO</mode>
             <bandInt>16384</bandInt>
@@ -67301,14 +67305,13 @@
         <repeater>
             <qra>UR0DUM</qra>
             <id>9045717</id>
-            <hash>e39c1823d43fad9f7f25ce652bce4367</hash>
-            <updated>2026-07-08 01:00:41</updated>
+            <hash>daaddc7195f8aa38adbb7608d49058cb</hash>
+            <updated>2026-07-23 19:35:17</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
-            <licenseExpiryDate>2025-09-29</licenseExpiryDate>
-            <modeInt>4100</modeInt>
+            <licenseExpiryDate>2035-09-30</licenseExpiryDate>
+            <modeInt>4</modeInt>
             <mode>FM</mode>
-            <mode>C4FM</mode>
             <bandInt>16384</bandInt>
             <band>70CM</band>
             <qrg type="rx">431.1</qrg>
@@ -67324,7 +67327,7 @@
             <activation>CTCSS</activation>
             <ctcss type="rx">79.7</ctcss>
             <ctcss type="tx">79.7</ctcss>
-            <trxPower>25</trxPower>
+            <trxPower>5</trxPower>
             <link>https://przemienniki.net/przemienniki/70cm/UR0DUM</link>
             <source>manual</source>
         </repeater>
@@ -67358,7 +67361,7 @@
             <qra>UR0DVD</qra>
             <id>9045868</id>
             <hash>3178f6951af9ac70633fe4adfb6398b2</hash>
-            <updated>2026-06-17 00:37:21</updated>
+            <updated>2026-07-23 19:35:30</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2033-10-27</licenseExpiryDate>
@@ -67378,8 +67381,7 @@
             <activationInt>256</activationInt>
             <activation>CTCSS</activation>
             <ctcss type="rx">79.7</ctcss>
-            <ctcss type="tx">79.7</ctcss>
-            <trxPower>25</trxPower>
+            <trxPower>15</trxPower>
             <link>https://przemienniki.net/przemienniki/2m/UR0DVD</link>
             <source>manual</source>
         </repeater>
@@ -67993,8 +67995,8 @@
         <repeater>
             <qra>YL3RQY</qra>
             <id>-3</id>
-            <hash>f53d6ef4578dda7fa6e88241049c41c4</hash>
-            <updated>2026-07-06 01:27:01</updated>
+            <hash>7aa59eaade07d44ca6a24b255255c7fb</hash>
+            <updated>2026-07-24 16:12:09</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2030-08-14</licenseExpiryDate>
@@ -68004,7 +68006,7 @@
             <band>70CM</band>
             <qrg type="rx">430.85</qrg>
             <qrg type="tx">438.45</qrg>
-            <country>pl</country>
+            <country>lv</country>
             <qth><![CDATA[Inciems]]></qth>
             <location>
                 <locator/>

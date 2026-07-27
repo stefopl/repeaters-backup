@@ -5,8 +5,8 @@
         },
         "https://przemienniki.net"
     ],
-    "updated": "2026-07-19 23:44:00",
-    "generated": "2026-07-20 14:01:25",
+    "updated": "2026-07-25 17:50:21",
+    "generated": "2026-07-27 14:29:24",
     "generator": "przemienniki.net v.0.1.0",
     "dictionary": {
         "item": [
@@ -60568,10 +60568,10 @@
         "SR4LG": {
             "qra": "SR4LG",
             "id": "9045863",
-            "hash": "ba81e0642638846701a9fea45c1cc73b",
-            "updated": "2026-07-05 20:47:24",
-            "statusInt": "1",
-            "status": "WORKING",
+            "hash": "a5c15000906cd48cc40f5eb817782a47",
+            "updated": "2026-07-25 17:49:37",
+            "statusInt": "2",
+            "status": "DISABLED",
             "licenseExpiryDate": "2028-09-01",
             "modeInt": "4",
             "mode": "FM",
@@ -60982,13 +60982,16 @@
         "SR4OE": {
             "qra": "SR4OE",
             "id": "4658875",
-            "hash": "92c5f73eb219878ac5f1b849e387264c",
-            "updated": "2026-07-08 01:00:41",
+            "hash": "58944e7006f367428d2b9c5eaa01edea",
+            "updated": "2026-07-24 09:46:41",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-01-11",
-            "modeInt": "4096",
-            "mode": "C4FM",
+            "modeInt": "5120",
+            "mode": [
+                "MOTOTRBO",
+                "C4FM"
+            ],
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -64273,7 +64276,7 @@
             "qra": "SR6AA",
             "id": "9044882",
             "hash": "4c7ca7c7f7982d81b76c1172aea1674f",
-            "updated": "2026-07-19 23:43:01",
+            "updated": "2026-07-21 08:05:26",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-09-01",
@@ -64988,7 +64991,7 @@
             "qra": "SR6LDV",
             "id": "9100050",
             "hash": "5175f44bc0e75a935a543f1397d9d1fb",
-            "updated": "2026-07-19 23:44:00",
+            "updated": "2026-07-21 08:07:05",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2029-11-08",
@@ -65020,9 +65023,10 @@
             "qra": "SR6LWB",
             "id": "9100004",
             "hash": "6fd5fc448136c1b2ee1ab835bd0c38f9",
-            "updated": "2026-06-17 00:37:21",
+            "updated": "2026-07-23 20:38:35",
             "statusInt": "1",
             "status": "WORKING",
+            "licenseExpiryDate": "2036-05-12",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "32768",
@@ -65032,14 +65036,15 @@
                 "tx": "1298.6"
             },
             "country": "pl",
-            "qth": "Walbrzych",
+            "qth": "Góra Chełmiec",
             "location": {
                 "locator": "JO80CS",
-                "latitude": "50.822722",
-                "longitude": "16.275748"
+                "latitude": "50.779241",
+                "longitude": "16.211014"
             },
             "activationInt": "4",
             "activation": "CARRIER",
+            "trxPower": "10",
             "link": "https://przemienniki.net/przemienniki/23cm/SR6LWB",
             "source": "manual"
         },
@@ -65144,7 +65149,7 @@
             "qra": "SR6MI",
             "id": "9045874",
             "hash": "2ea768f067abc26d5af190e06f68feac",
-            "updated": "2026-07-19 23:43:15",
+            "updated": "2026-07-21 08:06:24",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-08-04",
@@ -65894,11 +65899,11 @@
         "SR6WB": {
             "qra": "SR6WB",
             "id": "9045707",
-            "hash": "7823c834be5408cd206f1d678dbdfdb8",
-            "updated": "2026-07-05 20:47:24",
+            "hash": "e96fcde20562b57670c774efa148045a",
+            "updated": "2026-07-23 19:34:48",
             "statusInt": "1",
             "status": "WORKING",
-            "licenseExpiryDate": "2026-05-17",
+            "licenseExpiryDate": "2036-05-12",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "16384",
@@ -65910,16 +65915,17 @@
             "country": "pl",
             "qth": "Gora Chelmiec",
             "location": {
-                "locator": "JO80DT",
+                "locator": "JO80CS",
                 "latitude": "50.779349",
                 "longitude": "16.210994"
             },
             "activationInt": "256",
             "activation": "CTCSS",
             "ctcss": {
-                "rx": "94.8"
+                "rx": "94.8",
+                "tx": "94.8"
             },
-            "trxPower": "10",
+            "trxPower": "15",
             "link": "https://przemienniki.net/przemienniki/70cm/SR6WB",
             "source": "manual"
         },
@@ -66212,8 +66218,8 @@
         "SR7CKD": {
             "qra": "SR7CKD",
             "id": "9045141",
-            "hash": "1428cb1e5cb703a34182f25199f28b7b",
-            "updated": "2026-07-06 00:31:36",
+            "hash": "201bc1961ab99e999f390d000e6bb58d",
+            "updated": "2026-07-21 22:45:35",
             "statusInt": "8",
             "status": "TESTING",
             "licenseExpiryDate": "2030-01-07",
@@ -66226,7 +66232,7 @@
                 "tx": "145.575"
             },
             "country": "pl",
-            "qth": "Lodz",
+            "qth": "Łódź",
             "location": {
                 "locator": "JO91SS",
                 "latitude": "51.774038",
@@ -66810,10 +66816,11 @@
         "SR7LDA": {
             "qra": "SR7LDA",
             "id": "9045679",
-            "hash": "59619c753b75c256060b735f22f8467e",
-            "updated": "2026-07-06 00:31:36",
+            "hash": "13dbdc9e4a2a5c532a4ca9b44248fbe2",
+            "updated": "2026-07-21 22:45:23",
             "statusInt": "1",
             "status": "WORKING",
+            "licenseExpiryDate": "2031-02-27",
             "modeInt": "1024",
             "mode": "MOTOTRBO",
             "bandInt": "16384",
@@ -66823,7 +66830,7 @@
                 "tx": "438.45"
             },
             "country": "pl",
-            "qth": "Lodz",
+            "qth": "Łódź",
             "location": {
                 "locator": "JO91SS",
                 "latitude": "51.780793",
@@ -66986,8 +66993,8 @@
         "SR7LL": {
             "qra": "SR7LL",
             "id": "9045678",
-            "hash": "e3d06a72e92e07de81854ea5c7d98648",
-            "updated": "2026-07-06 00:31:36",
+            "hash": "68043d708fa2dab42683e09a1369fa74",
+            "updated": "2026-07-21 22:45:52",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2031-02-19",
@@ -67000,7 +67007,7 @@
                 "tx": "145.7125"
             },
             "country": "pl",
-            "qth": "Lodz",
+            "qth": "Łódź",
             "location": {
                 "locator": "JO91SS",
                 "latitude": "51.780793",
@@ -67634,7 +67641,7 @@
             "qra": "SR7ULM",
             "id": "9006132",
             "hash": "fcf8cfe6ec54f877d5f6df41d0c63106",
-            "updated": "2026-07-08 11:16:23",
+            "updated": "2026-07-21 22:44:43",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2030-05-06",
@@ -67647,16 +67654,13 @@
                 "tx": "439.4"
             },
             "country": "pl",
-            "qth": "Lodz",
+            "qth": "Łódź",
             "location": {
                 "locator": "JO91RR",
                 "latitude": "51.746115",
                 "longitude": "19.450216"
             },
             "activationInt": "0",
-            "ctcss": {
-                "rx": "74.4"
-            },
             "trxPower": "10",
             "link": "https://przemienniki.net/przemienniki/70cm/SR7ULM",
             "source": "manual"
@@ -71578,8 +71582,8 @@
         "SR9DSK": {
             "qra": "SR9DSK",
             "id": "9045126",
-            "hash": "88a996bb1db866bc7ffa50b7cd6091fb",
-            "updated": "2026-07-06 00:31:36",
+            "hash": "7505cca370ebccc20ee1b1de01681a12",
+            "updated": "2026-07-25 17:50:21",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2029-11-08",
@@ -73124,10 +73128,10 @@
         "SR9RR": {
             "qra": "SR9RR",
             "id": "9045880",
-            "hash": "7a150abc592eb51e349a7fa04c27e784",
-            "updated": "2026-07-08 09:03:18",
-            "statusInt": "16",
-            "status": "BUILDING",
+            "hash": "a560e0ffd885d77c0804995c66422518",
+            "updated": "2026-07-25 17:49:49",
+            "statusInt": "8",
+            "status": "TESTING",
             "licenseExpiryDate": "2028-12-19",
             "modeInt": "1028",
             "mode": [
@@ -73147,11 +73151,8 @@
                 "latitude": "0.000000",
                 "longitude": "0.000000"
             },
-            "activationInt": "260",
-            "activation": [
-                "CARRIER",
-                "CTCSS"
-            ],
+            "activationInt": "256",
+            "activation": "CTCSS",
             "ctcss": {
                 "rx": "107.2",
                 "tx": "107.2"
@@ -74580,13 +74581,16 @@
         "SR9Z": {
             "qra": "SR9Z",
             "id": "9043538",
-            "hash": "67113193b48b4a971fcbc49a03585405",
-            "updated": "2026-06-17 00:37:21",
+            "hash": "a8f85a7e706a2c19a17dc1d9ae8b2881",
+            "updated": "2026-07-25 17:50:09",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2026-06-17",
-            "modeInt": "4",
-            "mode": "FM",
+            "modeInt": "1028",
+            "mode": [
+                "FM",
+                "MOTOTRBO"
+            ],
             "bandInt": "4096",
             "band": "2M",
             "qrg": {
@@ -74873,10 +74877,10 @@
         "UR0DMU": {
             "qra": "UR0DMU",
             "id": "9045125",
-            "hash": "84d3497a9f9187fec85a57f9fa0ed7d8",
-            "updated": "2026-07-06 00:31:36",
-            "statusInt": "1",
-            "status": "WORKING",
+            "hash": "eb1440356fc48f8f6a275fd86676b8ce",
+            "updated": "2026-07-23 19:35:41",
+            "statusInt": "2",
+            "status": "DISABLED",
             "modeInt": "1024",
             "mode": "MOTOTRBO",
             "bandInt": "16384",
@@ -75012,16 +75016,13 @@
         "UR0DUM": {
             "qra": "UR0DUM",
             "id": "9045717",
-            "hash": "e39c1823d43fad9f7f25ce652bce4367",
-            "updated": "2026-07-08 01:00:41",
+            "hash": "daaddc7195f8aa38adbb7608d49058cb",
+            "updated": "2026-07-23 19:35:17",
             "statusInt": "1",
             "status": "WORKING",
-            "licenseExpiryDate": "2025-09-29",
-            "modeInt": "4100",
-            "mode": [
-                "FM",
-                "C4FM"
-            ],
+            "licenseExpiryDate": "2035-09-30",
+            "modeInt": "4",
+            "mode": "FM",
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -75041,7 +75042,7 @@
                 "rx": "79.7",
                 "tx": "79.7"
             },
-            "trxPower": "25",
+            "trxPower": "5",
             "link": "https://przemienniki.net/przemienniki/70cm/UR0DUM",
             "source": "manual"
         },
@@ -75079,7 +75080,7 @@
             "qra": "UR0DVD",
             "id": "9045868",
             "hash": "3178f6951af9ac70633fe4adfb6398b2",
-            "updated": "2026-06-17 00:37:21",
+            "updated": "2026-07-23 19:35:30",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2033-10-27",
@@ -75101,10 +75102,9 @@
             "activationInt": "256",
             "activation": "CTCSS",
             "ctcss": {
-                "rx": "79.7",
-                "tx": "79.7"
+                "rx": "79.7"
             },
-            "trxPower": "25",
+            "trxPower": "15",
             "link": "https://przemienniki.net/przemienniki/2m/UR0DVD",
             "source": "manual"
         },
@@ -75784,8 +75784,8 @@
         "YL3RQY": {
             "qra": "YL3RQY",
             "id": "-3",
-            "hash": "f53d6ef4578dda7fa6e88241049c41c4",
-            "updated": "2026-07-06 01:27:01",
+            "hash": "7aa59eaade07d44ca6a24b255255c7fb",
+            "updated": "2026-07-24 16:12:09",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2030-08-14",
@@ -75797,7 +75797,7 @@
                 "rx": "430.85",
                 "tx": "438.45"
             },
-            "country": "pl",
+            "country": "lv",
             "qth": "Inciems",
             "location": {
                 "locator": null,

@@ -31890,14 +31890,14 @@ More information: https://przemienniki.net/przemienniki/23cm/SR4LDG</desc>
   <name>SR4LG</name>
   <cmt>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Gielczyn
 Frequency: TX: 438.7250 MHz, RX: 431.1250 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR4LG</cmt>
   <desc>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Gielczyn
 Frequency: TX: 438.7250 MHz, RX: 431.1250 MHz
 Activation: CTCSS (67.0 Hz)
@@ -32097,16 +32097,14 @@ More information: https://przemienniki.net/przemienniki/2m/SR4O</desc>
  </wpt>
  <wpt lat="54.035498" lon="22.500114">
   <name>SR4OE</name>
-  <cmt>70cm C4FM/Fusion repeater
+  <cmt>70cm DMR+C4FM/Fusion repeater
 
-Network: Echolink
 QTH: Olecko
 Frequency: TX: 439.4000 MHz, RX: 431.8000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR4OE</cmt>
-  <desc>70cm C4FM/Fusion repeater
+  <desc>70cm DMR+C4FM/Fusion repeater
 
-Network: Echolink
 QTH: Olecko
 Frequency: TX: 439.4000 MHz, RX: 431.8000 MHz
 Activation: nośną
@@ -34134,17 +34132,17 @@ Frequency: TX: 438.2500 MHz, RX: 430.6500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR6LDV</desc>
  </wpt>
- <wpt lat="50.822722" lon="16.275748">
+ <wpt lat="50.779241" lon="16.211014">
   <name>SR6LWB</name>
   <cmt>23cm FM repeater
 
-QTH: Walbrzych
+QTH: Góra Chełmiec
 Frequency: TX: 1298.6000 MHz, RX: 1270.6000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/23cm/SR6LWB</cmt>
   <desc>23cm FM repeater
 
-QTH: Walbrzych
+QTH: Góra Chełmiec
 Frequency: TX: 1298.6000 MHz, RX: 1270.6000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/23cm/SR6LWB</desc>
@@ -34569,14 +34567,12 @@ More information: https://przemienniki.net/przemienniki/2m/SR6W</desc>
   <name>SR6WB</name>
   <cmt>70cm FM repeater
 
-Network: FM-Link
 QTH: Gora Chelmiec
 Frequency: TX: 439.3625 MHz, RX: 431.7625 MHz
 Activation: CTCSS (94.8 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR6WB</cmt>
   <desc>70cm FM repeater
 
-Network: FM-Link
 QTH: Gora Chelmiec
 Frequency: TX: 439.3625 MHz, RX: 431.7625 MHz
 Activation: CTCSS (94.8 Hz)
@@ -34725,15 +34721,13 @@ More information: https://przemienniki.net/przemienniki/2m/SR7BU</desc>
   <name>SR7CKD</name>
   <cmt>2m DMR repeater
 
-Network: Echolink
-QTH: Lodz
+QTH: Łódź
 Frequency: TX: 145.5750 MHz, RX: 144.9750 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/2m/SR7CKD</cmt>
   <desc>2m DMR repeater
 
-Network: Echolink
-QTH: Lodz
+QTH: Łódź
 Frequency: TX: 145.5750 MHz, RX: 144.9750 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/2m/SR7CKD</desc>
@@ -35032,15 +35026,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR7LD</desc>
   <name>SR7LDA</name>
   <cmt>70cm DMR repeater
 
-Network: Echolink
-QTH: Lodz
+QTH: Łódź
 Frequency: TX: 438.4500 MHz, RX: 430.8500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR7LDA</cmt>
   <desc>70cm DMR repeater
 
-Network: Echolink
-QTH: Lodz
+QTH: Łódź
 Frequency: TX: 438.4500 MHz, RX: 430.8500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR7LDA</desc>
@@ -35130,15 +35122,13 @@ More information: https://przemienniki.net/przemienniki/23cm/SR7LK</desc>
   <name>SR7LL</name>
   <cmt>2m DMR repeater
 
-Network: Echolink
-QTH: Lodz
+QTH: Łódź
 Frequency: TX: 145.7125 MHz, RX: 145.1125 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/2m/SR7LL</cmt>
   <desc>2m DMR repeater
 
-Network: Echolink
-QTH: Lodz
+QTH: Łódź
 Frequency: TX: 145.7125 MHz, RX: 145.1125 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/2m/SR7LL</desc>
@@ -35465,13 +35455,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR7ULD</desc>
   <name>SR7ULM</name>
   <cmt>70cm C4FM/Fusion repeater
 
-QTH: Lodz
+QTH: Łódź
 Frequency: TX: 439.4000 MHz, RX: 431.8000 MHz
 Activation: 
 More information: https://przemienniki.net/przemienniki/70cm/SR7ULM</cmt>
   <desc>70cm C4FM/Fusion repeater
 
-QTH: Lodz
+QTH: Łódź
 Frequency: TX: 439.4000 MHz, RX: 431.8000 MHz
 Activation: 
 More information: https://przemienniki.net/przemienniki/70cm/SR7ULM</desc>
@@ -37434,14 +37424,12 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9DMR</desc>
   <name>SR9DSK</name>
   <cmt>70cm DMR repeater
 
-Network: Echolink
 QTH: SZCZAWNICA
 Frequency: TX: 438.5250 MHz, RX: 430.9250 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR9DSK</cmt>
   <desc>70cm DMR repeater
 
-Network: Echolink
 QTH: SZCZAWNICA
 Frequency: TX: 438.5250 MHz, RX: 430.9250 MHz
 Activation: nośną
@@ -38204,17 +38192,15 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9RP</desc>
   <name>SR9RR</name>
   <cmt>70cm FM+DMR repeater
 
-Network: Echolink
 QTH: 
 Frequency: TX: 439.1000 MHz, RX: 431.5000 MHz
-Activation: nośną,CTCSS (107.2 Hz)
+Activation: CTCSS (107.2 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9RR</cmt>
   <desc>70cm FM+DMR repeater
 
-Network: Echolink
 QTH: 
 Frequency: TX: 439.1000 MHz, RX: 431.5000 MHz
-Activation: nośną,CTCSS (107.2 Hz)
+Activation: CTCSS (107.2 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9RR</desc>
  </wpt>
  <wpt lat="49.527601" lon="20.821271">
@@ -38957,13 +38943,13 @@ More information: https://przemienniki.net/przemienniki/2m/SR9X</desc>
  </wpt>
  <wpt lat="49.467256" lon="20.553933">
   <name>SR9Z</name>
-  <cmt>2m FM repeater
+  <cmt>2m FM+DMR repeater
 
 QTH: Przehyba EMITEL
 Frequency: TX: 145.7375 MHz, RX: 145.1375 MHz
 Activation: CTCSS (107.2 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR9Z</cmt>
-  <desc>2m FM repeater
+  <desc>2m FM+DMR repeater
 
 QTH: Przehyba EMITEL
 Frequency: TX: 145.7375 MHz, RX: 145.1375 MHz
@@ -39194,13 +39180,13 @@ More information: https://przemienniki.net/przemienniki/70cm/UR0DUJ</desc>
  </wpt>
  <wpt lat="48.634745" lon="22.290637">
   <name>UR0DUM</name>
-  <cmt>70cm FM+C4FM/Fusion repeater
+  <cmt>70cm FM repeater
 
 QTH: Uzhhorod
 Frequency: TX: 438.7000 MHz, RX: 431.1000 MHz
 Activation: CTCSS (79.7 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/UR0DUM</cmt>
-  <desc>70cm FM+C4FM/Fusion repeater
+  <desc>70cm FM repeater
 
 QTH: Uzhhorod
 Frequency: TX: 438.7000 MHz, RX: 431.1000 MHz
