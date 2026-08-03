@@ -1836,7 +1836,7 @@ Channel Number,Receive Frequency,Transmit Frequency,Offset Frequency,Offset Dire
 1835,439.4,431.8,7.600000,Minus,FM,SR8LUB,On,Tone,77.0 Hz,77.0 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,
 1836,438.7,431.1,7.600000,Minus,FM,SR8LW,On,Tone,67.0 Hz,88.5 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,
 1837,439.1375,431.5375,7.600000,Minus,FM,SR8LWB,On,Tone,67.0 Hz,67.0 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,
-1838,50.54,432.6, ,Split,FM,SR8MBR,On,Tone,71.9 Hz,71.9 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,
+1838,50.54,50.54,0.000000,Plus,FM,SR8MBR,On,Tone,71.9 Hz,71.9 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,
 1839,50.54,432.6,382.060000,Plus,FM,SR8MBR,On,Tone,71.9 Hz,71.9 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,
 1840,438.825,431.225,7.600000,Minus,FM,SR8NA,On,Tone,71.9 Hz,71.9 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,
 1841,145.7625,145.1625,0.600000,Minus,FM,SR8NP,On,None,88.5 Hz,186.2 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,

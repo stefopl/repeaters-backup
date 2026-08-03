@@ -5,8 +5,8 @@
         },
         "https://przemienniki.net"
     ],
-    "updated": "2026-07-25 17:50:21",
-    "generated": "2026-07-27 14:29:24",
+    "updated": "2026-07-31 18:14:47",
+    "generated": "2026-08-03 14:34:21",
     "generator": "przemienniki.net v.0.1.0",
     "dictionary": {
         "item": [
@@ -34690,9 +34690,10 @@
             "qra": "OK0KRC",
             "id": "9045186",
             "hash": "f9e9143d06c4e61ede03ddc4eb3cb446",
-            "updated": "2026-06-17 00:37:20",
+            "updated": "2026-07-31 18:14:47",
             "statusInt": "1",
             "status": "WORKING",
+            "licenseExpiryDate": "2026-12-31",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "32768",
@@ -34702,11 +34703,11 @@
                 "tx": "1258.2"
             },
             "country": "cz",
-            "qth": "Praha",
+            "qth": "Praha Ikem",
             "location": {
                 "locator": "JO70FA",
-                "latitude": "0.000000",
-                "longitude": "0.000000"
+                "latitude": "50.020833",
+                "longitude": "14.458333"
             },
             "activationInt": "4",
             "activation": "CARRIER",
@@ -69073,7 +69074,7 @@
             "qra": "SR8KP",
             "id": "9044980",
             "hash": "3133792f8b567ae16f6c5f81d8a5ad48",
-            "updated": "2026-06-17 00:37:21",
+            "updated": "2026-07-30 11:04:20",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2030-03-25",
@@ -69086,7 +69087,7 @@
                 "tx": "439.575"
             },
             "country": "pl",
-            "qth": "Lezajsk-Giedlarowa",
+            "qth": "Giedlarowa",
             "location": {
                 "locator": "KO10FF",
                 "latitude": "50.221148",
@@ -69272,10 +69273,10 @@
         "SR8LBL": {
             "qra": "SR8LBL",
             "id": "9045167",
-            "hash": "b0907713621e734cc62d2bab947f93fa",
-            "updated": "2026-06-17 00:37:21",
-            "statusInt": "1",
-            "status": "WORKING",
+            "hash": "e29aa1a5134f153aeb04e4cc9e801813",
+            "updated": "2026-07-30 10:58:03",
+            "statusInt": "2",
+            "status": "DISABLED",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "64",
@@ -69649,19 +69650,15 @@
         "SR8MBR": {
             "qra": "SR8MBR",
             "id": "9045839",
-            "hash": "4e35f9d7bc04f6eea28eda59dbe6eb88",
-            "updated": "2026-07-05 20:47:24",
+            "hash": "56b00ca22150af747c9d7ac00317542a",
+            "updated": "2026-07-30 11:06:00",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-07-18",
             "modeInt": "4",
             "mode": "FM",
-            "bandInt": "21504",
-            "band": [
-                "6M",
-                "2M",
-                "70CM"
-            ],
+            "bandInt": "1024",
+            "band": "6M",
             "qrg": {
                 "rx": "50.54",
                 "tx": "50.54"
@@ -69680,8 +69677,7 @@
                 "tx": "71.9"
             },
             "trxPower": "15",
-            "echolink": "160337",
-            "link": "https://przemienniki.net/przemienniki//SR8MBR",
+            "link": "https://przemienniki.net/przemienniki/6m/SR8MBR",
             "source": "manual"
         },
         "SR8MBR_2": {

@@ -351,7 +351,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,Mode,TStep,Commen
 464,SR8JR,439.25,-,7.600000,Tone,67.0,88.5,FM,12.5,Jaroslaw
 465,SR8JS,438.8,-,7.600000,,88.5,103.5,FM,12.5,"Jaslo - Gora Liwocz"
 466,SR8K,145.6,-,0.600000,Tone,71.9,71.9,FM,12.5,Drohobyczka-Dubiecko
-467,SR8KP,439.575,-,7.600000,Tone,71.9,71.9,FM,12.5,Lezajsk-Giedlarowa
+467,SR8KP,439.575,-,7.600000,Tone,71.9,71.9,FM,12.5,Giedlarowa
 468,SR8KR,438.625,-,7.600000,Tone,103.5,103.5,FM,12.5,"RTCN Sucha Gora/Krosno EmiTel-Czarnorzeki 90"
 469,SR8KSR,438.925,-,7.600000,Tone,103.5,103.5,FM,12.5,Krosno
 470,SR8L,145.675,-,0.600000,Tone,67.0,67.0,FM,12.5,"RTCN Lublin / Bozy Dar (Emitel)"
@@ -367,7 +367,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,Mode,TStep,Commen
 481,SR8LUB,439.4,-,7.600000,Tone,77.0,77.0,FM,12.5,Lublin
 483,SR8LW,438.7,-,7.600000,Tone,67.0,88.5,FM,12.5,"Lukow (Zbozowa 2)"
 484,SR8LWB,439.1375,-,7.600000,Tone,67.0,67.0,FM,12.5,Bogdanka
-485,SR8MBR,50.54,split,432.6,Tone,71.9,71.9,FM,12.5,"Tyczyn, Lasek"
+485,SR8MBR,50.54,+,0.000000,Tone,71.9,71.9,FM,12.5,"Tyczyn, Lasek"
 486,SR8MBR,50.54,+,382.060000,Tone,71.9,71.9,FM,12.5,"Tyczyn, Lasek"
 487,SR8NA,438.825,-,7.600000,Tone,71.9,71.9,FM,12.5,Dubiecko
 488,SR8NP,145.7625,-,0.600000,,88.5,186.2,FM,12.5,Przemysl

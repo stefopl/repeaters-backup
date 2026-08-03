@@ -18140,13 +18140,13 @@ More information: https://przemienniki.net/przemienniki/70cm/OK0KOP</desc>
   <name>OK0KRC</name>
   <cmt>23cm FM repeater
 
-QTH: Praha
+QTH: Praha Ikem
 Frequency: TX: 1258.2000 MHz, RX: 1293.2000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/23cm/OK0KRC</cmt>
   <desc>23cm FM repeater
 
-QTH: Praha
+QTH: Praha Ikem
 Frequency: TX: 1258.2000 MHz, RX: 1293.2000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/23cm/OK0KRC</desc>
@@ -36177,13 +36177,15 @@ More information: https://przemienniki.net/przemienniki/2m/SR8K</desc>
   <name>SR8KP</name>
   <cmt>70cm FM repeater
 
-QTH: Lezajsk-Giedlarowa
+Network: FM-Poland
+QTH: Giedlarowa
 Frequency: TX: 439.5750 MHz, RX: 431.9750 MHz
 Activation: CTCSS (71.9 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR8KP</cmt>
   <desc>70cm FM repeater
 
-QTH: Lezajsk-Giedlarowa
+Network: FM-Poland
+QTH: Giedlarowa
 Frequency: TX: 439.5750 MHz, RX: 431.9750 MHz
 Activation: CTCSS (71.9 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR8KP</desc>
@@ -36451,20 +36453,20 @@ More information: https://przemienniki.net/przemienniki/70cm/SR8LWB</desc>
  </wpt>
  <wpt lat="49.940092" lon="22.048855">
   <name>SR8MBR</name>
-  <cmt>Crossband FM repeater
+  <cmt>6m FM repeater
 
-Network: Echolink
+Network: FM-Poland
 QTH: Tyczyn, Lasek
-Frequency: RX/TX: 432.6 + 50.54 MHz
+Frequency: TX: 50.540 MHz, RX: 50.540 MHz
 Activation: CTCSS (71.9 Hz)
-More information: https://przemienniki.net/przemienniki//SR8MBR</cmt>
-  <desc>Crossband FM repeater
+More information: https://przemienniki.net/przemienniki/6m/SR8MBR</cmt>
+  <desc>6m FM repeater
 
-Network: Echolink
+Network: FM-Poland
 QTH: Tyczyn, Lasek
-Frequency: RX/TX: 432.6 + 50.54 MHz
+Frequency: TX: 50.540 MHz, RX: 50.540 MHz
 Activation: CTCSS (71.9 Hz)
-More information: https://przemienniki.net/przemienniki//SR8MBR</desc>
+More information: https://przemienniki.net/przemienniki/6m/SR8MBR</desc>
  </wpt>
  <wpt lat="49.940092" lon="22.048855">
   <name>SR8MBR</name>

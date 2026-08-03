@@ -2,8 +2,8 @@
 <rxf version="1.0">
     <link rel="self" href="https://przemienniki.net/export/rxf.xml" type="application/xml"/>
     <link>https://przemienniki.net</link>
-    <updated>2026-07-25 17:50:21</updated>
-    <generated>2026-07-27 14:29:24</generated>
+    <updated>2026-07-31 18:14:47</updated>
+    <generated>2026-08-03 14:34:21</generated>
     <generator>przemienniki.net v.0.1.0</generator>
     <dictionary>
         <item>
@@ -31117,9 +31117,10 @@
             <qra>OK0KRC</qra>
             <id>9045186</id>
             <hash>f9e9143d06c4e61ede03ddc4eb3cb446</hash>
-            <updated>2026-06-17 00:37:20</updated>
+            <updated>2026-07-31 18:14:47</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
+            <licenseExpiryDate>2026-12-31</licenseExpiryDate>
             <modeInt>4</modeInt>
             <mode>FM</mode>
             <bandInt>32768</bandInt>
@@ -31127,11 +31128,11 @@
             <qrg type="rx">1293.2</qrg>
             <qrg type="tx">1258.2</qrg>
             <country>cz</country>
-            <qth><![CDATA[Praha]]></qth>
+            <qth><![CDATA[Praha Ikem]]></qth>
             <location>
                 <locator>JO70FA</locator>
-                <latitude>0.000000</latitude>
-                <longitude>0.000000</longitude>
+                <latitude>50.020833</latitude>
+                <longitude>14.458333</longitude>
             </location>
             <activationInt>4</activationInt>
             <activation>CARRIER</activation>
@@ -62042,7 +62043,7 @@
             <qra>SR8KP</qra>
             <id>9044980</id>
             <hash>3133792f8b567ae16f6c5f81d8a5ad48</hash>
-            <updated>2026-06-17 00:37:21</updated>
+            <updated>2026-07-30 11:04:20</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2030-03-25</licenseExpiryDate>
@@ -62053,7 +62054,7 @@
             <qrg type="rx">431.975</qrg>
             <qrg type="tx">439.575</qrg>
             <country>pl</country>
-            <qth><![CDATA[Lezajsk-Giedlarowa]]></qth>
+            <qth><![CDATA[Giedlarowa]]></qth>
             <location>
                 <locator>KO10FF</locator>
                 <latitude>50.221148</latitude>
@@ -62215,10 +62216,10 @@
         <repeater>
             <qra>SR8LBL</qra>
             <id>9045167</id>
-            <hash>b0907713621e734cc62d2bab947f93fa</hash>
-            <updated>2026-06-17 00:37:21</updated>
-            <statusInt>1</statusInt>
-            <status>WORKING</status>
+            <hash>e29aa1a5134f153aeb04e4cc9e801813</hash>
+            <updated>2026-07-30 10:58:03</updated>
+            <statusInt>2</statusInt>
+            <status>DISABLED</status>
             <modeInt>4</modeInt>
             <mode>FM</mode>
             <bandInt>64</bandInt>
@@ -62550,19 +62551,15 @@
         <repeater>
             <qra>SR8MBR</qra>
             <id>9045839</id>
-            <hash>4e35f9d7bc04f6eea28eda59dbe6eb88</hash>
-            <updated>2026-07-05 20:47:24</updated>
+            <hash>56b00ca22150af747c9d7ac00317542a</hash>
+            <updated>2026-07-30 11:06:00</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2028-07-18</licenseExpiryDate>
             <modeInt>4</modeInt>
             <mode>FM</mode>
-            <bandInt>21504</bandInt>
+            <bandInt>1024</bandInt>
             <band>6M</band>
-            <band>2M</band>
-            <band>70CM</band>
-            <qrg type="rx">432.6</qrg>
-            <qrg type="tx">432.6</qrg>
             <qrg type="rx">50.54</qrg>
             <qrg type="tx">50.54</qrg>
             <country>pl</country>
@@ -62577,8 +62574,7 @@
             <ctcss type="rx">71.9</ctcss>
             <ctcss type="tx">71.9</ctcss>
             <trxPower>15</trxPower>
-            <echolink>160337</echolink>
-            <link>https://przemienniki.net/przemienniki//SR8MBR</link>
+            <link>https://przemienniki.net/przemienniki/6m/SR8MBR</link>
             <source>manual</source>
         </repeater>
         <repeater>

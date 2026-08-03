@@ -44530,6 +44530,18 @@
             "Longitude": "21.550892",
             "QTH": "Wola Rebkowska",
             "Locator": "KO01SV"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.2255.2026.2",
+            "valid_to": "2031-04-21",
+            "call_sign": "SR0DN",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "144.8, 431.9125",
+            "output_frequency": "144.8, 439.5125",
+            "station_location": "Wola Rêbkowska"
         }
     },
     "SR0DZ": {
@@ -45193,6 +45205,18 @@
             "Longitude": "14.81756581",
             "QTH": "Goleniow",
             "Locator": "JO73JN"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.1956.2026.2",
+            "valid_to": "2031-04-13",
+            "call_sign": "SR1GL",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "145.28",
+            "output_frequency": "145.28",
+            "station_location": "Goleniów"
         }
     },
     "SR1K": {
@@ -46108,6 +46132,33 @@
             "Longitude": "0",
             "QTH": "",
             "Locator": ""
+        },
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.3031.2026.2",
+            "valid_to": "2036-05-19",
+            "call_sign": "SR1UVS",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "1270.8, 431.8125",
+            "output_frequency": "1298.8, 439.4125",
+            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
+            "applicant_city": "Warszawa",
+            "applicant_street": "ul. Augustyna Kordeckiego",
+            "applicant_house": "66",
+            "applicant_number": "U1",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Szczecin",
+            "station_street": "ul. Santocka",
+            "station_house": "15",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
         }
     },
     "SR1UVX": {
@@ -47779,6 +47830,18 @@
             "Longitude": "17.836519",
             "QTH": "Szubin - Jablowo Paluckie / wieza p.poz",
             "Locator": "JO82WW"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.3180.2026.2",
+            "valid_to": "2036-05-22",
+            "call_sign": "SR2FM",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "431.9375",
+            "output_frequency": "439.5375",
+            "station_location": "Jab³owo Pa³uckie"
         }
     },
     "SR2G": {
@@ -48906,6 +48969,33 @@
             "Longitude": "18.62559",
             "QTH": "Torun",
             "Locator": "JO93HB"
+        },
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.3295.2026.2",
+            "valid_to": "2036-05-25",
+            "call_sign": "SR2K",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "431.025",
+            "output_frequency": "438.625",
+            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
+            "applicant_city": "Warszawa",
+            "applicant_street": "ul. Augustyna Kordeckiego",
+            "applicant_house": "66",
+            "applicant_number": "U1",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Czarnorzeki",
+            "station_street": "RTCN Krosno/Sucha Góra",
+            "station_house": "90",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
         }
     },
     "SR2KU": {
@@ -52462,6 +52552,18 @@
             "Longitude": "16.945813",
             "QTH": "Slomowo",
             "Locator": "JO82LQ"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.3457.2026.4",
+            "valid_to": "2036-06-15",
+            "call_sign": "SR3PX",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "431.3",
+            "output_frequency": "438.9",
+            "station_location": "S³omowo"
         }
     },
     "SR3RR": {
@@ -53823,6 +53925,18 @@
             "Longitude": "22.53923793",
             "QTH": "",
             "Locator": "KO12GW"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.2361.2026.2",
+            "valid_to": "2031-04-24",
+            "call_sign": "SR4BF",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowyPrzemiennik",
+            "emission": "",
+            "input_frequency": "431.2",
+            "output_frequency": "438.8",
+            "station_location": "Brzóski-Falki"
         }
     },
     "SR4BI": {
@@ -54321,8 +54435,8 @@
             "Locator": "JO93XN"
         },
         "UKE_club_devices": {
-            "number": "DC.WML.5101.2258.2021.2",
-            "valid_to": "2026-07-23",
+            "number": "DC.WML.5101.2602.2026.3",
+            "valid_to": "2036-07-23",
             "call_sign": "SR4DG",
             "category": "Kategoria5",
             "transmitter_power": "15",
@@ -55526,8 +55640,8 @@
             "Locator": "KO03WW"
         },
         "UKE_club_devices": {
-            "number": "DC.WML.5101.2243.2021.2",
-            "valid_to": "2026-07-23",
+            "number": "DC.WML.5101.2598.2026.3",
+            "valid_to": "2036-07-23",
             "call_sign": "SR4MI",
             "category": "Kategoria5",
             "transmitter_power": "15",
@@ -56078,8 +56192,8 @@
             "Locator": "KO03FS"
         },
         "UKE_club_devices": {
-            "number": "DC.WML.5101.2244.2021.2",
-            "valid_to": "2026-07-23",
+            "number": "DC.WML.5101.2605.2026.3",
+            "valid_to": "2036-07-23",
             "call_sign": "SR4ON",
             "category": "Kategoria5",
             "transmitter_power": "15",
@@ -56712,6 +56826,18 @@
             "Longitude": "21.00016",
             "QTH": "Szczytno",
             "Locator": "KO03MN"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.2957.2026.3",
+            "valid_to": "2036-05-18",
+            "call_sign": "SR4SN",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "431.275",
+            "output_frequency": "438.875",
+            "station_location": "Wielbark"
         }
     },
     "SR4ST": {
@@ -60941,6 +61067,18 @@
             "Longitude": "21.098156",
             "QTH": "Warszawa",
             "Locator": "KO02NF"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.2270.2026.2",
+            "valid_to": "2031-04-29",
+            "call_sign": "SR5WI",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "Radiolatarnia, CyfrowyPrzemiennik",
+            "emission": "",
+            "input_frequency": "144.8, 431.3",
+            "output_frequency": "144.8, 438.9",
+            "station_location": "Warszawa"
         }
     },
     "SR5WP": {
@@ -61348,6 +61486,18 @@
             "Longitude": "20.815292",
             "QTH": "Komorow",
             "Locator": "KO02JD"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.3023.2026.2",
+            "valid_to": "2036-05-19",
+            "call_sign": "SR5YAM",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowaStacjaWezlowa, StacjaPogodowaAPRS, PrzekaznikAPRS",
+            "emission": "",
+            "input_frequency": "433.575, 430.3, 144.95, 432.5, 144.8",
+            "output_frequency": "433.575, 430.3, 144.95, 432.5, 144.8",
+            "station_location": "Komorów"
         }
     },
     "SR5YM": {
@@ -62057,6 +62207,33 @@
             "Longitude": "17.969138",
             "QTH": "Krapkowice",
             "Locator": "JO80XL"
+        },
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.2909.2026.3",
+            "valid_to": "2036-05-13",
+            "call_sign": "SR6DKB",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikATV",
+            "emission": "",
+            "input_frequency": "430.6625",
+            "output_frequency": "438.2625",
+            "applicant_name": "Polski Zwi¹zek Krótkofalowców Oddzia³ Terenowy nr 11 w Opolu",
+            "applicant_city": "Opole",
+            "applicant_street": "ul. Skautów Opolskich",
+            "applicant_house": "15",
+            "applicant_number": "XI P",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Krapkowice",
+            "station_street": "ul. Damrota",
+            "station_house": "2",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
         }
     },
     "SR6DKL": {
@@ -62498,7 +62675,7 @@
             "Locator": "JO80rg"
         },
         "UKE_club_devices": {
-            "number": "DC.WML.5101.5554.2023.2",
+            "number": "DC.WML.5101.2908.2026.3",
             "valid_to": "2028-11-10",
             "call_sign": "SR6F",
             "category": "Kategoria5",
@@ -62517,9 +62694,9 @@
             "enduser_street": "",
             "enduser_house": "",
             "enduser_number": "",
-            "station_city": "Krapkowice",
-            "station_street": "ul. Damrota",
-            "station_house": "2",
+            "station_city": "Biskupia Kopa",
+            "station_street": "",
+            "station_house": "",
             "station_number": "",
             "lat": "",
             "lng": ""
@@ -63091,6 +63268,18 @@
             "Longitude": "16.275748",
             "QTH": "Walbrzych",
             "Locator": "JO80CS"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.2868.2026.3",
+            "valid_to": "2036-05-12",
+            "call_sign": "SR6LWB",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "1270.6",
+            "output_frequency": "1298.6",
+            "station_location": "Szczawno Zdrój, Góra Che³miec"
         }
     },
     "SR6LWS": {
@@ -64424,6 +64613,33 @@
             "Longitude": "15.639784",
             "QTH": "",
             "Locator": "JO70TS"
+        },
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.2223.2026.3",
+            "valid_to": "2031-04-20",
+            "call_sign": "SR6UPK",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "430.9375",
+            "output_frequency": "438.5375",
+            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
+            "applicant_city": "Warszawa",
+            "applicant_street": "ul. Augustyna Kordeckiego",
+            "applicant_house": "66",
+            "applicant_number": "U1",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Przesieka",
+            "station_street": "ul. Karkonoska",
+            "station_house": "1",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
         }
     },
     "SR6UVO": {
@@ -64594,6 +64810,33 @@
             "Longitude": "16.909204",
             "QTH": "Zmigrod",
             "Locator": "JO81KL"
+        },
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.2222.2026.3",
+            "valid_to": "2031-04-20",
+            "call_sign": "SR6UVX",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "431.8125",
+            "output_frequency": "439.4125",
+            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
+            "applicant_city": "Warszawa",
+            "applicant_street": "ul. Augustyna Kordeckiego",
+            "applicant_house": "66",
+            "applicant_number": "U1",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "¯migród",
+            "station_street": "ul. Kolejowa",
+            "station_house": "10",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
         }
     },
     "SR6UVY": {
@@ -64767,6 +65010,18 @@
             "Longitude": "16.21099386",
             "QTH": "Gora Chelmiec",
             "Locator": "JO80DT"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.2844.2026.3",
+            "valid_to": "2036-05-12",
+            "call_sign": "SR6WB",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "431.7625",
+            "output_frequency": "439.3625",
+            "station_location": "Szczawno-Zdrój Góra Che³miec"
         }
     },
     "SR6WF": {
@@ -66127,6 +66382,18 @@
             "Longitude": "19.375715",
             "QTH": "Kutno",
             "Locator": "JO92QF"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.1181.2026.2",
+            "valid_to": "2031-03-31",
+            "call_sign": "SR7KU",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "431.325",
+            "output_frequency": "438.925",
+            "station_location": "Kutno"
         }
     },
     "SR7L": {
@@ -66371,6 +66638,18 @@
             "Longitude": "19.533964",
             "QTH": "Lodz",
             "Locator": "JO91SS"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.994.2026.2",
+            "valid_to": "2031-02-27",
+            "call_sign": "SR7LDA",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowyPrzemiennik",
+            "emission": "",
+            "input_frequency": "430.85",
+            "output_frequency": "438.45",
+            "station_location": "£ód"
         }
     },
     "SR7LDD": {
@@ -68377,6 +68656,18 @@
             "Longitude": "18.125",
             "QTH": "Wieruszow",
             "Locator": "JO91BH"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.2905.2026.2",
+            "valid_to": "2031-05-14",
+            "call_sign": "SR7WU",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "431.95, 431.825",
+            "output_frequency": "439.55, 439.425",
+            "station_location": "Wieruszów"
         }
     },
     "SR7Z": {
@@ -69258,6 +69549,33 @@
             "Longitude": "21.446086",
             "QTH": "Debica",
             "Locator": "KN09RX"
+        },
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.2377.2026.4",
+            "valid_to": "2036-05-18",
+            "call_sign": "SR8DE",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "431.7",
+            "output_frequency": "439.3",
+            "applicant_name": "Stowarzyszenie Krótkofalowców i Radioamatorów \"DELTA\"",
+            "applicant_city": "Dêbica",
+            "applicant_street": "ul. Sportowa",
+            "applicant_house": "26",
+            "applicant_number": "",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "G³obikowa",
+            "station_street": "",
+            "station_house": "81 C",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
         }
     },
     "SR8DEF": {
@@ -69301,6 +69619,33 @@
             "Longitude": "21.397837",
             "QTH": "Debica",
             "Locator": "KO00QB"
+        },
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.2378.2026.3",
+            "valid_to": "2031-04-23",
+            "call_sign": "SR8DEF",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "430.825",
+            "output_frequency": "438.425",
+            "applicant_name": "Stowarzyszenie Krótkofalowców i Radioamatorów \"DELTA\"",
+            "applicant_city": "Dêbica",
+            "applicant_street": "ul. Sportowa",
+            "applicant_house": "26",
+            "applicant_number": "",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Dêbica",
+            "station_street": "ul. Sportowa",
+            "station_house": "26",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
         }
     },
     "SR8DMB": {
@@ -70306,7 +70651,7 @@
             "qra": "SR8KP",
             "id": "9044980",
             "hash": "3133792f8b567ae16f6c5f81d8a5ad48",
-            "updated": "2026-06-17 00:37:21",
+            "updated": "2026-07-30 11:04:20",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2030-03-25",
@@ -70317,7 +70662,7 @@
             "qrg_rx": "431.975",
             "qrg_tx": "439.575",
             "country": "pl",
-            "qth": "Lezajsk-Giedlarowa",
+            "qth": "Giedlarowa",
             "location_locator": "KO10FF",
             "location_latitude": "50.221148",
             "location_longitude": "22.421792",
@@ -70400,6 +70745,33 @@
             "Longitude": "21.812941",
             "QTH": "RTCN Sucha Gora/Krosno EmiTel-Czarnorzeki 90",
             "Locator": "KN09VS"
+        },
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.3709.2026.2",
+            "valid_to": "2036-06-10",
+            "call_sign": "SR8KR",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "431.025",
+            "output_frequency": "438.625",
+            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
+            "applicant_city": "Warszawa",
+            "applicant_street": "ul. Augustyna Kordeckiego",
+            "applicant_house": "66",
+            "applicant_number": "U1",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Czarnorzeki",
+            "station_street": "RTCN Krosno/Sucha Góra",
+            "station_house": "90",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
         }
     },
     "SR8KSR": {
@@ -70679,10 +71051,10 @@
         "przemienniki_net": {
             "qra": "SR8LBL",
             "id": "9045167",
-            "hash": "b0907713621e734cc62d2bab947f93fa",
-            "updated": "2026-06-17 00:37:21",
-            "statusInt": "1",
-            "status": "WORKING",
+            "hash": "e29aa1a5134f153aeb04e4cc9e801813",
+            "updated": "2026-07-30 10:58:03",
+            "statusInt": "2",
+            "status": "DISABLED",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "64",
@@ -71187,12 +71559,12 @@
             "Locator": "KO11gf"
         },
         "UKE_individual_devices": {
-            "number": "DC.WML.5101.3455.2024.2",
+            "number": "DC.WML.5101.2896.2026.2",
             "valid_to": "2029-06-12",
             "call_sign": "SR8LUB",
             "category": "Kategoria5",
             "transmitter_power": "15",
-            "name_type_station": "AnalogowyPrzemiennikFM",
+            "name_type_station": "CyfrowyPrzemiennik",
             "emission": "",
             "input_frequency": "431.8",
             "output_frequency": "439.4",
@@ -71524,6 +71896,18 @@
             "Longitude": "22.755932",
             "QTH": "Przemysl",
             "Locator": "KN19JS"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.2212.2026.4",
+            "valid_to": "2036-05-06",
+            "call_sign": "SR8NP",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "145.1625",
+            "output_frequency": "145.7625",
+            "station_location": "Przemyl"
         }
     },
     "SR8PL": {
@@ -71836,6 +72220,33 @@
             "Longitude": "22.074279",
             "QTH": "Stalowa Wola",
             "Locator": "KO10AN"
+        },
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.1525.2026.2",
+            "valid_to": "2031-03-25",
+            "call_sign": "SR8RD",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowyPrzemiennik",
+            "emission": "F7W",
+            "input_frequency": "431.3625",
+            "output_frequency": "438.9625",
+            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
+            "applicant_city": "Warszawa",
+            "applicant_street": "ul. Augustyna Kordeckiego",
+            "applicant_house": "66",
+            "applicant_number": "U1",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Jastkowice",
+            "station_street": "ul. Piaskowa",
+            "station_house": "7B",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
         }
     },
     "SR8RJS": {
@@ -73878,6 +74289,18 @@
             "Longitude": "19.115659",
             "QTH": "Bedzin",
             "Locator": "JO90NH"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.3625.2026.2",
+            "valid_to": "2036-06-17",
+            "call_sign": "SR9BN",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikATV",
+            "emission": "",
+            "input_frequency": "431.625",
+            "output_frequency": "439.225",
+            "station_location": "Bêdzin"
         }
     },
     "SR9BSR": {
@@ -74563,6 +74986,18 @@
             "Longitude": "19.449523",
             "QTH": "Wlodowice - Jura",
             "Locator": "JO90RN"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.3503.2026.3",
+            "valid_to": "2036-06-05",
+            "call_sign": "SR9DJK",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "430.775",
+            "output_frequency": "438.375",
+            "station_location": "W³odowice"
         }
     },
     "SR9DKA": {
@@ -75214,6 +75649,18 @@
             "echolink": "530208",
             "link": "https://przemienniki.net/przemienniki/70cm/SR9FMJ",
             "source": "manual"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.1560.2026.2",
+            "valid_to": "2031-04-29",
+            "call_sign": "SR9FMJ",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "430.8",
+            "output_frequency": "438.4",
+            "station_location": "Muszyna"
         }
     },
     "SR9FUN": {
@@ -75718,6 +76165,18 @@
             "Longitude": "19.428821",
             "QTH": "Wlodowice",
             "Locator": "JO90RM"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.3501.2026.3",
+            "valid_to": "2036-06-05",
+            "call_sign": "SR9JK",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "431.2",
+            "output_frequency": "438.8",
+            "station_location": "W³odowice"
         }
     },
     "SR9JSR": {
@@ -76552,6 +77011,18 @@
             "Longitude": "20.554353",
             "QTH": "Prehyba",
             "Locator": "KN09GL"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.263.2026.2",
+            "valid_to": "2031-02-03",
+            "call_sign": "SR9NP",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "431.2275",
+            "output_frequency": "438.9375",
+            "station_location": "Góra Przehyba"
         }
     },
     "SR9NS": {
@@ -77189,8 +77660,8 @@
             "Locator": "JO90EA"
         },
         "UKE_individual_devices": {
-            "number": "DC.WML.5101.1880.2021.2",
-            "valid_to": "2026-07-13",
+            "number": "DC.WML.5101.3592.2026.3",
+            "valid_to": "2036-07-13",
             "call_sign": "SR9PS",
             "category": "Kategoria5",
             "transmitter_power": "15",
@@ -77614,16 +78085,16 @@
             "Locator": "KN09FR"
         },
         "UKE_individual_devices": {
-            "number": "DC.WML.5101.3741.2023.2",
+            "number": "DC.WML.5101.3212.2026.3",
             "valid_to": "2027-12-13",
             "call_sign": "SR9RT",
             "category": "Kategoria5",
             "transmitter_power": "15",
             "name_type_station": "AnalogowyPrzemiennikFM",
             "emission": "",
-            "input_frequency": "29.56, 51.39, 431.0375, 145.0375",
-            "output_frequency": "29.66, 51.99, 438.6375, 145.6375",
-            "station_location": "Mordarka"
+            "input_frequency": "5825, 5805, 2417, 2357, 434.855, 1270, 145.0375, 431.0375, 51.39, 29.56",
+            "output_frequency": "5825, 5805, 2417, 2357, 434.855, 1298, 145.6375, 438.6375, 51.99, 29.66",
+            "station_location": "Góra Lubañ"
         }
     },
     "SR9RU": {
@@ -78629,6 +79100,18 @@
             "Longitude": "19.478789",
             "QTH": "Wlodowice",
             "Locator": "JO90RN"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.3502.2026.3",
+            "valid_to": "2036-06-05",
+            "call_sign": "SR9UV",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "431.7375",
+            "output_frequency": "439.3375",
+            "station_location": "W³odowice"
         }
     },
     "SR9UVC": {
@@ -79711,6 +80194,33 @@
             "Longitude": "20.553933",
             "QTH": "Przehyba EMITEL",
             "Locator": "KN09GL"
+        },
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.4136.2026.2",
+            "valid_to": "2036-06-25",
+            "call_sign": "SR9Z",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzemiennikFMDV",
+            "emission": "",
+            "input_frequency": "145.1375",
+            "output_frequency": "145.7375",
+            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
+            "applicant_city": "Warszawa",
+            "applicant_street": "ul. Augustyna Kordeckiego",
+            "applicant_house": "66",
+            "applicant_number": "U1",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Ga³kowice Góra Przehyba",
+            "station_street": "Budynek Emitela RTCN Przehyba",
+            "station_house": "",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
         }
     },
     "SR9ZAC": {
@@ -81284,15 +81794,15 @@
     },
     "SR4DOS": {
         "UKE_club_devices": {
-            "number": "DC.WML.5101.2254.2021.2",
-            "valid_to": "2026-07-19",
+            "number": "DC.WML.5101.2603.2026.3",
+            "valid_to": "2036-07-19",
             "call_sign": "SR4DOS",
             "category": "Kategoria5",
             "transmitter_power": "15",
             "name_type_station": "CyfrowaStacjaWezlowa",
             "emission": "",
-            "input_frequency": "430.9, 430.6, 438.5, 438.2, 144.85, 433.8, 144.8",
-            "output_frequency": "430.9, 430.6, 438.5, 438.2, 144.85, 433.8, 144.8",
+            "input_frequency": "144.8, 433.8, 144.85, 438.2, 438.5, 430.6, 430.9",
+            "output_frequency": "144.8, 433.8, 144.85, 438.2, 438.5, 430.6, 430.9",
             "applicant_name": "Polski Zwi¹zek Krótkofalowców",
             "applicant_city": "Warszawa",
             "applicant_street": "ul. Augustyna Kordeckiego",
@@ -81313,15 +81823,15 @@
     },
     "SR4DON": {
         "UKE_club_devices": {
-            "number": "DC.WML.5101.2261.2021.2",
-            "valid_to": "2026-07-19",
+            "number": "DC.WML.5101.2606.2026.3",
+            "valid_to": "2036-07-19",
             "call_sign": "SR4DON",
             "category": "Kategoria5",
             "transmitter_power": "15",
             "name_type_station": "CyfrowaStacjaWezlowa",
             "emission": "",
-            "input_frequency": "144.95, 438.8, 438.5, 438.225, 433.75, 144.8",
-            "output_frequency": "144.95, 438.8, 438.5, 438.225, 433.75, 144.8",
+            "input_frequency": "433.75, 438.225, 438.5, 438.8, 144.95, 144.875, 144.8",
+            "output_frequency": "433.75, 438.225, 438.5, 438.8, 144.95, 144.875, 144.8",
             "applicant_name": "Polski Zwi¹zek Krótkofalowców",
             "applicant_city": "Warszawa",
             "applicant_street": "ul. Augustyna Kordeckiego",
@@ -81334,7 +81844,7 @@
             "enduser_number": "",
             "station_city": "Olsztyn",
             "station_street": "ul. Ba³tycka",
-            "station_house": "37A",
+            "station_house": "37 A",
             "station_number": "",
             "lat": "",
             "lng": ""
@@ -81371,11 +81881,11 @@
     },
     "SR4NWO": {
         "UKE_club_devices": {
-            "number": "DC.WML.5101.2256.2021.2",
-            "valid_to": "2026-07-23",
+            "number": "DC.WML.5101.2604.2026.3",
+            "valid_to": "2036-07-23",
             "call_sign": "SR4NWO",
             "category": "Kategoria5",
-            "transmitter_power": "15",
+            "transmitter_power": "14",
             "name_type_station": "PrzekaznikAPRS",
             "emission": "",
             "input_frequency": "433.8, 144.8",
@@ -81391,17 +81901,17 @@
             "enduser_house": "",
             "enduser_number": "",
             "station_city": "Olsztyn",
-            "station_street": "ul. Dworcowa",
-            "station_house": "42",
-            "station_number": "31",
+            "station_street": "ul. ¯o³nierska",
+            "station_house": "16",
+            "station_number": "",
             "lat": "",
             "lng": ""
         }
     },
     "SR4NWU": {
         "UKE_club_devices": {
-            "number": "DC.WML.5101.2259.2021.2",
-            "valid_to": "2026-07-19",
+            "number": "DC.WML.5101.2601.2026.3",
+            "valid_to": "2036-07-19",
             "call_sign": "SR4NWU",
             "category": "Kategoria5",
             "transmitter_power": "15",
@@ -82357,8 +82867,8 @@
     },
     "SR8KRS": {
         "UKE_club_devices": {
-            "number": "DC.WML.5101.460.2023.2",
-            "valid_to": "2028-01-27",
+            "number": "DC.WML.5101.3708.2026.2",
+            "valid_to": "",
             "call_sign": "SR8KRS",
             "category": "Kategoria5",
             "transmitter_power": "15",
@@ -84617,6 +85127,35 @@
             "lng": ""
         }
     },
+    "SR2PMW": {
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.1399.2026.2",
+            "valid_to": "2031-03-16",
+            "call_sign": "SR2PMW",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "Radiolatarnia",
+            "emission": "",
+            "input_frequency": "1296.945",
+            "output_frequency": "1296.945",
+            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
+            "applicant_city": "Warszawa",
+            "applicant_street": "ul. Augustyna Kordeckiego",
+            "applicant_house": "66",
+            "applicant_number": "U1",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Gdynia",
+            "station_street": "Rondo Bitwy pod Oliw¹",
+            "station_house": "5",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
+        }
+    },
     "SR9XNS": {
         "UKE_club_devices": {
             "number": "DC.WML.5101.1595.2026.3",
@@ -84671,6 +85210,151 @@
             "station_street": "",
             "station_house": "",
             "station_number": "",
+            "lat": "",
+            "lng": ""
+        }
+    },
+    "SR6NPK": {
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.2225.2026.3",
+            "valid_to": "2031-04-20",
+            "call_sign": "SR6NPK",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowyPrzemiennik",
+            "emission": "",
+            "input_frequency": "144.8",
+            "output_frequency": "144.8",
+            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
+            "applicant_city": "Warszawa",
+            "applicant_street": "ul. Augustyna Kordeckiego",
+            "applicant_house": "66",
+            "applicant_number": "U1",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Przesieka",
+            "station_street": "ul. Karkonoska",
+            "station_house": "1",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
+        }
+    },
+    "SR9SEP": {
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.2379.2026.3",
+            "valid_to": "2031-04-23",
+            "call_sign": "SR9SEP",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "430.925",
+            "output_frequency": "438.525",
+            "applicant_name": "Stowarzyszenie Elektryków Polskich Oddzia³ Gliwicki",
+            "applicant_city": "Gliwice",
+            "applicant_street": "ul. Bohaterów Getta Warszawskiego",
+            "applicant_house": "9",
+            "applicant_number": "",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Gliwice",
+            "station_street": "ul. Bohaterów Getta Warszawskiego",
+            "station_house": "9",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
+        }
+    },
+    "SR4DXC": {
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.2607.2026.3",
+            "valid_to": "2036-05-18",
+            "call_sign": "SR4DXC",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowaStacjaBiuletynowa",
+            "emission": "",
+            "input_frequency": "144.875",
+            "output_frequency": "144.875",
+            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
+            "applicant_city": "Warszawa",
+            "applicant_street": "ul. Augustyna Kordeckiego",
+            "applicant_house": "66",
+            "applicant_number": "U1",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Olsztyn",
+            "station_street": "ul. Ba³tycka",
+            "station_house": "37 A",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
+        }
+    },
+    "SR4BBX": {
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.2608.2026.3",
+            "valid_to": "2036-05-18",
+            "call_sign": "SR4BBX",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowaStacjaBiuletynowa",
+            "emission": "",
+            "input_frequency": "144.875",
+            "output_frequency": "144.875",
+            "applicant_name": "Polski Zwi¹zek Krótkofalowców",
+            "applicant_city": "Warszawa",
+            "applicant_street": "ul. Augustyna Kordeckiego",
+            "applicant_house": "66",
+            "applicant_number": "U1",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Olsztyn",
+            "station_street": "ul. Ba³tycka",
+            "station_house": "37 A",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
+        }
+    },
+    "SR7SSR": {
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.3618.2026.5",
+            "valid_to": "2036-06-16",
+            "call_sign": "SR7SSR",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "StacjaPogodowa, PrzekaznikAPRS, AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "144.8, 433.775, 144.95, 434.855, 431.425",
+            "output_frequency": "144.8, 433.775, 144.95, 434.855, 439.025",
+            "applicant_name": "Stowarzyszenie \"Sztab Ratownictwa\"",
+            "applicant_city": "Be³chatów",
+            "applicant_street": "o. Dolnol¹skie",
+            "applicant_house": "201",
+            "applicant_number": "242c",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Be³chatów",
+            "station_street": "o. Dolnol¹skie",
+            "station_house": "201",
+            "station_number": "242c",
             "lat": "",
             "lng": ""
         }
@@ -85139,15 +85823,15 @@
     },
     "SR3WR": {
         "UKE_individual_devices": {
-            "number": "DC.WML.5101.4341.2022.2",
+            "number": "DC.WLA.5101.31.2026.3",
             "valid_to": "2027-10-21",
             "call_sign": "SR3WR",
             "category": "Kategoria5",
-            "transmitter_power": "10",
-            "name_type_station": "PrzekaznikAPRS",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
             "emission": "",
-            "input_frequency": "144.8",
-            "output_frequency": "144.8",
+            "input_frequency": "431.225",
+            "output_frequency": "438.825",
             "station_location": "Wronki"
         }
     },
@@ -86567,7 +87251,7 @@
     },
     "SR6PCB": {
         "UKE_individual_devices": {
-            "number": "DC.WML.5101.235.2025.2",
+            "number": "DC.WML.5101.3164.2026.2",
             "valid_to": "2030-01-20",
             "call_sign": "SR6PCB",
             "category": "Kategoria5",
@@ -86576,7 +87260,7 @@
             "emission": "",
             "input_frequency": "144.975",
             "output_frequency": "145.575",
-            "station_location": "Kocierzyce"
+            "station_location": "Brzeg"
         }
     },
     "SR1PKW": {
@@ -87237,6 +87921,20 @@
             "station_location": "Koby³ka"
         }
     },
+    "SR3DPI": {
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.266.2026.2",
+            "valid_to": "2031-01-21",
+            "call_sign": "SR3DPI",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzekaznikAPRS",
+            "emission": "",
+            "input_frequency": "144.8",
+            "output_frequency": "144.8",
+            "station_location": "Pi³a"
+        }
+    },
     "SR2BYD": {
         "UKE_individual_devices": {
             "number": "DC.WML.5101.753.2026.2",
@@ -87248,6 +87946,34 @@
             "emission": "",
             "input_frequency": "145.1875",
             "output_frequency": "145.7875",
+            "station_location": "Nowaczkowo"
+        }
+    },
+    "SR8BMP": {
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.912.2026.2",
+            "valid_to": "2031-02-20",
+            "call_sign": "SR8BMP",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikATV",
+            "emission": "",
+            "input_frequency": "145.1125",
+            "output_frequency": "145.7125",
+            "station_location": "Kielanówka"
+        }
+    },
+    "SR2BB": {
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.754.2026.2",
+            "valid_to": "2031-03-23",
+            "call_sign": "SR2BB",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowyPrzekaznik",
+            "emission": "",
+            "input_frequency": "431.8125",
+            "output_frequency": "439.4125",
             "station_location": "Nowaczkowo"
         }
     },
@@ -87277,6 +88003,188 @@
             "input_frequency": "432.65",
             "output_frequency": "144.65",
             "station_location": "Bydgoszcz"
+        }
+    },
+    "SR3DPX": {
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.2309.2026.2",
+            "valid_to": "2031-04-22",
+            "call_sign": "SR3DPX",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzekaznikAPRS",
+            "emission": "",
+            "input_frequency": "434.855, 432.5, 144.8",
+            "output_frequency": "434.855, 432.5, 144.8",
+            "station_location": "Poznañ"
+        }
+    },
+    "SR3DPN": {
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.2651.2026.2",
+            "valid_to": "2036-05-07",
+            "call_sign": "SR3DPN",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzekaznikAPRS",
+            "emission": "",
+            "input_frequency": "434.855, 432.5, 144.8",
+            "output_frequency": "434.855, 432.5, 144.8",
+            "station_location": "Poznañ"
+        }
+    },
+    "SR9JFM": {
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.2799.2026.3",
+            "valid_to": "2036-05-08",
+            "call_sign": "SR9JFM",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "430.8",
+            "output_frequency": "438.4",
+            "station_location": "Muszyna"
+        }
+    },
+    "SR8GB": {
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.2828.2026.3",
+            "valid_to": "2036-05-11",
+            "call_sign": "SR8GB",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "431.8",
+            "output_frequency": "439.4",
+            "station_location": "Hola"
+        }
+    },
+    "SR1BSZ": {
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.3386.2026.3",
+            "valid_to": "2036-05-29",
+            "call_sign": "SR1BSZ",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowyPrzemiennik",
+            "emission": "",
+            "input_frequency": "144.9, 144.8",
+            "output_frequency": "144.9, 144.8",
+            "station_location": "Szczecin"
+        }
+    },
+    "SR1NRE": {
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.3387.2026.3",
+            "valid_to": "2036-05-29",
+            "call_sign": "SR1NRE",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowyPrzemiennik",
+            "emission": "",
+            "input_frequency": "144.9, 144.8",
+            "output_frequency": "144.9, 144.8",
+            "station_location": "Szczecin"
+        }
+    },
+    "SR1SDX": {
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.3492.2026.3",
+            "valid_to": "2036-06-03",
+            "call_sign": "SR1SDX",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "StacjaPogodowa",
+            "emission": "",
+            "input_frequency": "144.95",
+            "output_frequency": "144.95",
+            "station_location": "Dobra"
+        }
+    },
+    "SR9KRT": {
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.3879.2026.8",
+            "valid_to": "2036-07-06",
+            "call_sign": "SR9KRT",
+            "category": "Kategoria5",
+            "transmitter_power": "",
+            "name_type_station": "Radiolatarnia, CyfrowyPrzemiennik",
+            "emission": "",
+            "input_frequency": "5.825, 5.805, 2417, 2357, 434.855",
+            "output_frequency": "136, 474.2, 1836.6, 3.5686, 5.3647, 7.0386, 10.1387, 14.0956, 18.1046, 21.0946, 24.9246, 28.1246, 50.293, 5.825, 5.805, 2417, 2357, 434.855",
+            "station_location": "Mi³kowa"
+        }
+    },
+    "SR6BBS": {
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.4310.2026.4",
+            "valid_to": "2036-07-02",
+            "call_sign": "SR6BBS",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "CyfrowaStacjaWezlowa",
+            "emission": "",
+            "input_frequency": "144.85",
+            "output_frequency": "144.85",
+            "station_location": "Wroc³aw"
+        }
+    },
+    "SR2HMR": {
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.4216.2026.5",
+            "valid_to": "2036-07-06",
+            "call_sign": "SR2HMR",
+            "category": "Kategoria5",
+            "transmitter_power": "10",
+            "name_type_station": "Radiolatarnia",
+            "emission": "",
+            "input_frequency": "",
+            "output_frequency": "24048.81, 10368.81, 5760.81, 1296.81",
+            "station_location": "Piek³o Górne"
+        }
+    },
+    "SR9NIS": {
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.3929.2026.4",
+            "valid_to": "2036-07-20",
+            "call_sign": "SR9NIS",
+            "category": "Kategoria5",
+            "transmitter_power": "5",
+            "name_type_station": "PrzekaznikAPRS",
+            "emission": "",
+            "input_frequency": "144.8",
+            "output_frequency": "144.8",
+            "station_location": "Istebna"
+        }
+    },
+    "SR3DWR": {
+        "UKE_individual_devices": {
+            "number": "DC.WLA.5101.34.2026.2",
+            "valid_to": "2036-07-22",
+            "call_sign": "SR3DWR",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzekaznikAPRS",
+            "emission": "",
+            "input_frequency": "432.5, 144.8",
+            "output_frequency": "432.5, 144.8",
+            "station_location": "Wronki"
+        }
+    },
+    "SR5APR": {
+        "UKE_individual_devices": {
+            "number": "DC.WML.5101.4388.2026.4",
+            "valid_to": "2036-07-23",
+            "call_sign": "SR5APR",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "PrzekaznikAPRS",
+            "emission": "",
+            "input_frequency": "144.8",
+            "output_frequency": "144.8",
+            "station_location": "Radom"
         }
     }
 }

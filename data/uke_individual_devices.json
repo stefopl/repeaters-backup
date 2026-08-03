@@ -48,8 +48,8 @@
         "station_location": "Siercza"
     },
     "SR9PS": {
-        "number": "DC.WML.5101.1880.2021.2",
-        "valid_to": "2026-07-13",
+        "number": "DC.WML.5101.3592.2026.3",
+        "valid_to": "2036-07-13",
         "call_sign": "SR9PS",
         "category": "Kategoria5",
         "transmitter_power": "15",
@@ -1020,15 +1020,15 @@
         "station_location": "Kalisz"
     },
     "SR3WR": {
-        "number": "DC.WML.5101.4341.2022.2",
+        "number": "DC.WLA.5101.31.2026.3",
         "valid_to": "2027-10-21",
         "call_sign": "SR3WR",
         "category": "Kategoria5",
-        "transmitter_power": "10",
-        "name_type_station": "PrzekaznikAPRS",
+        "transmitter_power": "15",
+        "name_type_station": "AnalogowyPrzemiennikFM",
         "emission": "",
-        "input_frequency": "144.8",
-        "output_frequency": "144.8",
+        "input_frequency": "431.225",
+        "output_frequency": "438.825",
         "station_location": "Wronki"
     },
     "SR7ST": {
@@ -1776,16 +1776,16 @@
         "station_location": "Juchnowiec Górny"
     },
     "SR9RT": {
-        "number": "DC.WML.5101.3741.2023.2",
+        "number": "DC.WML.5101.3212.2026.3",
         "valid_to": "2027-12-13",
         "call_sign": "SR9RT",
         "category": "Kategoria5",
         "transmitter_power": "15",
         "name_type_station": "AnalogowyPrzemiennikFM",
         "emission": "",
-        "input_frequency": "29.56, 51.39, 431.0375, 145.0375",
-        "output_frequency": "29.66, 51.99, 438.6375, 145.6375",
-        "station_location": "Mordarka"
+        "input_frequency": "5825, 5805, 2417, 2357, 434.855, 1270, 145.0375, 431.0375, 51.39, 29.56",
+        "output_frequency": "5825, 5805, 2417, 2357, 434.855, 1298, 145.6375, 438.6375, 51.99, 29.66",
+        "station_location": "Góra Lubań"
     },
     "SR9SIE": {
         "number": "DC.WML.5101.4023.2023.2",
@@ -2916,12 +2916,12 @@
         "station_location": "Białystok"
     },
     "SR8LUB": {
-        "number": "DC.WML.5101.3455.2024.2",
+        "number": "DC.WML.5101.2896.2026.2",
         "valid_to": "2029-06-12",
         "call_sign": "SR8LUB",
         "category": "Kategoria5",
         "transmitter_power": "15",
-        "name_type_station": "AnalogowyPrzemiennikFM",
+        "name_type_station": "CyfrowyPrzemiennik",
         "emission": "",
         "input_frequency": "431.8",
         "output_frequency": "439.4",
@@ -3696,7 +3696,7 @@
         "station_location": "Strzyżów"
     },
     "SR6PCB": {
-        "number": "DC.WML.5101.235.2025.2",
+        "number": "DC.WML.5101.3164.2026.2",
         "valid_to": "2030-01-20",
         "call_sign": "SR6PCB",
         "category": "Kategoria5",
@@ -3705,7 +3705,7 @@
         "emission": "",
         "input_frequency": "144.975",
         "output_frequency": "145.575",
-        "station_location": "Kościerzyce"
+        "station_location": "Brzeg"
     },
     "SR1PKW": {
         "number": "DC.WML.5101.349.2025.2",
@@ -4931,6 +4931,30 @@
         "output_frequency": "438.475",
         "station_location": "Mysłowice"
     },
+    "SR3DPI": {
+        "number": "DC.WML.5101.266.2026.2",
+        "valid_to": "2031-01-21",
+        "call_sign": "SR3DPI",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzekaznikAPRS",
+        "emission": "",
+        "input_frequency": "144.8",
+        "output_frequency": "144.8",
+        "station_location": "Piła"
+    },
+    "SR9NP": {
+        "number": "DC.WML.5101.263.2026.2",
+        "valid_to": "2031-02-03",
+        "call_sign": "SR9NP",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzemiennikFMDV",
+        "emission": "",
+        "input_frequency": "431.2275",
+        "output_frequency": "438.9375",
+        "station_location": "Góra Przehyba"
+    },
     "SR6DKL": {
         "number": "DC.WML.5101.425.2026.2",
         "valid_to": "2031-02-10",
@@ -4967,6 +4991,18 @@
         "output_frequency": "145.712",
         "station_location": "Łódź"
     },
+    "SR8BMP": {
+        "number": "DC.WML.5101.912.2026.2",
+        "valid_to": "2031-02-20",
+        "call_sign": "SR8BMP",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "AnalogowyPrzemiennikATV",
+        "emission": "",
+        "input_frequency": "145.1125",
+        "output_frequency": "145.7125",
+        "station_location": "Kielanówka"
+    },
     "SR4BA": {
         "number": "DC.WML.5101.939.2026.2",
         "valid_to": "2028-11-21",
@@ -4991,6 +5027,18 @@
         "output_frequency": "1298.7",
         "station_location": "Łódź"
     },
+    "SR7LDA": {
+        "number": "DC.WML.5101.994.2026.2",
+        "valid_to": "2031-02-27",
+        "call_sign": "SR7LDA",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "CyfrowyPrzemiennik",
+        "emission": "",
+        "input_frequency": "430.85",
+        "output_frequency": "438.45",
+        "station_location": "Łódź"
+    },
     "SR3MDV": {
         "number": "DC.WML.5101.1107.2026.2",
         "valid_to": "2031-03-03",
@@ -5002,6 +5050,18 @@
         "input_frequency": "431.975",
         "output_frequency": "439.575",
         "station_location": "Leszno"
+    },
+    "SR2BB": {
+        "number": "DC.WML.5101.754.2026.2",
+        "valid_to": "2031-03-23",
+        "call_sign": "SR2BB",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "CyfrowyPrzekaznik",
+        "emission": "",
+        "input_frequency": "431.8125",
+        "output_frequency": "439.4125",
+        "station_location": "Nowaczkowo"
     },
     "SR2KW": {
         "number": "DC.WML.5101.1591.2026.2",
@@ -5062,5 +5122,377 @@
         "input_frequency": "432.65",
         "output_frequency": "144.65",
         "station_location": "Bydgoszcz"
+    },
+    "SR7KU": {
+        "number": "DC.WML.5101.1181.2026.2",
+        "valid_to": "2031-03-31",
+        "call_sign": "SR7KU",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "AnalogowyPrzemiennikFM",
+        "emission": "",
+        "input_frequency": "431.325",
+        "output_frequency": "438.925",
+        "station_location": "Kutno"
+    },
+    "SR1GL": {
+        "number": "DC.WML.5101.1956.2026.2",
+        "valid_to": "2031-04-13",
+        "call_sign": "SR1GL",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "AnalogowyPrzemiennikFM",
+        "emission": "",
+        "input_frequency": "145.28",
+        "output_frequency": "145.28",
+        "station_location": "Goleniów"
+    },
+    "SR0DN": {
+        "number": "DC.WML.5101.2255.2026.2",
+        "valid_to": "2031-04-21",
+        "call_sign": "SR0DN",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "AnalogowyPrzemiennikFM",
+        "emission": "",
+        "input_frequency": "144.8, 431.9125",
+        "output_frequency": "144.8, 439.5125",
+        "station_location": "Wola Rębkowska"
+    },
+    "SR3DPX": {
+        "number": "DC.WML.5101.2309.2026.2",
+        "valid_to": "2031-04-22",
+        "call_sign": "SR3DPX",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzekaznikAPRS",
+        "emission": "",
+        "input_frequency": "434.855, 432.5, 144.8",
+        "output_frequency": "434.855, 432.5, 144.8",
+        "station_location": "Poznań"
+    },
+    "SR4BF": {
+        "number": "DC.WML.5101.2361.2026.2",
+        "valid_to": "2031-04-24",
+        "call_sign": "SR4BF",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "CyfrowyPrzemiennik",
+        "emission": "",
+        "input_frequency": "431.2",
+        "output_frequency": "438.8",
+        "station_location": "Brzóski-Falki"
+    },
+    "SR9FMJ": {
+        "number": "DC.WML.5101.1560.2026.2",
+        "valid_to": "2031-04-29",
+        "call_sign": "SR9FMJ",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "AnalogowyPrzemiennikFM",
+        "emission": "",
+        "input_frequency": "430.8",
+        "output_frequency": "438.4",
+        "station_location": "Muszyna"
+    },
+    "SR5WI": {
+        "number": "DC.WML.5101.2270.2026.2",
+        "valid_to": "2031-04-29",
+        "call_sign": "SR5WI",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "Radiolatarnia, CyfrowyPrzemiennik",
+        "emission": "",
+        "input_frequency": "144.8, 431.3",
+        "output_frequency": "144.8, 438.9",
+        "station_location": "Warszawa"
+    },
+    "SR8NP": {
+        "number": "DC.WML.5101.2212.2026.4",
+        "valid_to": "2036-05-06",
+        "call_sign": "SR8NP",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "AnalogowyPrzemiennikFM",
+        "emission": "",
+        "input_frequency": "145.1625",
+        "output_frequency": "145.7625",
+        "station_location": "Przemyśl"
+    },
+    "SR3DPN": {
+        "number": "DC.WML.5101.2651.2026.2",
+        "valid_to": "2036-05-07",
+        "call_sign": "SR3DPN",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzekaznikAPRS",
+        "emission": "",
+        "input_frequency": "434.855, 432.5, 144.8",
+        "output_frequency": "434.855, 432.5, 144.8",
+        "station_location": "Poznań"
+    },
+    "SR9JFM": {
+        "number": "DC.WML.5101.2799.2026.3",
+        "valid_to": "2036-05-08",
+        "call_sign": "SR9JFM",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "AnalogowyPrzemiennikFM",
+        "emission": "",
+        "input_frequency": "430.8",
+        "output_frequency": "438.4",
+        "station_location": "Muszyna"
+    },
+    "SR8GB": {
+        "number": "DC.WML.5101.2828.2026.3",
+        "valid_to": "2036-05-11",
+        "call_sign": "SR8GB",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "AnalogowyPrzemiennikFM",
+        "emission": "",
+        "input_frequency": "431.8",
+        "output_frequency": "439.4",
+        "station_location": "Hola"
+    },
+    "SR6WB": {
+        "number": "DC.WML.5101.2844.2026.3",
+        "valid_to": "2036-05-12",
+        "call_sign": "SR6WB",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzemiennikFMDV",
+        "emission": "",
+        "input_frequency": "431.7625",
+        "output_frequency": "439.3625",
+        "station_location": "Szczawno-Zdrój Góra Chełmiec"
+    },
+    "SR6LWB": {
+        "number": "DC.WML.5101.2868.2026.3",
+        "valid_to": "2036-05-12",
+        "call_sign": "SR6LWB",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzemiennikFMDV",
+        "emission": "",
+        "input_frequency": "1270.6",
+        "output_frequency": "1298.6",
+        "station_location": "Szczawno Zdrój, Góra Chełmiec"
+    },
+    "SR7WU": {
+        "number": "DC.WML.5101.2905.2026.2",
+        "valid_to": "2031-05-14",
+        "call_sign": "SR7WU",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "AnalogowyPrzemiennikFM",
+        "emission": "",
+        "input_frequency": "431.95, 431.825",
+        "output_frequency": "439.55, 439.425",
+        "station_location": "Wieruszów"
+    },
+    "SR4SN": {
+        "number": "DC.WML.5101.2957.2026.3",
+        "valid_to": "2036-05-18",
+        "call_sign": "SR4SN",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzemiennikFMDV",
+        "emission": "",
+        "input_frequency": "431.275",
+        "output_frequency": "438.875",
+        "station_location": "Wielbark"
+    },
+    "SR5YAM": {
+        "number": "DC.WML.5101.3023.2026.2",
+        "valid_to": "2036-05-19",
+        "call_sign": "SR5YAM",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "CyfrowaStacjaWezlowa, StacjaPogodowaAPRS, PrzekaznikAPRS",
+        "emission": "",
+        "input_frequency": "433.575, 430.3, 144.95, 432.5, 144.8",
+        "output_frequency": "433.575, 430.3, 144.95, 432.5, 144.8",
+        "station_location": "Komorów"
+    },
+    "SR2FM": {
+        "number": "DC.WML.5101.3180.2026.2",
+        "valid_to": "2036-05-22",
+        "call_sign": "SR2FM",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzemiennikFMDV",
+        "emission": "",
+        "input_frequency": "431.9375",
+        "output_frequency": "439.5375",
+        "station_location": "Jabłowo Pałuckie"
+    },
+    "SR1BSZ": {
+        "number": "DC.WML.5101.3386.2026.3",
+        "valid_to": "2036-05-29",
+        "call_sign": "SR1BSZ",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "CyfrowyPrzemiennik",
+        "emission": "",
+        "input_frequency": "144.9, 144.8",
+        "output_frequency": "144.9, 144.8",
+        "station_location": "Szczecin"
+    },
+    "SR1NRE": {
+        "number": "DC.WML.5101.3387.2026.3",
+        "valid_to": "2036-05-29",
+        "call_sign": "SR1NRE",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "CyfrowyPrzemiennik",
+        "emission": "",
+        "input_frequency": "144.9, 144.8",
+        "output_frequency": "144.9, 144.8",
+        "station_location": "Szczecin"
+    },
+    "SR1SDX": {
+        "number": "DC.WML.5101.3492.2026.3",
+        "valid_to": "2036-06-03",
+        "call_sign": "SR1SDX",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "StacjaPogodowa",
+        "emission": "",
+        "input_frequency": "144.95",
+        "output_frequency": "144.95",
+        "station_location": "Dobra"
+    },
+    "SR9JK": {
+        "number": "DC.WML.5101.3501.2026.3",
+        "valid_to": "2036-06-05",
+        "call_sign": "SR9JK",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzemiennikFMDV",
+        "emission": "",
+        "input_frequency": "431.2",
+        "output_frequency": "438.8",
+        "station_location": "Włodowice"
+    },
+    "SR9UV": {
+        "number": "DC.WML.5101.3502.2026.3",
+        "valid_to": "2036-06-05",
+        "call_sign": "SR9UV",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzemiennikFMDV",
+        "emission": "",
+        "input_frequency": "431.7375",
+        "output_frequency": "439.3375",
+        "station_location": "Włodowice"
+    },
+    "SR9DJK": {
+        "number": "DC.WML.5101.3503.2026.3",
+        "valid_to": "2036-06-05",
+        "call_sign": "SR9DJK",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzemiennikFMDV",
+        "emission": "",
+        "input_frequency": "430.775",
+        "output_frequency": "438.375",
+        "station_location": "Włodowice"
+    },
+    "SR3PX": {
+        "number": "DC.WML.5101.3457.2026.4",
+        "valid_to": "2036-06-15",
+        "call_sign": "SR3PX",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "AnalogowyPrzemiennikFM",
+        "emission": "",
+        "input_frequency": "431.3",
+        "output_frequency": "438.9",
+        "station_location": "Słomowo"
+    },
+    "SR9BN": {
+        "number": "DC.WML.5101.3625.2026.2",
+        "valid_to": "2036-06-17",
+        "call_sign": "SR9BN",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "AnalogowyPrzemiennikATV",
+        "emission": "",
+        "input_frequency": "431.625",
+        "output_frequency": "439.225",
+        "station_location": "Będzin"
+    },
+    "SR9KRT": {
+        "number": "DC.WML.5101.3879.2026.8",
+        "valid_to": "2036-07-06",
+        "call_sign": "SR9KRT",
+        "category": "Kategoria5",
+        "transmitter_power": "",
+        "name_type_station": "Radiolatarnia, CyfrowyPrzemiennik",
+        "emission": "",
+        "input_frequency": "5.825, 5.805, 2417, 2357, 434.855",
+        "output_frequency": "136, 474.2, 1836.6, 3.5686, 5.3647, 7.0386, 10.1387, 14.0956, 18.1046, 21.0946, 24.9246, 28.1246, 50.293, 5.825, 5.805, 2417, 2357, 434.855",
+        "station_location": "Miłkowa"
+    },
+    "SR6BBS": {
+        "number": "DC.WML.5101.4310.2026.4",
+        "valid_to": "2036-07-02",
+        "call_sign": "SR6BBS",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "CyfrowaStacjaWezlowa",
+        "emission": "",
+        "input_frequency": "144.85",
+        "output_frequency": "144.85",
+        "station_location": "Wrocław"
+    },
+    "SR2HMR": {
+        "number": "DC.WML.5101.4216.2026.5",
+        "valid_to": "2036-07-06",
+        "call_sign": "SR2HMR",
+        "category": "Kategoria5",
+        "transmitter_power": "10",
+        "name_type_station": "Radiolatarnia",
+        "emission": "",
+        "input_frequency": "",
+        "output_frequency": "24048.81, 10368.81, 5760.81, 1296.81",
+        "station_location": "Piekło Górne"
+    },
+    "SR9NIS": {
+        "number": "DC.WML.5101.3929.2026.4",
+        "valid_to": "2036-07-20",
+        "call_sign": "SR9NIS",
+        "category": "Kategoria5",
+        "transmitter_power": "5",
+        "name_type_station": "PrzekaznikAPRS",
+        "emission": "",
+        "input_frequency": "144.8",
+        "output_frequency": "144.8",
+        "station_location": "Istebna"
+    },
+    "SR3DWR": {
+        "number": "DC.WLA.5101.34.2026.2",
+        "valid_to": "2036-07-22",
+        "call_sign": "SR3DWR",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzekaznikAPRS",
+        "emission": "",
+        "input_frequency": "432.5, 144.8",
+        "output_frequency": "432.5, 144.8",
+        "station_location": "Wronki"
+    },
+    "SR5APR": {
+        "number": "DC.WML.5101.4388.2026.4",
+        "valid_to": "2036-07-23",
+        "call_sign": "SR5APR",
+        "category": "Kategoria5",
+        "transmitter_power": "15",
+        "name_type_station": "PrzekaznikAPRS",
+        "emission": "",
+        "input_frequency": "144.8",
+        "output_frequency": "144.8",
+        "station_location": "Radom"
     }
 }

@@ -7827,7 +7827,7 @@
      <Point>
       <coordinates>22.421792,50.221148</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />QTH: Lezajsk-Giedlarowa<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8KP'>https://przemienniki.net/przemienniki/70cm/SR8KP</a>]]></description>
+     <description><![CDATA[70cm FM repeater<br />Network: FM-Poland<br />QTH: Giedlarowa<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR8KP'>https://przemienniki.net/przemienniki/70cm/SR8KP</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR8KR</name>
@@ -9656,13 +9656,6 @@
      <description><![CDATA[Crossband FM repeater<br />QTH: Zgierz<br />Activation: CTCSS (77.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki//SR7ZG'>https://przemienniki.net/przemienniki//SR7ZG</a>]]></description>
     </Placemark>
     <Placemark>
-     <name>SR8MBR</name>
-     <Point>
-      <coordinates>22.048855,49.940092</coordinates>
-     </Point>
-     <description><![CDATA[Crossband FM repeater<br />Network: Echolink<br />QTH: Tyczyn, Lasek<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki//SR8MBR'>https://przemienniki.net/przemienniki//SR8MBR</a>]]></description>
-    </Placemark>
-    <Placemark>
      <name>SR9RT</name>
      <Point>
       <coordinates>20.454852,49.719344</coordinates>
@@ -9859,6 +9852,13 @@
       <coordinates>22.623193,51.225671</coordinates>
      </Point>
      <description><![CDATA[6m FM repeater<br />QTH: Lublin<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/6m/SR8L6M'>https://przemienniki.net/przemienniki/6m/SR8L6M</a>]]></description>
+    </Placemark>
+    <Placemark>
+     <name>SR8MBR</name>
+     <Point>
+      <coordinates>22.048855,49.940092</coordinates>
+     </Point>
+     <description><![CDATA[6m FM repeater<br />Network: FM-Poland<br />QTH: Tyczyn, Lasek<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/6m/SR8MBR'>https://przemienniki.net/przemienniki/6m/SR8MBR</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR8MBR</name>
@@ -13297,7 +13297,7 @@
      <Point>
       <coordinates>14.458333,50.020833</coordinates>
      </Point>
-     <description><![CDATA[23cm FM repeater<br />QTH: Praha<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/23cm/OK0KRC'>https://przemienniki.net/przemienniki/23cm/OK0KRC</a>]]></description>
+     <description><![CDATA[23cm FM repeater<br />QTH: Praha Ikem<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/23cm/OK0KRC'>https://przemienniki.net/przemienniki/23cm/OK0KRC</a>]]></description>
     </Placemark>
     <Placemark>
      <name>OK0KRC</name>
