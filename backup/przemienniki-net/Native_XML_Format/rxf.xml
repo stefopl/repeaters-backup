@@ -2,8 +2,8 @@
 <rxf version="1.0">
     <link rel="self" href="https://przemienniki.net/export/rxf.xml" type="application/xml"/>
     <link>https://przemienniki.net</link>
-    <updated>2026-07-31 18:14:47</updated>
-    <generated>2026-08-03 14:34:21</generated>
+    <updated>2026-08-07 18:23:47</updated>
+    <generated>2026-08-10 13:02:37</generated>
     <generator>przemienniki.net v.0.1.0</generator>
     <dictionary>
         <item>
@@ -53409,6 +53409,35 @@
             <source>manual</source>
         </repeater>
         <repeater>
+            <qra>SR3WR</qra>
+            <id>-10</id>
+            <hash>f88f949e89c5e4df25d8e1bf6ef2722a</hash>
+            <updated>2026-08-04 20:07:11</updated>
+            <statusInt>1</statusInt>
+            <status>WORKING</status>
+            <licenseExpiryDate>2027-10-21</licenseExpiryDate>
+            <modeInt>4</modeInt>
+            <mode>FM</mode>
+            <bandInt>16384</bandInt>
+            <band>70CM</band>
+            <qrg type="rx">431.225</qrg>
+            <qrg type="tx">438.825</qrg>
+            <country>pl</country>
+            <qth><![CDATA[Wronki]]></qth>
+            <location>
+                <locator/>
+                <latitude>52.708396</latitude>
+                <longitude>16.392776</longitude>
+            </location>
+            <activationInt>256</activationInt>
+            <activation>CTCSS</activation>
+            <ctcss type="rx">110.9</ctcss>
+            <ctcss type="tx">110.9</ctcss>
+            <trxPower>15</trxPower>
+            <link>https://przemienniki.net/przemienniki/70cm/SR3WR</link>
+            <source>manual</source>
+        </repeater>
+        <repeater>
             <qra>SR3WT</qra>
             <id>9045129</id>
             <hash>88624c6efc011f551a8f8938aa38e484</hash>
@@ -53667,14 +53696,13 @@
         <repeater>
             <qra>SR3ZX</qra>
             <id>1521365</id>
-            <hash>dee9faa4d16ea7a466463153c2c12e35</hash>
-            <updated>2026-07-08 01:00:41</updated>
+            <hash>46d451a344d204e16bb22c44bacd1e19</hash>
+            <updated>2026-08-07 18:23:47</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2028-01-24</licenseExpiryDate>
-            <modeInt>4128</modeInt>
+            <modeInt>32</modeInt>
             <mode>DSTAR</mode>
-            <mode>C4FM</mode>
             <bandInt>16384</bandInt>
             <band>70CM</band>
             <qrg type="rx">431.75</qrg>
@@ -54476,10 +54504,10 @@
         <repeater>
             <qra>SR4LG</qra>
             <id>9045863</id>
-            <hash>a5c15000906cd48cc40f5eb817782a47</hash>
-            <updated>2026-07-25 17:49:37</updated>
-            <statusInt>2</statusInt>
-            <status>DISABLED</status>
+            <hash>0cd9bb12164efa55d209c11edbd1b9c9</hash>
+            <updated>2026-08-06 11:10:45</updated>
+            <statusInt>1</statusInt>
+            <status>WORKING</status>
             <licenseExpiryDate>2028-09-01</licenseExpiryDate>
             <modeInt>4</modeInt>
             <mode>FM</mode>
@@ -55358,10 +55386,10 @@
         <repeater>
             <qra>SR4SUU</qra>
             <id>9045137</id>
-            <hash>dc81362310a3f25add3c625832df8353</hash>
-            <updated>2026-06-26 16:10:09</updated>
-            <statusInt>2</statusInt>
-            <status>DISABLED</status>
+            <hash>3b7b5b472922221899bd3c23fb28920e</hash>
+            <updated>2026-08-06 11:11:14</updated>
+            <statusInt>1</statusInt>
+            <status>WORKING</status>
             <licenseExpiryDate>2029-09-17</licenseExpiryDate>
             <modeInt>4</modeInt>
             <mode>FM</mode>
@@ -55376,16 +55404,17 @@
                 <latitude>54.098344</latitude>
                 <longitude>22.924715</longitude>
             </location>
-            <activationInt>4</activationInt>
-            <activation>CARRIER</activation>
+            <activationInt>256</activationInt>
+            <activation>CTCSS</activation>
+            <ctcss type="rx">67.0</ctcss>
             <link>https://przemienniki.net/przemienniki/70cm/SR4SUU</link>
             <source>manual</source>
         </repeater>
         <repeater>
             <qra>SR4SUW</qra>
             <id>9100063</id>
-            <hash>422ede85816a2a9f85f7d8bc74e137bc</hash>
-            <updated>2026-07-05 20:47:24</updated>
+            <hash>50fdcb56e44d8a4bcba04a3b0c2bb8e9</hash>
+            <updated>2026-08-06 11:12:14</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2029-06-14</licenseExpiryDate>
@@ -55405,6 +55434,7 @@
             <activationInt>256</activationInt>
             <activation>CTCSS</activation>
             <ctcss type="rx">67.0</ctcss>
+            <trxPower>5</trxPower>
             <link>https://przemienniki.net/przemienniki/70cm/SR4SUW</link>
             <source>manual</source>
         </repeater>
@@ -61956,8 +61986,8 @@
         <repeater>
             <qra>SR8JR</qra>
             <id>4942781</id>
-            <hash>0ac2d3c6a5c19ad1a45655c54a88f351</hash>
-            <updated>2026-07-05 20:47:24</updated>
+            <hash>9c8bc93ab3e9af86b1b94fa00b6793b5</hash>
+            <updated>2026-08-03 23:07:07</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2027-02-09</licenseExpiryDate>
@@ -61971,13 +62001,13 @@
             <qth><![CDATA[Jaroslaw]]></qth>
             <location>
                 <locator>KO10IA</locator>
-                <latitude>50.000296</latitude>
-                <longitude>22.713323</longitude>
+                <latitude>50.018339</latitude>
+                <longitude>22.684258</longitude>
             </location>
             <activationInt>256</activationInt>
             <activation>CTCSS</activation>
             <ctcss type="rx">67.0</ctcss>
-            <trxPower>15</trxPower>
+            <trxPower>7</trxPower>
             <link>https://przemienniki.net/przemienniki/70cm/SR8JR</link>
             <source>manual</source>
         </repeater>
@@ -62865,8 +62895,8 @@
         <repeater>
             <qra>SR8RSC</qra>
             <id>9045730</id>
-            <hash>4a1e16010c96cb31595c15fa5404b4a1</hash>
-            <updated>2026-07-05 20:47:24</updated>
+            <hash>a8d250d433e863930a3b2d99a6265a2e</hash>
+            <updated>2026-08-03 23:07:49</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2026-11-18</licenseExpiryDate>
@@ -62888,7 +62918,6 @@
             <ctcss type="rx">71.9</ctcss>
             <ctcss type="tx">71.9</ctcss>
             <trxPower>15</trxPower>
-            <echolink>799872</echolink>
             <link>https://przemienniki.net/przemienniki/2m/SR8RSC</link>
             <source>manual</source>
         </repeater>
@@ -65948,6 +65977,33 @@
             <ctcss type="rx">71.9</ctcss>
             <trxPower>10</trxPower>
             <link>https://przemienniki.net/przemienniki/70cm/SR9SE</link>
+            <source>manual</source>
+        </repeater>
+        <repeater>
+            <qra>SR9SEP</qra>
+            <id>-11</id>
+            <hash>a3086ae5219239ade2ef72aed9fd64b2</hash>
+            <updated>2026-08-06 20:02:53</updated>
+            <statusInt>16</statusInt>
+            <status>BUILDING</status>
+            <licenseExpiryDate>2031-04-23</licenseExpiryDate>
+            <modeInt>4</modeInt>
+            <mode>FM</mode>
+            <bandInt>16384</bandInt>
+            <band>70CM</band>
+            <qrg type="rx">438.525</qrg>
+            <qrg type="tx">430.925</qrg>
+            <country>pl</country>
+            <qth><![CDATA[Gliwice]]></qth>
+            <location>
+                <locator>JO90IH</locator>
+                <latitude>50.299843</latitude>
+                <longitude>18.675100</longitude>
+            </location>
+            <activationInt>4</activationInt>
+            <activation>CARRIER</activation>
+            <trxPower>15</trxPower>
+            <link>https://przemienniki.net/przemienniki/70cm/SR9SEP</link>
             <source>manual</source>
         </repeater>
         <repeater>

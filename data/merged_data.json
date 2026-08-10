@@ -52975,6 +52975,47 @@
             "Locator": "JO82KL"
         }
     },
+    "SR3WR": {
+        "przemienniki_net": {
+            "qra": "SR3WR",
+            "id": "-10",
+            "hash": "f88f949e89c5e4df25d8e1bf6ef2722a",
+            "updated": "2026-08-04 20:07:11",
+            "statusInt": "1",
+            "status": "WORKING",
+            "licenseExpiryDate": "2027-10-21",
+            "modeInt": "4",
+            "mode": "FM",
+            "bandInt": "16384",
+            "band": "70CM",
+            "qrg_rx": "431.225",
+            "qrg_tx": "438.825",
+            "country": "pl",
+            "qth": "Wronki",
+            "location_locator": null,
+            "location_latitude": "52.708396",
+            "location_longitude": "16.392776",
+            "activationInt": "256",
+            "activation": "CTCSS",
+            "ctcss_rx": "110.9",
+            "ctcss_tx": "110.9",
+            "trxPower": "15",
+            "link": "https://przemienniki.net/przemienniki/70cm/SR3WR",
+            "source": "manual"
+        },
+        "UKE_individual_devices": {
+            "number": "DC.WLA.5101.31.2026.3",
+            "valid_to": "2027-10-21",
+            "call_sign": "SR3WR",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "431.225",
+            "output_frequency": "438.825",
+            "station_location": "Wronki"
+        }
+    },
     "SR3WT": {
         "przemienniki_net": {
             "qra": "SR3WT",
@@ -53576,13 +53617,13 @@
         "przemienniki_net": {
             "qra": "SR3ZX",
             "id": "1521365",
-            "hash": "dee9faa4d16ea7a466463153c2c12e35",
-            "updated": "2026-07-08 01:00:41",
+            "hash": "46d451a344d204e16bb22c44bacd1e19",
+            "updated": "2026-08-07 18:23:47",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-01-24",
-            "modeInt": "4128",
-            "mode": "C4FM",
+            "modeInt": "32",
+            "mode": "DSTAR",
             "bandInt": "16384",
             "band": "70CM",
             "qrg_rx": "431.75",
@@ -55216,10 +55257,10 @@
         "przemienniki_net": {
             "qra": "SR4LG",
             "id": "9045863",
-            "hash": "a5c15000906cd48cc40f5eb817782a47",
-            "updated": "2026-07-25 17:49:37",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "hash": "0cd9bb12164efa55d209c11edbd1b9c9",
+            "updated": "2026-08-06 11:10:45",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2028-09-01",
             "modeInt": "4",
             "mode": "FM",
@@ -56959,10 +57000,10 @@
         "przemienniki_net": {
             "qra": "SR4SUU",
             "id": "9045137",
-            "hash": "dc81362310a3f25add3c625832df8353",
-            "updated": "2026-06-26 16:10:09",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "hash": "3b7b5b472922221899bd3c23fb28920e",
+            "updated": "2026-08-06 11:11:14",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2029-09-17",
             "modeInt": "4",
             "mode": "FM",
@@ -56975,8 +57016,9 @@
             "location_locator": "KO14LC",
             "location_latitude": "54.098344",
             "location_longitude": "22.924715",
-            "activationInt": "4",
-            "activation": "CARRIER",
+            "activationInt": "256",
+            "activation": "CTCSS",
+            "ctcss_rx": "67.0",
             "link": "https://przemienniki.net/przemienniki/70cm/SR4SUU",
             "source": "manual"
         },
@@ -57013,8 +57055,8 @@
         "przemienniki_net": {
             "qra": "SR4SUW",
             "id": "9100063",
-            "hash": "422ede85816a2a9f85f7d8bc74e137bc",
-            "updated": "2026-07-05 20:47:24",
+            "hash": "50fdcb56e44d8a4bcba04a3b0c2bb8e9",
+            "updated": "2026-08-06 11:12:14",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2029-06-14",
@@ -57032,6 +57074,7 @@
             "activationInt": "256",
             "activation": "CTCSS",
             "ctcss_rx": "67.0",
+            "trxPower": "5",
             "link": "https://przemienniki.net/przemienniki/70cm/SR4SUW",
             "source": "manual"
         },
@@ -70436,8 +70479,8 @@
         "przemienniki_net": {
             "qra": "SR8JR",
             "id": "4942781",
-            "hash": "0ac2d3c6a5c19ad1a45655c54a88f351",
-            "updated": "2026-07-05 20:47:24",
+            "hash": "9c8bc93ab3e9af86b1b94fa00b6793b5",
+            "updated": "2026-08-03 23:07:07",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2027-02-09",
@@ -70450,12 +70493,12 @@
             "country": "pl",
             "qth": "Jaroslaw",
             "location_locator": "KO10IA",
-            "location_latitude": "50.000296",
-            "location_longitude": "22.713323",
+            "location_latitude": "50.018339",
+            "location_longitude": "22.684258",
             "activationInt": "256",
             "activation": "CTCSS",
             "ctcss_rx": "67.0",
-            "trxPower": "15",
+            "trxPower": "7",
             "link": "https://przemienniki.net/przemienniki/70cm/SR8JR",
             "source": "manual"
         },
@@ -72310,8 +72353,8 @@
         "przemienniki_net": {
             "qra": "SR8RSC",
             "id": "9045730",
-            "hash": "4a1e16010c96cb31595c15fa5404b4a1",
-            "updated": "2026-07-05 20:47:24",
+            "hash": "a8d250d433e863930a3b2d99a6265a2e",
+            "updated": "2026-08-03 23:07:49",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2026-11-18",
@@ -72331,7 +72374,6 @@
             "ctcss_rx": "71.9",
             "ctcss_tx": "71.9",
             "trxPower": "15",
-            "echolink": "799872",
             "link": "https://przemienniki.net/przemienniki/2m/SR8RSC",
             "source": "manual"
         },
@@ -78295,6 +78337,60 @@
             "input_frequency": "431.6",
             "output_frequency": "439.2",
             "station_location": "Bêdzin"
+        }
+    },
+    "SR9SEP": {
+        "przemienniki_net": {
+            "qra": "SR9SEP",
+            "id": "-11",
+            "hash": "a3086ae5219239ade2ef72aed9fd64b2",
+            "updated": "2026-08-06 20:02:53",
+            "statusInt": "16",
+            "status": "BUILDING",
+            "licenseExpiryDate": "2031-04-23",
+            "modeInt": "4",
+            "mode": "FM",
+            "bandInt": "16384",
+            "band": "70CM",
+            "qrg_rx": "438.525",
+            "qrg_tx": "430.925",
+            "country": "pl",
+            "qth": "Gliwice",
+            "location_locator": "JO90IH",
+            "location_latitude": "50.299843",
+            "location_longitude": "18.675100",
+            "activationInt": "4",
+            "activation": "CARRIER",
+            "trxPower": "15",
+            "link": "https://przemienniki.net/przemienniki/70cm/SR9SEP",
+            "source": "manual"
+        },
+        "UKE_club_devices": {
+            "number": "DC.WML.5101.2379.2026.3",
+            "valid_to": "2031-04-23",
+            "call_sign": "SR9SEP",
+            "category": "Kategoria5",
+            "transmitter_power": "15",
+            "name_type_station": "AnalogowyPrzemiennikFM",
+            "emission": "",
+            "input_frequency": "430.925",
+            "output_frequency": "438.525",
+            "applicant_name": "Stowarzyszenie Elektryków Polskich Oddzia³ Gliwicki",
+            "applicant_city": "Gliwice",
+            "applicant_street": "ul. Bohaterów Getta Warszawskiego",
+            "applicant_house": "9",
+            "applicant_number": "",
+            "enduser_name": "",
+            "enduser_city": "",
+            "enduser_street": "",
+            "enduser_house": "",
+            "enduser_number": "",
+            "station_city": "Gliwice",
+            "station_street": "ul. Bohaterów Getta Warszawskiego",
+            "station_house": "9",
+            "station_number": "",
+            "lat": "",
+            "lng": ""
         }
     },
     "SR9SIM": {
@@ -85243,35 +85339,6 @@
             "lng": ""
         }
     },
-    "SR9SEP": {
-        "UKE_club_devices": {
-            "number": "DC.WML.5101.2379.2026.3",
-            "valid_to": "2031-04-23",
-            "call_sign": "SR9SEP",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "AnalogowyPrzemiennikFM",
-            "emission": "",
-            "input_frequency": "430.925",
-            "output_frequency": "438.525",
-            "applicant_name": "Stowarzyszenie Elektryków Polskich Oddzia³ Gliwicki",
-            "applicant_city": "Gliwice",
-            "applicant_street": "ul. Bohaterów Getta Warszawskiego",
-            "applicant_house": "9",
-            "applicant_number": "",
-            "enduser_name": "",
-            "enduser_city": "",
-            "enduser_street": "",
-            "enduser_house": "",
-            "enduser_number": "",
-            "station_city": "Gliwice",
-            "station_street": "ul. Bohaterów Getta Warszawskiego",
-            "station_house": "9",
-            "station_number": "",
-            "lat": "",
-            "lng": ""
-        }
-    },
     "SR4DXC": {
         "UKE_club_devices": {
             "number": "DC.WML.5101.2607.2026.3",
@@ -85819,20 +85886,6 @@
             "input_frequency": "432.5, 144.8",
             "output_frequency": "432.5, 144.8",
             "station_location": "Olszewo"
-        }
-    },
-    "SR3WR": {
-        "UKE_individual_devices": {
-            "number": "DC.WLA.5101.31.2026.3",
-            "valid_to": "2027-10-21",
-            "call_sign": "SR3WR",
-            "category": "Kategoria5",
-            "transmitter_power": "15",
-            "name_type_station": "AnalogowyPrzemiennikFM",
-            "emission": "",
-            "input_frequency": "431.225",
-            "output_frequency": "438.825",
-            "station_location": "Wronki"
         }
     },
     "SR5RAW": {

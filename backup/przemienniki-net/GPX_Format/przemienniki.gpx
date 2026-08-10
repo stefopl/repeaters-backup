@@ -31280,6 +31280,21 @@ Frequency: TX: 439.4375 MHz, RX: 431.8375 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR3UVP</desc>
  </wpt>
+ <wpt lat="52.708396" lon="16.392776">
+  <name>SR3WR</name>
+  <cmt>70cm FM repeater
+
+QTH: Wronki
+Frequency: TX: 438.8250 MHz, RX: 431.2250 MHz
+Activation: CTCSS (110.9 Hz)
+More information: https://przemienniki.net/przemienniki/70cm/SR3WR</cmt>
+  <desc>70cm FM repeater
+
+QTH: Wronki
+Frequency: TX: 438.8250 MHz, RX: 431.2250 MHz
+Activation: CTCSS (110.9 Hz)
+More information: https://przemienniki.net/przemienniki/70cm/SR3WR</desc>
+ </wpt>
  <wpt lat="52.118560" lon="16.116998">
   <name>SR3WT</name>
   <cmt>70cm FM repeater
@@ -31421,13 +31436,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR3ZJ</desc>
  </wpt>
  <wpt lat="51.935511" lon="15.527107">
   <name>SR3ZX</name>
-  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
+  <cmt>70cm DSTAR/DV repeater
 
 QTH: Zielona Gora
 Frequency: TX: 439.3500 MHz, RX: 431.7500 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR3ZX</cmt>
-  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
+  <desc>70cm DSTAR/DV repeater
 
 QTH: Zielona Gora
 Frequency: TX: 439.3500 MHz, RX: 431.7500 MHz
@@ -32387,27 +32402,27 @@ More information: https://przemienniki.net/przemienniki/70cm/SR4SU</desc>
 
 QTH: Suwalki, ul. Mickiewicza 15
 Frequency: TX: 438.9000 MHz, RX: 431.3000 MHz
-Activation: nośną
+Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR4SUU</cmt>
   <desc>70cm FM repeater
 
 QTH: Suwalki, ul. Mickiewicza 15
 Frequency: TX: 438.9000 MHz, RX: 431.3000 MHz
-Activation: nośną
+Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR4SUU</desc>
  </wpt>
  <wpt lat="54.121300" lon="22.947000">
   <name>SR4SUW</name>
   <cmt>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Suwalki
 Frequency: TX: 434.7000 MHz, RX: 434.7000 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR4SUW</cmt>
   <desc>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Suwalki
 Frequency: TX: 434.7000 MHz, RX: 434.7000 MHz
 Activation: CTCSS (67.0 Hz)
@@ -36126,18 +36141,18 @@ Frequency: TX: 145.7000 MHz, RX: 145.1000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/2m/SR8J</desc>
  </wpt>
- <wpt lat="50.000296" lon="22.713323">
+ <wpt lat="50.018339" lon="22.684258">
   <name>SR8JR</name>
   <cmt>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Jaroslaw
 Frequency: TX: 439.2500 MHz, RX: 431.6500 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR8JR</cmt>
   <desc>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Jaroslaw
 Frequency: TX: 439.2500 MHz, RX: 431.6500 MHz
 Activation: CTCSS (67.0 Hz)
@@ -36636,14 +36651,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR8RJS</desc>
   <name>SR8RSC</name>
   <cmt>2m FM repeater
 
-Network: Echolink
+Network: FM-Poland
 QTH: Boguchwala
 Frequency: TX: 145.2875 MHz, RX: 145.2875 MHz
 Activation: CTCSS (71.9 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR8RSC</cmt>
   <desc>2m FM repeater
 
-Network: Echolink
+Network: FM-Poland
 QTH: Boguchwala
 Frequency: TX: 145.2875 MHz, RX: 145.2875 MHz
 Activation: CTCSS (71.9 Hz)
@@ -38381,6 +38396,21 @@ QTH: Bedzin
 Frequency: TX: 439.2000 MHz, RX: 431.6000 MHz
 Activation: CTCSS (71.9 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9SE</desc>
+ </wpt>
+ <wpt lat="50.299843" lon="18.675100">
+  <name>SR9SEP</name>
+  <cmt>70cm FM repeater
+
+QTH: Gliwice
+Frequency: TX: 430.9250 MHz, RX: 438.5250 MHz
+Activation: nośną
+More information: https://przemienniki.net/przemienniki/70cm/SR9SEP</cmt>
+  <desc>70cm FM repeater
+
+QTH: Gliwice
+Frequency: TX: 430.9250 MHz, RX: 438.5250 MHz
+Activation: nośną
+More information: https://przemienniki.net/przemienniki/70cm/SR9SEP</desc>
  </wpt>
  <wpt lat="50.266330" lon="19.137500">
   <name>SR9SIM</name>
