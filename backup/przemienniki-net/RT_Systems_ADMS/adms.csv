@@ -872,7 +872,7 @@ Channel Number,Receive Frequency,Transmit Frequency,Offset Frequency,Offset Dire
 871,439.15,431.55,7.600000,Minus,FM,OK0DJ,On,Tone,88.5 Hz,88.5 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,
 872,439.15,431.55,7.600000,Minus,FM,OK0DJ,On,None,88.5 Hz,88.5 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,
 873,439.475,431.875,7.600000,Minus,FM,OK0DMR,On,None,88.5 Hz,88.5 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,
-874,438.375,430.775,7.600000,Minus,FM,OK0DNS,On,None,88.5 Hz,88.5 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,
+874,438.375,430.775,7.600000,Minus,FM,OK0DNS,On,Tone,77.0 Hz,88.5 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,
 875,439.525,431.925,7.600000,Minus,FM,OK0DOL,On,None,88.5 Hz,88.5 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,
 876,439.4875,431.8875,7.600000,Minus,FM,OK0DOV,On,Tone,88.5 Hz,88.5 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,
 877,438.625,431.025,7.600000,Minus,FM,OK0DPA,On,None,88.5 Hz,88.5 Hz,023,023,Off,12.5 kHz,Off,Off,,Off,

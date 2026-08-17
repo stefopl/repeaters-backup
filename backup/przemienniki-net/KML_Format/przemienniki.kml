@@ -13042,7 +13042,7 @@
      <Point>
       <coordinates>14.989711,50.728306</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />QTH: Ještědka<br />Activation: <br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/OK0DNS'>https://przemienniki.net/przemienniki/70cm/OK0DNS</a>]]></description>
+     <description><![CDATA[70cm FM+DMR repeater<br />QTH: Ještědka<br />Activation: CTCSS (77.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/OK0DNS'>https://przemienniki.net/przemienniki/70cm/OK0DNS</a>]]></description>
     </Placemark>
     <Placemark>
      <name>OK0DOL</name>

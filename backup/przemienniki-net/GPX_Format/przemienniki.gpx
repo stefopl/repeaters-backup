@@ -17793,17 +17793,17 @@ More information: https://przemienniki.net/przemienniki/70cm/OK0DMR</desc>
  </wpt>
  <wpt lat="50.728306" lon="14.989711">
   <name>OK0DNS</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
 QTH: Ještědka
 Frequency: TX: 438.3750 MHz, RX: 430.7750 MHz
-Activation: 
+Activation: CTCSS (77.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/OK0DNS</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
 
 QTH: Ještědka
 Frequency: TX: 438.3750 MHz, RX: 430.7750 MHz
-Activation: 
+Activation: CTCSS (77.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/OK0DNS</desc>
  </wpt>
  <wpt lat="49.622222" lon="17.371667">

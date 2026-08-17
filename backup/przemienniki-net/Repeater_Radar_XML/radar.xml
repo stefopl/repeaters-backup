@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<repeaters update="2026-08-07 18:23:47" version="0.1">
+<repeaters update="2026-08-15 15:55:27" version="0.1">
  <repeater callsign="ER1OVR" country="PL" region="1" frequency="4389000" band="70cm" ctcss="103.5" tx_power="5" city="Chisinau" locator="" type="FM" status="OPERATIONAL" latitude="46.991749" longitude="28.820958" opening="CTCSS" echolink="631200" URL="https://przemienniki.net/przemienniki/70cm/ER1OVR"/>
  <repeater callsign="LX0LU" country="PL" region="0" frequency="1457000" band="2m" ctcss="0" tx_power="25" city="" locator="JN39CR" type="FM" status="OPERATIONAL" latitude="49.711605" longitude="6.193112" opening="1750HZ" echolink="" URL="https://przemienniki.net/przemienniki/2m/LX0LU"/>
  <repeater callsign="SR0CK" country="PL" region="0" frequency="4390625" band="70cm" ctcss="77" tx_power="15" city="Serock" locator="KO02MM" type="FM" status="OPERATIONAL" latitude="52.514520" longitude="21.068521" opening="CTCSS" echolink="" URL="https://przemienniki.net/przemienniki/70cm/SR0CK"/>

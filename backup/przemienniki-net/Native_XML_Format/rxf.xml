@@ -2,8 +2,8 @@
 <rxf version="1.0">
     <link rel="self" href="https://przemienniki.net/export/rxf.xml" type="application/xml"/>
     <link>https://przemienniki.net</link>
-    <updated>2026-08-07 18:23:47</updated>
-    <generated>2026-08-10 13:02:37</generated>
+    <updated>2026-08-15 15:55:27</updated>
+    <generated>2026-08-17 12:39:19</generated>
     <generator>przemienniki.net v.0.1.0</generator>
     <dictionary>
         <item>
@@ -30513,12 +30513,13 @@
         <repeater>
             <qra>OK0DNS</qra>
             <id>9045753</id>
-            <hash>c699ec0a59ba4e4042f33821b83a8fae</hash>
-            <updated>2026-06-17 00:37:20</updated>
+            <hash>d36a9f4dd30c6c0431b0c573baf35b75</hash>
+            <updated>2026-08-11 00:18:17</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
-            <modeInt>4</modeInt>
+            <modeInt>1028</modeInt>
             <mode>FM</mode>
+            <mode>MOTOTRBO</mode>
             <bandInt>16384</bandInt>
             <band>70CM</band>
             <qrg type="rx">430.775</qrg>
@@ -30530,7 +30531,9 @@
                 <latitude>50.728306</latitude>
                 <longitude>14.989711</longitude>
             </location>
-            <activationInt>0</activationInt>
+            <activationInt>256</activationInt>
+            <activation>CTCSS</activation>
+            <ctcss type="rx">77.0</ctcss>
             <trxPower>10</trxPower>
             <link>https://przemienniki.net/przemienniki/70cm/OK0DNS</link>
             <source>manual</source>
@@ -55826,8 +55829,8 @@
         <repeater>
             <qra>SR5DMR</qra>
             <id>9044832</id>
-            <hash>8d7607508e6bac18d14bb1d089ed1f6e</hash>
-            <updated>2026-07-06 00:31:36</updated>
+            <hash>b53033ab63762cdb9f57b679d1d08215</hash>
+            <updated>2026-08-15 09:14:29</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2027-07-11</licenseExpiryDate>
@@ -55853,8 +55856,8 @@
         <repeater>
             <qra>SR5DMRC</qra>
             <id>9044963</id>
-            <hash>a456202a6ca718f1cf021987235c05a7</hash>
-            <updated>2026-07-06 00:31:36</updated>
+            <hash>9df180cea1e72e824bd85d4850c8e769</hash>
+            <updated>2026-08-15 09:14:15</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2028-04-03</licenseExpiryDate>
@@ -63292,7 +63295,7 @@
             <qra>SR8UVC</qra>
             <id>9043542</id>
             <hash>8c4f30938375f011eb3d9026dcdceff2</hash>
-            <updated>2026-07-06 01:33:24</updated>
+            <updated>2026-08-15 15:55:27</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2027-06-15</licenseExpiryDate>
