@@ -14751,6 +14751,23 @@ Frequency: TX: 145.7750 MHz, RX: 145.1750 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/2m/LZ0RSL</desc>
  </wpt>
+ <wpt lat="43.824185" lon="25.957569">
+  <name>LZ0RUS</name>
+  <cmt>2m FM repeater
+
+Network: Echolink
+QTH: Ruse
+Frequency: TX: 145.6250 MHz, RX: 145.0250 MHz
+Activation: nośną
+More information: https://przemienniki.net/przemienniki/2m/LZ0RUS</cmt>
+  <desc>2m FM repeater
+
+Network: Echolink
+QTH: Ruse
+Frequency: TX: 145.6250 MHz, RX: 145.0250 MHz
+Activation: nośną
+More information: https://przemienniki.net/przemienniki/2m/LZ0RUS</desc>
+ </wpt>
  <wpt lat="42.338330" lon="24.298670">
   <name>LZ0RVA</name>
   <cmt>70cm DMR repeater

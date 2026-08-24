@@ -24178,6 +24178,33 @@
             "source": "manual"
         }
     },
+    "LZ0RUS": {
+        "przemienniki_net": {
+            "qra": "LZ0RUS",
+            "id": "-13",
+            "hash": "50099f9af302964f04f6d1d950a024da",
+            "updated": "2026-08-19 14:49:13",
+            "statusInt": "1",
+            "status": "WORKING",
+            "modeInt": "4",
+            "mode": "FM",
+            "bandInt": "4096",
+            "band": "2M",
+            "qrg_rx": "145.025",
+            "qrg_tx": "145.625",
+            "country": "pl",
+            "qth": "Ruse",
+            "location_locator": "KN23XT",
+            "location_latitude": "43.824185",
+            "location_longitude": "25.957569",
+            "activationInt": "4",
+            "activation": "CARRIER",
+            "trxPower": "10",
+            "echolink": "8223",
+            "link": "https://przemienniki.net/przemienniki/2m/LZ0RUS",
+            "source": "manual"
+        }
+    },
     "LZ0RVA": {
         "przemienniki_net": {
             "qra": "LZ0RVA",

@@ -2,8 +2,8 @@
 <rxf version="1.0">
     <link rel="self" href="https://przemienniki.net/export/rxf.xml" type="application/xml"/>
     <link>https://przemienniki.net</link>
-    <updated>2026-08-15 15:55:27</updated>
-    <generated>2026-08-17 12:39:19</generated>
+    <updated>2026-08-19 14:49:13</updated>
+    <generated>2026-08-24 12:44:59</generated>
     <generator>przemienniki.net v.0.1.0</generator>
     <dictionary>
         <item>
@@ -25264,6 +25264,33 @@
             <activationInt>4</activationInt>
             <activation>CARRIER</activation>
             <link>https://przemienniki.net/przemienniki/2m/LZ0RSL</link>
+            <source>manual</source>
+        </repeater>
+        <repeater>
+            <qra>LZ0RUS</qra>
+            <id>-13</id>
+            <hash>50099f9af302964f04f6d1d950a024da</hash>
+            <updated>2026-08-19 14:49:13</updated>
+            <statusInt>1</statusInt>
+            <status>WORKING</status>
+            <modeInt>4</modeInt>
+            <mode>FM</mode>
+            <bandInt>4096</bandInt>
+            <band>2M</band>
+            <qrg type="rx">145.025</qrg>
+            <qrg type="tx">145.625</qrg>
+            <country>pl</country>
+            <qth><![CDATA[Ruse]]></qth>
+            <location>
+                <locator>KN23XT</locator>
+                <latitude>43.824185</latitude>
+                <longitude>25.957569</longitude>
+            </location>
+            <activationInt>4</activationInt>
+            <activation>CARRIER</activation>
+            <trxPower>10</trxPower>
+            <echolink>8223</echolink>
+            <link>https://przemienniki.net/przemienniki/2m/LZ0RUS</link>
             <source>manual</source>
         </repeater>
         <repeater>

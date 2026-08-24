@@ -8722,6 +8722,13 @@
      <description><![CDATA[2m FM repeater<br />QTH: <br />Activation: ton 1750Hz<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/LX0LU'>https://przemienniki.net/przemienniki/2m/LX0LU</a>]]></description>
     </Placemark>
     <Placemark>
+     <name>LZ0RUS</name>
+     <Point>
+      <coordinates>25.957569,43.824185</coordinates>
+     </Point>
+     <description><![CDATA[2m FM repeater<br />Network: Echolink<br />QTH: Ruse<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/LZ0RUS'>https://przemienniki.net/przemienniki/2m/LZ0RUS</a>]]></description>
+    </Placemark>
+    <Placemark>
      <name>SR1D</name>
      <Point>
       <coordinates>14.705231,52.737737</coordinates>
