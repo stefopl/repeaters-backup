@@ -6280,7 +6280,7 @@
      <Point>
       <coordinates>22.539238,52.916841</coordinates>
      </Point>
-     <description><![CDATA[70cm DMR repeater<br />QTH: Brzóski Falki<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4BF'>https://przemienniki.net/przemienniki/70cm/SR4BF</a>]]></description>
+     <description><![CDATA[70cm DMR+C4FM/Fusion repeater<br />QTH: Brzóski Falki<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4BF'>https://przemienniki.net/przemienniki/70cm/SR4BF</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4BI</name>
@@ -6980,7 +6980,7 @@
      <Point>
       <coordinates>21.128688,52.268254</coordinates>
      </Point>
-     <description><![CDATA[70cm DMR repeater<br />Network: Echolink<br />QTH: Warszawa - Komin EC Kaweczyn<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5WW'>https://przemienniki.net/przemienniki/70cm/SR5WW</a>]]></description>
+     <description><![CDATA[70cm DSTAR/DV+C4FM/Fusion repeater<br />QTH: Warszawa - Komin EC Kaweczyn<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR5WW'>https://przemienniki.net/przemienniki/70cm/SR5WW</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR5WWL</name>
@@ -8238,9 +8238,9 @@
     <Placemark>
      <name>SR9GP</name>
      <Point>
-      <coordinates>20.458190,49.724771</coordinates>
+      <coordinates>20.560312,49.465398</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: Echolink<br />QTH: Mordarka - Lysa gora<br />Activation: CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9GP'>https://przemienniki.net/przemienniki/70cm/SR9GP</a>]]></description>
+     <description><![CDATA[70cm FM repeater<br />QTH: Przehyba<br />Activation: nośną,CTCSS ( Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9GP'>https://przemienniki.net/przemienniki/70cm/SR9GP</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9GR</name>
@@ -8387,7 +8387,7 @@
      <Point>
       <coordinates>19.782200,49.753300</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />QTH: Gora Koskowa POLKOMTEL<br />Activation: ton 1750Hz,CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9PC'>https://przemienniki.net/przemienniki/70cm/SR9PC</a>]]></description>
+     <description><![CDATA[70cm FM repeater<br />QTH: Gora Koskowa POLKOMTEL<br />Activation: CTCSS (103.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9PC'>https://przemienniki.net/przemienniki/70cm/SR9PC</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9PJD</name>
@@ -8422,7 +8422,7 @@
      <Point>
       <coordinates>20.547884,49.652776</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+DMR repeater<br />QTH: Wysokie<br />Activation: CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9RP'>https://przemienniki.net/przemienniki/70cm/SR9RP</a>]]></description>
+     <description><![CDATA[70cm FM repeater<br />QTH: Wysokie<br />Activation: CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9RP'>https://przemienniki.net/przemienniki/70cm/SR9RP</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9RR</name>
@@ -8695,7 +8695,7 @@
      <Point>
       <coordinates>19.936232,49.307959</coordinates>
      </Point>
-     <description><![CDATA[70cm DMR repeater<br />Network: Echolink<br />QTH: Obiekt Emitel RTON Gubalowka<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9VRJ'>https://przemienniki.net/przemienniki/70cm/SR9VRJ</a>]]></description>
+     <description><![CDATA[70cm DMR repeater<br />QTH: Obiekt Emitel RTON Gubalowka<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9VRJ'>https://przemienniki.net/przemienniki/70cm/SR9VRJ</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9VVO</name>

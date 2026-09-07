@@ -5,8 +5,8 @@
         },
         "https://przemienniki.net"
     ],
-    "updated": "2026-08-19 14:49:13",
-    "generated": "2026-08-24 12:44:59",
+    "updated": "2026-09-04 19:56:11",
+    "generated": "2026-09-07 17:16:03",
     "generator": "przemienniki.net v.0.1.0",
     "dictionary": {
         "item": [
@@ -59918,13 +59918,16 @@
         "SR4BF": {
             "qra": "SR4BF",
             "id": "9100006",
-            "hash": "0f8e3de6fdcf2884d9824fd6353dff8b",
-            "updated": "2026-07-06 01:13:24",
+            "hash": "e223743034b629878e19a989d76cac6b",
+            "updated": "2026-08-31 00:00:59",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2031-04-24",
-            "modeInt": "1024",
-            "mode": "MOTOTRBO",
+            "modeInt": "5120",
+            "mode": [
+                "MOTOTRBO",
+                "C4FM"
+            ],
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -64030,13 +64033,16 @@
         "SR5WW": {
             "qra": "SR5WW",
             "id": "8817865",
-            "hash": "9cc627e22a817277fbef3fcea25ad2b8",
-            "updated": "2026-07-06 00:31:36",
+            "hash": "523b563167ea43eef98edd076c353244",
+            "updated": "2026-09-03 19:19:49",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2029-12-10",
-            "modeInt": "1024",
-            "mode": "MOTOTRBO",
+            "modeInt": "4128",
+            "mode": [
+                "DSTAR",
+                "C4FM"
+            ],
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -64781,8 +64787,8 @@
         "SR6F": {
             "qra": "SR6F",
             "id": "8293526",
-            "hash": "235526ab416858fe575483db86202e2f",
-            "updated": "2026-07-11 20:42:56",
+            "hash": "b1fe39b5f9a09e183e75b4a394db2f98",
+            "updated": "2026-08-28 23:14:51",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "4",
@@ -64790,8 +64796,8 @@
             "bandInt": "4096",
             "band": "2M",
             "qrg": {
-                "rx": "145.75",
-                "tx": "145.15"
+                "rx": "145.15",
+                "tx": "145.75"
             },
             "country": "pl",
             "qth": "Biskupia Kopa",
@@ -72030,8 +72036,8 @@
         "SR9GP": {
             "qra": "SR9GP",
             "id": "9045158",
-            "hash": "5d8e8e0d175518b5447c99dc3a1e25f3",
-            "updated": "2026-07-05 20:47:24",
+            "hash": "517e1951a71c4f9b684484d3de284071",
+            "updated": "2026-09-04 19:55:05",
             "statusInt": "8",
             "status": "TESTING",
             "modeInt": "4",
@@ -72043,20 +72049,18 @@
                 "tx": "438.65"
             },
             "country": "pl",
-            "qth": "Mordarka - Lysa gora",
+            "qth": "Przehyba",
             "location": {
-                "locator": "KN09FR",
-                "latitude": "49.724771",
-                "longitude": "20.458190"
+                "locator": "KN09GL",
+                "latitude": "49.465398",
+                "longitude": "20.560312"
             },
-            "activationInt": "256",
-            "activation": "CTCSS",
-            "ctcss": {
-                "rx": "107.2",
-                "tx": "107.2"
-            },
+            "activationInt": "260",
+            "activation": [
+                "CARRIER",
+                "CTCSS"
+            ],
             "trxPower": "15",
-            "echolink": "827683",
             "link": "https://przemienniki.net/przemienniki/70cm/SR9GP",
             "source": "manual"
         },
@@ -72961,10 +72965,10 @@
         "SR9PC": {
             "qra": "SR9PC",
             "id": "6013805",
-            "hash": "29034d5f51d6a17fedd5f78deff8c761",
-            "updated": "2026-06-17 00:37:21",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "hash": "e73f6bdccbb444f5401ae5e9458d794c",
+            "updated": "2026-08-25 20:57:33",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2027-06-20",
             "modeInt": "4",
             "mode": "FM",
@@ -72981,11 +72985,8 @@
                 "latitude": "49.753300",
                 "longitude": "19.782200"
             },
-            "activationInt": "288",
-            "activation": [
-                "1750",
-                "CTCSS"
-            ],
+            "activationInt": "256",
+            "activation": "CTCSS",
             "ctcss": {
                 "rx": "103.5"
             },
@@ -73158,16 +73159,13 @@
         "SR9RP": {
             "qra": "SR9RP",
             "id": "9100018",
-            "hash": "e0822f6144d7127167fa32fa6f1ff261",
-            "updated": "2026-07-09 08:30:42",
+            "hash": "706ad23430e980d6060958ce7b609181",
+            "updated": "2026-09-04 19:56:11",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2030-06-20",
-            "modeInt": "1028",
-            "mode": [
-                "FM",
-                "MOTOTRBO"
-            ],
+            "modeInt": "4",
+            "mode": "FM",
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -73187,6 +73185,7 @@
                 "rx": "107.2",
                 "tx": "107.2"
             },
+            "trxPower": "15",
             "link": "https://przemienniki.net/przemienniki/70cm/SR9RP",
             "source": "manual"
         },
@@ -74552,8 +74551,8 @@
         "SR9VRJ": {
             "qra": "SR9VRJ",
             "id": "9044889",
-            "hash": "b83f6095cbe0f83042d3a27ca1835255",
-            "updated": "2026-07-06 00:31:36",
+            "hash": "60dd02711133e804f2c53c9bb7bf0627",
+            "updated": "2026-09-04 19:55:49",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2029-12-10",

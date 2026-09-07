@@ -226,6 +226,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,Mode,TStep,Commen
 301,SR5WF,439.2,-,7.600000,,88.5,88.5,DV,12.5,Warszawa
 303,SR5WP,438.625,-,7.600000,Tone,127.3,127.3,FM,12.5,"Moszna-Parcela komin Elektrocieplowni Pruszkow II"
 304,SR5WRX,1298.575,-,28.000000,,88.5,127.3,FM,12.5,Warszawa
+306,SR5WW,438.5,-,7.600000,,88.5,88.5,DV,12.5,"Warszawa - Komin EC Kaweczyn"
 307,SR5WWL,438.4625,-,7.600000,Tone,127.3,127.3,FM,12.5,Marki
 308,SR5WZ,439,-,7.600000,Tone,127.3,127.3,FM,12.5,"Moszna-Parcela komin Elektrocieplowni Pruszkow II"
 309,SR5YAM,430.5375,+,0.000000,,88.5,88.5,DV,12.5,Komorow
@@ -246,7 +247,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,Mode,TStep,Commen
 325,SR6DMO,438.625,-,7.600000,Tone,94.8,94.8,FM,12.5,Oława
 327,SR6DST,145.6875,-,0.600000,Tone,123.0,123.0,FM,12.5,"Strzelin, Wieza Cisnien"
 328,SR6DWS,438.4625,-,7.600000,,88.5,88.5,DV,12.5,"Wielka Sowa"
-330,SR6F,145.15,+,0.600000,Tone,94.8,94.8,FM,12.5,"Biskupia Kopa"
+330,SR6F,145.75,-,0.600000,Tone,94.8,94.8,FM,12.5,"Biskupia Kopa"
 331,SR6FG,439.1875,-,7.600000,Tone,103.5,103.5,FM,12.5,
 332,SR6G,145.625,-,0.600000,Tone,94.8,94.8,FM,12.5,"Gora Sleza EMITEL"
 333,SR6GL,438.75,-,7.600000,,88.5,88.5,FM,12.5,Głubczyce
@@ -428,7 +429,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,Mode,TStep,Commen
 557,SR9FUN,29.66,-,0.100000,Tone,107.2,107.2,FM,12.5,"Szczawnica - Gora Przehyba (Teren schroniska)"
 558,SR9GC,438.925,-,7.600000,,88.5,88.5,FM,12.5,Gliwice
 559,SR9GOL,145.65,+,289.100000,Tone,114.8,114.8,FM,12.5,
-560,SR9GP,438.65,-,7.600000,Tone,107.2,107.2,FM,12.5,"Mordarka - Lysa gora"
+560,SR9GP,438.65,-,7.600000,Tone,88.5,88.5,FM,12.5,Przehyba
 561,SR9GR,438.5375,-,7.600000,Tone,162.2,162.2,FM,12.5,"Gorlice, maszt Emitel na Gorze Cmentarnej"
 562,SR9IVG,70.26,+,0.000000,,88.5,107.2,FM,12.5,"Mordarka - Lysa Gora (k. Limanowej)"
 563,SR9J,145.7875,-,0.600000,Tone,123.0,123.0,FM,12.5,Czestochowa

@@ -31549,13 +31549,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR4BAU</desc>
  </wpt>
  <wpt lat="52.916841" lon="22.539238">
   <name>SR4BF</name>
-  <cmt>70cm DMR repeater
+  <cmt>70cm DMR+C4FM/Fusion repeater
 
 QTH: Brzóski Falki
 Frequency: TX: 438.8000 MHz, RX: 431.2000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR4BF</cmt>
-  <desc>70cm DMR repeater
+  <desc>70cm DMR+C4FM/Fusion repeater
 
 QTH: Brzóski Falki
 Frequency: TX: 438.8000 MHz, RX: 431.2000 MHz
@@ -33634,16 +33634,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR5WU</desc>
  </wpt>
  <wpt lat="52.268254" lon="21.128688">
   <name>SR5WW</name>
-  <cmt>70cm DMR repeater
+  <cmt>70cm DSTAR/DV+C4FM/Fusion repeater
 
-Network: Echolink
 QTH: Warszawa - Komin EC Kaweczyn
 Frequency: TX: 438.5000 MHz, RX: 430.9000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR5WW</cmt>
-  <desc>70cm DMR repeater
+  <desc>70cm DSTAR/DV+C4FM/Fusion repeater
 
-Network: Echolink
 QTH: Warszawa - Komin EC Kaweczyn
 Frequency: TX: 438.5000 MHz, RX: 430.9000 MHz
 Activation: nośną
@@ -34015,13 +34013,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR6DZM</desc>
   <cmt>2m FM repeater
 
 QTH: Biskupia Kopa
-Frequency: TX: 145.1500 MHz, RX: 145.7500 MHz
+Frequency: TX: 145.7500 MHz, RX: 145.1500 MHz
 Activation: CTCSS (94.8 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR6F</cmt>
   <desc>2m FM repeater
 
 QTH: Biskupia Kopa
-Frequency: TX: 145.1500 MHz, RX: 145.7500 MHz
+Frequency: TX: 145.7500 MHz, RX: 145.1500 MHz
 Activation: CTCSS (94.8 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR6F</desc>
  </wpt>
@@ -37646,21 +37644,19 @@ Frequency: TX: 145.6500 MHz, RX: 434.7500 MHz
 Activation: CTCSS (114.8 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR9GOL</desc>
  </wpt>
- <wpt lat="49.724771" lon="20.458190">
+ <wpt lat="49.465398" lon="20.560312">
   <name>SR9GP</name>
   <cmt>70cm FM repeater
 
-Network: Echolink
-QTH: Mordarka - Lysa gora
+QTH: Przehyba
 Frequency: TX: 438.6500 MHz, RX: 431.0500 MHz
-Activation: CTCSS (107.2 Hz)
+Activation: nośną,CTCSS ( Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9GP</cmt>
   <desc>70cm FM repeater
 
-Network: Echolink
-QTH: Mordarka - Lysa gora
+QTH: Przehyba
 Frequency: TX: 438.6500 MHz, RX: 431.0500 MHz
-Activation: CTCSS (107.2 Hz)
+Activation: nośną,CTCSS ( Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9GP</desc>
  </wpt>
  <wpt lat="49.664762" lon="21.152389">
@@ -38117,13 +38113,13 @@ More information: https://przemienniki.net/przemienniki/2m/SR9P</desc>
 
 QTH: Gora Koskowa POLKOMTEL
 Frequency: TX: 438.8500 MHz, RX: 431.2500 MHz
-Activation: ton 1750Hz,CTCSS (103.5 Hz)
+Activation: CTCSS (103.5 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9PC</cmt>
   <desc>70cm FM repeater
 
 QTH: Gora Koskowa POLKOMTEL
 Frequency: TX: 438.8500 MHz, RX: 431.2500 MHz
-Activation: ton 1750Hz,CTCSS (103.5 Hz)
+Activation: CTCSS (103.5 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9PC</desc>
  </wpt>
  <wpt lat="50.312500" lon="18.625000">
@@ -38209,13 +38205,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9RC</desc>
  </wpt>
  <wpt lat="49.652776" lon="20.547884">
   <name>SR9RP</name>
-  <cmt>70cm FM+DMR repeater
+  <cmt>70cm FM repeater
 
 QTH: Wysokie
 Frequency: TX: 439.2500 MHz, RX: 431.6500 MHz
 Activation: CTCSS (107.2 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9RP</cmt>
-  <desc>70cm FM+DMR repeater
+  <desc>70cm FM repeater
 
 QTH: Wysokie
 Frequency: TX: 439.2500 MHz, RX: 431.6500 MHz
@@ -38932,14 +38928,12 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9VO</desc>
   <name>SR9VRJ</name>
   <cmt>70cm DMR repeater
 
-Network: Echolink
 QTH: Obiekt Emitel RTON Gubalowka
 Frequency: TX: 438.7125 MHz, RX: 431.1125 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR9VRJ</cmt>
   <desc>70cm DMR repeater
 
-Network: Echolink
 QTH: Obiekt Emitel RTON Gubalowka
 Frequency: TX: 438.7125 MHz, RX: 431.1125 MHz
 Activation: nośną

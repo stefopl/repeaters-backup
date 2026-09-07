@@ -2,8 +2,8 @@
 <rxf version="1.0">
     <link rel="self" href="https://przemienniki.net/export/rxf.xml" type="application/xml"/>
     <link>https://przemienniki.net</link>
-    <updated>2026-08-19 14:49:13</updated>
-    <generated>2026-08-24 12:44:59</generated>
+    <updated>2026-09-04 19:56:11</updated>
+    <generated>2026-09-07 17:16:03</generated>
     <generator>przemienniki.net v.0.1.0</generator>
     <dictionary>
         <item>
@@ -53891,13 +53891,14 @@
         <repeater>
             <qra>SR4BF</qra>
             <id>9100006</id>
-            <hash>0f8e3de6fdcf2884d9824fd6353dff8b</hash>
-            <updated>2026-07-06 01:13:24</updated>
+            <hash>e223743034b629878e19a989d76cac6b</hash>
+            <updated>2026-08-31 00:00:59</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2031-04-24</licenseExpiryDate>
-            <modeInt>1024</modeInt>
+            <modeInt>5120</modeInt>
             <mode>MOTOTRBO</mode>
+            <mode>C4FM</mode>
             <bandInt>16384</bandInt>
             <band>70CM</band>
             <qrg type="rx">431.2</qrg>
@@ -57557,13 +57558,14 @@
         <repeater>
             <qra>SR5WW</qra>
             <id>8817865</id>
-            <hash>9cc627e22a817277fbef3fcea25ad2b8</hash>
-            <updated>2026-07-06 00:31:36</updated>
+            <hash>523b563167ea43eef98edd076c353244</hash>
+            <updated>2026-09-03 19:19:49</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2029-12-10</licenseExpiryDate>
-            <modeInt>1024</modeInt>
-            <mode>MOTOTRBO</mode>
+            <modeInt>4128</modeInt>
+            <mode>DSTAR</mode>
+            <mode>C4FM</mode>
             <bandInt>16384</bandInt>
             <band>70CM</band>
             <qrg type="rx">430.9</qrg>
@@ -58226,16 +58228,16 @@
         <repeater>
             <qra>SR6F</qra>
             <id>8293526</id>
-            <hash>235526ab416858fe575483db86202e2f</hash>
-            <updated>2026-07-11 20:42:56</updated>
+            <hash>b1fe39b5f9a09e183e75b4a394db2f98</hash>
+            <updated>2026-08-28 23:14:51</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <modeInt>4</modeInt>
             <mode>FM</mode>
             <bandInt>4096</bandInt>
             <band>2M</band>
-            <qrg type="rx">145.75</qrg>
-            <qrg type="tx">145.15</qrg>
+            <qrg type="rx">145.15</qrg>
+            <qrg type="tx">145.75</qrg>
             <country>pl</country>
             <qth><![CDATA[Biskupia Kopa]]></qth>
             <location>
@@ -64649,8 +64651,8 @@
         <repeater>
             <qra>SR9GP</qra>
             <id>9045158</id>
-            <hash>5d8e8e0d175518b5447c99dc3a1e25f3</hash>
-            <updated>2026-07-05 20:47:24</updated>
+            <hash>517e1951a71c4f9b684484d3de284071</hash>
+            <updated>2026-09-04 19:55:05</updated>
             <statusInt>8</statusInt>
             <status>TESTING</status>
             <modeInt>4</modeInt>
@@ -64660,18 +64662,16 @@
             <qrg type="rx">431.05</qrg>
             <qrg type="tx">438.65</qrg>
             <country>pl</country>
-            <qth><![CDATA[Mordarka - Lysa gora]]></qth>
+            <qth><![CDATA[Przehyba]]></qth>
             <location>
-                <locator>KN09FR</locator>
-                <latitude>49.724771</latitude>
-                <longitude>20.458190</longitude>
+                <locator>KN09GL</locator>
+                <latitude>49.465398</latitude>
+                <longitude>20.560312</longitude>
             </location>
-            <activationInt>256</activationInt>
+            <activationInt>260</activationInt>
+            <activation>CARRIER</activation>
             <activation>CTCSS</activation>
-            <ctcss type="rx">107.2</ctcss>
-            <ctcss type="tx">107.2</ctcss>
             <trxPower>15</trxPower>
-            <echolink>827683</echolink>
             <link>https://przemienniki.net/przemienniki/70cm/SR9GP</link>
             <source>manual</source>
         </repeater>
@@ -65468,10 +65468,10 @@
         <repeater>
             <qra>SR9PC</qra>
             <id>6013805</id>
-            <hash>29034d5f51d6a17fedd5f78deff8c761</hash>
-            <updated>2026-06-17 00:37:21</updated>
-            <statusInt>2</statusInt>
-            <status>DISABLED</status>
+            <hash>e73f6bdccbb444f5401ae5e9458d794c</hash>
+            <updated>2026-08-25 20:57:33</updated>
+            <statusInt>1</statusInt>
+            <status>WORKING</status>
             <licenseExpiryDate>2027-06-20</licenseExpiryDate>
             <modeInt>4</modeInt>
             <mode>FM</mode>
@@ -65486,8 +65486,7 @@
                 <latitude>49.753300</latitude>
                 <longitude>19.782200</longitude>
             </location>
-            <activationInt>288</activationInt>
-            <activation>1750</activation>
+            <activationInt>256</activationInt>
             <activation>CTCSS</activation>
             <ctcss type="rx">103.5</ctcss>
             <trxPower>15</trxPower>
@@ -65639,14 +65638,13 @@
         <repeater>
             <qra>SR9RP</qra>
             <id>9100018</id>
-            <hash>e0822f6144d7127167fa32fa6f1ff261</hash>
-            <updated>2026-07-09 08:30:42</updated>
+            <hash>706ad23430e980d6060958ce7b609181</hash>
+            <updated>2026-09-04 19:56:11</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2030-06-20</licenseExpiryDate>
-            <modeInt>1028</modeInt>
+            <modeInt>4</modeInt>
             <mode>FM</mode>
-            <mode>MOTOTRBO</mode>
             <bandInt>16384</bandInt>
             <band>70CM</band>
             <qrg type="rx">431.65</qrg>
@@ -65662,6 +65660,7 @@
             <activation>CTCSS</activation>
             <ctcss type="rx">107.2</ctcss>
             <ctcss type="tx">107.2</ctcss>
+            <trxPower>15</trxPower>
             <link>https://przemienniki.net/przemienniki/70cm/SR9RP</link>
             <source>manual</source>
         </repeater>
@@ -66881,8 +66880,8 @@
         <repeater>
             <qra>SR9VRJ</qra>
             <id>9044889</id>
-            <hash>b83f6095cbe0f83042d3a27ca1835255</hash>
-            <updated>2026-07-06 00:31:36</updated>
+            <hash>60dd02711133e804f2c53c9bb7bf0627</hash>
+            <updated>2026-09-04 19:55:49</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2029-12-10</licenseExpiryDate>
