@@ -5,8 +5,8 @@
         },
         "https://przemienniki.net"
     ],
-    "updated": "2026-09-04 19:56:11",
-    "generated": "2026-09-07 17:16:03",
+    "updated": "2026-09-08 11:50:59",
+    "generated": "2026-09-14 17:43:20",
     "generator": "przemienniki.net v.0.1.0",
     "dictionary": {
         "item": [
@@ -59233,8 +59233,8 @@
         "SR3SR": {
             "qra": "SR3SR",
             "id": "9100005",
-            "hash": "eefce07161e202df0a1dffe462a7204c",
-            "updated": "2026-06-17 00:37:21",
+            "hash": "262b84cd2abc36bcdf5810b0c817817f",
+            "updated": "2026-09-08 11:50:01",
             "statusInt": "8",
             "status": "TESTING",
             "licenseExpiryDate": "2031-03-25",
@@ -59243,7 +59243,7 @@
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
-                "rx": "431.1",
+                "rx": "431.5",
                 "tx": "439.1"
             },
             "country": "pl",
@@ -72037,7 +72037,7 @@
             "qra": "SR9GP",
             "id": "9045158",
             "hash": "517e1951a71c4f9b684484d3de284071",
-            "updated": "2026-09-04 19:55:05",
+            "updated": "2026-09-08 11:50:48",
             "statusInt": "8",
             "status": "TESTING",
             "modeInt": "4",
@@ -72052,8 +72052,8 @@
             "qth": "Przehyba",
             "location": {
                 "locator": "KN09GL",
-                "latitude": "49.465398",
-                "longitude": "20.560312"
+                "latitude": "49.467329",
+                "longitude": "20.554240"
             },
             "activationInt": "260",
             "activation": [
@@ -74283,8 +74283,8 @@
         "SR9UVR": {
             "qra": "SR9UVR",
             "id": "9006113",
-            "hash": "941e81ba1a369e241a467f2664c2cc28",
-            "updated": "2026-07-05 20:47:24",
+            "hash": "9dfb6a7b82c03348c500a7b6128c0b55",
+            "updated": "2026-09-08 11:50:59",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2029-12-05",
@@ -74306,7 +74306,8 @@
             "activationInt": "256",
             "activation": "CTCSS",
             "ctcss": {
-                "rx": "94.8"
+                "rx": "94.8",
+                "tx": "94.8"
             },
             "trxPower": "15",
             "link": "https://przemienniki.net/przemienniki/70cm/SR9UVR",

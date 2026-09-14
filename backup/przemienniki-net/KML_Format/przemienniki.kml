@@ -8238,7 +8238,7 @@
     <Placemark>
      <name>SR9GP</name>
      <Point>
-      <coordinates>20.560312,49.465398</coordinates>
+      <coordinates>20.554240,49.467329</coordinates>
      </Point>
      <description><![CDATA[70cm FM repeater<br />QTH: Przehyba<br />Activation: nośną,CTCSS ( Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9GP'>https://przemienniki.net/przemienniki/70cm/SR9GP</a>]]></description>
     </Placemark>
@@ -8632,7 +8632,7 @@
      <Point>
       <coordinates>20.053072,49.349622</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: FM-Link<br />QTH: Gliczarow Gorny Maszt OSP<br />Activation: CTCSS (94.8 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9UVR'>https://przemienniki.net/przemienniki/70cm/SR9UVR</a>]]></description>
+     <description><![CDATA[70cm FM repeater<br />Network: FM-Poland<br />QTH: Gliczarow Gorny Maszt OSP<br />Activation: CTCSS (94.8 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9UVR'>https://przemienniki.net/przemienniki/70cm/SR9UVR</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9UVT</name>

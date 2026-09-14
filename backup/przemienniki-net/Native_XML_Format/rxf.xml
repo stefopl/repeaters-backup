@@ -2,8 +2,8 @@
 <rxf version="1.0">
     <link rel="self" href="https://przemienniki.net/export/rxf.xml" type="application/xml"/>
     <link>https://przemienniki.net</link>
-    <updated>2026-09-04 19:56:11</updated>
-    <generated>2026-09-07 17:16:03</generated>
+    <updated>2026-09-08 11:50:59</updated>
+    <generated>2026-09-14 17:43:20</generated>
     <generator>przemienniki.net v.0.1.0</generator>
     <dictionary>
         <item>
@@ -53280,8 +53280,8 @@
         <repeater>
             <qra>SR3SR</qra>
             <id>9100005</id>
-            <hash>eefce07161e202df0a1dffe462a7204c</hash>
-            <updated>2026-06-17 00:37:21</updated>
+            <hash>262b84cd2abc36bcdf5810b0c817817f</hash>
+            <updated>2026-09-08 11:50:01</updated>
             <statusInt>8</statusInt>
             <status>TESTING</status>
             <licenseExpiryDate>2031-03-25</licenseExpiryDate>
@@ -53289,7 +53289,7 @@
             <mode>FM</mode>
             <bandInt>16384</bandInt>
             <band>70CM</band>
-            <qrg type="rx">431.1</qrg>
+            <qrg type="rx">431.5</qrg>
             <qrg type="tx">439.1</qrg>
             <country>pl</country>
             <qth><![CDATA[Sulecinek]]></qth>
@@ -64652,7 +64652,7 @@
             <qra>SR9GP</qra>
             <id>9045158</id>
             <hash>517e1951a71c4f9b684484d3de284071</hash>
-            <updated>2026-09-04 19:55:05</updated>
+            <updated>2026-09-08 11:50:48</updated>
             <statusInt>8</statusInt>
             <status>TESTING</status>
             <modeInt>4</modeInt>
@@ -64665,8 +64665,8 @@
             <qth><![CDATA[Przehyba]]></qth>
             <location>
                 <locator>KN09GL</locator>
-                <latitude>49.465398</latitude>
-                <longitude>20.560312</longitude>
+                <latitude>49.467329</latitude>
+                <longitude>20.554240</longitude>
             </location>
             <activationInt>260</activationInt>
             <activation>CARRIER</activation>
@@ -66638,8 +66638,8 @@
         <repeater>
             <qra>SR9UVR</qra>
             <id>9006113</id>
-            <hash>941e81ba1a369e241a467f2664c2cc28</hash>
-            <updated>2026-07-05 20:47:24</updated>
+            <hash>9dfb6a7b82c03348c500a7b6128c0b55</hash>
+            <updated>2026-09-08 11:50:59</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2029-12-05</licenseExpiryDate>
@@ -66659,6 +66659,7 @@
             <activationInt>256</activationInt>
             <activation>CTCSS</activation>
             <ctcss type="rx">94.8</ctcss>
+            <ctcss type="tx">94.8</ctcss>
             <trxPower>15</trxPower>
             <link>https://przemienniki.net/przemienniki/70cm/SR9UVR</link>
             <source>manual</source>

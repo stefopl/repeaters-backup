@@ -31210,13 +31210,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR3SN</desc>
   <cmt>70cm FM repeater
 
 QTH: Sulecinek
-Frequency: TX: 439.1000 MHz, RX: 431.1000 MHz
+Frequency: TX: 439.1000 MHz, RX: 431.5000 MHz
 Activation: CTCSS (110.9 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR3SR</cmt>
   <desc>70cm FM repeater
 
 QTH: Sulecinek
-Frequency: TX: 439.1000 MHz, RX: 431.1000 MHz
+Frequency: TX: 439.1000 MHz, RX: 431.5000 MHz
 Activation: CTCSS (110.9 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR3SR</desc>
  </wpt>
@@ -37644,7 +37644,7 @@ Frequency: TX: 145.6500 MHz, RX: 434.7500 MHz
 Activation: CTCSS (114.8 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR9GOL</desc>
  </wpt>
- <wpt lat="49.465398" lon="20.560312">
+ <wpt lat="49.467329" lon="20.554240">
   <name>SR9GP</name>
   <cmt>70cm FM repeater
 
@@ -38779,14 +38779,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9UVP</desc>
   <name>SR9UVR</name>
   <cmt>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Gliczarow Gorny Maszt OSP
 Frequency: TX: 439.3000 MHz, RX: 431.7000 MHz
 Activation: CTCSS (94.8 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9UVR</cmt>
   <desc>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Gliczarow Gorny Maszt OSP
 Frequency: TX: 439.3000 MHz, RX: 431.7000 MHz
 Activation: CTCSS (94.8 Hz)

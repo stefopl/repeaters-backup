@@ -110,7 +110,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,Mode,TStep,Commen
 150,SR3PX,438.9,-,7.600000,Tone,110.9,110.9,FM,12.5,Slomowo
 151,SR3RR,438.825,-,7.600000,Tone,103.5,103.5,FM,12.5,Rawicz
 152,SR3SN,439.1,-,7.600000,Tone,100.0,88.5,FM,12.5,Swiebodzin
-153,SR3SR,439.1,-,8.000000,Tone,110.9,110.9,FM,12.5,Sulecinek
+153,SR3SR,439.1,-,7.600000,Tone,110.9,110.9,FM,12.5,Sulecinek
 154,SR3T,145.6375,-,0.600000,Tone,110.9,110.9,FM,12.5,Malanow
 155,SR3TU,439.15,-,7.600000,,88.5,88.5,FM,12.5,Turek
 156,SR3UVJ,438.4125,-,7.600000,,88.5,88.5,DV,12.5,"RTCN Jemiolow/Lagow maszt EmiTel"
@@ -482,7 +482,7 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,Mode,TStep,Commen
 625,SR9UVJ-B,439.5,-,7.600000,,88.5,88.5,DV,12.5,"Krynica Zdroj - Jaworzyna (gorna stacja kolejki gondolowej)"
 626,SR9UVJ-C,145.7875,-,0.600000,,88.5,88.5,DV,12.5,"Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)"
 630,SR9UVP,439.3625,-,7.600000,,88.5,88.5,DV,12.5,"Gora Koskowa POLKOMTEL"
-631,SR9UVR,439.3,-,7.600000,Tone,94.8,88.5,FM,12.5,"Gliczarow Gorny Maszt OSP"
+631,SR9UVR,439.3,-,7.600000,Tone,94.8,94.8,FM,12.5,"Gliczarow Gorny Maszt OSP"
 633,SR9UVU,439.1625,-,7.600000,,88.5,88.5,DV,12.5,Skrzyczne
 634,SR9UVZ,439.2,-,7.600000,,88.5,88.5,DV,12.5,"Gliczarow Gorny Maszt OSP"
 638,SR9VJP,438.5875,-,7.600000,,88.5,88.5,DV,12.5,MUSZYNA
