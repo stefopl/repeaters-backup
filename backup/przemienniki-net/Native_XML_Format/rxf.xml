@@ -2,8 +2,8 @@
 <rxf version="1.0">
     <link rel="self" href="https://przemienniki.net/export/rxf.xml" type="application/xml"/>
     <link>https://przemienniki.net</link>
-    <updated>2026-09-08 11:50:59</updated>
-    <generated>2026-09-14 17:43:20</generated>
+    <updated>2026-09-21 13:34:41</updated>
+    <generated>2026-09-21 17:53:03</generated>
     <generator>przemienniki.net v.0.1.0</generator>
     <dictionary>
         <item>
@@ -29172,12 +29172,13 @@
         <repeater>
             <qra>OK0BCA</qra>
             <id>8996939</id>
-            <hash>ebc629996c5d88441dbf25863b0fa7c7</hash>
-            <updated>2026-06-17 00:37:20</updated>
+            <hash>5818c65f516e1c23cb7786d727031877</hash>
+            <updated>2026-09-21 13:32:46</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
-            <modeInt>4</modeInt>
+            <modeInt>1028</modeInt>
             <mode>FM</mode>
+            <mode>MOTOTRBO</mode>
             <bandInt>16384</bandInt>
             <band>70CM</band>
             <qrg type="rx">431.3</qrg>
@@ -29189,7 +29190,10 @@
                 <latitude>50.684002</latitude>
                 <longitude>15.700997</longitude>
             </location>
-            <activationInt>0</activationInt>
+            <activationInt>256</activationInt>
+            <activation>CTCSS</activation>
+            <ctcss type="rx">203.5</ctcss>
+            <ctcss type="tx">203.5</ctcss>
             <trxPower>15</trxPower>
             <link>https://przemienniki.net/przemienniki/70cm/OK0BCA</link>
             <source>manual</source>
@@ -30461,12 +30465,13 @@
         <repeater>
             <qra>OK0DJ</qra>
             <id>9043555</id>
-            <hash>284430299fdf948295a245609d60de56</hash>
-            <updated>2026-06-17 00:37:20</updated>
+            <hash>4ed48016bf752cbf6f2eaf9634275fe8</hash>
+            <updated>2026-09-21 13:33:59</updated>
             <statusInt>2</statusInt>
             <status>DISABLED</status>
-            <modeInt>4</modeInt>
-            <mode>FM</mode>
+            <modeInt>1056</modeInt>
+            <mode>DSTAR</mode>
+            <mode>MOTOTRBO</mode>
             <bandInt>16384</bandInt>
             <band>70CM</band>
             <qrg type="rx">431.55</qrg>
@@ -30481,9 +30486,7 @@
             <activationInt>260</activationInt>
             <activation>CARRIER</activation>
             <activation>CTCSS</activation>
-            <ctcss type="rx">88.5</ctcss>
-            <ctcss type="tx">88.5</ctcss>
-            <trxPower>5</trxPower>
+            <trxPower>15</trxPower>
             <link>https://przemienniki.net/przemienniki/70cm/OK0DJ</link>
             <source>manual</source>
         </repeater>
@@ -30823,12 +30826,13 @@
         <repeater>
             <qra>OK0DV</qra>
             <id>9045189</id>
-            <hash>8ee3b4876863ae5dd1814b4095510a7c</hash>
-            <updated>2026-06-21 13:20:10</updated>
+            <hash>29eecf37d0ea0204be72e41c570973a4</hash>
+            <updated>2026-09-21 13:32:56</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
-            <modeInt>4</modeInt>
-            <mode>FM</mode>
+            <modeInt>1056</modeInt>
+            <mode>DSTAR</mode>
+            <mode>MOTOTRBO</mode>
             <bandInt>16384</bandInt>
             <band>70CM</band>
             <qrg type="rx">431.675</qrg>
@@ -36942,8 +36946,8 @@
         <repeater>
             <qra>PI2EHV</qra>
             <id>9044687</id>
-            <hash>5c3e5d33434f5f2cfe667ccea13dbf13</hash>
-            <updated>2026-07-08 01:00:41</updated>
+            <hash>c61dafdfb35385eb9e90908927d7badf</hash>
+            <updated>2026-09-21 13:34:41</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <modeInt>4100</modeInt>
@@ -36956,9 +36960,9 @@
             <country>nl</country>
             <qth><![CDATA[Eindhoven]]></qth>
             <location>
-                <locator>JO21QK</locator>
-                <latitude>51.453776</latitude>
-                <longitude>5.402144</longitude>
+                <locator>JO21RJ</locator>
+                <latitude>51.411780</latitude>
+                <longitude>5.456729</longitude>
             </location>
             <activationInt>256</activationInt>
             <activation>CTCSS</activation>
@@ -38581,7 +38585,7 @@
             <qra>PI6EHN</qra>
             <id>9044721</id>
             <hash>d0cb3af8ce48a60de8af8729cc990de1</hash>
-            <updated>2026-06-17 00:37:20</updated>
+            <updated>2026-09-21 13:34:30</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <modeInt>4</modeInt>
@@ -38593,14 +38597,13 @@
             <country>nl</country>
             <qth><![CDATA[Eindhoven]]></qth>
             <location>
-                <locator>JO21QK</locator>
-                <latitude>0.000000</latitude>
-                <longitude>0.000000</longitude>
+                <locator>JO21RJ</locator>
+                <latitude>51.411832</latitude>
+                <longitude>5.456643</longitude>
             </location>
             <activationInt>256</activationInt>
             <activation>CTCSS</activation>
             <ctcss type="rx">71.9</ctcss>
-            <echolink>8620</echolink>
             <link>https://przemienniki.net/przemienniki/23cm/PI6EHN</link>
             <source>manual</source>
         </repeater>
@@ -52354,28 +52357,28 @@
         <repeater>
             <qra>SR3DMR</qra>
             <id>9002890</id>
-            <hash>b254378418384bfb3f51403624532404</hash>
-            <updated>2026-07-07 19:41:09</updated>
-            <statusInt>2</statusInt>
-            <status>DISABLED</status>
+            <hash>28dc7da411a21b79968cf55cc47d4c9c</hash>
+            <updated>2026-09-21 13:34:21</updated>
+            <statusInt>1</statusInt>
+            <status>WORKING</status>
             <licenseExpiryDate>2030-10-01</licenseExpiryDate>
             <modeInt>1024</modeInt>
             <mode>MOTOTRBO</mode>
-            <bandInt>4096</bandInt>
-            <band>2M</band>
-            <qrg type="rx">145.0125</qrg>
-            <qrg type="tx">145.6125</qrg>
+            <bandInt>16384</bandInt>
+            <band>70CM</band>
+            <qrg type="rx">431.65</qrg>
+            <qrg type="tx">439.25</qrg>
             <country>pl</country>
             <qth><![CDATA[Poznan]]></qth>
             <location>
-                <locator>JO82KL</locator>
-                <latitude>52.459156</latitude>
-                <longitude>16.905933</longitude>
+                <locator>JO82LJ</locator>
+                <latitude>52.388998</latitude>
+                <longitude>16.990292</longitude>
             </location>
             <activationInt>4</activationInt>
             <activation>CARRIER</activation>
-            <trxPower>10</trxPower>
-            <link>https://przemienniki.net/przemienniki/2m/SR3DMR</link>
+            <trxPower>15</trxPower>
+            <link>https://przemienniki.net/przemienniki/70cm/SR3DMR</link>
             <source>manual</source>
         </repeater>
         <repeater>
@@ -54617,10 +54620,10 @@
         <repeater>
             <qra>SR4LO</qra>
             <id>8180365</id>
-            <hash>f3f4734fa7d460878fc81335f8cc2a84</hash>
-            <updated>2026-06-17 00:37:21</updated>
-            <statusInt>1</statusInt>
-            <status>WORKING</status>
+            <hash>b614cb98a9a47587329e639d20931a2a</hash>
+            <updated>2026-09-18 15:33:04</updated>
+            <statusInt>2</statusInt>
+            <status>DISABLED</status>
             <licenseExpiryDate>2027-11-29</licenseExpiryDate>
             <modeInt>4</modeInt>
             <mode>FM</mode>
@@ -54629,7 +54632,7 @@
             <qrg type="rx">431.5</qrg>
             <qrg type="tx">439.1</qrg>
             <country>pl</country>
-            <qth><![CDATA[Lomza - maszt]]></qth>
+            <qth><![CDATA[Łomża]]></qth>
             <location>
                 <locator>KO13BD</locator>
                 <latitude>53.159484</latitude>

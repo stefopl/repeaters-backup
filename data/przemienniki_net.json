@@ -5,8 +5,8 @@
         },
         "https://przemienniki.net"
     ],
-    "updated": "2026-09-08 11:50:59",
-    "generated": "2026-09-14 17:43:20",
+    "updated": "2026-09-21 13:34:41",
+    "generated": "2026-09-21 17:53:03",
     "generator": "przemienniki.net v.0.1.0",
     "dictionary": {
         "item": [
@@ -32493,12 +32493,15 @@
         "OK0BCA": {
             "qra": "OK0BCA",
             "id": "8996939",
-            "hash": "ebc629996c5d88441dbf25863b0fa7c7",
-            "updated": "2026-06-17 00:37:20",
+            "hash": "5818c65f516e1c23cb7786d727031877",
+            "updated": "2026-09-21 13:32:46",
             "statusInt": "1",
             "status": "WORKING",
-            "modeInt": "4",
-            "mode": "FM",
+            "modeInt": "1028",
+            "mode": [
+                "FM",
+                "MOTOTRBO"
+            ],
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -32512,7 +32515,12 @@
                 "latitude": "50.684002",
                 "longitude": "15.700997"
             },
-            "activationInt": "0",
+            "activationInt": "256",
+            "activation": "CTCSS",
+            "ctcss": {
+                "rx": "203.5",
+                "tx": "203.5"
+            },
             "trxPower": "15",
             "link": "https://przemienniki.net/przemienniki/70cm/OK0BCA",
             "source": "manual"
@@ -33960,12 +33968,15 @@
         "OK0DJ": {
             "qra": "OK0DJ",
             "id": "9043555",
-            "hash": "284430299fdf948295a245609d60de56",
-            "updated": "2026-06-17 00:37:20",
+            "hash": "4ed48016bf752cbf6f2eaf9634275fe8",
+            "updated": "2026-09-21 13:33:59",
             "statusInt": "2",
             "status": "DISABLED",
-            "modeInt": "4",
-            "mode": "FM",
+            "modeInt": "1056",
+            "mode": [
+                "DSTAR",
+                "MOTOTRBO"
+            ],
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -33984,11 +33995,7 @@
                 "CARRIER",
                 "CTCSS"
             ],
-            "ctcss": {
-                "rx": "88.5",
-                "tx": "88.5"
-            },
-            "trxPower": "5",
+            "trxPower": "15",
             "link": "https://przemienniki.net/przemienniki/70cm/OK0DJ",
             "source": "manual"
         },
@@ -34362,12 +34369,15 @@
         "OK0DV": {
             "qra": "OK0DV",
             "id": "9045189",
-            "hash": "8ee3b4876863ae5dd1814b4095510a7c",
-            "updated": "2026-06-21 13:20:10",
+            "hash": "29eecf37d0ea0204be72e41c570973a4",
+            "updated": "2026-09-21 13:32:56",
             "statusInt": "1",
             "status": "WORKING",
-            "modeInt": "4",
-            "mode": "FM",
+            "modeInt": "1056",
+            "mode": [
+                "DSTAR",
+                "MOTOTRBO"
+            ],
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -41089,8 +41099,8 @@
         "PI2EHV": {
             "qra": "PI2EHV",
             "id": "9044687",
-            "hash": "5c3e5d33434f5f2cfe667ccea13dbf13",
-            "updated": "2026-07-08 01:00:41",
+            "hash": "c61dafdfb35385eb9e90908927d7badf",
+            "updated": "2026-09-21 13:34:41",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "4100",
@@ -41107,9 +41117,9 @@
             "country": "nl",
             "qth": "Eindhoven",
             "location": {
-                "locator": "JO21QK",
-                "latitude": "51.453776",
-                "longitude": "5.402144"
+                "locator": "JO21RJ",
+                "latitude": "51.411780",
+                "longitude": "5.456729"
             },
             "activationInt": "256",
             "activation": "CTCSS",
@@ -42956,7 +42966,7 @@
             "qra": "PI6EHN",
             "id": "9044721",
             "hash": "d0cb3af8ce48a60de8af8729cc990de1",
-            "updated": "2026-06-17 00:37:20",
+            "updated": "2026-09-21 13:34:30",
             "statusInt": "1",
             "status": "WORKING",
             "modeInt": "4",
@@ -42970,16 +42980,15 @@
             "country": "nl",
             "qth": "Eindhoven",
             "location": {
-                "locator": "JO21QK",
-                "latitude": "0.000000",
-                "longitude": "0.000000"
+                "locator": "JO21RJ",
+                "latitude": "51.411832",
+                "longitude": "5.456643"
             },
             "activationInt": "256",
             "activation": "CTCSS",
             "ctcss": {
                 "rx": "71.9"
             },
-            "echolink": "8620",
             "link": "https://przemienniki.net/przemienniki/23cm/PI6EHN",
             "source": "manual"
         },
@@ -58189,30 +58198,30 @@
         "SR3DMR": {
             "qra": "SR3DMR",
             "id": "9002890",
-            "hash": "b254378418384bfb3f51403624532404",
-            "updated": "2026-07-07 19:41:09",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "hash": "28dc7da411a21b79968cf55cc47d4c9c",
+            "updated": "2026-09-21 13:34:21",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2030-10-01",
             "modeInt": "1024",
             "mode": "MOTOTRBO",
-            "bandInt": "4096",
-            "band": "2M",
+            "bandInt": "16384",
+            "band": "70CM",
             "qrg": {
-                "rx": "145.0125",
-                "tx": "145.6125"
+                "rx": "431.65",
+                "tx": "439.25"
             },
             "country": "pl",
             "qth": "Poznan",
             "location": {
-                "locator": "JO82KL",
-                "latitude": "52.459156",
-                "longitude": "16.905933"
+                "locator": "JO82LJ",
+                "latitude": "52.388998",
+                "longitude": "16.990292"
             },
             "activationInt": "4",
             "activation": "CARRIER",
-            "trxPower": "10",
-            "link": "https://przemienniki.net/przemienniki/2m/SR3DMR",
+            "trxPower": "15",
+            "link": "https://przemienniki.net/przemienniki/70cm/SR3DMR",
             "source": "manual"
         },
         "SR3DOS": {
@@ -60728,10 +60737,10 @@
         "SR4LO": {
             "qra": "SR4LO",
             "id": "8180365",
-            "hash": "f3f4734fa7d460878fc81335f8cc2a84",
-            "updated": "2026-06-17 00:37:21",
-            "statusInt": "1",
-            "status": "WORKING",
+            "hash": "b614cb98a9a47587329e639d20931a2a",
+            "updated": "2026-09-18 15:33:04",
+            "statusInt": "2",
+            "status": "DISABLED",
             "licenseExpiryDate": "2027-11-29",
             "modeInt": "4",
             "mode": "FM",
@@ -60742,7 +60751,7 @@
                 "tx": "439.1"
             },
             "country": "pl",
-            "qth": "Lomza - maszt",
+            "qth": "Łomża",
             "location": {
                 "locator": "KO13BD",
                 "latitude": "53.159484",

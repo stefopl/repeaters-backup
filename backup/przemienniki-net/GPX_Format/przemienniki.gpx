@@ -17058,17 +17058,17 @@ More information: https://przemienniki.net/przemienniki/70cm/OK0BC</desc>
  </wpt>
  <wpt lat="50.684002" lon="15.700997">
   <name>OK0BCA</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
 QTH: Liščí hora - Krkonoše
 Frequency: TX: 438.9000 MHz, RX: 431.3000 MHz
-Activation: 
+Activation: CTCSS (203.5 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/OK0BCA</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
 
 QTH: Liščí hora - Krkonoše
 Frequency: TX: 438.9000 MHz, RX: 431.3000 MHz
-Activation: 
+Activation: CTCSS (203.5 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/OK0BCA</desc>
  </wpt>
  <wpt lat="50.683611" lon="15.701111">
@@ -17765,17 +17765,17 @@ More information: https://przemienniki.net/przemienniki/70cm/OK0DIT</desc>
  </wpt>
  <wpt lat="50.732700" lon="14.984700">
   <name>OK0DJ</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm DSTAR/DV+DMR repeater
 
 QTH: Ještěd
 Frequency: TX: 439.1500 MHz, RX: 431.5500 MHz
-Activation: nośną,CTCSS (88.5 Hz)
+Activation: nośną,CTCSS ( Hz)
 More information: https://przemienniki.net/przemienniki/70cm/OK0DJ</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm DSTAR/DV+DMR repeater
 
 QTH: Ještěd
 Frequency: TX: 439.1500 MHz, RX: 431.5500 MHz
-Activation: nośną,CTCSS (88.5 Hz)
+Activation: nośną,CTCSS ( Hz)
 More information: https://przemienniki.net/przemienniki/70cm/OK0DJ</desc>
  </wpt>
  <wpt lat="50.732500" lon="14.984444">
@@ -17975,13 +17975,13 @@ More information: https://przemienniki.net/przemienniki/70cm/OK0DUR</desc>
  </wpt>
  <wpt lat="49.896389" lon="15.575278">
   <name>OK0DV</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm DSTAR/DV+DMR repeater
 
 QTH: Železné Hory
 Frequency: TX: 439.2750 MHz, RX: 431.6750 MHz
 Activation: 
 More information: https://przemienniki.net/przemienniki/70cm/OK0DV</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm DSTAR/DV+DMR repeater
 
 QTH: Železné Hory
 Frequency: TX: 439.2750 MHz, RX: 431.6750 MHz
@@ -21582,7 +21582,7 @@ Frequency: TX: 430.0875 MHz, RX: 431.6875 MHz
 Activation: CTCSS (88.5 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/PI2DFT</desc>
  </wpt>
- <wpt lat="51.453776" lon="5.402144">
+ <wpt lat="51.411780" lon="5.456729">
   <name>PI2EHV</name>
   <cmt>70cm FM+C4FM/Fusion repeater
 
@@ -22529,7 +22529,7 @@ Frequency: TX: 1298.5750 MHz, RX: 1270.5750 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/23cm/PI6ASN</desc>
  </wpt>
- <wpt lat="51.437500" lon="5.375000">
+ <wpt lat="51.411832" lon="5.456643">
   <name>PI6EHN</name>
   <cmt>23cm FM repeater
 
@@ -30686,20 +30686,20 @@ Frequency: TX: 438.6875 MHz, RX: 431.0875 MHz
 Activation: 
 More information: https://przemienniki.net/przemienniki/70cm/SR3DLS</desc>
  </wpt>
- <wpt lat="52.459156" lon="16.905933">
+ <wpt lat="52.388998" lon="16.990292">
   <name>SR3DMR</name>
-  <cmt>2m DMR repeater
+  <cmt>70cm DMR repeater
 
 QTH: Poznan
-Frequency: TX: 145.6125 MHz, RX: 145.0125 MHz
+Frequency: TX: 439.2500 MHz, RX: 431.6500 MHz
 Activation: nośną
-More information: https://przemienniki.net/przemienniki/2m/SR3DMR</cmt>
-  <desc>2m DMR repeater
+More information: https://przemienniki.net/przemienniki/70cm/SR3DMR</cmt>
+  <desc>70cm DMR repeater
 
 QTH: Poznan
-Frequency: TX: 145.6125 MHz, RX: 145.0125 MHz
+Frequency: TX: 439.2500 MHz, RX: 431.6500 MHz
 Activation: nośną
-More information: https://przemienniki.net/przemienniki/2m/SR3DMR</desc>
+More information: https://przemienniki.net/przemienniki/70cm/SR3DMR</desc>
  </wpt>
  <wpt lat="51.659738" lon="17.797780">
   <name>SR3DOS</name>
@@ -31969,13 +31969,13 @@ More information: https://przemienniki.net/przemienniki/23cm/SR4LM</desc>
   <name>SR4LO</name>
   <cmt>70cm FM repeater
 
-QTH: Lomza - maszt
+QTH: Łomża
 Frequency: TX: 439.1000 MHz, RX: 431.5000 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR4LO</cmt>
   <desc>70cm FM repeater
 
-QTH: Lomza - maszt
+QTH: Łomża
 Frequency: TX: 439.1000 MHz, RX: 431.5000 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR4LO</desc>
