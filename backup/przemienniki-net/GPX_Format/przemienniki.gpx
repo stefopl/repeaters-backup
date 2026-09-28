@@ -449,6 +449,23 @@ Frequency: TX: 439.1125 MHz, RX: 431.5125 MHz
 Activation: ton 1750Hz
 More information: https://przemienniki.net/przemienniki/70cm/DB0ERZ</desc>
  </wpt>
+ <wpt lat="50.882701" lon="13.336909">
+  <name>DB0FBG</name>
+  <cmt>70cm FM repeater
+
+Network: Echolink
+QTH: Freiberg
+Frequency: TX: 439.0250 MHz, RX: 431.4250 MHz
+Activation: nośną,ton 1750Hz,CTCSS (141.3 Hz)
+More information: https://przemienniki.net/przemienniki/70cm/DB0FBG</cmt>
+  <desc>70cm FM repeater
+
+Network: Echolink
+QTH: Freiberg
+Frequency: TX: 439.0250 MHz, RX: 431.4250 MHz
+Activation: nośną,ton 1750Hz,CTCSS (141.3 Hz)
+More information: https://przemienniki.net/przemienniki/70cm/DB0FBG</desc>
+ </wpt>
  <wpt lat="52.132831" lon="14.634121">
   <name>DB0FFO</name>
   <cmt>70cm FM repeater
@@ -30515,13 +30532,13 @@ More information: https://przemienniki.net/przemienniki/70cm/SR2W</desc>
  </wpt>
  <wpt lat="54.590756" lon="18.229030">
   <name>SR2WE</name>
-  <cmt>70cm C4FM/Fusion repeater
+  <cmt>70cm FM+C4FM/Fusion repeater
 
 QTH: Wejherowo
 Frequency: TX: 439.2250 MHz, RX: 431.6250 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/70cm/SR2WE</cmt>
-  <desc>70cm C4FM/Fusion repeater
+  <desc>70cm FM+C4FM/Fusion repeater
 
 QTH: Wejherowo
 Frequency: TX: 439.2250 MHz, RX: 431.6250 MHz
@@ -31515,14 +31532,31 @@ More information: https://przemienniki.net/przemienniki/2m/SR4AUV</desc>
  </wpt>
  <wpt lat="54.301463" lon="20.753709">
   <name>SR4BA</name>
-  <cmt>70cm FM repeater
+  <cmt>70cm FM+DMR repeater
 
 Network: Echolink
 QTH: Bartoszyce
 Frequency: TX: 438.5375 MHz, RX: 430.9375 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR4BA</cmt>
-  <desc>70cm FM repeater
+  <desc>70cm FM+DMR repeater
+
+Network: Echolink
+QTH: Bartoszyce
+Frequency: TX: 438.5375 MHz, RX: 430.9375 MHz
+Activation: CTCSS (67.0 Hz)
+More information: https://przemienniki.net/przemienniki/70cm/SR4BA</desc>
+ </wpt>
+ <wpt lat="54.301463" lon="20.753709">
+  <name>SR4BA</name>
+  <cmt>70cm FM+DMR repeater
+
+Network: Echolink
+QTH: Bartoszyce
+Frequency: TX: 438.5375 MHz, RX: 430.9375 MHz
+Activation: CTCSS (67.0 Hz)
+More information: https://przemienniki.net/przemienniki/70cm/SR4BA</cmt>
+  <desc>70cm FM+DMR repeater
 
 Network: Echolink
 QTH: Bartoszyce
