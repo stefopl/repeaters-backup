@@ -5,8 +5,8 @@
         },
         "https://przemienniki.net"
     ],
-    "updated": "2026-09-21 13:34:41",
-    "generated": "2026-09-21 17:53:03",
+    "updated": "2026-09-28 13:01:59",
+    "generated": "2026-10-05 20:24:41",
     "generator": "przemienniki.net v.0.1.0",
     "dictionary": {
         "item": [
@@ -1077,6 +1077,41 @@
             "activationInt": "32",
             "activation": "1750",
             "link": "https://przemienniki.net/przemienniki/70cm/DB0ERZ",
+            "source": "manual"
+        },
+        "DB0FBG": {
+            "qra": "DB0FBG",
+            "id": "-14",
+            "hash": "84ddec5f1d8573b58e2fb3cf586392d9",
+            "updated": "2026-09-28 13:00:17",
+            "statusInt": "1",
+            "status": "WORKING",
+            "modeInt": "4",
+            "mode": "FM",
+            "bandInt": "16384",
+            "band": "70CM",
+            "qrg": {
+                "rx": "431.425",
+                "tx": "439.025"
+            },
+            "country": "pl",
+            "qth": "Freiberg",
+            "location": {
+                "locator": "JO60QV",
+                "latitude": "50.882701",
+                "longitude": "13.336909"
+            },
+            "activationInt": "292",
+            "activation": [
+                "CARRIER",
+                "1750",
+                "CTCSS"
+            ],
+            "ctcss": {
+                "rx": "141.3",
+                "tx": "141.3"
+            },
+            "link": "https://przemienniki.net/przemienniki/70cm/DB0FBG",
             "source": "manual"
         },
         "DB0FFO": {
@@ -57872,12 +57907,15 @@
         "SR2WE": {
             "qra": "SR2WE",
             "id": "9045655",
-            "hash": "a07cfa53f043eaf3b2ba3efc228a071b",
-            "updated": "2026-07-08 01:00:41",
+            "hash": "ef1fcf0ff7fcf97bf967a9e523cdd503",
+            "updated": "2026-09-28 13:00:34",
             "statusInt": "1",
             "status": "WORKING",
-            "modeInt": "4096",
-            "mode": "C4FM",
+            "modeInt": "4100",
+            "mode": [
+                "FM",
+                "C4FM"
+            ],
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -59867,12 +59905,15 @@
             "qra": "SR4BA",
             "id": "9045804",
             "hash": "376ff00654fd56b60bb41060625af5c6",
-            "updated": "2026-07-05 20:47:24",
+            "updated": "2026-09-24 13:45:26",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-11-21",
-            "modeInt": "4",
-            "mode": "FM",
+            "modeInt": "1028",
+            "mode": [
+                "FM",
+                "MOTOTRBO"
+            ],
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -59889,7 +59930,45 @@
             "activationInt": "256",
             "activation": "CTCSS",
             "ctcss": {
-                "rx": "67.0"
+                "rx": "67.0",
+                "tx": "67.0"
+            },
+            "trxPower": "15",
+            "echolink": "193045",
+            "link": "https://przemienniki.net/przemienniki/70cm/SR4BA",
+            "source": "manual"
+        },
+        "SR4BA_2": {
+            "qra": "SR4BA",
+            "id": "2009045804",
+            "hash": "376ff00654fd56b60bb41060625af5c6",
+            "updated": "2026-09-24 13:45:26",
+            "statusInt": "1",
+            "status": "WORKING",
+            "licenseExpiryDate": "2028-11-21",
+            "modeInt": "1028",
+            "mode": [
+                "FM",
+                "MOTOTRBO"
+            ],
+            "bandInt": "16384",
+            "band": "70CM",
+            "qrg": {
+                "rx": "430.9375",
+                "tx": "438.5375"
+            },
+            "country": "pl",
+            "qth": "Bartoszyce",
+            "location": {
+                "locator": "KO04JH",
+                "latitude": "54.301463",
+                "longitude": "20.753709"
+            },
+            "activationInt": "256",
+            "activation": "CTCSS",
+            "ctcss": {
+                "rx": "67.0",
+                "tx": "67.0"
             },
             "trxPower": "15",
             "echolink": "193045",
@@ -63365,10 +63444,10 @@
         "SR5RR": {
             "qra": "SR5RR",
             "id": "8996892",
-            "hash": "7554b32c15afa656e91d0341a680833a",
-            "updated": "2026-07-11 13:08:02",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "hash": "ae009f8844dc92bf705dad336dc1abfc",
+            "updated": "2026-09-28 13:01:59",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2030-07-28",
             "modeInt": "4",
             "mode": "FM",

@@ -2,8 +2,8 @@
 <rxf version="1.0">
     <link rel="self" href="https://przemienniki.net/export/rxf.xml" type="application/xml"/>
     <link>https://przemienniki.net</link>
-    <updated>2026-09-21 13:34:41</updated>
-    <generated>2026-09-21 17:53:03</generated>
+    <updated>2026-09-28 13:01:59</updated>
+    <generated>2026-10-05 20:24:41</generated>
     <generator>przemienniki.net v.0.1.0</generator>
     <dictionary>
         <item>
@@ -996,6 +996,35 @@
             <activationInt>32</activationInt>
             <activation>1750</activation>
             <link>https://przemienniki.net/przemienniki/70cm/DB0ERZ</link>
+            <source>manual</source>
+        </repeater>
+        <repeater>
+            <qra>DB0FBG</qra>
+            <id>-14</id>
+            <hash>84ddec5f1d8573b58e2fb3cf586392d9</hash>
+            <updated>2026-09-28 13:00:17</updated>
+            <statusInt>1</statusInt>
+            <status>WORKING</status>
+            <modeInt>4</modeInt>
+            <mode>FM</mode>
+            <bandInt>16384</bandInt>
+            <band>70CM</band>
+            <qrg type="rx">431.425</qrg>
+            <qrg type="tx">439.025</qrg>
+            <country>pl</country>
+            <qth><![CDATA[Freiberg]]></qth>
+            <location>
+                <locator>JO60QV</locator>
+                <latitude>50.882701</latitude>
+                <longitude>13.336909</longitude>
+            </location>
+            <activationInt>292</activationInt>
+            <activation>CARRIER</activation>
+            <activation>1750</activation>
+            <activation>CTCSS</activation>
+            <ctcss type="rx">141.3</ctcss>
+            <ctcss type="tx">141.3</ctcss>
+            <link>https://przemienniki.net/przemienniki/70cm/DB0FBG</link>
             <source>manual</source>
         </repeater>
         <repeater>
@@ -52063,11 +52092,12 @@
         <repeater>
             <qra>SR2WE</qra>
             <id>9045655</id>
-            <hash>a07cfa53f043eaf3b2ba3efc228a071b</hash>
-            <updated>2026-07-08 01:00:41</updated>
+            <hash>ef1fcf0ff7fcf97bf967a9e523cdd503</hash>
+            <updated>2026-09-28 13:00:34</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
-            <modeInt>4096</modeInt>
+            <modeInt>4100</modeInt>
+            <mode>FM</mode>
             <mode>C4FM</mode>
             <bandInt>16384</bandInt>
             <band>70CM</band>
@@ -53840,12 +53870,13 @@
             <qra>SR4BA</qra>
             <id>9045804</id>
             <hash>376ff00654fd56b60bb41060625af5c6</hash>
-            <updated>2026-07-05 20:47:24</updated>
+            <updated>2026-09-24 13:45:26</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2028-11-21</licenseExpiryDate>
-            <modeInt>4</modeInt>
+            <modeInt>1028</modeInt>
             <mode>FM</mode>
+            <mode>MOTOTRBO</mode>
             <bandInt>16384</bandInt>
             <band>70CM</band>
             <qrg type="rx">430.9375</qrg>
@@ -53860,6 +53891,38 @@
             <activationInt>256</activationInt>
             <activation>CTCSS</activation>
             <ctcss type="rx">67.0</ctcss>
+            <ctcss type="tx">67.0</ctcss>
+            <trxPower>15</trxPower>
+            <echolink>193045</echolink>
+            <link>https://przemienniki.net/przemienniki/70cm/SR4BA</link>
+            <source>manual</source>
+        </repeater>
+        <repeater>
+            <qra>SR4BA</qra>
+            <id>2009045804</id>
+            <hash>376ff00654fd56b60bb41060625af5c6</hash>
+            <updated>2026-09-24 13:45:26</updated>
+            <statusInt>1</statusInt>
+            <status>WORKING</status>
+            <licenseExpiryDate>2028-11-21</licenseExpiryDate>
+            <modeInt>1028</modeInt>
+            <mode>FM</mode>
+            <mode>MOTOTRBO</mode>
+            <bandInt>16384</bandInt>
+            <band>70CM</band>
+            <qrg type="rx">430.9375</qrg>
+            <qrg type="tx">438.5375</qrg>
+            <country>pl</country>
+            <qth><![CDATA[Bartoszyce]]></qth>
+            <location>
+                <locator>KO04JH</locator>
+                <latitude>54.301463</latitude>
+                <longitude>20.753709</longitude>
+            </location>
+            <activationInt>256</activationInt>
+            <activation>CTCSS</activation>
+            <ctcss type="rx">67.0</ctcss>
+            <ctcss type="tx">67.0</ctcss>
             <trxPower>15</trxPower>
             <echolink>193045</echolink>
             <link>https://przemienniki.net/przemienniki/70cm/SR4BA</link>
@@ -56952,10 +57015,10 @@
         <repeater>
             <qra>SR5RR</qra>
             <id>8996892</id>
-            <hash>7554b32c15afa656e91d0341a680833a</hash>
-            <updated>2026-07-11 13:08:02</updated>
-            <statusInt>2</statusInt>
-            <status>DISABLED</status>
+            <hash>ae009f8844dc92bf705dad336dc1abfc</hash>
+            <updated>2026-09-28 13:01:59</updated>
+            <statusInt>1</statusInt>
+            <status>WORKING</status>
             <licenseExpiryDate>2030-07-28</licenseExpiryDate>
             <modeInt>4</modeInt>
             <mode>FM</mode>
