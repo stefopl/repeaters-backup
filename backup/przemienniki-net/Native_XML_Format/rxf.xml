@@ -2,8 +2,8 @@
 <rxf version="1.0">
     <link rel="self" href="https://przemienniki.net/export/rxf.xml" type="application/xml"/>
     <link>https://przemienniki.net</link>
-    <updated>2026-09-28 13:01:59</updated>
-    <generated>2026-10-05 20:24:41</generated>
+    <updated>2026-10-09 00:13:27</updated>
+    <generated>2026-10-12 20:55:04</generated>
     <generator>przemienniki.net v.0.1.0</generator>
     <dictionary>
         <item>
@@ -51424,7 +51424,7 @@
             <qra>SR2J</qra>
             <id>8663938</id>
             <hash>b741e6cf2cca49f690f1fbd7084bcd23</hash>
-            <updated>2026-06-17 00:37:21</updated>
+            <updated>2026-10-08 11:08:22</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2026-11-16</licenseExpiryDate>
@@ -51901,10 +51901,10 @@
         <repeater>
             <qra>SR2UVF</qra>
             <id>8997029</id>
-            <hash>8c4de8124193bbcf1b74052881e75830</hash>
-            <updated>2026-07-08 01:12:49</updated>
-            <statusInt>1</statusInt>
-            <status>WORKING</status>
+            <hash>7b1076072d1c0a3f10a5f95d0ff82381</hash>
+            <updated>2026-10-08 11:08:48</updated>
+            <statusInt>2</statusInt>
+            <status>DISABLED</status>
             <licenseExpiryDate>2028-02-28</licenseExpiryDate>
             <modeInt>5152</modeInt>
             <mode>DSTAR</mode>
@@ -52092,13 +52092,12 @@
         <repeater>
             <qra>SR2WE</qra>
             <id>9045655</id>
-            <hash>ef1fcf0ff7fcf97bf967a9e523cdd503</hash>
-            <updated>2026-09-28 13:00:34</updated>
+            <hash>5d39fb6157431afd2ec63aeaf443739c</hash>
+            <updated>2026-10-08 11:10:46</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
-            <modeInt>4100</modeInt>
+            <modeInt>4</modeInt>
             <mode>FM</mode>
-            <mode>C4FM</mode>
             <bandInt>16384</bandInt>
             <band>70CM</band>
             <qrg type="rx">431.625</qrg>
@@ -52110,8 +52109,10 @@
                 <latitude>54.590756</latitude>
                 <longitude>18.229030</longitude>
             </location>
-            <activationInt>4</activationInt>
+            <activationInt>260</activationInt>
             <activation>CARRIER</activation>
+            <activation>CTCSS</activation>
+            <ctcss type="tx">94.8</ctcss>
             <trxPower>15</trxPower>
             <link>https://przemienniki.net/przemienniki/70cm/SR2WE</link>
             <source>manual</source>
@@ -54204,6 +54205,32 @@
             <trxPower>10</trxPower>
             <echolink>453582</echolink>
             <link>https://przemienniki.net/przemienniki/2m/SR4D</link>
+            <source>manual</source>
+        </repeater>
+        <repeater>
+            <qra>SR4DB</qra>
+            <id>-15</id>
+            <hash>ce9bb00e015d60317ed7a56d392332f1</hash>
+            <updated>2026-10-09 00:13:27</updated>
+            <statusInt>1</statusInt>
+            <status>WORKING</status>
+            <modeInt>4</modeInt>
+            <mode>FM</mode>
+            <bandInt>16384</bandInt>
+            <band>70CM</band>
+            <qrg type="rx">431.1</qrg>
+            <qrg type="tx">438.7</qrg>
+            <country>pl</country>
+            <qth><![CDATA[Dąbrowa Białostocka]]></qth>
+            <location>
+                <locator>KO13QP</locator>
+                <latitude>53.647743</latitude>
+                <longitude>23.378819</longitude>
+            </location>
+            <activationInt>260</activationInt>
+            <activation>CARRIER</activation>
+            <activation>CTCSS</activation>
+            <link>https://przemienniki.net/przemienniki/70cm/SR4DB</link>
             <source>manual</source>
         </repeater>
         <repeater>
@@ -64998,10 +65025,10 @@
         <repeater>
             <qra>SR9KM</qra>
             <id>9006115</id>
-            <hash>48b01d30440491b37013b784f1f79007</hash>
-            <updated>2026-06-17 00:37:21</updated>
-            <statusInt>1</statusInt>
-            <status>WORKING</status>
+            <hash>90bb384278389de0575cccf5c74a0395</hash>
+            <updated>2026-10-08 11:10:17</updated>
+            <statusInt>2</statusInt>
+            <status>DISABLED</status>
             <licenseExpiryDate>2029-03-11</licenseExpiryDate>
             <modeInt>4</modeInt>
             <mode>FM</mode>
@@ -65139,11 +65166,11 @@
         <repeater>
             <qra>SR9LC</qra>
             <id>8997003</id>
-            <hash>aa435a009113ca95b4575fe6c0d93f59</hash>
-            <updated>2026-07-08 01:00:41</updated>
+            <hash>f23b0ad62e54fe19d0db326486467712</hash>
+            <updated>2026-10-08 11:09:23</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
-            <licenseExpiryDate>2027-11-28</licenseExpiryDate>
+            <licenseExpiryDate>2036-09-07</licenseExpiryDate>
             <modeInt>4100</modeInt>
             <mode>FM</mode>
             <mode>C4FM</mode>
@@ -65151,6 +65178,36 @@
             <band>70CM</band>
             <qrg type="rx">431.1</qrg>
             <qrg type="tx">438.7</qrg>
+            <country>pl</country>
+            <qth><![CDATA[LUBECKO]]></qth>
+            <location>
+                <locator>JO90HQ</locator>
+                <latitude>50.698776</latitude>
+                <longitude>18.642656</longitude>
+            </location>
+            <activationInt>256</activationInt>
+            <activation>CTCSS</activation>
+            <ctcss type="rx">71.9</ctcss>
+            <ctcss type="tx">71.9</ctcss>
+            <trxPower>10</trxPower>
+            <link>https://przemienniki.net/przemienniki/70cm/SR9LC</link>
+            <source>manual</source>
+        </repeater>
+        <repeater>
+            <qra>SR9LC</qra>
+            <id>2008997003</id>
+            <hash>f23b0ad62e54fe19d0db326486467712</hash>
+            <updated>2026-10-08 11:09:23</updated>
+            <statusInt>1</statusInt>
+            <status>WORKING</status>
+            <licenseExpiryDate>2036-09-07</licenseExpiryDate>
+            <modeInt>4100</modeInt>
+            <mode>FM</mode>
+            <mode>C4FM</mode>
+            <bandInt>4096</bandInt>
+            <band>2M</band>
+            <qrg type="rx">145</qrg>
+            <qrg type="tx">145.6</qrg>
             <country>pl</country>
             <qth><![CDATA[LUBECKO]]></qth>
             <location>
@@ -65505,8 +65562,8 @@
         <repeater>
             <qra>SR9P</qra>
             <id>1237838</id>
-            <hash>80e960e6922d74153aa5c5ba1727f28f</hash>
-            <updated>2026-07-05 20:47:24</updated>
+            <hash>f14b6e345c78bcc9b17ae071b52ce608</hash>
+            <updated>2026-10-08 11:09:57</updated>
             <statusInt>2</statusInt>
             <status>DISABLED</status>
             <licenseExpiryDate>2027-06-20</licenseExpiryDate>

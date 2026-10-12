@@ -30532,17 +30532,17 @@ More information: https://przemienniki.net/przemienniki/70cm/SR2W</desc>
  </wpt>
  <wpt lat="54.590756" lon="18.229030">
   <name>SR2WE</name>
-  <cmt>70cm FM+C4FM/Fusion repeater
+  <cmt>70cm FM repeater
 
 QTH: Wejherowo
 Frequency: TX: 439.2250 MHz, RX: 431.6250 MHz
-Activation: nośną
+Activation: nośną,CTCSS ( Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR2WE</cmt>
-  <desc>70cm FM+C4FM/Fusion repeater
+  <desc>70cm FM repeater
 
 QTH: Wejherowo
 Frequency: TX: 439.2250 MHz, RX: 431.6250 MHz
-Activation: nośną
+Activation: nośną,CTCSS ( Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR2WE</desc>
  </wpt>
  <wpt lat="52.665735" lon="19.049512">
@@ -31723,6 +31723,21 @@ QTH: Milki k/Gizycka EMITEL
 Frequency: TX: 145.7875 MHz, RX: 145.1875 MHz
 Activation: CTCSS (67.0 Hz)
 More information: https://przemienniki.net/przemienniki/2m/SR4D</desc>
+ </wpt>
+ <wpt lat="53.647743" lon="23.378819">
+  <name>SR4DB</name>
+  <cmt>70cm FM repeater
+
+QTH: Dąbrowa Białostocka
+Frequency: TX: 438.7000 MHz, RX: 431.1000 MHz
+Activation: nośną,CTCSS ( Hz)
+More information: https://przemienniki.net/przemienniki/70cm/SR4DB</cmt>
+  <desc>70cm FM repeater
+
+QTH: Dąbrowa Białostocka
+Frequency: TX: 438.7000 MHz, RX: 431.1000 MHz
+Activation: nośną,CTCSS ( Hz)
+More information: https://przemienniki.net/przemienniki/70cm/SR4DB</desc>
  </wpt>
  <wpt lat="53.549375" lon="19.940454">
   <name>SR4DG</name>
@@ -37927,6 +37942,21 @@ More information: https://przemienniki.net/przemienniki/70cm/SR9LC</cmt>
 
 QTH: LUBECKO
 Frequency: TX: 438.7000 MHz, RX: 431.1000 MHz
+Activation: CTCSS (71.9 Hz)
+More information: https://przemienniki.net/przemienniki/70cm/SR9LC</desc>
+ </wpt>
+ <wpt lat="50.698776" lon="18.642656">
+  <name>SR9LC</name>
+  <cmt>2m FM+C4FM/Fusion repeater
+
+QTH: LUBECKO
+Frequency: TX: 145.6000 MHz, RX: 145.0000 MHz
+Activation: CTCSS (71.9 Hz)
+More information: https://przemienniki.net/przemienniki/70cm/SR9LC</cmt>
+  <desc>2m FM+C4FM/Fusion repeater
+
+QTH: LUBECKO
+Frequency: TX: 145.6000 MHz, RX: 145.0000 MHz
 Activation: CTCSS (71.9 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR9LC</desc>
  </wpt>

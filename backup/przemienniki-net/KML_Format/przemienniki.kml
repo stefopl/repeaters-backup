@@ -1430,7 +1430,7 @@
      <Point>
       <coordinates>18.229030,54.590756</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />QTH: Wejherowo<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2WE'>https://przemienniki.net/przemienniki/70cm/SR2WE</a>]]></description>
+     <description><![CDATA[70cm FM repeater<br />QTH: Wejherowo<br />Activation: nośną,CTCSS ( Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2WE'>https://przemienniki.net/przemienniki/70cm/SR2WE</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR2WL</name>
@@ -1851,6 +1851,13 @@
       <coordinates>23.125000,53.145833</coordinates>
      </Point>
      <description><![CDATA[70cm C4FM/Fusion repeater<br />QTH: Białystok<br />Activation: nośną<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4C4FM'>https://przemienniki.net/przemienniki/70cm/SR4C4FM</a>]]></description>
+    </Placemark>
+    <Placemark>
+     <name>SR4DB</name>
+     <Point>
+      <coordinates>23.378819,53.647743</coordinates>
+     </Point>
+     <description><![CDATA[70cm FM repeater<br />QTH: Dąbrowa Białostocka<br />Activation: nośną,CTCSS ( Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR4DB'>https://przemienniki.net/przemienniki/70cm/SR4DB</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR4DG</name>
@@ -5060,6 +5067,13 @@
       <coordinates>20.402898,49.704911</coordinates>
      </Point>
      <description><![CDATA[2m FM repeater<br />QTH: Limanowa Lipowe<br />Activation: CTCSS (107.2 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR9L'>https://przemienniki.net/przemienniki/2m/SR9L</a>]]></description>
+    </Placemark>
+    <Placemark>
+     <name>SR9LC</name>
+     <Point>
+      <coordinates>18.642656,50.698776</coordinates>
+     </Point>
+     <description><![CDATA[2m FM+C4FM/Fusion repeater<br />QTH: LUBECKO<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9LC'>https://przemienniki.net/przemienniki/70cm/SR9LC</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9NSC</name>

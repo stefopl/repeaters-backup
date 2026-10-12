@@ -5,8 +5,8 @@
         },
         "https://przemienniki.net"
     ],
-    "updated": "2026-09-28 13:01:59",
-    "generated": "2026-10-05 20:24:41",
+    "updated": "2026-10-09 00:13:27",
+    "generated": "2026-10-12 20:55:04",
     "generator": "przemienniki.net v.0.1.0",
     "dictionary": {
         "item": [
@@ -57161,7 +57161,7 @@
             "qra": "SR2J",
             "id": "8663938",
             "hash": "b741e6cf2cca49f690f1fbd7084bcd23",
-            "updated": "2026-06-17 00:37:21",
+            "updated": "2026-10-08 11:08:22",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2026-11-16",
@@ -57696,10 +57696,10 @@
         "SR2UVF": {
             "qra": "SR2UVF",
             "id": "8997029",
-            "hash": "8c4de8124193bbcf1b74052881e75830",
-            "updated": "2026-07-08 01:12:49",
-            "statusInt": "1",
-            "status": "WORKING",
+            "hash": "7b1076072d1c0a3f10a5f95d0ff82381",
+            "updated": "2026-10-08 11:08:48",
+            "statusInt": "2",
+            "status": "DISABLED",
             "licenseExpiryDate": "2028-02-28",
             "modeInt": "5152",
             "mode": [
@@ -57907,15 +57907,12 @@
         "SR2WE": {
             "qra": "SR2WE",
             "id": "9045655",
-            "hash": "ef1fcf0ff7fcf97bf967a9e523cdd503",
-            "updated": "2026-09-28 13:00:34",
+            "hash": "5d39fb6157431afd2ec63aeaf443739c",
+            "updated": "2026-10-08 11:10:46",
             "statusInt": "1",
             "status": "WORKING",
-            "modeInt": "4100",
-            "mode": [
-                "FM",
-                "C4FM"
-            ],
+            "modeInt": "4",
+            "mode": "FM",
             "bandInt": "16384",
             "band": "70CM",
             "qrg": {
@@ -57929,8 +57926,14 @@
                 "latitude": "54.590756",
                 "longitude": "18.229030"
             },
-            "activationInt": "4",
-            "activation": "CARRIER",
+            "activationInt": "260",
+            "activation": [
+                "CARRIER",
+                "CTCSS"
+            ],
+            "ctcss": {
+                "tx": "94.8"
+            },
             "trxPower": "15",
             "link": "https://przemienniki.net/przemienniki/70cm/SR2WE",
             "source": "manual"
@@ -60283,6 +60286,36 @@
             "trxPower": "10",
             "echolink": "453582",
             "link": "https://przemienniki.net/przemienniki/2m/SR4D",
+            "source": "manual"
+        },
+        "SR4DB": {
+            "qra": "SR4DB",
+            "id": "-15",
+            "hash": "ce9bb00e015d60317ed7a56d392332f1",
+            "updated": "2026-10-09 00:13:27",
+            "statusInt": "1",
+            "status": "WORKING",
+            "modeInt": "4",
+            "mode": "FM",
+            "bandInt": "16384",
+            "band": "70CM",
+            "qrg": {
+                "rx": "431.1",
+                "tx": "438.7"
+            },
+            "country": "pl",
+            "qth": "Dąbrowa Białostocka",
+            "location": {
+                "locator": "KO13QP",
+                "latitude": "53.647743",
+                "longitude": "23.378819"
+            },
+            "activationInt": "260",
+            "activation": [
+                "CARRIER",
+                "CTCSS"
+            ],
+            "link": "https://przemienniki.net/przemienniki/70cm/SR4DB",
             "source": "manual"
         },
         "SR4DG": {
@@ -72447,10 +72480,10 @@
         "SR9KM": {
             "qra": "SR9KM",
             "id": "9006115",
-            "hash": "48b01d30440491b37013b784f1f79007",
-            "updated": "2026-06-17 00:37:21",
-            "statusInt": "1",
-            "status": "WORKING",
+            "hash": "90bb384278389de0575cccf5c74a0395",
+            "updated": "2026-10-08 11:10:17",
+            "statusInt": "2",
+            "status": "DISABLED",
             "licenseExpiryDate": "2029-03-11",
             "modeInt": "4",
             "mode": "FM",
@@ -72606,11 +72639,11 @@
         "SR9LC": {
             "qra": "SR9LC",
             "id": "8997003",
-            "hash": "aa435a009113ca95b4575fe6c0d93f59",
-            "updated": "2026-07-08 01:00:41",
+            "hash": "f23b0ad62e54fe19d0db326486467712",
+            "updated": "2026-10-08 11:09:23",
             "statusInt": "1",
             "status": "WORKING",
-            "licenseExpiryDate": "2027-11-28",
+            "licenseExpiryDate": "2036-09-07",
             "modeInt": "4100",
             "mode": [
                 "FM",
@@ -72621,6 +72654,42 @@
             "qrg": {
                 "rx": "431.1",
                 "tx": "438.7"
+            },
+            "country": "pl",
+            "qth": "LUBECKO",
+            "location": {
+                "locator": "JO90HQ",
+                "latitude": "50.698776",
+                "longitude": "18.642656"
+            },
+            "activationInt": "256",
+            "activation": "CTCSS",
+            "ctcss": {
+                "rx": "71.9",
+                "tx": "71.9"
+            },
+            "trxPower": "10",
+            "link": "https://przemienniki.net/przemienniki/70cm/SR9LC",
+            "source": "manual"
+        },
+        "SR9LC_2": {
+            "qra": "SR9LC",
+            "id": "2008997003",
+            "hash": "f23b0ad62e54fe19d0db326486467712",
+            "updated": "2026-10-08 11:09:23",
+            "statusInt": "1",
+            "status": "WORKING",
+            "licenseExpiryDate": "2036-09-07",
+            "modeInt": "4100",
+            "mode": [
+                "FM",
+                "C4FM"
+            ],
+            "bandInt": "4096",
+            "band": "2M",
+            "qrg": {
+                "rx": "145",
+                "tx": "145.6"
             },
             "country": "pl",
             "qth": "LUBECKO",
@@ -73020,8 +73089,8 @@
         "SR9P": {
             "qra": "SR9P",
             "id": "1237838",
-            "hash": "80e960e6922d74153aa5c5ba1727f28f",
-            "updated": "2026-07-05 20:47:24",
+            "hash": "f14b6e345c78bcc9b17ae071b52ce608",
+            "updated": "2026-10-08 11:09:57",
             "statusInt": "2",
             "status": "DISABLED",
             "licenseExpiryDate": "2027-06-20",
