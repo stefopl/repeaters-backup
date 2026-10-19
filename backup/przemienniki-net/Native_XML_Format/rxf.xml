@@ -2,8 +2,8 @@
 <rxf version="1.0">
     <link rel="self" href="https://przemienniki.net/export/rxf.xml" type="application/xml"/>
     <link>https://przemienniki.net</link>
-    <updated>2026-10-09 00:13:27</updated>
-    <generated>2026-10-12 20:55:04</generated>
+    <updated>2026-10-18 18:50:25</updated>
+    <generated>2026-10-19 18:20:45</generated>
     <generator>przemienniki.net v.0.1.0</generator>
     <dictionary>
         <item>
@@ -49211,10 +49211,10 @@
         <repeater>
             <qra>SR0DN</qra>
             <id>9045732</id>
-            <hash>959c0ae045ec5928cb23d4440a7c35ab</hash>
-            <updated>2026-06-17 00:37:21</updated>
-            <statusInt>32</statusInt>
-            <status>PLANNED</status>
+            <hash>8c43b2088cb2ccd60e422b109235b75d</hash>
+            <updated>2026-10-18 18:50:25</updated>
+            <statusInt>1</statusInt>
+            <status>WORKING</status>
             <modeInt>4</modeInt>
             <mode>FM</mode>
             <bandInt>16384</bandInt>
@@ -65761,10 +65761,10 @@
         <repeater>
             <qra>SR9RP</qra>
             <id>9100018</id>
-            <hash>706ad23430e980d6060958ce7b609181</hash>
-            <updated>2026-09-04 19:56:11</updated>
-            <statusInt>1</statusInt>
-            <status>WORKING</status>
+            <hash>f5ff345abb2d99371fb770c8ac8bde75</hash>
+            <updated>2026-10-18 18:44:37</updated>
+            <statusInt>2</statusInt>
+            <status>DISABLED</status>
             <licenseExpiryDate>2030-06-20</licenseExpiryDate>
             <modeInt>4</modeInt>
             <mode>FM</mode>
