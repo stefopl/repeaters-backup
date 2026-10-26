@@ -451,50 +451,51 @@ Location,Name,Frequency,Duplex,Offset,Tone,rToneFreq,cToneFreq,Mode,TStep,Commen
 579,SR9LC,145.6,-,0.600000,Tone,71.9,71.9,FM,12.5,LUBECKO
 580,SR9LI,438.675,-,7.600000,,88.5,88.5,FM,12.5,Pasierbiec
 581,SR9LK,1298.5,-,28.000000,,88.5,88.5,FM,12.5,"Siercza k/Wieliczki"
-582,SR9NJ,438.7,-,7.600000,Tone,103.5,103.5,FM,12.5,"Krynica Zdroj, Jaworzyna (gorna stacja kolejki gondolowej"
-583,SR9NJ,1298.15,-,28.000000,,88.5,88.5,FM,12.5,"Krynica Zdroj, Jaworzyna (gorna stacja kolejki gondolowej"
-584,SR9NKU,438.3625,-,7.600000,Tone,71.9,71.9,FM,12.5,"Dabrowa Gornicza"
-585,SR9NP,438.9375,-,7.600000,Tone,107.2,107.2,FM,12.5,Przehyba
-586,SR9NS,439.225,-,7.600000,Tone,107.2,107.2,FM,12.5,"Nowy Sacz"
-588,SR9NSK,434.675,+,0.000000,,88.5,88.5,FM,12.5,Skrzyczne
-589,SR9OA,438.75,-,7.600000,Tone,107.2,88.5,FM,12.5,"Wieza widokowa Dabrowa"
-591,SR9OMP,438.9375,-,7.600000,Tone,77.0,77.0,FM,12.5,Cieszyn
-592,SR9P,145.6625,-,0.600000,Tone,103.5,88.5,FM,12.5,"Gora Koskowa POLKOMTEL"
-593,SR9PC,438.85,-,7.600000,Tone,103.5,88.5,FM,12.5,"Gora Koskowa POLKOMTEL"
-594,SR9PJD,431.8,+,7.600000,,88.5,88.5,FM,12.5,Gliwice
-596,SR9PS,439.25,-,7.600000,Tone,67.0,67.0,FM,12.5,Pszow
-597,SR9RAC,439.575,-,7.600000,Tone,67.0,67.0,FM,12.5,Strzybniczek
-599,SR9RP,439.25,-,7.600000,Tone,107.2,107.2,FM,12.5,Wysokie
-600,SR9RR,439.1,-,7.600000,Tone,107.2,107.2,FM,12.5,
-601,SR9RS,439.325,-,7.600000,Tone,107.2,107.2,FM,12.5,
-603,SR9RT,29.66,-,0.100000,Tone,103.5,103.5,FM,12.5,"Mordarka - Lysa Gora 781 m n.p.m. k. Limanowej"
-604,SR9RT,51.99,-,0.600000,Tone,103.5,103.5,FM,12.5,"Mordarka - Lysa Gora 781 m n.p.m. k. Limanowej"
-605,SR9RT,438.6375,-,7.600000,Tone,103.5,103.5,FM,12.5,"Mordarka - Lysa Gora 781 m n.p.m. k. Limanowej"
-606,SR9RT,145.6375,-,0.600000,Tone,103.5,103.5,FM,12.5,"Mordarka - Lysa Gora 781 m n.p.m. (k. Limanowej)"
-607,SR9RT,145.6375,split,145.0375,Tone,103.5,103.5,FM,12.5,"Mordarka - Łysa Góra 781 m n.p.m. (k. Limanowej)"
-608,SR9RU,439.35,-,7.600000,Tone,107.2,107.2,FM,12.5,
-609,SR9SA,439.45,-,7.600000,Tone,67.0,67.0,FM,12.5,"Gora Szyndzielnia, Bielsko-Biala"
-610,SR9SC,438.9625,-,7.600000,Tone,67.0,88.5,FM,12.5,Cieszyn
-611,SR9SE,439.2,-,7.600000,Tone,71.9,88.5,FM,12.5,Bedzin
-612,SR9SEP,430.925,+,7.600000,,88.5,88.5,FM,12.5,Gliwice
-614,SR9SK,439.375,-,7.600000,Tone,67.0,67.0,FM,12.5,Skrzyczne
-616,SR9SS,439.1,-,7.600000,Tone,71.9,71.9,FM,12.5,"Siemianowice Slaskie"
-618,SR9TB,438.775,-,7.600000,Tone,103.5,103.5,FM,12.5,"Gora Wal - Tarnow"
-619,SR9TG,145.6125,-,0.600000,Tone,71.9,71.9,FM,12.5,"Tarnowskie Góry"
-620,SR9TM,438.5125,-,7.600000,Tone,103.5,103.5,FM,12.5,"Pcim - Kudlacze"
-626,SR9UV,439.3375,-,7.600000,,88.5,88.5,DV,12.5,Wlodowice
-628,SR9UVJ,439.5,-,7.600000,,88.5,88.5,DV,12.5,"Jaworzyna Krynicka"
-629,SR9UVJ-B,439.5,-,7.600000,,88.5,88.5,DV,12.5,"Krynica Zdroj - Jaworzyna (gorna stacja kolejki gondolowej)"
-630,SR9UVJ-C,145.7875,-,0.600000,,88.5,88.5,DV,12.5,"Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)"
-634,SR9UVP,439.3625,-,7.600000,,88.5,88.5,DV,12.5,"Gora Koskowa POLKOMTEL"
-635,SR9UVR,439.3,-,7.600000,Tone,94.8,94.8,FM,12.5,"Gliczarow Gorny Maszt OSP"
-637,SR9UVU,439.1625,-,7.600000,,88.5,88.5,DV,12.5,Skrzyczne
-638,SR9UVZ,439.2,-,7.600000,,88.5,88.5,DV,12.5,"Gliczarow Gorny Maszt OSP"
-642,SR9VJP,438.5875,-,7.600000,,88.5,88.5,DV,12.5,MUSZYNA
-643,SR9VO,439.075,-,7.600000,Tone,103.5,103.5,FM,12.5,Tarnow
-645,SR9VVO,439.4375,-,7.600000,,88.5,88.5,DV,12.5,Lichwin
-646,SR9W,145.6,-,0.600000,Tone,103.5,103.5,FM,12.5,"Makowica - Kamionna"
-647,SR9X,145.7,-,0.600000,Tone,94.8,94.8,FM,12.5,"Obiekt Emitel RTON Gubalowka"
-648,SR9Z,145.7375,-,0.600000,Tone,107.2,107.2,FM,12.5,"Przehyba EMITEL"
-650,SR9ZAR,439.5375,-,7.600000,Tone,67.0,67.0,FM,12.5,"Gora Zar"
-651,SR9ZHP,145.2875,+,0.000000,Tone,127.3,127.3,FM,12.5,Będzin
+582,SR9MEZ,145.5875,+,285.900000,Tone,67.0,67.0,FM,12.5,"Kamienica 20"
+583,SR9NJ,438.7,-,7.600000,Tone,103.5,103.5,FM,12.5,"Krynica Zdroj, Jaworzyna (gorna stacja kolejki gondolowej"
+584,SR9NJ,1298.15,-,28.000000,,88.5,88.5,FM,12.5,"Krynica Zdroj, Jaworzyna (gorna stacja kolejki gondolowej"
+585,SR9NKU,438.3625,-,7.600000,Tone,71.9,71.9,FM,12.5,"Dabrowa Gornicza"
+586,SR9NP,438.9375,-,7.600000,Tone,107.2,107.2,FM,12.5,Przehyba
+587,SR9NS,439.225,-,7.600000,Tone,107.2,107.2,FM,12.5,"Nowy Sacz"
+589,SR9NSK,434.675,+,0.000000,,88.5,88.5,FM,12.5,Skrzyczne
+590,SR9OA,438.75,-,7.600000,Tone,107.2,88.5,FM,12.5,"Wieza widokowa Dabrowa"
+592,SR9OMP,438.9375,-,7.600000,Tone,77.0,77.0,FM,12.5,Cieszyn
+593,SR9P,145.6625,-,0.600000,Tone,103.5,88.5,FM,12.5,"Gora Koskowa POLKOMTEL"
+594,SR9PC,438.85,-,7.600000,Tone,103.5,88.5,FM,12.5,"Gora Koskowa POLKOMTEL"
+595,SR9PJD,431.8,+,7.600000,,88.5,88.5,FM,12.5,Gliwice
+597,SR9PS,439.25,-,7.600000,Tone,67.0,67.0,FM,12.5,Pszow
+598,SR9RAC,439.575,-,7.600000,Tone,67.0,67.0,FM,12.5,Strzybniczek
+600,SR9RP,439.25,-,7.600000,Tone,107.2,107.2,FM,12.5,Wysokie
+601,SR9RR,439.1,-,7.600000,Tone,107.2,107.2,FM,12.5,
+602,SR9RS,439.325,-,7.600000,Tone,107.2,107.2,FM,12.5,
+604,SR9RT,29.66,-,0.100000,Tone,103.5,103.5,FM,12.5,"Mordarka - Lysa Gora 781 m n.p.m. k. Limanowej"
+605,SR9RT,51.99,-,0.600000,Tone,103.5,103.5,FM,12.5,"Mordarka - Lysa Gora 781 m n.p.m. k. Limanowej"
+606,SR9RT,438.6375,-,7.600000,Tone,103.5,103.5,FM,12.5,"Mordarka - Lysa Gora 781 m n.p.m. k. Limanowej"
+607,SR9RT,145.6375,-,0.600000,Tone,103.5,103.5,FM,12.5,"Mordarka - Lysa Gora 781 m n.p.m. (k. Limanowej)"
+608,SR9RT,145.6375,split,145.0375,Tone,103.5,103.5,FM,12.5,"Mordarka - Łysa Góra 781 m n.p.m. (k. Limanowej)"
+609,SR9RU,439.35,-,7.600000,Tone,107.2,107.2,FM,12.5,
+610,SR9SA,439.45,-,7.600000,Tone,67.0,67.0,FM,12.5,"Gora Szyndzielnia, Bielsko-Biala"
+611,SR9SC,438.9625,-,7.600000,Tone,67.0,88.5,FM,12.5,Cieszyn
+612,SR9SE,439.2,-,7.600000,Tone,71.9,88.5,FM,12.5,Bedzin
+613,SR9SEP,430.925,+,7.600000,,88.5,88.5,FM,12.5,Gliwice
+615,SR9SK,439.375,-,7.600000,Tone,67.0,67.0,FM,12.5,Skrzyczne
+617,SR9SS,439.1,-,7.600000,Tone,71.9,71.9,FM,12.5,"Siemianowice Slaskie"
+619,SR9TB,438.775,-,7.600000,Tone,103.5,103.5,FM,12.5,"Gora Wal - Tarnow"
+620,SR9TG,145.6125,-,0.600000,Tone,71.9,71.9,FM,12.5,"Tarnowskie Góry"
+621,SR9TM,438.5125,-,7.600000,Tone,103.5,103.5,FM,12.5,"Pcim - Kudlacze"
+627,SR9UV,439.3375,-,7.600000,,88.5,88.5,DV,12.5,Wlodowice
+629,SR9UVJ,439.5,-,7.600000,,88.5,88.5,DV,12.5,"Jaworzyna Krynicka"
+630,SR9UVJ-B,439.5,-,7.600000,,88.5,88.5,DV,12.5,"Krynica Zdroj - Jaworzyna (gorna stacja kolejki gondolowej)"
+631,SR9UVJ-C,145.7875,-,0.600000,,88.5,88.5,DV,12.5,"Krynica Zdrój - Jaworzyna (górna stacja kolejki gondolowej)"
+635,SR9UVP,439.3625,-,7.600000,,88.5,88.5,DV,12.5,"Gora Koskowa POLKOMTEL"
+636,SR9UVR,439.3,-,7.600000,Tone,94.8,94.8,FM,12.5,"Gliczarow Gorny Maszt OSP"
+638,SR9UVU,439.1625,-,7.600000,,88.5,88.5,DV,12.5,Skrzyczne
+639,SR9UVZ,439.2,-,7.600000,,88.5,88.5,DV,12.5,"Gliczarow Gorny Maszt OSP"
+643,SR9VJP,438.5875,-,7.600000,,88.5,88.5,DV,12.5,MUSZYNA
+644,SR9VO,439.075,-,7.600000,Tone,103.5,103.5,FM,12.5,Tarnow
+646,SR9VVO,439.4375,-,7.600000,,88.5,88.5,DV,12.5,Lichwin
+647,SR9W,145.6,-,0.600000,Tone,103.5,103.5,FM,12.5,"Makowica - Kamionna"
+648,SR9X,145.7,-,0.600000,Tone,94.8,94.8,FM,12.5,"Obiekt Emitel RTON Gubalowka"
+649,SR9Z,145.7375,-,0.600000,Tone,107.2,107.2,FM,12.5,"Przehyba EMITEL"
+651,SR9ZAR,439.5375,-,7.600000,Tone,67.0,67.0,FM,12.5,"Gora Zar"
+652,SR9ZHP,145.2875,+,0.000000,Tone,127.3,127.3,FM,12.5,Będzin

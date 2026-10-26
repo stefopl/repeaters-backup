@@ -2,8 +2,8 @@
 <rxf version="1.0">
     <link rel="self" href="https://przemienniki.net/export/rxf.xml" type="application/xml"/>
     <link>https://przemienniki.net</link>
-    <updated>2026-10-18 18:50:25</updated>
-    <generated>2026-10-19 18:20:45</generated>
+    <updated>2026-10-25 14:43:54</updated>
+    <generated>2026-10-26 18:14:50</generated>
     <generator>przemienniki.net v.0.1.0</generator>
     <dictionary>
         <item>
@@ -51340,10 +51340,10 @@
         <repeater>
             <qra>SR2GT</qra>
             <id>8996895</id>
-            <hash>f163d11f394a044b02539e2dcbc34c15</hash>
-            <updated>2026-07-05 20:47:24</updated>
-            <statusInt>1</statusInt>
-            <status>WORKING</status>
+            <hash>bc1ae7382556a5d46b6f3e7576e86e40</hash>
+            <updated>2026-10-25 14:42:28</updated>
+            <statusInt>2</statusInt>
+            <status>DISABLED</status>
             <licenseExpiryDate>2027-02-09</licenseExpiryDate>
             <modeInt>4</modeInt>
             <mode>FM</mode>
@@ -51847,7 +51847,7 @@
             <qra>SR2SWR</qra>
             <id>2442355</id>
             <hash>7789704e9d95930789511df0e6bf8352</hash>
-            <updated>2026-07-06 01:28:03</updated>
+            <updated>2026-10-25 14:42:39</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2028-03-23</licenseExpiryDate>
@@ -63417,7 +63417,7 @@
             <qra>SR8UVC</qra>
             <id>9043542</id>
             <hash>8c4f30938375f011eb3d9026dcdceff2</hash>
-            <updated>2026-08-15 15:55:27</updated>
+            <updated>2026-10-25 14:43:23</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2027-06-15</licenseExpiryDate>
@@ -65279,6 +65279,36 @@
             <source>manual</source>
         </repeater>
         <repeater>
+            <qra>SR9MEZ</qra>
+            <id>-16</id>
+            <hash>0db6a554483c25ddd8ea8fbf87354798</hash>
+            <updated>2026-10-25 14:43:54</updated>
+            <statusInt>8</statusInt>
+            <status>TESTING</status>
+            <licenseExpiryDate>2036-10-16</licenseExpiryDate>
+            <modeInt>36</modeInt>
+            <mode>FM</mode>
+            <mode>DSTAR</mode>
+            <bandInt>4096</bandInt>
+            <band>2M</band>
+            <qrg type="rx">431.4875</qrg>
+            <qrg type="tx">145.5875</qrg>
+            <country>pl</country>
+            <qth><![CDATA[Kamienica 20]]></qth>
+            <location>
+                <locator>KN09EN</locator>
+                <latitude>49.567761</latitude>
+                <longitude>20.357073</longitude>
+            </location>
+            <activationInt>256</activationInt>
+            <activation>CTCSS</activation>
+            <ctcss type="rx">67.0</ctcss>
+            <ctcss type="tx">67.0</ctcss>
+            <trxPower>1</trxPower>
+            <link>https://przemienniki.net/przemienniki/2m/SR9MEZ</link>
+            <source>manual</source>
+        </repeater>
+        <repeater>
             <qra>SR9NJ</qra>
             <id>6610564</id>
             <hash>779ac56869162cc1fd22c626f2ea72da</hash>
@@ -65562,10 +65592,10 @@
         <repeater>
             <qra>SR9P</qra>
             <id>1237838</id>
-            <hash>f14b6e345c78bcc9b17ae071b52ce608</hash>
-            <updated>2026-10-08 11:09:57</updated>
-            <statusInt>2</statusInt>
-            <status>DISABLED</status>
+            <hash>35b69514173cdab49eda021478f80bd3</hash>
+            <updated>2026-10-25 14:42:47</updated>
+            <statusInt>1</statusInt>
+            <status>WORKING</status>
             <licenseExpiryDate>2027-06-20</licenseExpiryDate>
             <modeInt>4</modeInt>
             <mode>FM</mode>

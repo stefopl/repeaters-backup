@@ -30391,14 +30391,14 @@ More information: https://przemienniki.net/przemienniki/70cm/SR2SL</desc>
   <name>SR2SWR</name>
   <cmt>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Torun
 Frequency: TX: 438.7750 MHz, RX: 431.1750 MHz
 Activation: CTCSS (88.5 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR2SWR</cmt>
   <desc>70cm FM repeater
 
-Network: FM-Link
+Network: FM-Poland
 QTH: Torun
 Frequency: TX: 438.7750 MHz, RX: 431.1750 MHz
 Activation: CTCSS (88.5 Hz)
@@ -37991,6 +37991,21 @@ QTH: Siercza k/Wieliczki
 Frequency: TX: 1298.5000 MHz, RX: 1270.5000 MHz
 Activation: nośną
 More information: https://przemienniki.net/przemienniki/23cm/SR9LK</desc>
+ </wpt>
+ <wpt lat="49.567761" lon="20.357073">
+  <name>SR9MEZ</name>
+  <cmt>2m FM+DSTAR/DV repeater
+
+QTH: Kamienica 20
+Frequency: TX: 145.5875 MHz, RX: 431.4875 MHz
+Activation: CTCSS (67.0 Hz)
+More information: https://przemienniki.net/przemienniki/2m/SR9MEZ</cmt>
+  <desc>2m FM+DSTAR/DV repeater
+
+QTH: Kamienica 20
+Frequency: TX: 145.5875 MHz, RX: 431.4875 MHz
+Activation: CTCSS (67.0 Hz)
+More information: https://przemienniki.net/przemienniki/2m/SR9MEZ</desc>
  </wpt>
  <wpt lat="49.417864" lon="20.895578">
   <name>SR9NJ</name>

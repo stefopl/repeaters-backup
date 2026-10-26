@@ -1381,7 +1381,7 @@
      <Point>
       <coordinates>18.601855,53.017158</coordinates>
      </Point>
-     <description><![CDATA[70cm FM repeater<br />Network: FM-Link<br />QTH: Torun<br />Activation: CTCSS (88.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2SWR'>https://przemienniki.net/przemienniki/70cm/SR2SWR</a>]]></description>
+     <description><![CDATA[70cm FM repeater<br />Network: FM-Poland<br />QTH: Torun<br />Activation: CTCSS (88.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR2SWR'>https://przemienniki.net/przemienniki/70cm/SR2SWR</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR2UVF</name>
@@ -5074,6 +5074,13 @@
       <coordinates>18.642656,50.698776</coordinates>
      </Point>
      <description><![CDATA[2m FM+C4FM/Fusion repeater<br />QTH: LUBECKO<br />Activation: CTCSS (71.9 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR9LC'>https://przemienniki.net/przemienniki/70cm/SR9LC</a>]]></description>
+    </Placemark>
+    <Placemark>
+     <name>SR9MEZ</name>
+     <Point>
+      <coordinates>20.357073,49.567761</coordinates>
+     </Point>
+     <description><![CDATA[2m FM+DSTAR/DV repeater<br />QTH: Kamienica 20<br />Activation: CTCSS (67.0 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/2m/SR9MEZ'>https://przemienniki.net/przemienniki/2m/SR9MEZ</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR9NSC</name>

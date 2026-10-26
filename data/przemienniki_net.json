@@ -5,8 +5,8 @@
         },
         "https://przemienniki.net"
     ],
-    "updated": "2026-10-18 18:50:25",
-    "generated": "2026-10-19 18:20:45",
+    "updated": "2026-10-25 14:43:54",
+    "generated": "2026-10-26 18:14:50",
     "generator": "przemienniki.net v.0.1.0",
     "dictionary": {
         "item": [
@@ -57067,10 +57067,10 @@
         "SR2GT": {
             "qra": "SR2GT",
             "id": "8996895",
-            "hash": "f163d11f394a044b02539e2dcbc34c15",
-            "updated": "2026-07-05 20:47:24",
-            "statusInt": "1",
-            "status": "WORKING",
+            "hash": "bc1ae7382556a5d46b6f3e7576e86e40",
+            "updated": "2026-10-25 14:42:28",
+            "statusInt": "2",
+            "status": "DISABLED",
             "licenseExpiryDate": "2027-02-09",
             "modeInt": "4",
             "mode": "FM",
@@ -57636,7 +57636,7 @@
             "qra": "SR2SWR",
             "id": "2442355",
             "hash": "7789704e9d95930789511df0e6bf8352",
-            "updated": "2026-07-06 01:28:03",
+            "updated": "2026-10-25 14:42:39",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2028-03-23",
@@ -70660,7 +70660,7 @@
             "qra": "SR8UVC",
             "id": "9043542",
             "hash": "8c4f30938375f011eb3d9026dcdceff2",
-            "updated": "2026-08-15 15:55:27",
+            "updated": "2026-10-25 14:43:23",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2027-06-15",
@@ -72767,6 +72767,42 @@
             "link": "https://przemienniki.net/przemienniki/23cm/SR9LK",
             "source": "manual"
         },
+        "SR9MEZ": {
+            "qra": "SR9MEZ",
+            "id": "-16",
+            "hash": "0db6a554483c25ddd8ea8fbf87354798",
+            "updated": "2026-10-25 14:43:54",
+            "statusInt": "8",
+            "status": "TESTING",
+            "licenseExpiryDate": "2036-10-16",
+            "modeInt": "36",
+            "mode": [
+                "FM",
+                "DSTAR"
+            ],
+            "bandInt": "4096",
+            "band": "2M",
+            "qrg": {
+                "rx": "431.4875",
+                "tx": "145.5875"
+            },
+            "country": "pl",
+            "qth": "Kamienica 20",
+            "location": {
+                "locator": "KN09EN",
+                "latitude": "49.567761",
+                "longitude": "20.357073"
+            },
+            "activationInt": "256",
+            "activation": "CTCSS",
+            "ctcss": {
+                "rx": "67.0",
+                "tx": "67.0"
+            },
+            "trxPower": "1",
+            "link": "https://przemienniki.net/przemienniki/2m/SR9MEZ",
+            "source": "manual"
+        },
         "SR9NJ": {
             "qra": "SR9NJ",
             "id": "6610564",
@@ -73089,10 +73125,10 @@
         "SR9P": {
             "qra": "SR9P",
             "id": "1237838",
-            "hash": "f14b6e345c78bcc9b17ae071b52ce608",
-            "updated": "2026-10-08 11:09:57",
-            "statusInt": "2",
-            "status": "DISABLED",
+            "hash": "35b69514173cdab49eda021478f80bd3",
+            "updated": "2026-10-25 14:42:47",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2027-06-20",
             "modeInt": "4",
             "mode": "FM",
