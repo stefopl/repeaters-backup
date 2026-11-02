@@ -5,8 +5,8 @@
         },
         "https://przemienniki.net"
     ],
-    "updated": "2026-10-25 14:43:54",
-    "generated": "2026-10-26 18:14:50",
+    "updated": "2026-11-01 13:16:12",
+    "generated": "2026-11-02 21:24:24",
     "generator": "przemienniki.net v.0.1.0",
     "dictionary": {
         "item": [
@@ -55978,14 +55978,15 @@
         "SR1ZS": {
             "qra": "SR1ZS",
             "id": "9100015",
-            "hash": "9ab01eb88750f66a07cee36d1a87cd92",
-            "updated": "2026-07-08 01:00:41",
-            "statusInt": "8",
-            "status": "TESTING",
+            "hash": "b07774489d39b311a2f066b761f338de",
+            "updated": "2026-11-01 13:15:34",
+            "statusInt": "1",
+            "status": "WORKING",
             "licenseExpiryDate": "2030-11-28",
-            "modeInt": "4100",
+            "modeInt": "5124",
             "mode": [
                 "FM",
+                "MOTOTRBO",
                 "C4FM"
             ],
             "bandInt": "16384",
@@ -56001,12 +56002,16 @@
                 "latitude": "53.403960",
                 "longitude": "14.522150"
             },
-            "activationInt": "256",
-            "activation": "CTCSS",
+            "activationInt": "260",
+            "activation": [
+                "CARRIER",
+                "CTCSS"
+            ],
             "ctcss": {
                 "rx": "82.5",
                 "tx": "82.5"
             },
+            "trxPower": "10",
             "link": "https://przemienniki.net/przemienniki/70cm/SR1ZS",
             "source": "manual"
         },
@@ -63757,7 +63762,7 @@
             "qra": "SR5UZQ",
             "id": "9002858",
             "hash": "e29a7b37c805085256276ca2f25a23bd",
-            "updated": "2026-07-06 01:10:22",
+            "updated": "2026-11-01 13:15:06",
             "statusInt": "1",
             "status": "WORKING",
             "licenseExpiryDate": "2030-11-24",
@@ -70939,10 +70944,10 @@
         "SR8Z": {
             "qra": "SR8Z",
             "id": "6612250",
-            "hash": "12c52e793a01906ba8d8fbb80267e80c",
-            "updated": "2026-06-17 00:37:21",
-            "statusInt": "1",
-            "status": "WORKING",
+            "hash": "a582365432e3dea40e92296f961350c9",
+            "updated": "2026-11-01 13:16:12",
+            "statusInt": "2",
+            "status": "DISABLED",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "4096",
@@ -70971,10 +70976,10 @@
         "SR8ZA": {
             "qra": "SR8ZA",
             "id": "4978892",
-            "hash": "3d1e905c43bb50a1966b680e851a508f",
-            "updated": "2026-06-17 00:37:21",
-            "statusInt": "1",
-            "status": "WORKING",
+            "hash": "53c095968965e9142b824996e8aa41a2",
+            "updated": "2026-11-01 13:16:01",
+            "statusInt": "2",
+            "status": "DISABLED",
             "modeInt": "4",
             "mode": "FM",
             "bandInt": "16384",

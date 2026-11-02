@@ -2,8 +2,8 @@
 <rxf version="1.0">
     <link rel="self" href="https://przemienniki.net/export/rxf.xml" type="application/xml"/>
     <link>https://przemienniki.net</link>
-    <updated>2026-10-25 14:43:54</updated>
-    <generated>2026-10-26 18:14:50</generated>
+    <updated>2026-11-01 13:16:12</updated>
+    <generated>2026-11-02 21:24:24</generated>
     <generator>przemienniki.net v.0.1.0</generator>
     <dictionary>
         <item>
@@ -50371,13 +50371,14 @@
         <repeater>
             <qra>SR1ZS</qra>
             <id>9100015</id>
-            <hash>9ab01eb88750f66a07cee36d1a87cd92</hash>
-            <updated>2026-07-08 01:00:41</updated>
-            <statusInt>8</statusInt>
-            <status>TESTING</status>
+            <hash>b07774489d39b311a2f066b761f338de</hash>
+            <updated>2026-11-01 13:15:34</updated>
+            <statusInt>1</statusInt>
+            <status>WORKING</status>
             <licenseExpiryDate>2030-11-28</licenseExpiryDate>
-            <modeInt>4100</modeInt>
+            <modeInt>5124</modeInt>
             <mode>FM</mode>
+            <mode>MOTOTRBO</mode>
             <mode>C4FM</mode>
             <bandInt>16384</bandInt>
             <band>70CM</band>
@@ -50390,10 +50391,12 @@
                 <latitude>53.403960</latitude>
                 <longitude>14.522150</longitude>
             </location>
-            <activationInt>256</activationInt>
+            <activationInt>260</activationInt>
+            <activation>CARRIER</activation>
             <activation>CTCSS</activation>
             <ctcss type="rx">82.5</ctcss>
             <ctcss type="tx">82.5</ctcss>
+            <trxPower>10</trxPower>
             <link>https://przemienniki.net/przemienniki/70cm/SR1ZS</link>
             <source>manual</source>
         </repeater>
@@ -57294,7 +57297,7 @@
             <qra>SR5UZQ</qra>
             <id>9002858</id>
             <hash>e29a7b37c805085256276ca2f25a23bd</hash>
-            <updated>2026-07-06 01:10:22</updated>
+            <updated>2026-11-01 13:15:06</updated>
             <statusInt>1</statusInt>
             <status>WORKING</status>
             <licenseExpiryDate>2030-11-24</licenseExpiryDate>
@@ -63666,10 +63669,10 @@
         <repeater>
             <qra>SR8Z</qra>
             <id>6612250</id>
-            <hash>12c52e793a01906ba8d8fbb80267e80c</hash>
-            <updated>2026-06-17 00:37:21</updated>
-            <statusInt>1</statusInt>
-            <status>WORKING</status>
+            <hash>a582365432e3dea40e92296f961350c9</hash>
+            <updated>2026-11-01 13:16:12</updated>
+            <statusInt>2</statusInt>
+            <status>DISABLED</status>
             <modeInt>4</modeInt>
             <mode>FM</mode>
             <bandInt>4096</bandInt>
@@ -63694,10 +63697,10 @@
         <repeater>
             <qra>SR8ZA</qra>
             <id>4978892</id>
-            <hash>3d1e905c43bb50a1966b680e851a508f</hash>
-            <updated>2026-06-17 00:37:21</updated>
-            <statusInt>1</statusInt>
-            <status>WORKING</status>
+            <hash>53c095968965e9142b824996e8aa41a2</hash>
+            <updated>2026-11-01 13:16:01</updated>
+            <statusInt>2</statusInt>
+            <status>DISABLED</status>
             <modeInt>4</modeInt>
             <mode>FM</mode>
             <bandInt>16384</bandInt>

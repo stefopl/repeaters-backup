@@ -1108,7 +1108,7 @@
      <Point>
       <coordinates>14.522150,53.403960</coordinates>
      </Point>
-     <description><![CDATA[70cm FM+C4FM/Fusion repeater<br />Network: Echolink<br />QTH: Szczecin<br />Activation: CTCSS (82.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1ZS'>https://przemienniki.net/przemienniki/70cm/SR1ZS</a>]]></description>
+     <description><![CDATA[70cm FM+DMR+C4FM/Fusion repeater<br />QTH: Szczecin<br />Activation: nośną,CTCSS (82.5 Hz)<br /><br />More info: <a href='https://przemienniki.net/przemienniki/70cm/SR1ZS'>https://przemienniki.net/przemienniki/70cm/SR1ZS</a>]]></description>
     </Placemark>
     <Placemark>
      <name>SR1ZW</name>

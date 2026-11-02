@@ -29554,19 +29554,17 @@ More information: https://przemienniki.net/przemienniki/70cm/SR1ZK-B</desc>
  </wpt>
  <wpt lat="53.403960" lon="14.522150">
   <name>SR1ZS</name>
-  <cmt>70cm FM+C4FM/Fusion repeater
+  <cmt>70cm FM+DMR+C4FM/Fusion repeater
 
-Network: Echolink
 QTH: Szczecin
 Frequency: TX: 439.0000 MHz, RX: 431.4000 MHz
-Activation: CTCSS (82.5 Hz)
+Activation: nośną,CTCSS (82.5 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR1ZS</cmt>
-  <desc>70cm FM+C4FM/Fusion repeater
+  <desc>70cm FM+DMR+C4FM/Fusion repeater
 
-Network: Echolink
 QTH: Szczecin
 Frequency: TX: 439.0000 MHz, RX: 431.4000 MHz
-Activation: CTCSS (82.5 Hz)
+Activation: nośną,CTCSS (82.5 Hz)
 More information: https://przemienniki.net/przemienniki/70cm/SR1ZS</desc>
  </wpt>
  <wpt lat="53.909511" lon="14.254612">
